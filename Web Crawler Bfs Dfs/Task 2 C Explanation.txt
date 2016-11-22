@@ -1,0 +1,39 @@
+1. Comparison on top 5 links  and number of URLS crawled between BFS and DFS
+DFS
+Depth: 1, Rank: 1, URL: https://en.wikipedia.org/wiki/Sustainable_energy             (Seed Url)
+Depth: 2, Rank: 2, URL: https://en.wikipedia.org/wiki/Passive_solar_building_design  (outlink from seed url)
+Depth: 3, Rank: 3, URL: https://en.wikipedia.org/wiki/Solar_energy                   (outlink from url at Depth 2)
+Depth: 4, Rank: 4, URL: https://en.wikipedia.org/wiki/Solar_Energy_(journal)         (outlink from url at Depth 3)
+Depth: 5, Rank: 5, URL: https://en.wikipedia.org/wiki/Solar_heating                  (outlink from url at Depth 4)
+
+BFS
+Depth: 1, Rank: 1, URL: https://en.wikipedia.org/wiki/Sustainable_energy  (Seed Url)
+----All the below Urls are child links of Seed Url
+Depth: 2, Rank: 2, URL: https://en.wikipedia.org/wiki/Passive_solar_building_design
+Depth: 2, Rank: 3, URL: https://en.wikipedia.org/wiki/Solar_energy
+Depth: 2, Rank: 4, URL: https://en.wikipedia.org/wiki/Solar_heating
+Depth: 2, Rank: 5, URL: https://en.wikipedia.org/wiki/Solar_photovoltaics
+
+BFS Crawled 1000 links
+DFS Crawled 678 links
+The number of links in DFS is less than BFS because in DFS
+top 5 links consist of 1 link from Depth 1, 1 link from Depth 2 ,
+1 link from Depth 3, 1 link from Depth 4 and 1 link from Depth 5
+When we reach Depth 5 (https://en.wikipedia.org/wiki/Solar_heating) since we have reached maximum depth
+the url is marked as crawled
+But we do not gather the links in the page (https://en.wikipedia.org/wiki/Solar_heating).
+Suppose while backtracking in DFS the above url is found again
+at Depth 3 or any other Depth , since the url is marked as crawled
+all the urls in the page (https://en.wikipedia.org/wiki/Solar_heating) are missed out. Hence less links crawled
+
+BFS takes seed url and gather all links in seed url and adds them to queue
+The above process is repeated with remaining items of queue
+So even if a crawled link appears again at another depth, we already have gathered all links in the page
+So we do not miss out on any urls
+Due to this DFS has fewer links than BFS.
+
+
+
+
+
+
