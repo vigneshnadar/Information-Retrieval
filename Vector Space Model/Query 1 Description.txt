@@ -1,0 +1,80 @@
+
+************************************************************************************
+Lucene Results
+1 Q0 Globalwarming 1 0.26481286 LuceneScoring
+1 Q0 Carbondioxideemissions 2 0.23159945 LuceneScoring
+1 Q0 Negativecarbondioxideemission 3 0.22302878 LuceneScoring
+1 Q0 JosephRomm 4 0.2132779 LuceneScoring
+1 Q0 Personalcarbontrading 5 0.17516257 LuceneScoring
+
+Cosine Similarity Score Results
+1 Q0 Globalwarming 1 0.310398648791 VectorSpaceModel
+1 Q0 Climatechangemitigation 2 0.165775238192 VectorSpaceModel
+1 Q0 Carbondioxideemissions 3 0.121144827886 VectorSpaceModel
+1 Q0 Negativecarbondioxideemission 4 0.120456147252 VectorSpaceModel
+1 Q0 Climatechange 5 0.108869451991 VectorSpaceModel
+
+************************************************************************************
+
+Query= "global warming potential"
+STATISTICS AND ANALYSIS:
+Inorder to compare the top 5 results below is an analysis of each term
+Document Name and Term frequency in that document,IDF and Term Weight (TF * IDF)
+
+1. Comparison
+At the end of the doc STATISTICS for TOP 5 Documents in each search engine is displayed
+in both CCSR and LR GlobalWarming is the highest ranked document. This is due to the presence of
+both terms global and warming in high frequencies in that document.
+Similarly 'Negativecarbondioxideemission' and 'Carbondioxideemissions' get high scores in both CSSR and LR
+due to the above reasons.
+Similar logic applies to the other docs in CSSR like 'Climatechangemitigation' and 'Climatechange'.
+The score is very dependent on the term weights of terms in the query for CSSR.
+
+The understanding of the scoring mechanism of Lucene is posted in 'Lucene Scoring Mechanism.txt'
+The summary is as follows
+* Documents containing *all* the search terms are good
+* Matches on rare words are better than for common words
+* Long documents are not as good as short ones
+* Documents which mention the search terms many times are good
+
+Due to the above mentioned reasons 'JosephRomm' and 'Personalcarbontrading'
+end up in the top 5 of Lucene results even query terms do not have high weights in these documents
+
+
+Due to the absence of Boolean model of Information Retrieval
+query boost and other length normalization from CCSR, the order of results between CSSR and LR
+is slight varied. Though the core logic of ranking is similar to an extent. Hence 'GlobalWarming','Carbondioxideemissions'
+and 'Negativecarbondioxideemission' feature in the top 5 of both the scoring mechanisms.
+
+************************************************************************************
+
+TERM: warming
+Document ID-->  TF   IDF   (TF * IDF)
+Globalwarming --> 200   2.04    408.0
+Climatechangemitigation --> 69   2.04    140.76
+JosephRomm --> 45   2.04    91.8
+Climatechange --> 26   2.04    53.04
+Carbondioxideemissions --> 8   2.04    16.32
+Personalcarbontrading --> 7   2.04    14.28
+Negativecarbondioxideemission --> 7   2.04    14.28
+
+TERM: global
+Document ID-->  TF   IDF   (TF * IDF)
+Globalwarming --> 223   0.88    196.24
+Climatechangemitigation --> 131   0.88    115.28
+Climatechange --> 57   0.88    50.16
+JosephRomm --> 56   0.88    49.28
+Personalcarbontrading --> 10   0.88    8.8
+Negativecarbondioxideemission --> 10   0.88    8.8
+Carbondioxideemissions --> 10   0.88    8.8
+
+TERM: potential
+Document ID-->  TF   IDF   (TF * IDF)
+Climatechangemitigation --> 20   1.0    20.0
+Globalwarming --> 9   1.0    9.0
+Climatechange --> 5   1.0    5.0
+Personalcarbontrading --> 4   1.0    4.0
+Negativecarbondioxideemission --> 2   1.0    2.0
+Carbondioxideemissions --> 2   1.0    2.0
+JosephRomm --> 1   1.0    1.0
+

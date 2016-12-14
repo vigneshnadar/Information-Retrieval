@@ -1,0 +1,43 @@
+The factors involved in Lucene's scoring algorithm are as follows:
+
+tf = term frequency in document = measure of how often a term appears in the document
+idf = inverse document frequency = measure of how often the term appears across the index
+coord = number of terms in the query that were found in the document
+lengthNorm = measure of the importance of a term according to the total number of terms in the field
+queryNorm = normalization factor so that queries can be compared
+boost (index) = boost of the field at index-time
+boost (query) = boost of the field at query-time
+
+
+1. tf
+Implementation: sqrt(freq)
+Implication: the more frequent a term occurs in a document, the greater its score
+Rationale: documents which contains more of a term are generally more relevant
+
+2. idf
+Implementation: log(numDocs/(docFreq+1)) + 1
+Implication: the greater the occurrence of a term in different documents, the lower its score
+Rationale: common terms are less important than uncommon ones
+
+3. coord
+Implementation: overlap / maxOverlap
+Implication: of the terms in the query, a document that contains more terms will have a higher score
+Rationale: self-explanatory
+
+4. lengthNorm
+Implementation: 1/sqrt(numTerms)
+Implication: a term matched in fields with less terms have a higher score
+Rationale: a term in a field with less terms is more important than one with more
+
+
+queryNorm is not related to the relevance of the document, but rather tries to make scores between different queries comparable. It is implemented as 1/sqrt(sumOfSquaredWeights)
+
+* Documents containing *all* the search terms are good
+* Matches on rare words are better than for common words
+* Long documents are not as good as short ones
+* Documents which mention the search terms many times are good
+
+
+
+https://lucene.apache.org/core/4_0_0/core/org/apache/lucene/search/similarities/TFIDFSimilarity.html
+Lucene combines Boolean model (BM) of Information Retrieval with Vector Space Model (VSM) of Information Retrieval - documents "approved" by BM are scored by VSM.

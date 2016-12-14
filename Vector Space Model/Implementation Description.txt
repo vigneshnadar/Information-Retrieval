@@ -1,0 +1,14 @@
+;;;;;;;;;;;;;;;;;;;LOGIC OF CODE;;;;;;;;;;;;;;;;;;;;;;;
+
+1) Extract inverted index from HW3
+2) Calculate the weights for each term in each document
+   The formula used for weight calculation is tf.idf
+   where tf= term frequency of term in that document
+         idf= (log (total number of documents)/(no of docs in which the term occurs))
+   for the query term
+   tf= term frequency of term in query
+   idf is same as that of terms in corpus i.e. same as above idf
+3) Once the weights are calculated
+   The Cosine similarity score for each document is calcuated
+4) Documents are sorted as per their score
+   and top 100 docs are written to a file in a particular format

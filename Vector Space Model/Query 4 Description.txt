@@ -1,0 +1,84 @@
+************************************************************************************
+Lucene Results
+4 Q0 Phaseoutofincandescentlightbulbs 1 0.59610176 LuceneScoring
+4 Q0 Incandescentlightbulbs 2 0.3254698 LuceneScoring
+4 Q0 Incandescentlightbulb 3 0.32460648 LuceneScoring
+4 Q0 Energysavinglamp 4 0.31945083 LuceneScoring
+4 Q0 LEDlamp 5 0.22286342 LuceneScoring
+
+
+Cosine Similarity Score Results
+4 Q0 Phaseoutofincandescentlightbulbs 1 0.552635143827 VectorSpaceModel
+4 Q0 Incandescentlightbulbs 2 0.350090283127 VectorSpaceModel
+4 Q0 Incandescentlightbulb 3 0.348887149757 VectorSpaceModel
+4 Q0 LEDlamp 4 0.283185965246 VectorSpaceModel
+4 Q0 LEDlights 5 0.282949340438 VectorSpaceModel
+
+************************************************************************************
+
+Query= "light bulb bulbs alternative alternatives"
+STATISTICS AND ANALYSIS:
+
+
+1. Comparison
+The top 5 documents of both the search engines are similar with the exception of 'Energysavinglamp '
+
+The understanding of the scoring mechanism of Lucene is posted in 'Lucene Scoring Mechanism.txt'
+The summary is as follows
+* Documents containing *all* the search terms are good
+* Matches on rare words are better than for common words
+* Long documents are not as good as short ones
+* Documents which mention the search terms many times are good
+
+Due to the above mentioned reasons 'Energysavinglamp '
+end up in the top 5 of Lucene results even query terms do not have high weights in these documents
+
+
+Due to the absence of Boolean model of Information Retrieval
+query boost and other length normalization from CCSR, the order of results between CSSR and LR
+is slight varied. Though the core logic of ranking is similar to an extent. Hence top 5 of both scoring mechanisms
+are almost similar
+
+
+************************************************************************************
+
+Inorder to compare the top 5 results below is an analysis of each term
+Document Name and Term frequency in that document,IDF and Term Weight (TF * IDF)
+
+TERM: bulbs
+Document ID-->  TF   IDF   (TF * IDF)
+Phaseoutofincandescentlightbulbs --> 153   4.13    631.89
+Incandescentlightbulbs --> 78   4.13    322.14
+Incandescentlightbulb --> 77   4.13    318.01
+LEDlamp --> 34   4.13    140.42
+LEDlights --> 34   4.13    140.42
+Energysavinglamp --> 1   4.13    4.13
+
+TERM: bulb
+Document ID-->  TF   IDF   (TF * IDF)
+Incandescentlightbulbs --> 98   4.54    444.92
+Incandescentlightbulb --> 98   4.54    444.92
+Phaseoutofincandescentlightbulbs --> 35   4.54    158.9
+LEDlamp --> 30   4.54    136.2
+LEDlights --> 30   4.54    136.2
+Energysavinglamp --> 1   4.54    4.54
+TERM: alternative
+Document ID-->  TF   IDF   (TF * IDF)
+Phaseoutofincandescentlightbulbs --> 5   1.25    6.25
+
+TERM: light
+Document ID-->  TF   IDF   (TF * IDF)
+Incandescentlightbulbs --> 173   1.36    235.28
+Incandescentlightbulb --> 172   1.36    233.92
+Phaseoutofincandescentlightbulbs --> 126   1.36    171.36
+LEDlamp --> 114   1.36    155.04
+LEDlights --> 114   1.36    155.04
+Energysavinglamp --> 3   1.36    4.08
+
+TERM: alternatives
+Document ID-->  TF   IDF   (TF * IDF)
+Phaseoutofincandescentlightbulbs --> 5   2.9    14.5
+Incandescentlightbulb --> 2   2.9    5.8
+Incandescentlightbulbs --> 2   2.9    5.8
+
+************************************************************************************

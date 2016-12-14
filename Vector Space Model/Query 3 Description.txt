@@ -1,0 +1,92 @@
+************************************************************************************
+Lucene Results (LR)
+3 Q0 NevadaSolarOne 1 0.34955767 LuceneScoring
+3 Q0 Solarpower 2 0.31716427 LuceneScoring
+3 Q0 SolarEnergyGeneratingSystems 3 0.31288457 LuceneScoring
+3 Q0 NellisSolarPowerPlant 4 0.2860756 LuceneScoring
+3 Q0 Solarenergy 5 0.28325167 LuceneScoring
+
+Cosine Similarity Score Results  (CSSR)
+3 Q0 California 1 0.49553780133 VectorSpaceModel
+3 Q0 Solarenergy 2 0.341666288464 VectorSpaceModel
+3 Q0 Solarpower 3 0.330617344978 VectorSpaceModel
+3 Q0 Photovoltaicpowerstations 4 0.27486864795 VectorSpaceModel
+3 Q0 Solarthermal 5 0.246475746483 VectorSpaceModel
+
+************************************************************************************
+
+Abbreviations:
+Lucene Results (LR)
+Cosine Similarity Score Results  (CSSR)
+
+Query= "solar energy california"
+STATISTICS AND ANALYSIS:
+Inorder to compare the top 5 results below is an analysis of each term
+Document Name and Term frequency in that document,IDF and Term Weight (TF * IDF)
+
+1. Comparison
+At the end of the doc STATISTICS for TOP 5 Documents in each search engine is displayed
+in CSSR California is the highest ranked document due the extremely high
+term frequency of the term california. It has the maximum tf.idf weight. Hence the highest score.
+Solar energy has high weights for both terms solar and energy.Hence ranked second.
+Similar logic applies to the other docs in CSSR.
+The score is very dependent on the term weights of terms in the query.
+
+The understanding of the scoring mechanism of Lucene is posted in 'Lucene Scoring Mechanism.txt'
+The summary is as follows
+* Documents containing *all* the search terms are good
+* Matches on rare words are better than for common words
+* Long documents are not as good as short ones
+* Documents which mention the search terms many times are good
+
+Since NevadaSolarOne contains all query terms and is a short document.
+It is the top ranked document for Lucene.
+SolarPower also contains all search terms in high frequencies
+and doc length is longer compared to NevadaSolarOne but shorter compared to other documents.
+Similar logic applies to other scored documents.
+
+Due to the absence of Boolean model of Information Retrieval
+query boost and other length normalization from CCSR, the order of results between CSSR and LR
+is slight varied. Though the core logic of ranking is similar to an extent. Hence 'SolarPower'
+and 'SolarEnergy' feature in the top 5 of both the scoring mechanisms.
+
+************************************************************************************
+
+TERM: energy
+Document ID-->  TF   IDF   (TF * IDF)
+Solarenergy --> 194   0.17    32.98
+Solarpower --> 161   0.17    27.37
+Solarthermal --> 107   0.17    18.19
+Photovoltaicpowerstations --> 85   0.17    14.45
+SolarEnergyGeneratingSystems --> 36   0.17    6.12
+NevadaSolarOne --> 23   0.17    3.91
+NellisSolarPowerPlant --> 20   0.17    3.4
+California --> 14   0.17    2.38
+
+TERM: california
+Document ID-->  TF   IDF   (TF * IDF)
+California --> 507   1.62    821.34
+Solarpower --> 24   1.62    38.88
+Solarthermal --> 14   1.62    22.68
+SolarEnergyGeneratingSystems --> 13   1.62    21.06
+Photovoltaicpowerstations --> 7   1.62    11.34
+NevadaSolarOne --> 6   1.62    9.72
+Solarenergy --> 4   1.62    6.48
+NellisSolarPowerPlant --> 3   1.62    4.86
+
+TERM: solar
+Document ID-->  TF   IDF   (TF * IDF)
+Solarenergy --> 423   0.97    410.31
+Solarpower --> 399   0.97    387.03
+Photovoltaicpowerstations --> 374   0.97    362.78
+Solarthermal --> 277   0.97    268.69
+NevadaSolarOne --> 83   0.97    80.51
+SolarEnergyGeneratingSystems --> 64   0.97    62.08
+NellisSolarPowerPlant --> 62   0.97    60.14
+California --> 3   0.97    2.91
+
+
+
+
+
+************************************************************************************

@@ -1,0 +1,96 @@
+************************************************************************************
+Lucene Results
+2 Q0 Renewableenergypayments 1 0.38360336 LuceneScoring
+2 Q0 RenewableEnergyCertificate 2 0.35871583 LuceneScoring
+2 Q0 RenewableEnergyCertificates 3 0.35871583 LuceneScoring
+2 Q0 3Degrees 4 0.33216095 LuceneScoring
+2 Q0 RenewableenergyinIndia 5 0.32695875 LuceneScoring
+
+Cosine Similarity Score Results
+2 Q0 Cleanenergy 1 0.231084246529 VectorSpaceModel
+2 Q0 Sustainableenergy 2 0.231083228281 VectorSpaceModel
+2 Q0 Renewableenergypolicy 3 0.199162700985 VectorSpaceModel
+2 Q0 Renewableenergycommercialization 4 0.198620290555 VectorSpaceModel
+2 Q0 Greeneconomy 5 0.193714562641 VectorSpaceModel
+
+
+************************************************************************************
+
+Query= "green power renewable energy"
+STATISTICS AND ANALYSIS:
+
+1. Comparison
+At the end of the doc STATISTICS for TOP 5 Documents in each search engine is displayed
+in CSSR the docs which have high tf.idf weights are ranked higher.
+
+The understanding of the scoring mechanism of Lucene is posted in 'Lucene Scoring Mechanism.txt'
+The summary is as follows
+* Documents containing *all* the search terms are good
+* Matches on rare words are better than for common words
+* Long documents are not as good as short ones
+* Documents which mention the search terms many times are good
+
+Due to the above mentioned reasons 'Renewableenergypayments','RenewableEnergyCertificates' and 'RenewableEnergyCertificate'
+end up in the top 5 of Lucene results even query terms do not have high weights in these documents
+
+
+Due to the absence of Boolean model of Information Retrieval
+query boost and other length normalization from CCSR, the order of results between CSSR and LR
+is slight varied. Though the core logic of ranking is similar to an extent. Hence the top 50 of both mechanisms usually consists of similar
+documents in different order
+
+************************************************************************************
+
+Inorder to compare the top 5 results below is an analysis of each term
+Document Name and Term frequency in that document,IDF and Term Weight (TF * IDF)
+
+TERM: energy
+Document ID-->  TF   IDF   (TF * IDF)
+Renewableenergypolicy --> 431   0.17    73.27
+Renewableenergycommercialization --> 430   0.17    73.1
+Cleanenergy --> 429   0.17    72.93
+Sustainableenergy --> 428   0.17    72.76
+RenewableEnergyCertificates --> 72   0.17    12.24
+RenewableEnergyCertificate --> 72   0.17    12.24
+RenewableenergyinIndia --> 64   0.17    10.88
+Renewableenergypayments --> 29   0.17    4.93
+Greeneconomy --> 27   0.17    4.59
+
+
+TERM: renewable
+Document ID-->  TF   IDF   (TF * IDF)
+Renewableenergypolicy --> 204   0.64    130.56
+Renewableenergycommercialization --> 203   0.64    129.92
+Sustainableenergy --> 111   0.64    71.04
+Cleanenergy --> 111   0.64    71.04
+RenewableEnergyCertificates --> 69   0.64    44.16
+RenewableEnergyCertificate --> 69   0.64    44.16
+RenewableenergyinIndia --> 48   0.64    30.72
+Renewableenergypayments --> 25   0.64    16.0
+Greeneconomy --> 9   0.64    5.76
+
+TERM: power
+Document ID-->  TF   IDF   (TF * IDF)
+Renewableenergypolicy --> 177   0.47    83.19
+Renewableenergycommercialization --> 177   0.47    83.19
+Cleanenergy --> 170   0.47    79.9
+Sustainableenergy --> 170   0.47    79.9
+RenewableenergyinIndia --> 87   0.47    40.89
+RenewableEnergyCertificates --> 32   0.47    15.04
+RenewableEnergyCertificate --> 32   0.47    15.04
+Renewableenergypayments --> 12   0.47    5.64
+Greeneconomy --> 3   0.47    1.41
+
+TERM: green
+Document ID-->  TF   IDF   (TF * IDF)
+Greeneconomy --> 109   0.77    83.93
+Cleanenergy --> 82   0.77    63.14
+Sustainableenergy --> 82   0.77    63.14
+RenewableEnergyCertificates --> 19   0.77    14.63
+RenewableEnergyCertificate --> 19   0.77    14.63
+Renewableenergypolicy --> 16   0.77    12.32
+Renewableenergycommercialization --> 16   0.77    12.32
+RenewableenergyinIndia --> 3   0.77    2.31
+Renewableenergypayments --> 1   0.77    0.77
+
+************************************************************************************
