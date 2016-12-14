@@ -1,0 +1,57 @@
+Graph G1 Top 5 by Page Rank
+1)    Main_Page : 0.103589685492
+2)    Brazil : 0.048186633466
+3)    Integrated_Authority_File : 0.030939264126
+4)    Digital_object_identifier : 0.023187963280
+5)    International_Standard_Book_Number : 0.021083919886
+
+Graph G1 Top 5 by Inlink Count
+1)    Main_Page: 999
+2)    International_Standard_Book_Number: 474
+3)    Digital_object_identifier: 449
+4)    Renewable_energy: 419
+5)    Efficient_energy_use: 281
+
+Graph G2 Top 5 by Page Rank
+1)    WT21-B37-76 : 0.002679410058
+2)    WT21-B37-75 : 0.001525916994
+3)    WT25-B39-116 : 0.001469493526
+4)    WT23-B21-53 : 0.001372322044
+5)    WT24-B40-171 : 0.001245071757
+
+
+Graph G2 Top 5 by Inlink Count
+1)    WT21-B37-76: 2568
+2)    WT18-B29-37: 2269
+3)    WT01-B18-225: 2260
+4)    WT23-B27-29: 1940
+5)    WT21-B37-75: 1704
+
+Explanation:
+
+One of the major factors that contribute to Page Rank is a high number of inlinks
+Hence pages with high number of inlinks have high Page Rank.
+Hence we see that due to extremely high number of inlinks docID WT21-B37-76
+is the highest ranked page. WT21-B37-75 is the second highest ranked page with no of inlinks=1704
+But now we see a different pattern WT25-B39-116 has a lesser inlink count than WT24-B40-171 and WT23-B21-53
+But it has has a higher rank than both of them. Thus the Inlink count alone is not a factor for deciding page ranks
+The quality of the Inlinks also contribute to the Page Rank of a page.
+
+ As per the algorithm
+for eachpage q in M(p) /* pages pointing to p */
+   newPR(p) += d*PR(q)/L(q)	 /*	 add	 share	 of	 PageRank	 from	 in-­‐links	 */
+
+ Thus we can see that if the Inlinks have a higher PageRank and less number of outlinks
+ they can provide a boost to the page rank of the page they are pointing to.
+ Due to the above reason WT25-B39-116 has a higher Page Rank than WT23-B21-53
+ and WT24-B40-171 inspite of having less inlink count. The inlinks that WT25-B39-116
+ has are high quality inlinks wit HIGH PAGE rank and less outlinks. Hence they boost the page rank of WT25-B39-116
+
+
+ Similarly for Graph G1 Main Page has high number of Inlinks hence Rank 1.
+ Brazil has less inlink count compared to others but still it has higher Page rank because
+ its inlinks have high page rank and less outlinks.
+
+
+
+

@@ -1,0 +1,30 @@
+GRAPH G1
+a) Proportion of pages with no-inlinks (sources)
+= (Number of pages with no-inlinks)/ (Number of Pages)
+=0/1000
+=0
+In the set of the 1000 urls considered all the urls have some inlinks.
+Hence the proportion of pages with no-inlinks is 0
+
+
+b) Proportion of pages with no-outlinks (sinks)
+= (Number of pages with no-outlinks)/ (Number of Pages)
+=2/1000
+=0.002
+In the set of the 1000 urls considered 2 urls dont have any outlinks
+Hence the proportion of pages with no outlinks-inlinks is 0.002
+
+
+GRAPH G2
+a) Proportion of pages with no-inlinks (sources)
+= (Number of pages with no-inlinks)/ (Number of Pages)
+=14350/183811
+=0.078069
+In the set of the 183811 urls considered, the proportion of pages with no-inlinks is 0.078069
+
+
+b) Proportion of pages with no-outlinks (sinks)
+= (Number of pages with no-outlinks)/ (Number of Pages)
+=66175/183811
+=0.3600
+In the set of the 183811 urls considered, the proportion of pages with outlinks-inlinks is 0.3600

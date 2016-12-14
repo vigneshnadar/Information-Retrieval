@@ -1,0 +1,13 @@
+Iteration Count: 1 , Perplexity: 545.554406143605
+Iteration Count: 2 , Perplexity: 449.687739591669
+Iteration Count: 3 , Perplexity: 402.420166207755
+Iteration Count: 4 , Perplexity: 377.685902995659
+Iteration Count: 5 , Perplexity: 363.296819338978
+Iteration Count: 6 , Perplexity: 354.601843757776
+Iteration Count: 7 , Perplexity: 349.217795706567
+Iteration Count: 8 , Perplexity: 345.820382658341
+Iteration Count: 9 , Perplexity: 343.641683266818
+Iteration Count: 10 , Perplexity: 342.225780034883
+Iteration Count: 11 , Perplexity: 341.296062087500
+Iteration Count: 12 , Perplexity: 340.680960836772
+Iteration Count: 13 , Perplexity: 340.271833293428
