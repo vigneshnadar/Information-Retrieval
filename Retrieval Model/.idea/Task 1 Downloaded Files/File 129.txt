@@ -1,0 +1,1924 @@
+https://en.wikipedia.org/wiki/Drake_Landing_Solar_Community
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Drake Landing Solar Community - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Drake_Landing_Solar_Community","wgTitle":"Drake Landing Solar Community","wgCurRevisionId":736087816,"wgRevisionId":736087816,"wgArticleId":12294713,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Coordinates on Wikidata","Scientific organizations based in Canada","Okotoks","Energy storage","Energy conservation","Sustainable building","Sustainable development","Sustainable environmental design","Residential heating","Solar thermal energy","Solar design"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Drake_Landing_Solar_Community","wgRelevantArticleId":12294713,"wgRequestId":"WCAAzgpAAD4AAMQOEGkAAACR","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":50.73095,"lon":-113.95029},"wgWikibaseItemId":"Q5305610","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Drake_Landing_Solar_Community" rel="alternate"/>
+  <link href="/w/index.php?title=Drake_Landing_Solar_Community&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Drake_Landing_Solar_Community&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Drake_Landing_Solar_Community" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Drake_Landing_Solar_Community rootpage-Drake_Landing_Solar_Community skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Drake Landing Solar Community
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <p>
+      The
+      <b>
+       Drake Landing Solar Community
+      </b>
+      (DLSC) is a
+      <a href="/wiki/Planned_community" title="Planned community">
+       planned community
+      </a>
+      in
+      <a href="/wiki/Okotoks" title="Okotoks">
+       Okotoks
+      </a>
+      ,
+      <a href="/wiki/Alberta" title="Alberta">
+       Alberta
+      </a>
+      ,
+      <a href="/wiki/Canada" title="Canada">
+       Canada
+      </a>
+      , equipped with a
+      <a href="/wiki/Central_solar_heating" title="Central solar heating">
+       central solar heating
+      </a>
+      system and other energy efficient technology. This heating system is the first of its kind in North America, although much larger systems have been built in northern Europe. The 52 homes in the community are heated with a solar district heating system that is charged with heat originating from solar collectors on the garage roofs and is enabled for year-round heating by underground
+      <a href="/wiki/Seasonal_thermal_energy_storage" title="Seasonal thermal energy storage">
+       seasonal thermal energy storage
+      </a>
+      (STES).
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+     </p>
+     <p>
+      The system was designed to model a way of addressing
+      <a href="/wiki/Global_warming" title="Global warming">
+       global warming
+      </a>
+      and the burning of
+      <a class="mw-redirect" href="/wiki/Fossil_fuels" title="Fossil fuels">
+       fossil fuels
+      </a>
+      . The solar energy is captured by 800
+      <a href="/wiki/Solar_thermal_collector" title="Solar thermal collector">
+       solar thermal collectors
+      </a>
+      <sup class="reference" id="cite_ref-2">
+       <a href="#cite_note-2">
+        [2]
+       </a>
+      </sup>
+      located on the roofs of all 52 houses.
+      <sup class="reference" id="cite_ref-3">
+       <a href="#cite_note-3">
+        [3]
+       </a>
+      </sup>
+      It is billed as the first solar powered subdivision in
+      <a href="/wiki/North_America" title="North America">
+       North America
+      </a>
+      ,
+      <sup class="reference" id="cite_ref-4">
+       <a href="#cite_note-4">
+        [4]
+       </a>
+      </sup>
+      although its electricity and transportation needs are provided by conventional sources.
+     </p>
+     <p>
+      In 2012 the installation achieved a world record solar fraction of 97%; that is, providing that amount of the community's heating requirements with solar energy over a one-year time span.
+      <sup class="reference" id="cite_ref-5">
+       <a href="#cite_note-5">
+        [5]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-6">
+       <a href="#cite_note-6">
+        [6]
+       </a>
+      </sup>
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#How_it_works">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          How it works
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#Energy_centre">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Energy centre
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#Borehole_thermal_energy_system">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          Borehole thermal energy system
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-4">
+        <a href="#Sponsors_and_partners">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          Sponsors and partners
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-5">
+        <a href="#Community_members">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          Community members
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-6">
+        <a href="#Local_sustainability">
+         <span class="tocnumber">
+          6
+         </span>
+         <span class="toctext">
+          Local sustainability
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-7">
+        <a href="#Costs_and_financing">
+         <span class="tocnumber">
+          7
+         </span>
+         <span class="toctext">
+          Costs and financing
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-8">
+        <a href="#International_effects">
+         <span class="tocnumber">
+          8
+         </span>
+         <span class="toctext">
+          International effects
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-9">
+        <a href="#Current_status">
+         <span class="tocnumber">
+          9
+         </span>
+         <span class="toctext">
+          Current status
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-10">
+        <a href="#See_also">
+         <span class="tocnumber">
+          10
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-11">
+        <a href="#References">
+         <span class="tocnumber">
+          11
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-12">
+        <a href="#External_links">
+         <span class="tocnumber">
+          12
+         </span>
+         <span class="toctext">
+          External links
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="How_it_works">
+       How it works
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Drake_Landing_Solar_Community&amp;action=edit&amp;section=1" title="Edit section: How it works">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      There are 52 homes in this subdivision that contain an array of 800 solar thermal collectors. These solar collectors are arranged on the roofs of garages located behind the homes. During a typical summer day these collectors can generate 1.5 mega-
+      <a href="/wiki/Watt" title="Watt">
+       watts
+      </a>
+      of
+      <a href="/wiki/Solar_water_heating" title="Solar water heating">
+       thermal power
+      </a>
+      . A
+      <a class="mw-redirect" href="/wiki/Glycol" title="Glycol">
+       glycol
+      </a>
+      solution (an anti-freeze solution; a mixture of water and non-toxic glycol) is heated by the sun’s energy and travels through insulated piping underground through a trench system to the
+      <a href="/wiki/Heat_exchanger" title="Heat exchanger">
+       heat exchanger
+      </a>
+      within the community’s Energy Centre. This is known as the Solar Collector Loop. The glycol solution then transfers its heat to water located in the short-term storage tanks. The District Heating Loop begins with water being heated in the heat exchanger to a temperature of 40-50 °C within the Energy Centre. This lower temperature is more energy efficient, as solar collecting is more compatible with lower temperatures. This increases the total amount of heat available to each home.
+     </p>
+     <p>
+      In the warmer months the previously heated water is taken from the short-term storage tank to the Borehole Thermal Energy Storage (BTES). The Borehole Thermal Energy Storage unit is 144 holes located 37 m (121 ft) below the ground and stretches over an approximate area of 35 m (115 ft) in diameter. The water returns to the short-term storage tanks in the Energy Centre to be heated again in order to complete the circuit. During colder months the water from the BTES passes back to the short-term storage tank and is then directed to each home. Similar to a
+      <a href="/wiki/Hot_water_storage_tank" title="Hot water storage tank">
+       hot water tank
+      </a>
+      , the heated water goes through a heat exchanger that blows air across the warm fan coil. Heat travels from the water to the air and is directed through the house via ductwork. When the temperature reaches that said on the thermostat, an automatic valve shuts off the heat transfer unit.
+      <sup class="reference" id="cite_ref-dlsc_7-0">
+       <a href="#cite_note-dlsc-7">
+        [7]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Energy_centre">
+       Energy centre
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Drake_Landing_Solar_Community&amp;action=edit&amp;section=2" title="Edit section: Energy centre">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The Energy Centre building is a 232 square metre (2,500 square feet) building located in the corner of the community. It is home to the short-term storage tanks and most mechanical equipment such as pumps, heat exchangers, and controls. The Solar Collector Loop, the District Heating Loop, and the Borehole Thermal Energy Storage Loop pass through the Energy Centre. Two horizontal water tanks occupy the majority of the space within the Energy Centre. These tanks are 12 ft (3.7 m) in diameter and 36 ft (11 m) in length. The remaining space within the Energy Centre houses pumps, valves, heat exchangers and other necessary equipment to operate and control the energy system. These tanks are known as
+      <a href="/wiki/Energy_storage#Short-term_thermal_storage.2C_as_heat_or_cold" title="Energy storage">
+       Short-Term Thermal Storage
+      </a>
+      (STTS).
+      <sup class="reference" id="cite_ref-dlsc_7-1">
+       <a href="#cite_note-dlsc-7">
+        [7]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Borehole_thermal_energy_system">
+       Borehole thermal energy system
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Drake_Landing_Solar_Community&amp;action=edit&amp;section=3" title="Edit section: Borehole thermal energy system">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The Borehole Thermal Energy System is located underground to store large quantities of heat collected in the summer to be used in the winter. It consists of 144
+      <a class="mw-redirect" href="/wiki/Boreholes" title="Boreholes">
+       boreholes
+      </a>
+      , which stretch to a depth of 37 m (121 ft). At the surface the pipes are joined together in groups of six to connect to the Energy Centre. The entire BTES is covered by a layer of insulation, on top of which a park is built. When the heated water is to be stored, it is pumped through the pipe series. The heat is then transferred to the surrounding soil as the water cools and returns to the Energy Centre. When the homes need heat, water flows to the centre of the BTES field and picks up the heat from the surrounding soil. The heated water then goes to the short-term energy tank in the Energy Centre and is pumped through the District Heating Loop to the homes.
+      <sup class="reference" id="cite_ref-dlsc_7-2">
+       <a href="#cite_note-dlsc-7">
+        [7]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Sponsors_and_partners">
+       Sponsors and partners
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Drake_Landing_Solar_Community&amp;action=edit&amp;section=4" title="Edit section: Sponsors and partners">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      This project was conceived by
+      <a href="/wiki/Natural_Resources_Canada" title="Natural Resources Canada">
+       Natural Resources Canada
+      </a>
+      ’s CanmetENERGY in partnership with governmental organizations and Canadian industries. Of the $7 million needed for this project this was the breakdown of funds:
+     </p>
+     <ul>
+      <li>
+       $2 million from federal government agencies.
+      </li>
+      <li>
+       $2.9 million from the
+       <a href="/wiki/Federation_of_Canadian_Municipalities" title="Federation of Canadian Municipalities">
+        Federation of Canadian Municipalities
+       </a>
+       and Green Municipal Investment Fund.
+      </li>
+      <li>
+       $625,000 from the Alberta Government.
+       <sup class="reference" id="cite_ref-8">
+        <a href="#cite_note-8">
+         [8]
+        </a>
+       </sup>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="Community_members">
+       Community members
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Drake_Landing_Solar_Community&amp;action=edit&amp;section=5" title="Edit section: Community members">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      Homeowners were willing to pay for these energy efficient homes because it ensured high quality construction. Until the solar heating system began working,
+      <a href="/wiki/ATCO" title="ATCO">
+       ATCO
+      </a>
+      Gas (an Alberta-based natural gas distribution company) fixed heating costs at $60 per month for the homeowners at the Drake Landing Solar Community. With rising fuel costs, this was a powerful incentive for homeowners to support the DLSC project. Even if the project had failed, ATCO Gas would have replaced the special hot-water furnaces with traditional natural gas ones. There was limited risk to the homeowners and this encouraged them to support the project.
+      <sup class="reference" id="cite_ref-9">
+       <a href="#cite_note-9">
+        [9]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Local_sustainability">
+       Local sustainability
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Drake_Landing_Solar_Community&amp;action=edit&amp;section=6" title="Edit section: Local sustainability">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The 52 homes in Drake Landing Solar Community are certified to Natural Resource Canada’s
+      <a href="/wiki/R-2000_program" title="R-2000 program">
+       R-2000
+      </a>
+      Standard as well as the Built Green™ Alberta Gold Standard.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Costs_and_financing">
+       Costs and financing
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Drake_Landing_Solar_Community&amp;action=edit&amp;section=7" title="Edit section: Costs and financing">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       Each house sold for an average of $380,000.
+      </li>
+      <li>
+       Homeowners are receiving an average of $60 per month solar utility bill for heating.
+      </li>
+      <li>
+       $7 million for the initial start up of the Drake Landing Solar Community project.
+      </li>
+      <li>
+       If this project were repeated it would cost $4 million, as approximately $3 million was for one-time research and development.
+      </li>
+      <li>
+       Optimal community size would be 200-300 homes to realize the economies of scale. The number of systems would remain the same; only the number of boreholes would need to increase.
+       <sup class="reference" id="cite_ref-10">
+        <a href="#cite_note-10">
+         [10]
+        </a>
+       </sup>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="International_effects">
+       International effects
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Drake_Landing_Solar_Community&amp;action=edit&amp;section=8" title="Edit section: International effects">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      A group of researchers from South Korea visited Drake Landing Solar Community in April 2012 to study the geothermal heating technology and how it can be applied to communities in South Korea, particularly ahead of the
+      <a href="/wiki/2018_Winter_Olympics" title="2018 Winter Olympics">
+       2018 Winter Olympics
+      </a>
+      in
+      <a href="/wiki/Pyeongchang_County" title="Pyeongchang County">
+       Pyeongchang
+      </a>
+      . The main focus of this research trip was to learn about the economics and reliability of the technology.
+      <sup class="reference" id="cite_ref-westernwheel_11-0">
+       <a href="#cite_note-westernwheel-11">
+        [11]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Current_status">
+       Current status
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Drake_Landing_Solar_Community&amp;action=edit&amp;section=9" title="Edit section: Current status">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      On October 5, 2012 the DLSC set a new world record by covering 97% of space heating needs with solar thermal energy.
+      <sup class="reference" id="cite_ref-12">
+       <a href="#cite_note-12">
+        [12]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Drake_Landing_Solar_Community&amp;action=edit&amp;section=10" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a href="/wiki/List_of_energy_storage_projects" title="List of energy storage projects">
+        List of energy storage projects
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Drake_Landing_Solar_Community&amp;action=edit&amp;section=11" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist" style="list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-1">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.dlsc.ca/" rel="nofollow">
+           "Drake Landing Solar Community"
+          </a>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2008-02-10
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrake+Landing+Solar+Community&amp;rft.btitle=Drake+Landing+Solar+Community&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.dlsc.ca%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-2">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          Climate Change Central.
+          <a class="external text" href="http://www.climatechangecentral.com/publications/c3-views/september-2007/case-study-drake-landing-shines-solar" rel="nofollow">
+           "Case Study: Drake Landing"
+          </a>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2007-02-09
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrake+Landing+Solar+Community&amp;rft.au=Climate+Change+Central&amp;rft.btitle=Case+Study%3A+Drake+Landing&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.climatechangecentral.com%2Fpublications%2Fc3-views%2Fseptember-2007%2Fcase-study-drake-landing-shines-solar&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-3">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a href="/wiki/Natural_Resources_Canada" title="Natural Resources Canada">
+           Natural Resources Canada
+          </a>
+          .
+          <a class="external text" href="http://web.archive.org/web/20071106023111/http://www.nrcan.gc.ca/media/newsreleases/2007/200784_e.htm" rel="nofollow">
+           "Unique Community a Model for a Greener, Healthier Canada"
+          </a>
+          . Archived from
+          <a class="external text" href="http://www.nrcan.gc.ca/media/newsreleases/2007/200784_e.htm" rel="nofollow">
+           the original
+          </a>
+          on 2007-11-06
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2008-02-09
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrake+Landing+Solar+Community&amp;rft.au=Natural+Resources+Canada&amp;rft.btitle=Unique+Community+a+Model+for+a+Greener%2C+Healthier+Canada&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.nrcan.gc.ca%2Fmedia%2Fnewsreleases%2F2007%2F200784_e.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-4">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://web.archive.org/web/20080103002142/http://www.okotoks.ca/sustainable/Energy/northamericafirst.asp" rel="nofollow">
+           "North America's First Solar Powered Subdivision - Drake Landing"
+          </a>
+          .
+          <a href="/wiki/Okotoks" title="Okotoks">
+           Town of Okotoks
+          </a>
+          . Archived from
+          <a class="external text" href="http://www.okotoks.ca/sustainable/Energy/northamericafirst.asp" rel="nofollow">
+           the original
+          </a>
+          on 2008-01-03
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2008-02-09
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrake+Landing+Solar+Community&amp;rft.btitle=North+America%27s+First+Solar+Powered+Subdivision+-+Drake+Landing&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.okotoks.ca%2Fsustainable%2FEnergy%2Fnorthamericafirst.asp&amp;rft.pub=Town+of+Okotoks&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-5">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.nrcan.gc.ca/media-room/news-release/2012/6586" rel="nofollow">
+           "Canadian Solar Community Sets New World Record for Energy Efficiency and Innovation"
+          </a>
+          .
+          <i>
+           Natural Resources Canada
+          </i>
+          . 5 October 2012.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrake+Landing+Solar+Community&amp;rft.atitle=Canadian+Solar+Community+Sets+New+World+Record+for+Energy+Efficiency+and+Innovation&amp;rft.date=2012-10-05&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.nrcan.gc.ca%2Fmedia-room%2Fnews-release%2F2012%2F6586&amp;rft.jtitle=Natural+Resources+Canada&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-6">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-6">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          Wong, B.; Thornton, J. (2013).
+          <a class="external text" href="http://www.geo-exchange.ca/en/UserAttachments/flex1304_5-%20SAIC-%20Bill%20Wong%202013%20-%20Integrating%20Solar%20and%20Heat%20Pumps.pdf" rel="nofollow">
+           "Integrating Solar &amp; Heat Pumps"
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          .
+          <i>
+           Presentation at Renewable Heat Workshop
+          </i>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            31 January
+           </span>
+           2013
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrake+Landing+Solar+Community&amp;rft.atitle=Integrating+Solar+%26+Heat+Pumps&amp;rft.aufirst=B.&amp;rft.aulast=Wong&amp;rft.au=Thornton%2C+J.&amp;rft.date=2013&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.geo-exchange.ca%2Fen%2FUserAttachments%2Fflex1304_5-%2520SAIC-%2520Bill%2520Wong%25202013%2520-%2520Integrating%2520Solar%2520and%2520Heat%2520Pumps.pdf&amp;rft.jtitle=Presentation+at+Renewable+Heat+Workshop&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-dlsc-7">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-dlsc_7-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-dlsc_7-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-dlsc_7-2">
+          <sup>
+           <i>
+            <b>
+             c
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.dlsc.ca/" rel="nofollow">
+           "Drake Landing Solar Community"
+          </a>
+          .
+          <i>
+           dlsc.ca
+          </i>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrake+Landing+Solar+Community&amp;rft.atitle=Drake+Landing+Solar+Community&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.dlsc.ca%2F&amp;rft.jtitle=dlsc.ca&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-8">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-8">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://canmetenergy.nrcan.gc.ca/sites/canmetenergy.nrcan.gc.ca/files/files/pubs/DrakesLanding(ENG).pdf" rel="nofollow">
+           "CanmetENERGY"
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          .
+          <i>
+           nrcan.gc.ca
+          </i>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrake+Landing+Solar+Community&amp;rft.atitle=CanmetENERGY&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fcanmetenergy.nrcan.gc.ca%2Fsites%2Fcanmetenergy.nrcan.gc.ca%2Ffiles%2Ffiles%2Fpubs%2FDrakesLanding%28ENG%29.pdf&amp;rft.jtitle=nrcan.gc.ca&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-9">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-9">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://qspace.library.queensu.ca/bitstream/1974/1696/1/Wamboldt_Jason_M_200901_Master.pdf" rel="nofollow">
+          http://qspace.library.queensu.ca/bitstream/1974/1696/1/Wamboldt_Jason_M_200901_Master.pdf
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-10">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-10">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://canmetenergy.nrcan.gc.ca/sites/canmetenergy.nrcan.gc.ca/files/files/pubs/DrakesLanding(ENG).pdf." rel="nofollow">
+           "CanmetENERGY"
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          .
+          <i>
+           nrcan.gc.ca
+          </i>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrake+Landing+Solar+Community&amp;rft.atitle=CanmetENERGY&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fcanmetenergy.nrcan.gc.ca%2Fsites%2Fcanmetenergy.nrcan.gc.ca%2Ffiles%2Ffiles%2Fpubs%2FDrakesLanding%28ENG%29.pdf.&amp;rft.jtitle=nrcan.gc.ca&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-westernwheel-11">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-westernwheel_11-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.westernwheel.com/article/20120425/WHE0801/304259996/-1/whe/korean-researchers-learn-from-drake-landing" rel="nofollow">
+           "Korean researchers learn from Drake Landing"
+          </a>
+          .
+          <i>
+           Okotoks Western Wheel
+          </i>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrake+Landing+Solar+Community&amp;rft.atitle=Korean+researchers+learn+from+Drake+Landing&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.westernwheel.com%2Farticle%2F20120425%2FWHE0801%2F304259996%2F-1%2Fwhe%2Fkorean-researchers-learn-from-drake-landing&amp;rft.jtitle=Okotoks+Western+Wheel&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-12">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-12">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.solarserver.com/solar-magazine/solar-news/archive-2012/2012/kw41/canadian-drake-landing-community-sets-world-record-for-solar-heating.html" rel="nofollow">
+           "Canadian Drake Landing community sets world record for solar heating"
+          </a>
+          .
+          <i>
+           solarserver.com
+          </i>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrake+Landing+Solar+Community&amp;rft.atitle=Canadian+Drake+Landing+community+sets+world+record+for+solar+heating&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.solarserver.com%2Fsolar-magazine%2Fsolar-news%2Farchive-2012%2F2012%2Fkw41%2Fcanadian-drake-landing-community-sets-world-record-for-solar-heating.html&amp;rft.jtitle=solarserver.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Drake_Landing_Solar_Community&amp;action=edit&amp;section=12" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a class="external text" href="http://www.dlsc.ca/" rel="nofollow">
+        Drake Landing Solar Community
+       </a>
+       Retrieved on September 30, 2009
+      </li>
+      <li>
+       <a class="external text" href="http://www.dlsc.ca/how.htm" rel="nofollow">
+        Drake Landing Solar Community: Workings
+       </a>
+       Retrieved on September 30, 2009
+      </li>
+     </ul>
+     <div aria-labelledby="25px.7CFlag_of_Alberta_Subdivisions_of_Alberta" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="2" scope="col">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Subdivisions_of_Alberta" title="Template:Subdivisions of Alberta">
+             <abbr style=";;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Subdivisions_of_Alberta" title="Template talk:Subdivisions of Alberta">
+             <abbr style=";;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Subdivisions_of_Alberta&amp;action=edit">
+             <abbr style=";;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="25px.7CFlag_of_Alberta_Subdivisions_of_Alberta" style="font-size:114%">
+          <a class="image" href="/wiki/File:Flag_of_Alberta.svg" title="Flag of Alberta">
+           <img alt="Flag of Alberta" data-file-height="500" data-file-width="1000" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_Alberta.svg/25px-Flag_of_Alberta.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_Alberta.svg/38px-Flag_of_Alberta.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_Alberta.svg/50px-Flag_of_Alberta.svg.png 2x" width="25"/>
+          </a>
+          <a href="/wiki/List_of_communities_in_Alberta" title="List of communities in Alberta">
+           Subdivisions
+          </a>
+          of
+          <a href="/wiki/Alberta" title="Alberta">
+           Alberta
+          </a>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Subdivisions
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/List_of_regions_of_Canada#Alberta" title="List of regions of Canada">
+             Regions
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/List_of_census_divisions_of_Alberta" title="List of census divisions of Alberta">
+             Census divisions
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/List_of_census_agglomerations_in_Alberta" title="List of census agglomerations in Alberta">
+             Census agglomerations
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/List_of_municipalities_in_Alberta" title="List of municipalities in Alberta">
+             Municipalities
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/List_of_municipal_districts_in_Alberta" title="List of municipal districts in Alberta">
+             Municipal districts (counties)
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/List_of_specialized_municipalities_in_Alberta" title="List of specialized municipalities in Alberta">
+             Specialized municipalities
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/List_of_school_authorities_in_Alberta" title="List of school authorities in Alberta">
+             School authorities
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/List_of_communities_in_Alberta" title="List of communities in Alberta">
+          Communities
+         </a>
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/List_of_cities_in_Alberta" title="List of cities in Alberta">
+             Cities
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/List_of_towns_in_Alberta" title="List of towns in Alberta">
+             Towns
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/List_of_villages_in_Alberta" title="List of villages in Alberta">
+             Villages
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/List_of_summer_villages_in_Alberta" title="List of summer villages in Alberta">
+             Summer villages
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/List_of_hamlets_in_Alberta" title="List of hamlets in Alberta">
+             Hamlets
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/List_of_Indian_reserves_in_Alberta" title="List of Indian reserves in Alberta">
+             Indian reserves and settlements
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/M%C3%A9tis_in_Alberta" title="Métis in Alberta">
+             Metis settlements
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/List_of_ghost_towns_in_Alberta" title="List of ghost towns in Alberta">
+             Ghost towns
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/List_of_designated_places_in_Alberta" title="List of designated places in Alberta">
+             Designated places
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/List_of_cities_in_Alberta" title="List of cities in Alberta">
+          Cities
+         </a>
+         and
+         <i>
+          <a class="mw-redirect" href="/wiki/List_of_urban_service_areas_in_Alberta" title="List of urban service areas in Alberta">
+           urban
+           <br/>
+           service areas
+          </a>
+         </i>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Airdrie,_Alberta" title="Airdrie, Alberta">
+             Airdrie
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Brooks,_Alberta" title="Brooks, Alberta">
+             Brooks
+            </a>
+           </li>
+           <li>
+            <b>
+             <a href="/wiki/Calgary" title="Calgary">
+              Calgary
+             </a>
+            </b>
+           </li>
+           <li>
+            <a href="/wiki/Camrose,_Alberta" title="Camrose, Alberta">
+             Camrose
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Chestermere" title="Chestermere">
+             Chestermere
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cold_Lake,_Alberta" title="Cold Lake, Alberta">
+             Cold Lake
+            </a>
+           </li>
+           <li>
+            <b>
+             <a href="/wiki/Edmonton" title="Edmonton">
+              Edmonton
+             </a>
+            </b>
+            (capital)
+           </li>
+           <li>
+            <i>
+             <a href="/wiki/Fort_McMurray" title="Fort McMurray">
+              Fort McMurray
+             </a>
+            </i>
+           </li>
+           <li>
+            <a href="/wiki/Fort_Saskatchewan" title="Fort Saskatchewan">
+             Fort Saskatchewan
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Grande_Prairie" title="Grande Prairie">
+             Grande Prairie
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Lacombe,_Alberta" title="Lacombe, Alberta">
+             Lacombe
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Leduc,_Alberta" title="Leduc, Alberta">
+             Leduc
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Lethbridge" title="Lethbridge">
+             Lethbridge
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Lloydminster" title="Lloydminster">
+             Lloydminster
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Medicine_Hat" title="Medicine Hat">
+             Medicine Hat
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Red_Deer,_Alberta" title="Red Deer, Alberta">
+             Red Deer
+            </a>
+           </li>
+           <li>
+            <i>
+             <a href="/wiki/Sherwood_Park" title="Sherwood Park">
+              Sherwood Park
+             </a>
+            </i>
+           </li>
+           <li>
+            <a href="/wiki/Spruce_Grove" title="Spruce Grove">
+             Spruce Grove
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/St._Albert,_Alberta" title="St. Albert, Alberta">
+             St. Albert
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Wetaskiwin" title="Wetaskiwin">
+             Wetaskiwin
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td class="navbox-abovebelow" colspan="2">
+         <div>
+          <ul>
+           <li>
+            <b>
+             <img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/>
+             <a href="/wiki/Category:Alberta" title="Category:Alberta">
+              Category
+             </a>
+            </b>
+           </li>
+           <li>
+            <b>
+             <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/>
+             <a href="/wiki/Portal:Alberta" title="Portal:Alberta">
+              Portal
+             </a>
+            </b>
+           </li>
+           <li>
+            <b>
+             <img alt="WikiProject" data-file-height="100" data-file-width="100" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" title="WikiProject" width="16"/>
+             <a href="/wiki/Wikipedia:WikiProject_Alberta" title="Wikipedia:WikiProject Alberta">
+              WikiProject
+             </a>
+            </b>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <p>
+      <span style="font-size: small;">
+       <span id="coordinates">
+        <a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">
+         Coordinates
+        </a>
+        :
+        <span class="plainlinks nourlexpansion">
+         <a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Drake_Landing_Solar_Community&amp;params=50.73095_N_-113.95029_E_type:landmark_region:CA-AB_scale:3000">
+          <span class="geo-nondefault">
+           <span class="geo-dms" title="Maps, aerial photos, and other data for this location">
+            <span class="latitude">
+             50°43′51″N
+            </span>
+            <span class="longitude">
+             113°57′01″W
+            </span>
+           </span>
+          </span>
+          <span class="geo-multi-punct">
+           ﻿ / ﻿
+          </span>
+          <span class="geo-default">
+           <span class="geo-dec" title="Maps, aerial photos, and other data for this location">
+            50.73095°N 113.95029°W
+           </span>
+           <span style="display:none">
+            ﻿ /
+            <span class="geo">
+             50.73095; -113.95029
+            </span>
+           </span>
+          </span>
+         </a>
+        </span>
+       </span>
+      </span>
+     </p>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:12294713-0!*!0!!en!4!* and timestamp 20161028154649 and revision id 736087816
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Drake_Landing_Solar_Community&amp;oldid=736087816">
+      https://en.wikipedia.org/w/index.php?title=Drake_Landing_Solar_Community&amp;oldid=736087816
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Scientific_organizations_based_in_Canada" title="Category:Scientific organizations based in Canada">
+         Scientific organizations based in Canada
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Okotoks" title="Category:Okotoks">
+         Okotoks
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Energy_storage" title="Category:Energy storage">
+         Energy storage
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Energy_conservation" title="Category:Energy conservation">
+         Energy conservation
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Sustainable_building" title="Category:Sustainable building">
+         Sustainable building
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Sustainable_development" title="Category:Sustainable development">
+         Sustainable development
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Sustainable_environmental_design" title="Category:Sustainable environmental design">
+         Sustainable environmental design
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Residential_heating" title="Category:Residential heating">
+         Residential heating
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Solar_thermal_energy" title="Category:Solar thermal energy">
+         Solar thermal energy
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Solar_design" title="Category:Solar design">
+         Solar design
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">
+         Coordinates on Wikidata
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Drake+Landing+Solar+Community" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Drake+Landing+Solar+Community" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Drake_Landing_Solar_Community" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Drake_Landing_Solar_Community" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Drake_Landing_Solar_Community">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Drake_Landing_Solar_Community&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Drake_Landing_Solar_Community&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Drake_Landing_Solar_Community" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Drake_Landing_Solar_Community" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Drake_Landing_Solar_Community&amp;oldid=736087816" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Drake_Landing_Solar_Community&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q5305610" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Drake_Landing_Solar_Community&amp;id=736087816" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Drake+Landing+Solar+Community">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Drake+Landing+Solar+Community&amp;returnto=Drake+Landing+Solar+Community&amp;oldid=736087816&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Drake_Landing_Solar_Community&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Communaut%C3%A9_solaire_de_Drake_Landing" hreflang="fr" lang="fr" title="Communauté solaire de Drake Landing – French">
+         Français
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q5305610#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 25 August 2016, at 02:31.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Drake_Landing_Solar_Community&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.156",
+            "walltime": "0.196",
+            "ppvisitednodes": {
+                "value": 827,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 38209,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 0,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 7,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 0,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 1,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  163.585      1 -total",
+                " 38.59%   63.129      1 Template:Reflist",
+                " 29.79%   48.727     11 Template:Cite_web",
+                " 25.94%   42.440      5 Template:Convert",
+                " 22.18%   36.283      1 Template:Subdivisions_of_Alberta",
+                " 17.87%   29.225      2 Template:Navbox",
+                " 10.63%   17.393      1 Template:Coord",
+                "  5.73%    9.368      3 Template:Icon"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.079",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 5021281,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1270",
+            "timestamp": "20161028154650",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":65,"wgHostname":"mw1267"});});
+  </script>
+ </body>
+</html>

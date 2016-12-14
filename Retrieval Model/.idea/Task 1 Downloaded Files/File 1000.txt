@@ -1,0 +1,1881 @@
+https://en.wikipedia.org/wiki/Greenhouse_Solutions_with_Sustainable_Energy
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Greenhouse Solutions with Sustainable Energy - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Greenhouse_Solutions_with_Sustainable_Energy","wgTitle":"Greenhouse Solutions with Sustainable Energy","wgCurRevisionId":711846878,"wgRevisionId":711846878,"wgArticleId":11568347,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["2007 books","2007 in the environment","Australian non-fiction books","Sustainability books","Books about energy issues","Climate change books"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Greenhouse_Solutions_with_Sustainable_Energy","wgRelevantArticleId":11568347,"wgRequestId":"WCDThApAEK0AAHuFQEcAAABX","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5604165","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Greenhouse_Solutions_with_Sustainable_Energy" rel="alternate"/>
+  <link href="/w/index.php?title=Greenhouse_Solutions_with_Sustainable_Energy&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Greenhouse_Solutions_with_Sustainable_Energy&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Greenhouse_Solutions_with_Sustainable_Energy" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Greenhouse_Solutions_with_Sustainable_Energy rootpage-Greenhouse_Solutions_with_Sustainable_Energy skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    <i>
+     Greenhouse Solutions with Sustainable Energy
+    </i>
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <table class="infobox vcard" style="width:22em">
+      <caption style="font-style:italic;padding-bottom:0.2em;">
+       Greenhouse Solutions with Sustainable Energy
+      </caption>
+      <tr>
+       <td colspan="2" style="text-align:center">
+        <a class="image" href="/wiki/File:Greenhouse_Solutions_with_Sustainable_Energy_(Diesendorf_book)_cover.jpg">
+         <img alt="Greenhouse Solutions with Sustainable Energy (Diesendorf book) cover.jpg" data-file-height="303" data-file-width="200" height="303" src="//upload.wikimedia.org/wikipedia/en/4/45/Greenhouse_Solutions_with_Sustainable_Energy_%28Diesendorf_book%29_cover.jpg" width="200"/>
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Author
+       </th>
+       <td>
+        <a href="/wiki/Mark_Diesendorf" title="Mark Diesendorf">
+         Mark Diesendorf
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Subject
+       </th>
+       <td>
+        <a href="/wiki/Sustainability" title="Sustainability">
+         Sustainability
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Publisher
+       </th>
+       <td>
+        University of New South Wales Press
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        <div style="padding:0.1em 0;line-height:1.2em;">
+         Publication date
+        </div>
+       </th>
+       <td>
+        2007
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+         ISBN
+        </a>
+       </th>
+       <td>
+        <a href="/wiki/Special:BookSources/978-0-86840-973-3" title="Special:BookSources/978-0-86840-973-3">
+         978-0-86840-973-3
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        <a href="/wiki/OCLC#Identifiers_and_linked_data" title="OCLC">
+         <abbr title="Online Computer Library Center number">
+          OCLC
+         </abbr>
+        </a>
+       </th>
+       <td>
+        <a class="external text" href="//www.worldcat.org/oclc/154686158" rel="nofollow">
+         154686158
+        </a>
+       </td>
+      </tr>
+     </table>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Alternative_Energies.jpg">
+        <img alt="" class="thumbimage" data-file-height="1942" data-file-width="2982" height="143" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Alternative_Energies.jpg/220px-Alternative_Energies.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Alternative_Energies.jpg/330px-Alternative_Energies.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Alternative_Energies.jpg/440px-Alternative_Energies.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Alternative_Energies.jpg" title="Enlarge">
+         </a>
+        </div>
+        The
+        <a href="/wiki/Wind" title="Wind">
+         wind
+        </a>
+        ,
+        <a href="/wiki/Sun" title="Sun">
+         Sun
+        </a>
+        , and
+        <a href="/wiki/Biomass" title="Biomass">
+         biomass
+        </a>
+        are three renewable energy sources
+       </div>
+      </div>
+     </div>
+     <p>
+      <i>
+       <b>
+        Greenhouse Solutions with Sustainable Energy
+       </b>
+      </i>
+      is a 2007 book by Australian academic
+      <a href="/wiki/Mark_Diesendorf" title="Mark Diesendorf">
+       Mark Diesendorf
+      </a>
+      . The book puts forward a set of policies and strategies for implementing the most promising
+      <a class="mw-redirect" href="/wiki/Clean_energy" title="Clean energy">
+       clean energy
+      </a>
+      technologies by all spheres of government, business and community organisations.
+      <i>
+       Greenhouse Solutions with Sustainable Energy
+      </i>
+      suggests that a mix of
+      <a href="/wiki/Efficient_energy_use" title="Efficient energy use">
+       efficient energy use
+      </a>
+      ,
+      <a href="/wiki/Renewable_energy" title="Renewable energy">
+       renewable energy
+      </a>
+      sources and
+      <a href="/wiki/Natural_gas" title="Natural gas">
+       natural gas
+      </a>
+      (as a transitional fuel) offers a clean and feasible energy future for Australia.
+      <sup class="reference" id="cite_ref-unsw_1-0">
+       <a href="#cite_note-unsw-1">
+        [1]
+       </a>
+      </sup>
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Structure_and_themes">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Structure and themes
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#Wind_power_variability">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Wind power variability
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#Quotes">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          Quotes
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-4">
+        <a href="#Critical_reception">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          Critical reception
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-5">
+        <a href="#Author">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          Author
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-6">
+        <a href="#See_also">
+         <span class="tocnumber">
+          6
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-7">
+        <a href="#References">
+         <span class="tocnumber">
+          7
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-8">
+        <a href="#Bibliography">
+         <span class="tocnumber">
+          8
+         </span>
+         <span class="toctext">
+          Bibliography
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Structure_and_themes">
+       Structure and themes
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Greenhouse_Solutions_with_Sustainable_Energy&amp;action=edit&amp;section=1" title="Edit section: Structure and themes">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The book is a comprehensive guide to sustainable energy systems
+      <sup class="reference" id="cite_ref-on_2-0">
+       <a href="#cite_note-on-2">
+        [2]
+       </a>
+      </sup>
+      and is structured in three sections:
+     </p>
+     <ul>
+      <li>
+       Introduction to the basic concepts and latest scientific evidence regarding global warming.
+      </li>
+      <li>
+       Assessment of energy technologies, including coal, nuclear and more sustainable alternatives.
+      </li>
+      <li>
+       Discussion of policies and strategies needed to overcome the non-technical barriers to renewable energies and energy efficiency.
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+      </li>
+     </ul>
+     <p>
+      Diesendorf argues that:
+     </p>
+     <ul>
+      <li>
+       Ecologically sustainable energy technologies based on energy efficiency, renewable energy and natural gas are commercially available today, and that their implementation could halve Australia’s
+       <a class="mw-redirect" href="/wiki/Greenhouse_gas_emissions" title="Greenhouse gas emissions">
+        greenhouse gas emissions
+       </a>
+       within a few decades.
+      </li>
+      <li>
+       To implement these technologies, new policies must be developed and implemented by all three levels of government.
+      </li>
+      <li>
+       The main barriers are neither technical nor economic, but rather our social institutions and the political power of the big greenhouse gas emitting industries: coal, oil, aluminium, cement and motor vehicles.
+       <sup class="reference" id="cite_ref-unsw_1-1">
+        <a href="#cite_note-unsw-1">
+         [1]
+        </a>
+       </sup>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="Wind_power_variability">
+       Wind power variability
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Greenhouse_Solutions_with_Sustainable_Energy&amp;action=edit&amp;section=2" title="Edit section: Wind power variability">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      Early in his career, Mark Diesendorf was a principal research scientist with
+      <a class="mw-redirect" href="/wiki/CSIRO" title="CSIRO">
+       CSIRO
+      </a>
+      where he was involved in early research on integrating
+      <a href="/wiki/Wind_power" title="Wind power">
+       wind power
+      </a>
+      into electricity grids. This issue is discussed in some detail in
+      <i>
+       Greenhouse Solutions with Sustainable Energy
+      </i>
+      .
+     </p>
+     <p>
+      Diesendorf explains that large-scale wind power is not "intermittent", because it does not start up or switch off instantaneously. In practice, the variations in thousands of wind turbines, spread out over several different sites and wind regimes, are smoothed. As the distance between sites increases, the correlation between wind speeds measured at those sites, decreases. This has been confirmed recently by studies conducted by
+      <a class="new" href="/w/index.php?title=Graham_Sinden&amp;action=edit&amp;redlink=1" title="Graham Sinden (page does not exist)">
+       Graham Sinden
+      </a>
+      from
+      <a class="mw-redirect" href="/wiki/Oxford_University" title="Oxford University">
+       Oxford University
+      </a>
+      :
+      <sup class="reference" id="cite_ref-nine_4-0">
+       <a href="#cite_note-nine-4">
+        [4]
+       </a>
+      </sup>
+     </p>
+     <blockquote>
+      <p>
+       [Graham Sinden] analysed over 30 years of hourly wind speed data from 66 sites spread out over the United Kingdom. He found that the correlation coefficient of wind power fell from 0.6 at 200 km to 0.25 at 600 km separation (a perfect correlation would have a coefficient equal to 1.0.) There were no hours in the data set where wind speed was below the cut-in wind speed of a modern wind turbine throughout the United Kingdom, and low wind speed events affecting more than 90 per cent of the United Kingdom had an average recurrent rate of only one hour per year.
+       <sup class="reference" id="cite_ref-nine_4-1">
+        <a href="#cite_note-nine-4">
+         [4]
+        </a>
+       </sup>
+      </p>
+     </blockquote>
+     <p>
+      Diesendorf goes on to say that every conventional power station breaks down unexpectedly from time to time, causing an immediate loss of all its power. That is true intermittency, according to Diesendorf, and it is a particular type of variability that switches between full power and no power. Once a conventional power station has broken down, it may be offline for weeks, much longer than windless periods.
+      <sup class="reference" id="cite_ref-5">
+       <a href="#cite_note-5">
+        [5]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Quotes">
+       Quotes
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Greenhouse_Solutions_with_Sustainable_Energy&amp;action=edit&amp;section=3" title="Edit section: Quotes">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       "The enhanced greenhouse effect is arguably the most dangerous environmental problem and the most difficult political issue to be faced by the world in the 21st century." (p. 1)
+      </li>
+      <li>
+       "The recent push for a revival of nuclear energy has been based on its claimed reduction in CO
+       <sub>
+        2
+       </sub>
+       emissions where it substitutes for coal-fired power stations. In reality, only reactor operation is CO
+       <sub>
+        2
+       </sub>
+       -free. All other stages of the nuclear fuel chain -- mining, milling, fuel fabrication, enrichment, reactor construction, decommissioning, and waste management -- use fossil fuels and hence emit CO
+       <sub>
+        2
+       </sub>
+       ..." (p. 252)
+      </li>
+      <li>
+       "Global wind-power capacity continues to expand and, apart from the blip in 2006, its costs continue to decline steadily. Wind power is one of the few energy supply technologies that are ready for wide dissemination today, unlike coal with CO
+       <sub>
+        2
+       </sub>
+       capture and sequestration and unlike nuclear power. Wind can deliver deep cuts in CO
+       <sub>
+        2
+       </sub>
+       , while providing a hedge against fluctuating fossil fuel prices and reducing energy import dependence." (p. 126)
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="Critical_reception">
+       Critical reception
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Greenhouse_Solutions_with_Sustainable_Energy&amp;action=edit&amp;section=4" title="Edit section: Critical reception">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      Dick Nichols, in
+      <i>
+       Green Left
+      </i>
+      , states that
+      <i>
+       Greenhouse Solutions with Sustainable Energy
+      </i>
+      brings together much useful material about global warming and possible solutions:
+     </p>
+     <dl>
+      <dd>
+       Diesendorf's book concentrates into one volume a succinct analysis of global warming, a rebuttal of climate change scepticism, a thorough summary of the state of development of each renewable energy technology, a masterly demolition of false “solutions” to greenhouse (like
+       <a href="/wiki/Carbon_sequestration" title="Carbon sequestration">
+        carbon sequestration
+       </a>
+       and nuclear power) and a presentation of strategies and policies for uprooting carbon-intensive power production in Australia. Add in chapters on saving energy and transport and urban redesign and
+       <i>
+        Greenhouse Solutions with Sustainable Energy
+       </i>
+       illuminates the reader about all the main features of the many-sided debate on how to make sustainable energy production the heart of the attack on climate change.
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+      </dd>
+     </dl>
+     <p>
+      Nichols suggests that if there’s one serious shortcoming in
+      <i>
+       Greenhouse Solutions with Sustainable Energy
+      </i>
+      it’s "a failure to consistently trace what rate of implementation of energy efficiency and uptake of renewable energy sources is necessary to confront the greenhouse emergency".
+     </p>
+     <p>
+      Patrick O'Neill, in
+      <i>
+       Chain Reaction
+      </i>
+      , suggests that
+      <i>
+       Greenhouse Solutions with Sustainable Energy
+      </i>
+      is a comprehensive guide to sustainable energy systems, and that the book is "simply a joy to read". O'Neill explains that whilst an immense amount of technical and scientific detail is presented, the language is simple and the book is well laid out. It also covers often ignored areas of the sustainable energy discussion such as population issues, morality, social justice and equity. In conclusion, O'Neill states that the book is a "wonderfully energising piece of sedition", which calls for a "coordinated national strategy for non-violent action".
+      <sup class="reference" id="cite_ref-on_2-1">
+       <a href="#cite_note-on-2">
+        [2]
+       </a>
+      </sup>
+     </p>
+     <p>
+      George Wilkenfield, in
+      <i>
+       Australian Review of Public Affairs
+      </i>
+      , is more critical and suggests the book feels "strangely anachronistic", partly because it treats climate change as an issue that can be resolved through grassroots activism or by the opposition of protest movements to unjust regimes. Wilkenfield explains that "this rather misses the point that the continuing rise in global greenhouse gas emissions is not a byproduct of injustice or repression but of economic freedom in the West and the unrelenting economic growth by which repressive regimes such as China’s buy legitimacy. In general, very few people want to be freed from consumption—most want the freedom to consume even more". Wilkenfield goes on to say that Diesendorf misses some of the dynamics of consumption: energy use gives people comfort, speed, privacy and convenience. Many people actually enjoy driving and like their cars, and would continue to use them as long as they could afford to, even if public transport were available.
+      <sup class="reference" id="cite_ref-george_7-0">
+       <a href="#cite_note-george-7">
+        [7]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Nevertheless, in the end, Wilkenfield concedes that
+      <i>
+       Greenhouse Solutions with Sustainable Energy
+      </i>
+      is very suitable as a textbook, or as a handbook for activists, journalists or the more committed reader who is not afraid of numbers.
+      <sup class="reference" id="cite_ref-george_7-1">
+       <a href="#cite_note-george-7">
+        [7]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Author">
+       Author
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Greenhouse_Solutions_with_Sustainable_Energy&amp;action=edit&amp;section=5" title="Edit section: Author">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      Mark Diesendorf teaches and researches
+      <a href="/wiki/Ecologically_sustainable_development" title="Ecologically sustainable development">
+       ecologically sustainable development
+      </a>
+      and greenhouse solutions at the Institute of Environmental Studies at the
+      <a class="mw-redirect" href="/wiki/University_of_NSW" title="University of NSW">
+       University of NSW
+      </a>
+      . Previously he has been a Principle Research Scientist at
+      <a class="mw-redirect" href="/wiki/CSIRO" title="CSIRO">
+       CSIRO
+      </a>
+      , Professor of Environmental Science at UTS and Vice-President of the Australia New Zealand Society for Ecological Economics.
+      <sup class="reference" id="cite_ref-8">
+       <a href="#cite_note-8">
+        [8]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Greenhouse_Solutions_with_Sustainable_Energy&amp;action=edit&amp;section=6" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+      <ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+       <li style="display:table-row">
+        <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+         <a class="image" href="/wiki/File:Aegopodium_podagraria1_ies.jpg">
+          <img alt="icon" class="noviewer" data-file-height="700" data-file-width="800" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/32px-Aegopodium_podagraria1_ies.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/48px-Aegopodium_podagraria1_ies.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/64px-Aegopodium_podagraria1_ies.jpg 2x" width="32"/>
+         </a>
+        </span>
+        <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+         <a href="/wiki/Portal:Environment" title="Portal:Environment">
+          Environment portal
+         </a>
+        </span>
+       </li>
+       <li style="display:table-row">
+        <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+         <a class="image" href="/wiki/File:Crystal_energy.svg">
+          <img alt="icon" class="noviewer" data-file-height="124" data-file-width="130" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" width="29"/>
+         </a>
+        </span>
+        <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+         <a href="/wiki/Portal:Energy" title="Portal:Energy">
+          Energy portal
+         </a>
+        </span>
+       </li>
+       <li style="display:table-row">
+        <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+         <img alt="" class="noviewer thumbborder" data-file-height="640" data-file-width="1280" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/32px-Flag_of_Australia.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/48px-Flag_of_Australia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/64px-Flag_of_Australia.svg.png 2x" width="32"/>
+        </span>
+        <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+         <a href="/wiki/Portal:Australia" title="Portal:Australia">
+          Australia portal
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <ul>
+      <li>
+       <a href="/wiki/Anti-nuclear_movement_in_Australia" title="Anti-nuclear movement in Australia">
+        Anti-nuclear movement in Australia
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Clean_Tech_Nation" title="Clean Tech Nation">
+        Clean Tech Nation
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Effects_of_global_warming_on_Australia" title="Effects of global warming on Australia">
+        Effects of global warming on Australia
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/List_of_Australian_environmental_books" title="List of Australian environmental books">
+        List of Australian environmental books
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Reaction_Time_(book)" title="Reaction Time (book)">
+        Reaction Time (book)
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Renewable_energy_commercialization_in_Australia" title="Renewable energy commercialization in Australia">
+        Renewable energy commercialization in Australia
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Solar_power_in_Australia" title="Solar power in Australia">
+        Solar power in Australia
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Sustainable_development" title="Sustainable development">
+        Sustainable development
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Wind_power_in_Australia" title="Wind power in Australia">
+        Wind power in Australia
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Greenhouse_Solutions_with_Sustainable_Energy&amp;action=edit&amp;section=7" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist" style="list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-unsw-1">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-unsw_1-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-unsw_1-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         UNSW Press.
+         <a class="external text" href="http://www.sustainabilitycentre.com.au/GreenhouseFlyer.pdf" rel="nofollow">
+          : Greenhouse Solutions with Sustainable Energy
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-on-2">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-on_2-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-on_2-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.foe.org.au/resources/chain-reaction/chain-reaction-editions/chain-reaction-100/book-reviews" rel="nofollow">
+          Greenhouse Solutions with Sustainable Energy: Review by Patrick O'Neill
+         </a>
+         <i>
+          Chain Reaction 100
+         </i>
+         , August 2007.
+        </span>
+       </li>
+       <li id="cite_note-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-3">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.publish.csiro.au/?act=view_file&amp;file_id=EC137p31a.pdf" rel="nofollow">
+          Scientific approach to an emotional – and political – issue
+         </a>
+         <i>
+          ECOS
+         </i>
+         , June–July 2007, p.31.
+        </span>
+       </li>
+       <li id="cite_note-nine-4">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-nine_4-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-nine_4-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         Diesendorf, Mark (2007).
+         <i>
+          Greenhouse Solutions with Sustainable Energy
+         </i>
+         , p. 119.
+        </span>
+       </li>
+       <li id="cite_note-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-5">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Diesendorf, Mark (2007).
+         <i>
+          Greenhouse Solutions with Sustainable Energy
+         </i>
+         , p. 118.
+        </span>
+       </li>
+       <li id="cite_note-6">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-6">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Dick Nichols,
+         <a class="external text" href="http://www.greenleft.org.au/2008/745/38612" rel="nofollow">
+          How can sustainable energy solve greenhouse?
+         </a>
+         <i>
+          Green Left
+         </i>
+         , 5 April 2008.
+        </span>
+       </li>
+       <li id="cite_note-george-7">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-george_7-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-george_7-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         George Wilkenfield,
+         <a class="external text" href="http://www.australianreview.net/digest/2007/08/wilkenfeld.html" rel="nofollow">
+          Cutting greenhouse emissions—What would we do if we really meant it?
+         </a>
+         <i>
+          Australian Review of Public Affairs
+         </i>
+         , August 2007.
+        </span>
+       </li>
+       <li id="cite_note-8">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-8">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.vic.greens.org.au/get-involved/events/2007-events/may-2007-events/greenhouse-solutions-with-sustainable-energy" rel="nofollow">
+          Greenhouse Solutions with Sustainable Energy -- Free symposium
+         </a>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <h2>
+      <span class="mw-headline" id="Bibliography">
+       Bibliography
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Greenhouse_Solutions_with_Sustainable_Energy&amp;action=edit&amp;section=8" title="Edit section: Bibliography">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       Diesendorf, Mark (2007).
+       <i>
+        Greenhouse Solutions with Sustainable Energy
+       </i>
+       , UNSW Press, 432 pages,
+       <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/9780868409733">
+        ISBN 978-0-86840-973-3
+       </a>
+      </li>
+     </ul>
+     <div aria-labelledby="Anti-nuclear_movement_in_Australia" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="3" scope="col">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Australian_anti-nuclear" title="Template:Australian anti-nuclear">
+             <abbr style=";;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Australian_anti-nuclear" title="Template talk:Australian anti-nuclear">
+             <abbr style=";;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Australian_anti-nuclear&amp;action=edit">
+             <abbr style=";;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="Anti-nuclear_movement_in_Australia" style="font-size:114%">
+          <a href="/wiki/Anti-nuclear_movement_in_Australia" title="Anti-nuclear movement in Australia">
+           Anti-nuclear movement in Australia
+          </a>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Organisations
+         <br/>
+         and groups
+        </th>
+        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/The_Australia_Institute" title="The Australia Institute">
+             The Australia Institute
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Australian_Conservation_Foundation" title="Australian Conservation Foundation">
+             Australian Conservation Foundation
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Australian_Greens" title="Australian Greens">
+             Australian Greens
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Australian_Labor_Party" title="Australian Labor Party">
+             Australian Labor Party
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Campaign_Against_Nuclear_Energy" title="Campaign Against Nuclear Energy">
+             Campaign Against Nuclear Energy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Conservation_Council_of_South_Australia" title="Conservation Council of South Australia">
+             Conservation Council of South Australia
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Friends_of_the_Earth_Australia" title="Friends of the Earth Australia">
+             Friends of the Earth Australia
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Greenpeace_Australia_Pacific" title="Greenpeace Australia Pacific">
+             Greenpeace Australia Pacific
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Kupa_Piti_Kungka_Tjuta" title="Kupa Piti Kungka Tjuta">
+             Kupa Piti Kungka Tjuta
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Medical_Association_for_Prevention_of_War" title="Medical Association for Prevention of War">
+             Medical Association for Prevention of War
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Mineral_Policy_Institute" title="Mineral Policy Institute">
+             Mineral Policy Institute
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Nuclear_Disarmament_Party" title="Nuclear Disarmament Party">
+             Nuclear Disarmament Party
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Peace_Organisation_of_Australia" title="Peace Organisation of Australia">
+             Peace Organisation of Australia
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/The_Wilderness_Society_(Australia)" title="The Wilderness Society (Australia)">
+             The Wilderness Society
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+        <td class="navbox-image" rowspan="7" style="width:0%;padding:0px 0px 0px 2px">
+         <div>
+          <a class="image" href="/wiki/File:Smiling_Sun_-_English.jpg">
+           <img alt="Smiling Sun - English.jpg" data-file-height="826" data-file-width="826" height="90" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Smiling_Sun_-_English.jpg/90px-Smiling_Sun_-_English.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Smiling_Sun_-_English.jpg/135px-Smiling_Sun_-_English.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Smiling_Sun_-_English.jpg/180px-Smiling_Sun_-_English.jpg 2x" width="90"/>
+          </a>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         People
+        </th>
+        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Dorothy_Auchterlonie_Green" title="Dorothy Auchterlonie Green">
+             Dorothy Auchterlonie Green
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/David_Bradbury_(film_maker)" title="David Bradbury (film maker)">
+             David Bradbury (film maker)
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Bob_Brown" title="Bob Brown">
+             Bob Brown
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Eileen_Kampakuta_Brown" title="Eileen Kampakuta Brown">
+             Eileen Kampakuta Brown
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Kevin_Buzzacott" title="Kevin Buzzacott">
+             Kevin Buzzacott
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Helen_Caldicott" title="Helen Caldicott">
+             Helen Caldicott
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Moss_Cass" title="Moss Cass">
+             Moss Cass
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ian_Cohen" title="Ian Cohen">
+             Ian Cohen
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Michael_Denborough" title="Michael Denborough">
+             Michael Denborough
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Mark_Diesendorf" title="Mark Diesendorf">
+             Mark Diesendorf
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Jim_Falk" title="Jim Falk">
+             Jim Falk
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Peter_Garrett" title="Peter Garrett">
+             Peter Garrett
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Jim_Green_(activist)" title="Jim Green (activist)">
+             Jim Green (activist)
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Margaret_Holmes" title="Margaret Holmes">
+             Margaret Holmes
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Jacqui_Katona" title="Jacqui Katona">
+             Jacqui Katona
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sandra_Kanck" title="Sandra Kanck">
+             Sandra Kanck
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ian_Lowe" title="Ian Lowe">
+             Ian Lowe
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Scott_Ludlam" title="Scott Ludlam">
+             Scott Ludlam
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Yvonne_Margarula" title="Yvonne Margarula">
+             Yvonne Margarula
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Dee_Margetts" title="Dee Margetts">
+             Dee Margetts
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Jillian_Marsh" title="Jillian Marsh">
+             Jillian Marsh
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Jean_Melzer" title="Jean Melzer">
+             Jean Melzer
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Kerry_Nettle" title="Kerry Nettle">
+             Kerry Nettle
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Tilman_Ruff" title="Tilman Ruff">
+             Tilman Ruff
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Nancy_Shelley" title="Nancy Shelley">
+             Nancy Shelley
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Jo_Vallentine" title="Jo Vallentine">
+             Jo Vallentine
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Patrick_White" title="Patrick White">
+             Patrick White
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Stuart_White" title="Stuart White">
+             Stuart White
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Eileen_Wani_Wingfield" title="Eileen Wani Wingfield">
+             Eileen Wani Wingfield
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Books
+        </th>
+        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <i>
+             <a href="/wiki/Britain,_Australia_and_the_Bomb" title="Britain, Australia and the Bomb">
+              Britain, Australia and the Bomb
+             </a>
+            </i>
+           </li>
+           <li>
+            <i>
+             <strong class="selflink">
+              Greenhouse Solutions with Sustainable Energy
+             </strong>
+            </i>
+           </li>
+           <li>
+            <i>
+             <a href="/wiki/Maralinga:_Australia%27s_Nuclear_Waste_Cover-up" title="Maralinga: Australia's Nuclear Waste Cover-up">
+              Maralinga: Australia's Nuclear Waste Cover-up
+             </a>
+            </i>
+           </li>
+           <li>
+            <i>
+             <a class="mw-redirect" href="/wiki/Reaction_Time:_Climate_Change_and_the_Nuclear_Option" title="Reaction Time: Climate Change and the Nuclear Option">
+              Reaction Time: Climate Change and the Nuclear Option
+             </a>
+            </i>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         See also
+        </th>
+        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Australian_Uranium_Association" title="Australian Uranium Association">
+             Australian Uranium Association
+            </a>
+           </li>
+           <li>
+            <a class="new" href="/w/index.php?title=Clean_Energy_Future_Group&amp;action=edit&amp;redlink=1" title="Clean Energy Future Group (page does not exist)">
+             Clean Energy Future Group
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/List_of_inquiries_into_uranium_mining_in_Australia" title="List of inquiries into uranium mining in Australia">
+             List of inquiries into uranium mining in Australia
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Lists_of_nuclear_disasters_and_radioactive_incidents" title="Lists of nuclear disasters and radioactive incidents">
+             Lists of nuclear disasters and radioactive incidents
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Nuclear_power_in_Australia" title="Nuclear power in Australia">
+             Nuclear power in Australia
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Nuclear_weapons_tests_in_Australia" title="Nuclear weapons tests in Australia">
+             Nuclear weapons tests in Australia
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Olympic_Dam,_South_Australia" title="Olympic Dam, South Australia">
+             Olympic Dam, South Australia
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ranger_Uranium_Environmental_Inquiry" title="Ranger Uranium Environmental Inquiry">
+             Ranger Uranium Environmental Inquiry
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Renewable_energy_commercialization" title="Renewable energy commercialization">
+             Renewable energy commercialization
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Renewable_energy_in_Australia" title="Renewable energy in Australia">
+             Renewable energy in Australia
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Say_Yes_demonstrations" title="Say Yes demonstrations">
+             Say Yes demonstrations
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Uranium_mining_in_Australia" title="Uranium mining in Australia">
+             Uranium mining in Australia
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Uranium_mining_in_Kakadu_National_Park" title="Uranium mining in Kakadu National Park">
+             Uranium mining in Kakadu National Park
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:11568347-0!*!0!!en!4!* and timestamp 20161107062356 and revision id 711846878
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Greenhouse_Solutions_with_Sustainable_Energy&amp;oldid=711846878">
+      https://en.wikipedia.org/w/index.php?title=Greenhouse_Solutions_with_Sustainable_Energy&amp;oldid=711846878
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:2007_books" title="Category:2007 books">
+         2007 books
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:2007_in_the_environment" title="Category:2007 in the environment">
+         2007 in the environment
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Australian_non-fiction_books" title="Category:Australian non-fiction books">
+         Australian non-fiction books
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Sustainability_books" title="Category:Sustainability books">
+         Sustainability books
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Books_about_energy_issues" title="Category:Books about energy issues">
+         Books about energy issues
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Climate_change_books" title="Category:Climate change books">
+         Climate change books
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Greenhouse+Solutions+with+Sustainable+Energy" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Greenhouse+Solutions+with+Sustainable+Energy" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Greenhouse_Solutions_with_Sustainable_Energy" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Greenhouse_Solutions_with_Sustainable_Energy" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Greenhouse_Solutions_with_Sustainable_Energy">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Greenhouse_Solutions_with_Sustainable_Energy&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Greenhouse_Solutions_with_Sustainable_Energy&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Greenhouse_Solutions_with_Sustainable_Energy" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Greenhouse_Solutions_with_Sustainable_Energy" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Greenhouse_Solutions_with_Sustainable_Energy&amp;oldid=711846878" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Greenhouse_Solutions_with_Sustainable_Energy&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q5604165" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Greenhouse_Solutions_with_Sustainable_Energy&amp;id=711846878" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Greenhouse+Solutions+with+Sustainable+Energy">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Greenhouse+Solutions+with+Sustainable+Energy&amp;returnto=Greenhouse+Solutions+with+Sustainable+Energy&amp;oldid=711846878&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Greenhouse_Solutions_with_Sustainable_Energy&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-add wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q5604165#sitelinks-wikipedia" title="Add interlanguage links">
+         Add links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 25 March 2016, at 07:32.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Greenhouse_Solutions_with_Sustainable_Energy&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.136",
+            "walltime": "0.177",
+            "ppvisitednodes": {
+                "value": 861,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 20400,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 1160,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 12,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 0,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  126.716      1 -total",
+                " 68.84%   87.227      1 Template:Infobox_book",
+                " 58.12%   73.645      1 Template:Infobox",
+                "  9.72%   12.319      1 Template:Portal",
+                "  7.47%    9.460      1 Template:Reflist",
+                "  7.04%    8.921      1 Template:Australian_anti-nuclear",
+                "  5.50%    6.975      1 Template:ISBNT",
+                "  5.37%    6.805      1 Template:Navbox",
+                "  3.79%    4.806      1 Template:Abbr",
+                "  2.14%    2.715      3 Template:Main_other"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.040",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 1651453,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1188",
+            "timestamp": "20161107062356",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":53,"wgHostname":"mw1218"});});
+  </script>
+ </body>
+</html>

@@ -1,0 +1,4234 @@
+https://en.wikipedia.org/wiki/Low-carbon_power
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Low-carbon power - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Low-carbon_power","wgTitle":"Low-carbon power","wgCurRevisionId":735978053,"wgRevisionId":735978053,"wgArticleId":14090587,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Danish-language sources (da)","CS1 German-language sources (de)","Vague or ambiguous time from December 2013","Alternative energy","Energy development","Low-carbon economy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Low-carbon_power","wgRelevantArticleId":14090587,"wgRequestId":"WB@krgpAEKgAABUkFXQAAACE","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q6692723","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Low-carbon_power" rel="alternate"/>
+  <link href="/w/index.php?title=Low-carbon_power&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Low-carbon_power&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Low-carbon_power" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Low-carbon_power rootpage-Low-carbon_power skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Low-carbon power
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;width:18.0em;">
+      <tr>
+       <td style="padding-top:0.4em;line-height:1.2em">
+        Part of a series about
+       </td>
+      </tr>
+      <tr>
+       <th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em">
+        <a href="/wiki/Sustainable_energy" title="Sustainable energy">
+         Sustainable energy
+        </a>
+       </th>
+      </tr>
+      <tr>
+       <td style="padding:0.2em 0 0.4em">
+        <a class="image" href="/wiki/File:El-v-01_ubt.jpeg" title="Wind turbines near Vendsyssel, Denmark (2004)">
+         <img alt="Wind turbines near Vendsyssel, Denmark (2004)" data-file-height="245" data-file-width="588" height="75" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/El-v-01_ubt.jpeg/180px-El-v-01_ubt.jpeg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/El-v-01_ubt.jpeg/270px-El-v-01_ubt.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/El-v-01_ubt.jpeg/360px-El-v-01_ubt.jpeg 2x" width="180"/>
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th style="padding:0.1em;background:#c8ffb8;">
+        <a href="/wiki/Energy_conservation" title="Energy conservation">
+         Energy conservation
+        </a>
+       </th>
+      </tr>
+      <tr>
+       <td class="hlist" style="padding:0 0.1em 0.4em">
+        <ul>
+         <li>
+          <a href="/wiki/Cogeneration" title="Cogeneration">
+           Cogeneration
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Efficient_energy_use" title="Efficient energy use">
+           Efficient energy use
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Green_building" title="Green building">
+           Green building
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Geothermal_heat_pump" title="Geothermal heat pump">
+           Heat pump
+          </a>
+         </li>
+         <li>
+          <strong class="selflink">
+           Low-carbon power
+          </strong>
+         </li>
+         <li>
+          <a href="/wiki/Microgeneration" title="Microgeneration">
+           Microgeneration
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Passive_solar_building_design" title="Passive solar building design">
+           Passive solar building design
+          </a>
+         </li>
+        </ul>
+       </td>
+      </tr>
+      <tr>
+       <th style="padding:0.1em;background:#c8ffb8;">
+        <a href="/wiki/Renewable_energy" title="Renewable energy">
+         Renewable energy
+        </a>
+       </th>
+      </tr>
+      <tr>
+       <td class="hlist" style="padding:0 0.1em 0.4em">
+        <ul>
+         <li>
+          <a href="/wiki/Anaerobic_digestion" title="Anaerobic digestion">
+           Anaerobic digestion
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Geothermal_power" title="Geothermal power">
+           Geothermal
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Hydroelectricity" title="Hydroelectricity">
+           Hydroelectricity
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Solar_energy" title="Solar energy">
+           Solar
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Tidal_power" title="Tidal power">
+           Tidal
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Wind_power" title="Wind power">
+           Wind
+          </a>
+         </li>
+        </ul>
+       </td>
+      </tr>
+      <tr>
+       <th style="padding:0.1em;background:#c8ffb8;">
+        <a href="/wiki/Sustainable_transport" title="Sustainable transport">
+         Sustainable transport
+        </a>
+       </th>
+      </tr>
+      <tr>
+       <td class="hlist" style="padding:0 0.1em 0.4em">
+        <ul>
+         <li>
+          <a href="/wiki/Carbon-neutral_fuel" title="Carbon-neutral fuel">
+           Carbon-neutral fuel
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Electric_vehicle" title="Electric vehicle">
+           Electric vehicle
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Fossil_fuel_phase-out" title="Fossil fuel phase-out">
+           Fossil fuel phase-out
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Green_vehicle" title="Green vehicle">
+           Green vehicle
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Plug-in_hybrid" title="Plug-in hybrid">
+           Plug-in hybrid
+          </a>
+         </li>
+        </ul>
+       </td>
+      </tr>
+      <tr>
+       <td class="plainlist" style="padding:0.3em 0.4em 0.3em;font-weight:bold;padding-top:0;border-top:1px solid #aaa;border-bottom:1px solid #aaa;text-align:left;font-size:90%;white-space:nowrap;">
+        <div style="height:1.5em;padding-left:0.4em;">
+         <span class="metadata">
+          <a class="image" href="/wiki/File:Sustainable_development.svg">
+           <img alt="icon" data-file-height="510" data-file-width="800" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/16px-Sustainable_development.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/24px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/32px-Sustainable_development.svg.png 2x" width="16"/>
+          </a>
+          <a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">
+           Sustainable development portal
+          </a>
+         </span>
+        </div>
+        <div style="padding-left:0.4em;">
+         <ul>
+          <li>
+           <span class="metadata">
+            <a class="image" href="/wiki/File:Wind-turbine-icon.svg">
+             <img alt="icon" data-file-height="128" data-file-width="128" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/16px-Wind-turbine-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/24px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/32px-Wind-turbine-icon.svg.png 2x" width="16"/>
+            </a>
+            <a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">
+             Renewable energy portal
+            </a>
+           </span>
+          </li>
+          <li>
+           <span class="metadata">
+            <a class="image" href="/wiki/File:Aegopodium_podagraria1_ies.jpg">
+             <img alt="icon" data-file-height="700" data-file-width="800" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/16px-Aegopodium_podagraria1_ies.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/24px-Aegopodium_podagraria1_ies.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/32px-Aegopodium_podagraria1_ies.jpg 2x" width="16"/>
+            </a>
+            <a href="/wiki/Portal:Environment" title="Portal:Environment">
+             Environment portal
+            </a>
+           </span>
+          </li>
+         </ul>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align:right;font-size:115%">
+        <div class="plainlinks hlist navbar mini">
+         <ul>
+          <li class="nv-view">
+           <a href="/wiki/Template:Sustainable_energy" title="Template:Sustainable energy">
+            <abbr title="View this template">
+             v
+            </abbr>
+           </a>
+          </li>
+          <li class="nv-talk">
+           <a href="/wiki/Template_talk:Sustainable_energy" title="Template talk:Sustainable energy">
+            <abbr title="Discuss this template">
+             t
+            </abbr>
+           </a>
+          </li>
+          <li class="nv-edit">
+           <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sustainable_energy&amp;action=edit">
+            <abbr title="Edit this template">
+             e
+            </abbr>
+           </a>
+          </li>
+         </ul>
+        </div>
+       </td>
+      </tr>
+     </table>
+     <p>
+      <b>
+       Low-carbon power
+      </b>
+      comes from processes or technologies that, produce power with substantially lower amounts of
+      <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">
+       carbon dioxide
+      </a>
+      emissions than is emitted from conventional
+      <a href="/wiki/Fossil_fuel" title="Fossil fuel">
+       fossil fuel
+      </a>
+      <a class="mw-redirect" href="/wiki/Power_generation" title="Power generation">
+       power generation
+      </a>
+      . It includes low carbon power generation sources such as
+      <a href="/wiki/Wind_power" title="Wind power">
+       wind power
+      </a>
+      ,
+      <a href="/wiki/Solar_power" title="Solar power">
+       solar power
+      </a>
+      ,
+      <a href="/wiki/Hydropower" title="Hydropower">
+       hydropower
+      </a>
+      and, including fuel preparation and decommissioning,
+      <a href="/wiki/Nuclear_power" title="Nuclear power">
+       nuclear power
+      </a>
+      .
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-2">
+       <a href="#cite_note-2">
+        [2]
+       </a>
+      </sup>
+      The term largely excludes conventional fossil fuel plant sources, and is only used to describe a particular subset of operating fossil fuel power systems, specifically, those that are successfully coupled with a
+      <a href="/wiki/Flue_gas" title="Flue gas">
+       flue gas
+      </a>
+      <a href="/wiki/Carbon_capture_and_storage" title="Carbon capture and storage">
+       carbon capture and storage
+      </a>
+      (CCS) system.
+      <sup class="reference" id="cite_ref-gov.uk_3-0">
+       <a href="#cite_note-gov.uk-3">
+        [3]
+       </a>
+      </sup>
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#History">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          History
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#Power_sources_by_carbon_dioxide_emissions">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Power sources by carbon dioxide emissions
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-3">
+          <a href="#Vattenfall_study">
+           <span class="tocnumber">
+            2.1
+           </span>
+           <span class="toctext">
+            Vattenfall study
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-4">
+          <a href="#Sovacool_life_cycle_study_survey">
+           <span class="tocnumber">
+            2.2
+           </span>
+           <span class="toctext">
+            Sovacool life cycle study survey
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-5">
+          <a href="#Yale_University_life_cycle_analysis_of_nuclear_power">
+           <span class="tocnumber">
+            2.3
+           </span>
+           <span class="toctext">
+            Yale University life cycle analysis of nuclear power
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-6">
+        <a href="#Differentiating_attributes_of_low-carbon_power_sources">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          Differentiating attributes of low-carbon power sources
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-7">
+        <a href="#Examples_of_low_carbon_power_technology">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          Examples of low carbon power technology
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-8">
+          <a href="#Hydroelectric_power">
+           <span class="tocnumber">
+            4.1
+           </span>
+           <span class="toctext">
+            Hydroelectric power
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-9">
+          <a href="#Nuclear_power">
+           <span class="tocnumber">
+            4.2
+           </span>
+           <span class="toctext">
+            Nuclear power
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-10">
+          <a href="#Wind_power">
+           <span class="tocnumber">
+            4.3
+           </span>
+           <span class="toctext">
+            Wind power
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-11">
+          <a href="#Solar_power">
+           <span class="tocnumber">
+            4.4
+           </span>
+           <span class="toctext">
+            Solar power
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-12">
+          <a href="#Geothermal_power">
+           <span class="tocnumber">
+            4.5
+           </span>
+           <span class="toctext">
+            Geothermal power
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-13">
+          <a href="#Tidal_power">
+           <span class="tocnumber">
+            4.6
+           </span>
+           <span class="toctext">
+            Tidal power
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-14">
+          <a href="#Carbon_capture_and_storage">
+           <span class="tocnumber">
+            4.7
+           </span>
+           <span class="toctext">
+            Carbon capture and storage
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-15">
+        <a href="#The_outlook_for.2C_and_requirements_of.2C_low_carbon_power">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          The outlook for, and requirements of, low carbon power
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-16">
+          <a href="#Emissions">
+           <span class="tocnumber">
+            5.1
+           </span>
+           <span class="toctext">
+            Emissions
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-17">
+          <a href="#Electricity_usage">
+           <span class="tocnumber">
+            5.2
+           </span>
+           <span class="toctext">
+            Electricity usage
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-18">
+          <a href="#Energy_infrastructure">
+           <span class="tocnumber">
+            5.3
+           </span>
+           <span class="toctext">
+            Energy infrastructure
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-19">
+          <a href="#Investment">
+           <span class="tocnumber">
+            5.4
+           </span>
+           <span class="toctext">
+            Investment
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-20">
+        <a href="#See_also">
+         <span class="tocnumber">
+          6
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-21">
+        <a href="#References">
+         <span class="tocnumber">
+          7
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="History">
+       History
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Low-carbon_power&amp;action=edit&amp;section=1" title="Edit section: History">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      Over the past 30 years,
+      <sup class="noprint Inline-Template" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items" title="Wikipedia:Manual of Style/Dates and numbers">
+         <span title="The time period mentioned near this tag is ambiguous. (December 2013)">
+          when?
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+      significant findings regarding
+      <a href="/wiki/Global_warming" title="Global warming">
+       global warming
+      </a>
+      highlighted the need to curb carbon emissions. From this, the idea for low carbon power was born. The
+      <a href="/wiki/Intergovernmental_Panel_on_Climate_Change" title="Intergovernmental Panel on Climate Change">
+       Intergovernmental Panel on Climate Change
+      </a>
+      (IPCC), established by the
+      <a href="/wiki/World_Meteorological_Organization" title="World Meteorological Organization">
+       World Meteorological Organization
+      </a>
+      (WMO) and the
+      <a class="mw-redirect" href="/wiki/United_Nations_Environment_Program" title="United Nations Environment Program">
+       United Nations Environment Program
+      </a>
+      (UNEP) in 1988, set the scientific precedence for the introduction of low carbon power. The IPCC has continued to provide scientific, technical and socio-economic advice to the world community, through its periodic assessment reports and special reports.
+      <sup class="reference" id="cite_ref-4">
+       <a href="#cite_note-4">
+        [4]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Internationally, the most prominent early step in the direction of low carbon power was the signing of the
+      <a href="/wiki/Kyoto_Protocol" title="Kyoto Protocol">
+       Kyoto Protocol
+      </a>
+      , which came into force on February 16, 2005, under which most industrialized countries committed to reduce their carbon emissions. The historical event set the political precedence for introduction of low carbon power technology.
+     </p>
+     <p>
+      On a social level, perhaps the biggest factor contributing to the general public’s awareness of climate change and the need for new technologies, including low carbon power, came from the documentary
+      <i>
+       <a href="/wiki/An_Inconvenient_Truth" title="An Inconvenient Truth">
+        An Inconvenient Truth
+       </a>
+      </i>
+      , which clarified and highlighted the problem of global warming.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Power_sources_by_carbon_dioxide_emissions">
+       Power sources by carbon dioxide emissions
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Low-carbon_power&amp;action=edit&amp;section=2" title="Edit section: Power sources by carbon dioxide emissions">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="hatnote" role="note">
+      Main article:
+      <a href="/wiki/Life-cycle_greenhouse-gas_emissions_of_energy_sources" title="Life-cycle greenhouse-gas emissions of energy sources">
+       Life-cycle greenhouse-gas emissions of energy sources
+      </a>
+     </div>
+     <h3>
+      <span class="mw-headline" id="Vattenfall_study">
+       Vattenfall study
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Low-carbon_power&amp;action=edit&amp;section=3" title="Edit section: Vattenfall study">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <div class="floatright">
+      <a class="image" href="/wiki/File:Greenhouse_emissions_by_electricity_source.PNG" title="The Vattenfall study found nuclear, hydro, and wind to have far less greenhouse emissions than other sources represented.">
+       <img alt="The Vattenfall study found nuclear, hydro, and wind to have far less greenhouse emissions than other sources represented." data-file-height="537" data-file-width="944" height="171" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Greenhouse_emissions_by_electricity_source.PNG/300px-Greenhouse_emissions_by_electricity_source.PNG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Greenhouse_emissions_by_electricity_source.PNG/450px-Greenhouse_emissions_by_electricity_source.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Greenhouse_emissions_by_electricity_source.PNG/600px-Greenhouse_emissions_by_electricity_source.PNG 2x" width="300"/>
+      </a>
+     </div>
+     <p>
+      The Swedish utility
+      <a href="/wiki/Vattenfall" title="Vattenfall">
+       Vattenfall
+      </a>
+      did a study of full life cycle emissions of nuclear, hydro, coal, gas, solar cell, peat and wind which the utility uses to produce electricity. The net result of the study was that nuclear power produced 3.3 grams of carbon dioxide per kW-hr of produced power. This compares to 400 for
+      <a href="/wiki/Natural_gas" title="Natural gas">
+       natural gas
+      </a>
+      and 700 for
+      <a href="/wiki/Coal" title="Coal">
+       coal
+      </a>
+      (according to this study). The study also concluded that nuclear power produced the smallest amount of CO
+      <sub>
+       2
+      </sub>
+      of any of their electricity sources.
+      <sup class="reference" id="cite_ref-5">
+       <a href="#cite_note-5">
+        [5]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Sovacool_life_cycle_study_survey">
+       Sovacool life cycle study survey
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Low-carbon_power&amp;action=edit&amp;section=4" title="Edit section: Sovacool life cycle study survey">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Sovacool_2008_life-cycle_study.png">
+        <img alt="" class="thumbimage" data-file-height="800" data-file-width="944" height="186" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sovacool_2008_life-cycle_study.png/220px-Sovacool_2008_life-cycle_study.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sovacool_2008_life-cycle_study.png/330px-Sovacool_2008_life-cycle_study.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sovacool_2008_life-cycle_study.png/440px-Sovacool_2008_life-cycle_study.png 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Sovacool_2008_life-cycle_study.png" title="Enlarge">
+         </a>
+        </div>
+        Sovacool says that the mean value of CO
+        <sub>
+         2
+        </sub>
+        emissions for nuclear power over the life cycle of a plant was 66.08 g/kWh.
+       </div>
+      </div>
+     </div>
+     <p>
+      A 2008
+      <a class="mw-redirect" href="/wiki/Meta_analysis" title="Meta analysis">
+       meta analysis
+      </a>
+      , "Valuing the use Gas Emissions from Nuclear Power: A Critical Survey,"
+      <sup class="reference" id="cite_ref-6">
+       <a href="#cite_note-6">
+        [6]
+       </a>
+      </sup>
+      by
+      <a href="/wiki/Benjamin_K._Sovacool" title="Benjamin K. Sovacool">
+       Benjamin K. Sovacool
+      </a>
+      , analysed 103 life cycle studies of greenhouse gas-equivalent emissions for nuclear power plants. The studies surveyed included the 1997 Vattenfall comparative emissions study, among others. Sovacool's analysis calculated that the mean value of emissions over the lifetime of a nuclear power plant is 66 g/kWh. Comparative results for
+      <a href="/wiki/Wind_power" title="Wind power">
+       wind power
+      </a>
+      ,
+      <a href="/wiki/Hydroelectricity" title="Hydroelectricity">
+       hydroelectricity
+      </a>
+      ,
+      <a class="mw-redirect" href="/wiki/Solar_thermal_power" title="Solar thermal power">
+       solar thermal power
+      </a>
+      , and
+      <a class="mw-redirect" href="/wiki/Solar_photovoltaic" title="Solar photovoltaic">
+       solar photovoltaic
+      </a>
+      , were 9-10 g/kWh, 10-13 g/kWh, 13 g/kWh and 32 g/kWh respectively.
+      <sup class="reference" id="cite_ref-7">
+       <a href="#cite_note-7">
+        [7]
+       </a>
+      </sup>
+      Sovacool's analysis has been criticized for poor methodology and data selection.
+      <sup class="reference" id="cite_ref-8">
+       <a href="#cite_note-8">
+        [8]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Yale_University_life_cycle_analysis_of_nuclear_power">
+       Yale University life cycle analysis of nuclear power
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Low-carbon_power&amp;action=edit&amp;section=5" title="Edit section: Yale University life cycle analysis of nuclear power">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      A 2012
+      <a class="mw-redirect" href="/wiki/Life_cycle_assessment" title="Life cycle assessment">
+       life cycle assessment
+      </a>
+      (LCA) review by
+      <a href="/wiki/Yale_University" title="Yale University">
+       Yale University
+      </a>
+      said that "depending on conditions, median life cycle
+      <a href="/wiki/Greenhouse_gas" title="Greenhouse gas">
+       GHG
+      </a>
+      emissions [for nuclear electricity generation technologies] could be 9 to 110 g CO
+      <sub>
+       2
+      </sub>
+      -eq/kWh by 2050." It stated:
+      <sup class="reference" id="cite_ref-9">
+       <a href="#cite_note-9">
+        [9]
+       </a>
+      </sup>
+     </p>
+     <blockquote class="templatequote">
+      <p>
+       "The collective LCA literature indicates that life cycle GHG emissions from nuclear power are only a fraction of traditional fossil sources and comparable to renewable technologies."
+      </p>
+     </blockquote>
+     <p>
+      It added that for the most common category of reactors, the
+      <a class="mw-redirect" href="/wiki/Light_water_reactor" title="Light water reactor">
+       Light water reactor
+      </a>
+      (LWR):
+     </p>
+     <blockquote class="templatequote">
+      <p>
+       "Harmonization decreased the
+       <a href="/wiki/Median" title="Median">
+        median
+       </a>
+       estimate for all LWR technology categories so that the
+       <a href="/wiki/Median" title="Median">
+        medians
+       </a>
+       of
+       <a href="/wiki/Boiling_water_reactor" title="Boiling water reactor">
+        BWRs
+       </a>
+       ,
+       <a href="/wiki/Pressurized_water_reactor" title="Pressurized water reactor">
+        PWRs
+       </a>
+       , and all LWRs are similar, at approximately 12 g CO
+       <sub>
+        2
+       </sub>
+       -eq/kWh"
+      </p>
+     </blockquote>
+     <h2>
+      <span class="mw-headline" id="Differentiating_attributes_of_low-carbon_power_sources">
+       Differentiating attributes of low-carbon power sources
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Low-carbon_power&amp;action=edit&amp;section=6" title="Edit section: Differentiating attributes of low-carbon power sources">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      There are many options for lowering current levels of carbon emissions. Some options, such as wind power and solar power, produce low quantities of total life cycle carbon emissions, using entirely renewable sources. Other options, such as nuclear power, produce a comparable amount of carbon dioxide emissions as renewable technologies in total life cycle emissions, but consume non-renewable, but sustainable
+      <sup class="reference" id="cite_ref-10">
+       <a href="#cite_note-10">
+        [10]
+       </a>
+      </sup>
+      materials (
+      <a href="/wiki/Uranium" title="Uranium">
+       uranium
+      </a>
+      ). The term low carbon power can also include power that continues to utilize the world’s natural resources, such as natural gas and coal, but only when they employ techniques that reduce carbon dioxide emissions from these sources when burning them for fuel, such as the, as of 2012, pilot plants performing
+      <a href="/wiki/Carbon_capture_and_storage" title="Carbon capture and storage">
+       Carbon capture and storage
+      </a>
+      .
+      <sup class="reference" id="cite_ref-gov.uk_3-1">
+       <a href="#cite_note-gov.uk-3">
+        [3]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-11">
+       <a href="#cite_note-11">
+        [11]
+       </a>
+      </sup>
+     </p>
+     <p>
+      As the single
+      <a href="/wiki/List_of_countries_by_carbon_dioxide_emissions" title="List of countries by carbon dioxide emissions">
+       largest emitter
+      </a>
+      of carbon dioxide in the United States, the electric-power industry accounted for 39% of CO
+      <sub>
+       2
+      </sub>
+      emissions in 2004, a 27% increase since 1990.
+      <sup class="reference" id="cite_ref-12">
+       <a href="#cite_note-12">
+        [12]
+       </a>
+      </sup>
+      Because the cost of reducing emissions in the electricity sector appears to be lower than in other sectors such as transportation, the electricity sector may deliver the largest proportional carbon reductions under an economically efficient climate policy.
+      <sup class="reference" id="cite_ref-issues_13-0">
+       <a href="#cite_note-issues-13">
+        [13]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Technologies to produce electric power with low-carbon emissions are already in use at various scales. Together, they account for roughly 28% of all U.S. electric-power production, with nuclear power representing the majority (20%), followed by hydroelectric power (7%).
+      <sup class="reference" id="cite_ref-issues_13-1">
+       <a href="#cite_note-issues-13">
+        [13]
+       </a>
+      </sup>
+      However, demand for power is increasing, driven by increased population and per capita demand, and low carbon power can supplement the supply needed.
+      <sup class="reference" id="cite_ref-14">
+       <a href="#cite_note-14">
+        [14]
+       </a>
+      </sup>
+     </p>
+     <table class="wikitable sortable" style="float:right; clear: right; margin: 0em 0em 1.5em 1em;">
+      <tr>
+       <th>
+        <a href="/wiki/Energy_returned_on_energy_invested" title="Energy returned on energy invested">
+         EROEI
+        </a>
+       </th>
+       <th width="300">
+        energy sources in 2013
+       </th>
+      </tr>
+      <tr>
+       <td>
+        3.5
+       </td>
+       <td>
+        <a href="/wiki/Biomass" title="Biomass">
+         Biomass
+        </a>
+        (corn)
+       </td>
+      </tr>
+      <tr>
+       <td>
+        3.9
+       </td>
+       <td>
+        Solar
+        <a href="/wiki/Photovoltaics" title="Photovoltaics">
+         PV
+        </a>
+        (Germany)
+       </td>
+      </tr>
+      <tr>
+       <td>
+        16
+       </td>
+       <td>
+        Wind (
+        <a href="/wiki/Enercon" title="Enercon">
+         E
+        </a>
+        -66
+        <a href="/wiki/Wind_turbine" title="Wind turbine">
+         turbine
+        </a>
+        )
+       </td>
+      </tr>
+      <tr>
+       <td>
+        19
+       </td>
+       <td>
+        Solar thermal
+        <a href="/wiki/Concentrated_solar_power" title="Concentrated solar power">
+         CSP
+        </a>
+        (desert)
+       </td>
+      </tr>
+      <tr>
+       <td>
+        28
+       </td>
+       <td>
+        <a class="mw-redirect" href="/wiki/Fossil_gas" title="Fossil gas">
+         fossil gas
+        </a>
+        in a
+        <a class="mw-redirect" href="/wiki/Combined_cycle_gas_turbine" title="Combined cycle gas turbine">
+         CCGT
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        30
+       </td>
+       <td>
+        <a href="/wiki/Coal" title="Coal">
+         Coal
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        49
+       </td>
+       <td>
+        <a class="mw-redirect" href="/wiki/Hydroelectric" title="Hydroelectric">
+         Hydro
+        </a>
+        (medium-sized
+        <a href="/wiki/Dam" title="Dam">
+         dam
+        </a>
+        )
+       </td>
+      </tr>
+      <tr>
+       <td>
+        75
+       </td>
+       <td>
+        Nuclear (in a
+        <a href="/wiki/Pressurized_water_reactor" title="Pressurized water reactor">
+         PWR
+        </a>
+        )
+       </td>
+      </tr>
+      <tr>
+       <th colspan="2" style="text-align: left; font-weight: normal; font-size: 0.85em;">
+        Source:
+        <sup class="reference" id="cite_ref-sciencedirect.com_15-0">
+         <a href="#cite_note-sciencedirect.com-15">
+          [15]
+         </a>
+        </sup>
+       </th>
+      </tr>
+     </table>
+     <p>
+      According to a transatlantic collaborative research paper on
+      <a class="mw-redirect" href="/wiki/EROEI" title="EROEI">
+       Energy return on energy Invested
+      </a>
+      (EROEI), conducted by 6 analysts led by D. Weißbach, and described as "...the most extensive overview so far based on a careful evaluation of available
+      <a class="mw-redirect" href="/wiki/Life_Cycle_Assessment" title="Life Cycle Assessment">
+       Life Cycle Assessments
+      </a>
+      ".
+      <sup class="reference" id="cite_ref-16">
+       <a href="#cite_note-16">
+        [16]
+       </a>
+      </sup>
+      Which was published in the
+      <a class="mw-redirect" href="/wiki/Peer_reviewed" title="Peer reviewed">
+       peer reviewed
+      </a>
+      journal
+      <i>
+       Energy
+      </i>
+      in 2013. The uncorrected for their
+      <a href="/wiki/Intermittency" title="Intermittency">
+       intermittency
+      </a>
+      ("unbuffered") EROEI for each energy source analyzed is as depicted in the attached table at right.
+      <sup class="reference" id="cite_ref-sciencedirect.com_15-1">
+       <a href="#cite_note-sciencedirect.com-15">
+        [15]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-17">
+       <a href="#cite_note-17">
+        [17]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-ReferenceA_18-0">
+       <a href="#cite_note-ReferenceA-18">
+        [18]
+       </a>
+      </sup>
+      While the buffered(corrected for their
+      <a href="/wiki/Intermittency" title="Intermittency">
+       intermittency
+      </a>
+      ) EROEI stated in the paper for all low carbon power sources, with the exception of nuclear and biomass, were yet lower still. As when corrected for their weather intermittency/"buffered", the EROEI figures for intermittent energy sources as stated in the paper is diminished - a reduction of EROEI dependent on
+      <a href="/wiki/Capacity_factor" title="Capacity factor">
+       how reliant they are on back up energy sources
+      </a>
+      .
+      <sup class="reference" id="cite_ref-sciencedirect.com_15-2">
+       <a href="#cite_note-sciencedirect.com-15">
+        [15]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-ReferenceA_18-1">
+       <a href="#cite_note-ReferenceA-18">
+        [18]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Although the methodological integrity of this paper was challenged by, Marco Raugei, in late 2013.
+      <sup class="reference" id="cite_ref-19">
+       <a href="#cite_note-19">
+        [19]
+       </a>
+      </sup>
+      The authors of the initial paper responded to each of Raugei's concerns in 2014, and after analysis, each of Raugei's concerns were summarized as "not scientifically justified" and based on faulty EROEI understandings due to "politically motivated energy evaluations".
+      <sup class="reference" id="cite_ref-20">
+       <a href="#cite_note-20">
+        [20]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Examples_of_low_carbon_power_technology">
+       Examples of low carbon power technology
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Low-carbon_power&amp;action=edit&amp;section=7" title="Edit section: Examples of low carbon power technology">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The 2014 Intergovernmental Panel on Climate Change report identifies nuclear, wind, solar and hydroelectricity in suitable locations as technologies that can provide electricity with less than 5% of the lifecycle greenhouse gas emissions of coal power.
+      <sup class="reference" id="cite_ref-21">
+       <a href="#cite_note-21">
+        [21]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Hydroelectric_power">
+       Hydroelectric power
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Low-carbon_power&amp;action=edit&amp;section=8" title="Edit section: Hydroelectric power">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Hoovernewbridge.jpg">
+        <img alt="" class="thumbimage" data-file-height="2304" data-file-width="3072" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Hoovernewbridge.jpg/220px-Hoovernewbridge.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Hoovernewbridge.jpg/330px-Hoovernewbridge.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Hoovernewbridge.jpg/440px-Hoovernewbridge.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Hoovernewbridge.jpg" title="Enlarge">
+         </a>
+        </div>
+        The
+        <a href="/wiki/Hoover_Dam" title="Hoover Dam">
+         Hoover Dam
+        </a>
+        when completed in 1936 was both the world's largest electric-power generating station and the world's largest concrete structure.
+       </div>
+      </div>
+     </div>
+     <p>
+      <a class="mw-redirect" href="/wiki/Hydroelectric" title="Hydroelectric">
+       Hydroelectric
+      </a>
+      plants have the advantage of being long-lived and many existing plants have operated for more than 100 years. Hydropower is also an extremely flexible technology from the perspective of power grid operation. Large hydropower provides one of the lowest cost options in today’s energy market, even compared to fossil fuels and there are no harmful emissions associated with plant operation.
+      <sup class="reference" id="cite_ref-IEA_22-0">
+       <a href="#cite_note-IEA-22">
+        [22]
+       </a>
+      </sup>
+      However there are typically low greenhouse gas emissions with
+      <a href="/wiki/Reservoir" title="Reservoir">
+       reservoirs
+      </a>
+      , and possibly high emissions in the tropics.
+     </p>
+     <p>
+      Hydroelectric power is the world’s largest low carbon source of electricity, supplying 16.6% of total electricity in 2014.
+      <sup class="reference" id="cite_ref-23">
+       <a href="#cite_note-23">
+        [23]
+       </a>
+      </sup>
+      <a href="/wiki/Electricity_sector_in_China#Hydropower" title="Electricity sector in China">
+       China
+      </a>
+      is by far the world's largest producer of
+      <a href="/wiki/Hydroelectricity" title="Hydroelectricity">
+       hydroelectricity
+      </a>
+      in the world, followed by
+      <a href="/wiki/Electricity_sector_in_Brazil" title="Electricity sector in Brazil">
+       Brazil
+      </a>
+      and
+      <a class="mw-redirect" href="/wiki/Hydroelectric_power_in_Canada" title="Hydroelectric power in Canada">
+       Canada
+      </a>
+      .
+     </p>
+     <p>
+      However, there are several significant social and environmental disadvantages of large-scale hydroelectric power systems: dislocation, if people are living where the reservoirs are planned, release of
+      <a href="/wiki/Greenhouse_gas#Life-cycle_greenhouse-gas_emissions_of_energy_sources" title="Greenhouse gas">
+       significant amounts of carbon dioxide and methane
+      </a>
+      during construction and flooding of the reservoir, and disruption of aquatic ecosystems and birdlife.
+      <sup class="reference" id="cite_ref-24">
+       <a href="#cite_note-24">
+        [24]
+       </a>
+      </sup>
+      There is a strong consensus now that countries should adopt an integrated approach towards managing water resources, which would involve planning hydropower development in co-operation with other water-using sectors.
+      <sup class="reference" id="cite_ref-IEA_22-1">
+       <a href="#cite_note-IEA-22">
+        [22]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Nuclear_power">
+       Nuclear power
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Low-carbon_power&amp;action=edit&amp;section=9" title="Edit section: Nuclear power">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <div class="thumb tleft">
+      <div class="thumbinner" style="width:202px;">
+       <a class="image" href="/wiki/File:Advanced_Test_Reactor.jpg">
+        <img alt="" class="thumbimage" data-file-height="3668" data-file-width="2791" height="263" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Advanced_Test_Reactor.jpg/200px-Advanced_Test_Reactor.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Advanced_Test_Reactor.jpg/300px-Advanced_Test_Reactor.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Advanced_Test_Reactor.jpg/400px-Advanced_Test_Reactor.jpg 2x" width="200"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Advanced_Test_Reactor.jpg" title="Enlarge">
+         </a>
+        </div>
+        Blue
+        <a href="/wiki/Cherenkov" title="Cherenkov">
+         Cherenkov
+        </a>
+        light being produced near the core of the Fission powered
+        <a href="/wiki/Advanced_Test_Reactor" title="Advanced Test Reactor">
+         Advanced Test Reactor
+        </a>
+       </div>
+      </div>
+     </div>
+     <p>
+      <a href="/wiki/Nuclear_power" title="Nuclear power">
+       Nuclear power
+      </a>
+      , with a 10.6% share of world electricity production as of 2013, is the second largest low-carbon power source.
+      <sup class="reference" id="cite_ref-25">
+       <a href="#cite_note-25">
+        [25]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Nuclear power, in 2010, also provided two thirds(2/3) of the twenty seven nation
+      <a href="/wiki/European_Union" title="European Union">
+       European Union
+      </a>
+      's low-carbon energy.
+      <sup class="reference" id="cite_ref-26">
+       <a href="#cite_note-26">
+        [26]
+       </a>
+      </sup>
+      With for example some EU nations sourcing a considerable amount of their electricity from nuclear power, for example
+      <a href="/wiki/Nuclear_power_in_France" title="Nuclear power in France">
+       France derives 79% of its electricity from nuclear
+      </a>
+      .
+     </p>
+     <p>
+      According to the
+      <a class="mw-redirect" href="/wiki/IAEA" title="IAEA">
+       IAEA
+      </a>
+      and
+      <a href="/wiki/European_Nuclear_Society" title="European Nuclear Society">
+       European Nuclear Society
+      </a>
+      , worldwide there were 68 civil nuclear power reactors under construction in 15 countries in 2013.
+      <sup class="reference" id="cite_ref-27">
+       <a href="#cite_note-27">
+        [27]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-euronuclear.org_28-0">
+       <a href="#cite_note-euronuclear.org-28">
+        [28]
+       </a>
+      </sup>
+      China has 29 of these nuclear power reactors under construction, as of 2013, with plans to build many more,
+      <sup class="reference" id="cite_ref-euronuclear.org_28-1">
+       <a href="#cite_note-euronuclear.org-28">
+        [28]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-Nuclear_Power_in_China_29-0">
+       <a href="#cite_note-Nuclear_Power_in_China-29">
+        [29]
+       </a>
+      </sup>
+      while in the US the licenses of almost half its reactors have been extended to 60 years,
+      <sup class="reference" id="cite_ref-Nuclear_Power_in_the_USA_30-0">
+       <a href="#cite_note-Nuclear_Power_in_the_USA-30">
+        [30]
+       </a>
+      </sup>
+      and plans to build another dozen are under serious consideration.
+      <sup class="reference" id="cite_ref-matt2010_31-0">
+       <a href="#cite_note-matt2010-31">
+        [31]
+       </a>
+      </sup>
+      There are also a considerable number of new reactors being built in South Korea, India, and Russia.
+     </p>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:352px;">
+       <a class="image" href="/wiki/File:Net_US_Electric_Generation_for_2009.jpg">
+        <img alt="" class="thumbimage" data-file-height="399" data-file-width="758" height="184" src="//upload.wikimedia.org/wikipedia/en/thumb/c/cc/Net_US_Electric_Generation_for_2009.jpg/350px-Net_US_Electric_Generation_for_2009.jpg" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/cc/Net_US_Electric_Generation_for_2009.jpg/525px-Net_US_Electric_Generation_for_2009.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/cc/Net_US_Electric_Generation_for_2009.jpg/700px-Net_US_Electric_Generation_for_2009.jpg 2x" width="350"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Net_US_Electric_Generation_for_2009.jpg" title="Enlarge">
+         </a>
+        </div>
+        This graph illustrates
+        <a href="/wiki/Nuclear_power" title="Nuclear power">
+         nuclear power
+        </a>
+        is the United States's largest contributor of non-greenhouse-gas-emitting electric power generation, comprising nearly three-quarters of the non-emitting sources.
+       </div>
+      </div>
+     </div>
+     <p>
+      Nuclear power's capability to add significantly to future low carbon energy growth depends on several factors, including the economics of new reactor designs, such as
+      <a href="/wiki/Generation_III_reactor" title="Generation III reactor">
+       Generation III reactors
+      </a>
+      , public opinion and national and regional politics.
+     </p>
+     <p>
+      The 104 U.S. nuclear plants are undergoing a
+      <a href="/wiki/Light_Water_Reactor_Sustainability_Program" title="Light Water Reactor Sustainability Program">
+       Light Water Reactor Sustainability Program
+      </a>
+      , to sustainably extend the life span of the U.S. nuclear fleet by a further 20 years. With further US power plants under construction in 2013, such as the two
+      <a href="/wiki/AP1000" title="AP1000">
+       AP1000s
+      </a>
+      at
+      <a href="/wiki/Vogtle_Electric_Generating_Plant" title="Vogtle Electric Generating Plant">
+       Vogtle Electric Generating Plant
+      </a>
+      . However the
+      <a class="mw-redirect" href="/wiki/Economics_of_new_nuclear_power_plants" title="Economics of new nuclear power plants">
+       Economics of new nuclear power plants
+      </a>
+      are still evolving and plans to add to those plants are mostly in flux.
+      <sup class="reference" id="cite_ref-32">
+       <a href="#cite_note-32">
+        [32]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Wind_power">
+       Wind power
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Low-carbon_power&amp;action=edit&amp;section=10" title="Edit section: Wind power">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <div class="hatnote" role="note">
+      See also:
+      <a href="/wiki/List_of_onshore_wind_farms" title="List of onshore wind farms">
+       List of onshore wind farms
+      </a>
+      and
+      <a href="/wiki/List_of_offshore_wind_farms" title="List of offshore wind farms">
+       List of offshore wind farms
+      </a>
+     </div>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Global_Wind_Power_Cumulative_Capacity.svg">
+        <img alt="" class="thumbimage" data-file-height="600" data-file-width="800" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Global_Wind_Power_Cumulative_Capacity.svg/220px-Global_Wind_Power_Cumulative_Capacity.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Global_Wind_Power_Cumulative_Capacity.svg/330px-Global_Wind_Power_Cumulative_Capacity.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Global_Wind_Power_Cumulative_Capacity.svg/440px-Global_Wind_Power_Cumulative_Capacity.svg.png 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Global_Wind_Power_Cumulative_Capacity.svg" title="Enlarge">
+         </a>
+        </div>
+        Worldwide installed wind power capacity (Source:
+        <a href="/wiki/Global_Wind_Energy_Council" title="Global Wind Energy Council">
+         GWEC
+        </a>
+        )
+        <sup class="reference" id="cite_ref-gws-2011_33-0">
+         <a href="#cite_note-gws-2011-33">
+          [33]
+         </a>
+        </sup>
+       </div>
+      </div>
+     </div>
+     <p>
+      Worldwide there are now over two hundred thousand wind turbines operating, with a total
+      <a href="/wiki/Nameplate_capacity" title="Nameplate capacity">
+       nameplate capacity
+      </a>
+      of 238,351 MW as of end 2011,
+      <sup class="reference" id="cite_ref-global_council_34-0">
+       <a href="#cite_note-global_council-34">
+        [34]
+       </a>
+      </sup>
+      while not correcting for Wind power's comparatively low ~30%
+      <a href="/wiki/Capacity_factor" title="Capacity factor">
+       capacity factor
+      </a>
+      . The European Union alone passed some 100,000 MW
+      <a href="/wiki/Nameplate_capacity" title="Nameplate capacity">
+       nameplate capacity
+      </a>
+      in September 2012,
+      <sup class="reference" id="cite_ref-35">
+       <a href="#cite_note-35">
+        [35]
+       </a>
+      </sup>
+      while the United States surpassed 50,000 MW in August 2012 and
+      <a class="mw-redirect" href="/wiki/Wind_power_in_the_People%27s_Republic_of_China" title="Wind power in the People's Republic of China">
+       China
+      </a>
+      passed 50,000 MW the same month.
+      <sup class="reference" id="cite_ref-36">
+       <a href="#cite_note-36">
+        [36]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-37">
+       <a href="#cite_note-37">
+        [37]
+       </a>
+      </sup>
+      World wind generation capacity more than quadrupled between 2000 and 2006, doubling about every three years.
+      <a href="/wiki/Wind_power_in_the_United_States" title="Wind power in the United States">
+       The United States pioneered wind farms
+      </a>
+      and led the world in installed capacity in the 1980s and into the 1990s. In 1997 German installed capacity surpassed the U.S. and led until once again overtaken by the U.S. in 2008. China has been rapidly expanding its wind installations in the late 2000s and passed the U.S. in 2010 to become the world leader.
+     </p>
+     <p>
+      At the end of 2011, worldwide nameplate capacity of wind-powered generators was 238
+      <a class="mw-redirect" href="/wiki/Gigawatt" title="Gigawatt">
+       gigawatts
+      </a>
+      (GW), growing by 40.5 GW of nameplate capacity over the preceding year.
+      <sup class="reference" id="cite_ref-38">
+       <a href="#cite_note-38">
+        [38]
+       </a>
+      </sup>
+      Between 2005 and 2010 the average annual growth in new installations was 27.6 percent. According to the
+      <a href="/wiki/World_Wind_Energy_Association" title="World Wind Energy Association">
+       World Wind Energy Association
+      </a>
+      , an industry organization, in 2010 wind power generated 430 TWh or about 2.5% of worldwide electricity usage,
+      <sup class="reference" id="cite_ref-wwea_39-0">
+       <a href="#cite_note-wwea-39">
+        [39]
+       </a>
+      </sup>
+      up from 1.5% in 2008 and 0.1% in 1997. Wind power's share of worldwide electricity usage at the end of 2014 was 3.1%.
+      <sup class="reference" id="cite_ref-ren21.net_40-0">
+       <a href="#cite_note-ren21.net-40">
+        [40]
+       </a>
+      </sup>
+      Several countries have already achieved relatively high levels of penetration, such as 28% of stationary (grid) electricity production in
+      <a href="/wiki/Wind_power_in_Denmark" title="Wind power in Denmark">
+       Denmark
+      </a>
+      (2011),
+      <sup class="reference" id="cite_ref-Elstat_41-0">
+       <a href="#cite_note-Elstat-41">
+        [41]
+       </a>
+      </sup>
+      19% in
+      <a href="/wiki/Wind_power_in_Portugal" title="Wind power in Portugal">
+       Portugal
+      </a>
+      (2011),
+      <sup class="reference" id="cite_ref-renPT2011_42-0">
+       <a href="#cite_note-renPT2011-42">
+        [42]
+       </a>
+      </sup>
+      16% in
+      <a href="/wiki/Wind_power_in_Spain" title="Wind power in Spain">
+       Spain
+      </a>
+      (2011),
+      <sup class="reference" id="cite_ref-ree2011prelim_43-0">
+       <a href="#cite_note-ree2011prelim-43">
+        [43]
+       </a>
+      </sup>
+      14% in
+      <a class="mw-redirect" href="/wiki/Wind_power_in_Ireland" title="Wind power in Ireland">
+       Ireland
+      </a>
+      (2010 to 2014)
+      <sup class="reference" id="cite_ref-eirgrid_renewables_44-0">
+       <a href="#cite_note-eirgrid_renewables-44">
+        [44]
+       </a>
+      </sup>
+      and 8% in
+      <a href="/wiki/Wind_power_in_Germany" title="Wind power in Germany">
+       Germany
+      </a>
+      (2011).
+      <sup class="reference" id="cite_ref-45">
+       <a href="#cite_note-45">
+        [45]
+       </a>
+      </sup>
+      As of 2011, 83 countries around the world were using wind power on a commercial basis.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Solar_power">
+       Solar power
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Low-carbon_power&amp;action=edit&amp;section=11" title="Edit section: Solar power">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <div class="hatnote" role="note">
+      Main article:
+      <a href="/wiki/Solar_power" title="Solar power">
+       Solar power
+      </a>
+     </div>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:PS10_solar_power_tower.jpg">
+        <img alt="" class="thumbimage" data-file-height="436" data-file-width="700" height="137" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/PS10_solar_power_tower.jpg/220px-PS10_solar_power_tower.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/PS10_solar_power_tower.jpg/330px-PS10_solar_power_tower.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/PS10_solar_power_tower.jpg/440px-PS10_solar_power_tower.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:PS10_solar_power_tower.jpg" title="Enlarge">
+         </a>
+        </div>
+        The
+        <a class="mw-redirect" href="/wiki/PS10_solar_power_tower" title="PS10 solar power tower">
+         PS10
+        </a>
+        concentrates sunlight from a field of heliostats on a central tower.
+       </div>
+      </div>
+     </div>
+     <p>
+      Solar power is the conversion of
+      <a href="/wiki/Sunlight" title="Sunlight">
+       sunlight
+      </a>
+      into electricity, either directly using
+      <a href="/wiki/Photovoltaics" title="Photovoltaics">
+       photovoltaics
+      </a>
+      (PV), or indirectly using
+      <a href="/wiki/Concentrated_solar_power" title="Concentrated solar power">
+       concentrated solar power
+      </a>
+      (CSP). Concentrated solar power systems use lenses or mirrors and tracking systems to focus a large area of sunlight into a small beam. Photovoltaics convert light into electric current using the
+      <a href="/wiki/Photoelectric_effect" title="Photoelectric effect">
+       photoelectric effect
+      </a>
+      .
+      <sup class="reference" id="cite_ref-46">
+       <a href="#cite_note-46">
+        [46]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Commercial concentrated solar power plants were first developed in the 1980s. The 354 MW
+      <a class="mw-redirect" href="/wiki/SEGS" title="SEGS">
+       SEGS
+      </a>
+      CSP installation is the largest solar power plant in the world, located in the
+      <a href="/wiki/Mojave_Desert" title="Mojave Desert">
+       Mojave Desert
+      </a>
+      of California. Other large CSP plants include the
+      <a href="/wiki/Solnova_Solar_Power_Station" title="Solnova Solar Power Station">
+       Solnova Solar Power Station
+      </a>
+      (150 MW) and the
+      <a class="mw-redirect" href="/wiki/Andasol_solar_power_station" title="Andasol solar power station">
+       Andasol solar power station
+      </a>
+      (150 MW), both in Spain. The over 200 MW
+      <a href="/wiki/Agua_Caliente_Solar_Project" title="Agua Caliente Solar Project">
+       Agua Caliente Solar Project
+      </a>
+      in the United States, and the 214 MW
+      <a class="mw-redirect" href="/wiki/Charanka_Solar_Park" title="Charanka Solar Park">
+       Charanka Solar Park
+      </a>
+      in India, are the
+      <a href="/wiki/List_of_photovoltaic_power_stations" title="List of photovoltaic power stations">
+       world’s largest
+      </a>
+      <a class="mw-redirect" href="/wiki/Photovoltaic_plant" title="Photovoltaic plant">
+       photovoltaic plants
+      </a>
+      . Solar power's share of worldwide electricity usage at the end of 2014 was 1%.
+      <sup class="reference" id="cite_ref-ren21.net_40-1">
+       <a href="#cite_note-ren21.net-40">
+        [40]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Geothermal_power">
+       Geothermal power
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Low-carbon_power&amp;action=edit&amp;section=12" title="Edit section: Geothermal power">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <div class="hatnote" role="note">
+      Main article:
+      <a class="mw-redirect" href="/wiki/Geothermal_electricity" title="Geothermal electricity">
+       Geothermal electricity
+      </a>
+     </div>
+     <p>
+      Geothermal electricity is
+      <a href="/wiki/Electricity_generation" title="Electricity generation">
+       electricity generated
+      </a>
+      from geothermal energy. Technologies in use include dry steam power plants, flash steam power plants and binary cycle power plants. Geothermal electricity generation is used in 24 countries
+      <sup class="reference" id="cite_ref-gea2010_47-0">
+       <a href="#cite_note-gea2010-47">
+        [47]
+       </a>
+      </sup>
+      while
+      <a href="/wiki/Geothermal_heating" title="Geothermal heating">
+       geothermal heating
+      </a>
+      is in use in 70 countries.
+      <sup class="reference" id="cite_ref-IPCC_48-0">
+       <a href="#cite_note-IPCC-48">
+        [48]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Current worldwide installed capacity is 10,715 megawatts (MW), with the largest capacity in the
+      <a href="/wiki/Geothermal_energy_in_the_United_States" title="Geothermal energy in the United States">
+       United States
+      </a>
+      (3,086 MW),
+      <sup class="reference" id="cite_ref-geap7_49-0">
+       <a href="#cite_note-geap7-49">
+        [49]
+       </a>
+      </sup>
+      <a href="/wiki/Geothermal_power_in_the_Philippines" title="Geothermal power in the Philippines">
+       Philippines
+      </a>
+      , and
+      <a href="/wiki/Geothermal_power_in_Indonesia" title="Geothermal power in Indonesia">
+       Indonesia
+      </a>
+      . Estimates of the electricity generating potential of geothermal energy vary from 35 to 2000 GW.
+      <sup class="reference" id="cite_ref-IPCC_48-1">
+       <a href="#cite_note-IPCC-48">
+        [48]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Geothermal power is considered to be
+      <a href="/wiki/Sustainability" title="Sustainability">
+       sustainable
+      </a>
+      because the heat extraction is small compared to the Earth's heat content.
+      <sup class="reference" id="cite_ref-sustainability_50-0">
+       <a href="#cite_note-sustainability-50">
+        [50]
+       </a>
+      </sup>
+      The
+      <a href="/wiki/Emission_intensity" title="Emission intensity">
+       emission intensity
+      </a>
+      of existing geothermal electric plants is on average 122 kg of
+      <span class="chemf nowrap">
+       CO
+       <span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left">
+        <br/>
+        2
+       </span>
+      </span>
+      per megawatt-hour (MW·h) of electricity, a small fraction of that of conventional fossil fuel plants.
+      <sup class="reference" id="cite_ref-CO2_51-0">
+       <a href="#cite_note-CO2-51">
+        [51]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Tidal_power">
+       Tidal power
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Low-carbon_power&amp;action=edit&amp;section=13" title="Edit section: Tidal power">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      <a href="/wiki/Tidal_power" title="Tidal power">
+       Tidal power
+      </a>
+      is a form of
+      <a href="/wiki/Hydropower" title="Hydropower">
+       hydropower
+      </a>
+      that converts the energy of tides into electricity or other useful forms of power. The first large-scale tidal power plant (the
+      <a href="/wiki/Rance_Tidal_Power_Station" title="Rance Tidal Power Station">
+       Rance Tidal Power Station
+      </a>
+      ) started operation in 1966. Although not yet widely used, tidal power has potential for future electricity generation. Tides are more predictable than wind energy and solar power.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Carbon_capture_and_storage">
+       Carbon capture and storage
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Low-carbon_power&amp;action=edit&amp;section=14" title="Edit section: Carbon capture and storage">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <div class="hatnote" role="note">
+      See also:
+      <a href="/wiki/Life-cycle_greenhouse-gas_emissions_of_energy_sources" title="Life-cycle greenhouse-gas emissions of energy sources">
+       Life-cycle greenhouse-gas emissions of energy sources
+      </a>
+     </div>
+     <p>
+      <a href="/wiki/Carbon_capture_and_storage" title="Carbon capture and storage">
+       Carbon capture and storage
+      </a>
+      captures carbon dioxide from the
+      <a href="/wiki/Flue_gas" title="Flue gas">
+       flue gas
+      </a>
+      of power plants or other industry, transporting it to an appropriate location where it can be buried securely in an underground reservoir. While the technologies involved are all in use, and carbon capture and storage is occurring in other industries (e.g., at the
+      <a href="/wiki/Sleipner_gas_field" title="Sleipner gas field">
+       Sleipner gas field
+      </a>
+      ), no large scale integrated project has yet become operational within the power industry.
+     </p>
+     <p>
+      Improvements to current carbon capture and storage technologies could reduce CO
+      <sub>
+       2
+      </sub>
+      capture costs by at least 20-30% over approximately the next decade, while new technologies under development promise more substantial cost reduction.
+      <sup class="reference" id="cite_ref-netl_52-0">
+       <a href="#cite_note-netl-52">
+        [52]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="The_outlook_for.2C_and_requirements_of.2C_low_carbon_power">
+       The outlook for, and requirements of, low carbon power
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Low-carbon_power&amp;action=edit&amp;section=15" title="Edit section: The outlook for, and requirements of, low carbon power">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <h3>
+      <span class="mw-headline" id="Emissions">
+       Emissions
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Low-carbon_power&amp;action=edit&amp;section=16" title="Edit section: Emissions">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Greenhouse_Gas_by_Sector.png">
+        <img alt="" class="thumbimage" data-file-height="603" data-file-width="650" height="204" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Greenhouse_Gas_by_Sector.png/220px-Greenhouse_Gas_by_Sector.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Greenhouse_Gas_by_Sector.png/330px-Greenhouse_Gas_by_Sector.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Greenhouse_Gas_by_Sector.png/440px-Greenhouse_Gas_by_Sector.png 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Greenhouse_Gas_by_Sector.png" title="Enlarge">
+         </a>
+        </div>
+        Greenhouse gas emissions by sector. See
+        <a class="external text" href="http://cait.wri.org/figures.php?page=World-FlowChart&amp;view=100" rel="nofollow">
+         World Resources Institute
+        </a>
+        for detailed breakdown
+       </div>
+      </div>
+     </div>
+     <p>
+      The
+      <a href="/wiki/Intergovernmental_Panel_on_Climate_Change" title="Intergovernmental Panel on Climate Change">
+       Intergovernmental Panel on Climate Change
+      </a>
+      stated in its first working group report that “most of the observed increase in globally averaged temperatures since the mid-20th century is very likely due to the observed increase in
+      <a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">
+       anthropogenic
+      </a>
+      greenhouse gas concentrations, contribute to
+      <a href="/wiki/Climate_change" title="Climate change">
+       climate change
+      </a>
+      .
+      <sup class="reference" id="cite_ref-53">
+       <a href="#cite_note-53">
+        [53]
+       </a>
+      </sup>
+     </p>
+     <p>
+      As a percentage of all anthropogenic greenhouse gas emissions,
+      <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">
+       carbon dioxide
+      </a>
+      (CO
+      <sub>
+       2
+      </sub>
+      ) accounts for 72 percent,
+      <sup class="reference" id="cite_ref-54">
+       <a href="#cite_note-54">
+        [54]
+       </a>
+      </sup>
+      and has increased in concentration in the atmosphere from 315 parts per million (ppm) in 1958 to more than 375 ppm in 2005.
+      <sup class="reference" id="cite_ref-55">
+       <a href="#cite_note-55">
+        [55]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Emissions from energy make up more than 61.4 percent of all greenhouse gas emissions.
+      <sup class="reference" id="cite_ref-wri_56-0">
+       <a href="#cite_note-wri-56">
+        [56]
+       </a>
+      </sup>
+      Power generation from traditional coal fuel sources accounts for 18.8 percent of all world greenhouse gas emissions, nearly double that emitted by road transportation.
+      <sup class="reference" id="cite_ref-wri_56-1">
+       <a href="#cite_note-wri-56">
+        [56]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Estimates state that by 2020 the world will be producing around twice as much carbon emissions as it was in 2000.
+      <sup class="reference" id="cite_ref-57">
+       <a href="#cite_note-57">
+        [57]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Electricity_usage">
+       Electricity usage
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Low-carbon_power&amp;action=edit&amp;section=17" title="Edit section: Electricity usage">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:GHG_by_region.jpg">
+        <img alt="" class="thumbimage" data-file-height="492" data-file-width="500" height="216" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/GHG_by_region.jpg/220px-GHG_by_region.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/GHG_by_region.jpg/330px-GHG_by_region.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/GHG_by_region.jpg/440px-GHG_by_region.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:GHG_by_region.jpg" title="Enlarge">
+         </a>
+        </div>
+        World CO
+        <sub>
+         2
+        </sub>
+        emissions by region
+       </div>
+      </div>
+     </div>
+     <p>
+      World energy consumption is predicted to increase from 421 quadrillion British Thermal Units (BTU) in 2003 to 722 quadrillion BTU in 2030.
+      <sup class="reference" id="cite_ref-58">
+       <a href="#cite_note-58">
+        [58]
+       </a>
+      </sup>
+      Coal consumption is predicted to nearly double in that same time.
+      <sup class="reference" id="cite_ref-59">
+       <a href="#cite_note-59">
+        [59]
+       </a>
+      </sup>
+      The fastest growth is seen in non-
+      <a class="mw-redirect" href="/wiki/OECD" title="OECD">
+       OECD
+      </a>
+      Asian countries, especially China and India, where economic growth drives increased energy use.
+      <sup class="reference" id="cite_ref-60">
+       <a href="#cite_note-60">
+        [60]
+       </a>
+      </sup>
+      By implementing low carbon power options, world electricity demand could continue to grow while maintaining stable carbon emission levels.
+     </p>
+     <p>
+      In the transportation sector there are moves away from fossil fuels and towards electric vehicles, such as
+      <a class="mw-redirect" href="/wiki/Mass_transit" title="Mass transit">
+       mass transit
+      </a>
+      and the
+      <a href="/wiki/Electric_car" title="Electric car">
+       electric car
+      </a>
+      . These trends are small, but may eventually add a large demand to the electrical grid.
+     </p>
+     <p>
+      Domestic and industrial heat and hot water have largely been supplied by burning fossil fuels such as fuel oil or natural gas at the consumers premises. Some countries have begun heat pump rebates to encourage switching to electricity, potentially adding a large demand to the grid.
+      <sup class="reference" id="cite_ref-61">
+       <a href="#cite_note-61">
+        [61]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Energy_infrastructure">
+       Energy infrastructure
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Low-carbon_power&amp;action=edit&amp;section=18" title="Edit section: Energy infrastructure">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:World_Coal_Resources.gif">
+        <img alt="" class="thumbimage" data-file-height="374" data-file-width="497" height="166" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/World_Coal_Resources.gif/220px-World_Coal_Resources.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/World_Coal_Resources.gif/330px-World_Coal_Resources.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/World_Coal_Resources.gif/440px-World_Coal_Resources.gif 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:World_Coal_Resources.gif" title="Enlarge">
+         </a>
+        </div>
+        2/3 of world coal capacity is yet to be built
+       </div>
+      </div>
+     </div>
+     <p>
+      By 2015, one-third of the 2007 U.S. coal plants will be more than 50 years old.
+      <sup class="reference" id="cite_ref-nrdc_62-0">
+       <a href="#cite_note-nrdc-62">
+        [62]
+       </a>
+      </sup>
+      Nearly two-thirds of the generation capacity required to meet power demand in 2030 is yet to be built.
+      <sup class="reference" id="cite_ref-nrdc_62-1">
+       <a href="#cite_note-nrdc-62">
+        [62]
+       </a>
+      </sup>
+      There were 151 new coal-fired power plants planned for the U.S., providing 90GW of power.
+      <sup class="reference" id="cite_ref-netl_52-1">
+       <a href="#cite_note-netl-52">
+        [52]
+       </a>
+      </sup>
+      By 2012, that had dropped to 15, mostly due to new rules limiting mercury emissions, and limiting carbon emissions to 1,000 pounds of CO
+      <sub>
+       2
+      </sub>
+      per megawatt-hour of electricity produced.
+      <sup class="reference" id="cite_ref-63">
+       <a href="#cite_note-63">
+        [63]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Investment">
+       Investment
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Low-carbon_power&amp;action=edit&amp;section=19" title="Edit section: Investment">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Investment in low carbon power sources and technologies is increasing at a rapid rate. Zero-carbon power sources produce about 2% of the world's energy, but account for about 18% of world investment in power generation, attracting $100 billion of investment capital in 2006.
+      <sup class="reference" id="cite_ref-64">
+       <a href="#cite_note-64">
+        [64]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Low-carbon_power&amp;action=edit&amp;section=20" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a href="/wiki/Carbon_capture_and_storage" title="Carbon capture and storage">
+        Carbon capture and storage
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Carbon_sink" title="Carbon sink">
+        Carbon sink
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Climate_Change" title="Climate Change">
+        Climate Change
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Emissions_trading" title="Emissions trading">
+        Emissions trading
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Energy_development" title="Energy development">
+        Energy development
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Energy_portal" title="Energy portal">
+        Energy portal
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Global_warming" title="Global warming">
+        Global warming
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Greenhouse_gas" title="Greenhouse gas">
+        Greenhouse gases
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/List_of_people_associated_with_renewable_energy" title="List of people associated with renewable energy">
+        List of people associated with renewable energy
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/List_of_renewable_energy_organizations" title="List of renewable energy organizations">
+        List of renewable energy organizations
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Renewable_energy_commercialization" title="Renewable energy commercialization">
+        Renewable energy commercialization
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Low-carbon_power&amp;action=edit&amp;section=21" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist" style="list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-1">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://onlinelibrary.wiley.com/doi/10.1111/j.1530-9290.2012.00472.x/full" rel="nofollow">
+          http://onlinelibrary.wiley.com/doi/10.1111/j.1530-9290.2012.00472.x/full
+         </a>
+         Life Cycle Greenhouse Gas Emissions of Nuclear Electricity Generation.
+         <i>
+          J of Ind Ecology
+         </i>
+         -
+        </span>
+        <blockquote class="templatequote">
+         <p>
+          <span class="reference-text">
+           <i>
+            "The collective literature indicates that life cycle
+            <a href="/wiki/Greenhouse_gas" title="Greenhouse gas">
+             GHG
+            </a>
+            emissions from nuclear power are only a fraction of traditional fossil sources and comparable to renewable technologies."
+           </i>
+          </span>
+         </p>
+        </blockquote>
+       </li>
+       <li id="cite_note-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-2">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://ec.europa.eu/energy/publications/doc/2010_setplan_brochure.pdf" rel="nofollow">
+           "The European Strategic Energy Technology Plan SET-Plan Towards a low-carbon future"
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          . 2010. p. 6.
+          <q>
+           ... nuclear plants ... currently provide 1/3 of the EU’s electricity and 2/3 of its low-carbon energy.
+          </q>
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALow-carbon+power&amp;rft.btitle=The+European+Strategic+Energy+Technology+Plan+SET-Plan+Towards+a+low-carbon+future&amp;rft.date=2010&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fec.europa.eu%2Fenergy%2Fpublications%2Fdoc%2F2010_setplan_brochure.pdf&amp;rft.pages=6&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-gov.uk-3">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-gov.uk_3-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-gov.uk_3-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="https://www.gov.uk/innovation-funding-for-low-carbon-technologies-opportunities-for-bidders" rel="nofollow">
+          https://www.gov.uk/innovation-funding-for-low-carbon-technologies-opportunities-for-bidders
+         </a>
+         Innovation funding for low-carbon technologies: opportunities for bidders. "Meeting the energy challenge and government programme names nuclear power in the future energy mix, alongside other low-carbon sources, renewables and carbon capture and storage (CCS)."
+        </span>
+       </li>
+       <li id="cite_note-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-4">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.ipcc.ch/about/about.htm" rel="nofollow">
+          Intergovernmental Panel on Climate Change Web site
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-5">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         nuclearinfo.net.
+         <a class="external text" href="http://nuclearinfo.net/Nuclearpower/WebHomeGreenhouseEmissionsOfNuclearPower" rel="nofollow">
+          Greenhouse Emissions of Nuclear Power
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-6">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-6">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Benjamin K. Sovacool.
+         <a class="external text" href="http://www.nirs.org/climate/background/sovacool_nuclear_ghg.pdf" rel="nofollow">
+          Valuing the greenhouse gas emissions from nuclear power: A critical survey
+         </a>
+         <i>
+          <a href="/wiki/Energy_Policy_(journal)" title="Energy Policy (journal)">
+           Energy Policy
+          </a>
+         </i>
+         , Vol. 36, 2008, pp. 2940-2953.
+        </span>
+       </li>
+       <li id="cite_note-7">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-7">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Benjamin K. Sovacool.
+         <a class="external text" href="http://www.nirs.org/climate/background/sovacool_nuclear_ghg.pdf" rel="nofollow">
+          Valuing the greenhouse gas emissions from nuclear power: A critical survey
+         </a>
+         .
+         <i>
+          <a href="/wiki/Energy_Policy_(journal)" title="Energy Policy (journal)">
+           Energy Policy
+          </a>
+         </i>
+         , Vol. 36, 2008, p. 2950.
+        </span>
+       </li>
+       <li id="cite_note-8">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-8">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Jef Beerten, Erik Laes, Gaston Meskens, and William D’haeseleer
+         <a class="external text" href="http://www.sciencedirect.com/science/article/pii/S0301421509005102" rel="nofollow">
+          Greenhouse gas emissions in the nuclear life cycle: A balanced appraisal
+         </a>
+         <i>
+          <a href="/wiki/Energy_Policy_(journal)" title="Energy Policy (journal)">
+           Energy Policy
+          </a>
+         </i>
+         , Vol. 37, Issue 12, 2009, pp. 5056–5068.
+        </span>
+       </li>
+       <li id="cite_note-9">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-9">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://onlinelibrary.wiley.com/doi/10.1111/j.1530-9290.2012.00472.x/full" rel="nofollow">
+          http://onlinelibrary.wiley.com/doi/10.1111/j.1530-9290.2012.00472.x/full
+         </a>
+         Life Cycle Greenhouse Gas Emissions of Nuclear Electricity Generation.
+         <i>
+          J of Ind Ecology
+         </i>
+        </span>
+       </li>
+       <li id="cite_note-10">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-10">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://large.stanford.edu/courses/2012/ph241/chowdhury2/" rel="nofollow">
+          http://large.stanford.edu/courses/2012/ph241/chowdhury2/
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-11">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-11">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://news.nationalgeographic.com/news/energy/2012/05/120522-carbon-capture-and-storage-economic-hurdles/" rel="nofollow">
+          http://news.nationalgeographic.com/news/energy/2012/05/120522-carbon-capture-and-storage-economic-hurdles/
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-12">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-12">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.csmonitor.com/2006/0406/p03s03-sten.html" rel="nofollow">
+          The Christian Science Monitor; “New case for regulating CO
+          <sub>
+           2
+          </sub>
+          emissions”
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-issues-13">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-issues_13-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-issues_13-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.issues.org/23.3/apt.html" rel="nofollow">
+          Issues in Science &amp; Technology Online; “Promoting Low-Carbon Electricity Production”
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-14">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-14">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.pewclimate.org/global-warming-in-depth/all_reports/electricity/ex__summary.cfm" rel="nofollow">
+          The Pew Center on Global Climate Change; “Global Warming in Depth”
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-sciencedirect.com-15">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-sciencedirect.com_15-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-sciencedirect.com_15-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-sciencedirect.com_15-2">
+          <sup>
+           <i>
+            <b>
+             c
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.sciencedirect.com/science/article/pii/S0360544213000492" rel="nofollow">
+           "Energy intensities, EROIs (energy returned on invested), and energy payback times of electricity generating power plants. Energy Volume 52, 1 April 2013, Pages 210–221"
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALow-carbon+power&amp;rft.btitle=Energy+intensities%2C+EROIs+%28energy+returned+on+invested%29%2C+and+energy+payback+times+of+electricity+generating+power+plants.+Energy+Volume+52%2C+1+April+2013%2C+Pages+210%93221&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0360544213000492&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-16">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-16">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://festkoerper-kernphysik.de/Weissbach_EROI_preprint.pdf" rel="nofollow">
+          Energy intensities, EROIs, and energy payback times of electricity generating power plants. pg 2
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-17">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-17">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://festkoerper-kernphysik.de/Weissbach_EROI_preprint.pdf" rel="nofollow">
+          Energy intensities, EROIs, and energy payback times of electricity generating power plants. pg 29
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-ReferenceA-18">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-ReferenceA_18-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-ReferenceA_18-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <a class="mw-redirect" href="/wiki/Dailykos" title="Dailykos">
+          Dailykos
+         </a>
+         - GETTING TO ZERO: Is renewable energy economically viable? by Keith Pickering MON JUL 08, 2013 AT 04:30 AM PDT.
+        </span>
+       </li>
+       <li id="cite_note-19">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-19">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.sciencedirect.com/science/article/pii/S0360544213006373" rel="nofollow">
+           "Comments on "Energy intensities, EROIs (energy returned on invested), and energy payback times of electricity generating power plants"—Making clear of quite some confusion. Energy Volume 59, 15 September 2013, Pages 781–782"
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALow-carbon+power&amp;rft.btitle=Comments+on+%22Energy+intensities%2C+EROIs+%28energy+returned+on+invested%29%2C+and+energy+payback+times+of+electricity+generating+power+plants%22%94Making+clear+of+quite+some+confusion.+Energy+Volume+59%2C+15+September+2013%2C+Pages+781%93782&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0360544213006373&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-20">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-20">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.sciencedirect.com/science/article/pii/S0360544214001601" rel="nofollow">
+           "Reply on "Comments on 'Energy intensities, EROIs (energy returned on invested), and energy payback times of electricity generating power plants' – Making clear of quite some confusion" DOI: 10.1016/j.energy.2014.02.026"
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALow-carbon+power&amp;rft.btitle=Reply+on+%22Comments+on+%98Energy+intensities%2C+EROIs+%28energy+returned+on+invested%29%2C+and+energy+payback+times+of+electricity+generating+power+plants%99+%93+Making+clear+of+quite+some+confusion%22+DOI%3A+10.1016%2Fj.energy.2014.02.026&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0360544214001601&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-21">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-21">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.ipcc.ch/pdf/assessment-report/ar5/wg3/ipcc_wg3_ar5_chapter7.pdf" rel="nofollow">
+          http://www.ipcc.ch/pdf/assessment-report/ar5/wg3/ipcc_wg3_ar5_chapter7.pdf
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-IEA-22">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-IEA_22-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-IEA_22-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         International Energy Agency (2007).
+         <a class="external text" href="http://www.iea.org/textbase/papers/2006/renewable_factsheet.pdf" rel="nofollow">
+          <i>
+           Renewables in global energy supply: An IEA facts sheet
+          </i>
+         </a>
+         (PDF), OECD, p. 3.
+        </span>
+       </li>
+       <li id="cite_note-23">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-23">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.ren21.net/wp-content/uploads/2015/07/REN12-GSR2015_Onlinebook_low1.pdf" rel="nofollow">
+          http://www.ren21.net/wp-content/uploads/2015/07/REN12-GSR2015_Onlinebook_low1.pdf
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-24">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-24">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Duncan Graham-Rowe.
+         <a class="external text" href="http://www.newscientist.com/article.ns?id=dn7046" rel="nofollow">
+          Hydroelectric power's dirty secret revealed
+         </a>
+         <i>
+          New Scientist
+         </i>
+         , 24 February 2005.
+        </span>
+       </li>
+       <li id="cite_note-25">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-25">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.iea.org/publications/freepublications/publication/KeyWorld_Statistics_2015.pdf" rel="nofollow">
+          http://www.iea.org/publications/freepublications/publication/KeyWorld_Statistics_2015.pdf
+         </a>
+         pg25
+        </span>
+       </li>
+       <li id="cite_note-26">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-26">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://ec.europa.eu/energy/publications/doc/2010_setplan_brochure.pdf" rel="nofollow">
+          http://ec.europa.eu/energy/publications/doc/2010_setplan_brochure.pdf
+         </a>
+         The European Strategic Energy Technology Plan SET-Plan Towards a low-carbon future 2010. Nuclear power provides "2/3 of the EU's low carbon energy" pg 6.
+        </span>
+       </li>
+       <li id="cite_note-27">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-27">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.iaea.org/pris/" rel="nofollow">
+          http://www.iaea.org/pris/
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-euronuclear.org-28">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-euronuclear.org_28-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-euronuclear.org_28-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.euronuclear.org/info/encyclopedia/n/nuclear-power-plant-world-wide.htm" rel="nofollow">
+          http://www.euronuclear.org/info/encyclopedia/n/nuclear-power-plant-world-wide.htm
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-Nuclear_Power_in_China-29">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-Nuclear_Power_in_China_29-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         World Nuclear Association (December 10, 2010).
+         <a class="external text" href="http://www.world-nuclear.org/info/inf63.html" rel="nofollow">
+          Nuclear Power in China
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-Nuclear_Power_in_the_USA-30">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-Nuclear_Power_in_the_USA_30-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.world-nuclear.org/info/inf41.html#licence" rel="nofollow">
+           "Nuclear Power in the USA"
+          </a>
+          .
+          <a href="/wiki/World_Nuclear_Association" title="World Nuclear Association">
+           World Nuclear Association
+          </a>
+          . June 2008
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2008-07-25
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALow-carbon+power&amp;rft.btitle=Nuclear+Power+in+the+USA&amp;rft.date=2008-06&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.world-nuclear.org%2Finfo%2Finf41.html%23licence&amp;rft.pub=World+Nuclear+Association&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-matt2010-31">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-matt2010_31-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Matthew L. Wald (December 7, 2010).
+         <a class="external text" href="http://green.blogs.nytimes.com/2010/12/07/nuclear-renaissance-is-short-on-largess/" rel="nofollow">
+          Nuclear ‘Renaissance’ Is Short on Largess
+         </a>
+         <i>
+          <a href="/wiki/The_New_York_Times" title="The New York Times">
+           The New York Times
+          </a>
+         </i>
+         .
+        </span>
+       </li>
+       <li id="cite_note-32">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-32">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.nrc.gov/reactors/new-reactors/col/new-reactor-map.html" rel="nofollow">
+          Location of Projected New Nuclear Power Reactors
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-gws-2011-33">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-gws-2011_33-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://gwec.net/wp-content/uploads/2012/06/GWEC_-_Global_Wind_Statistics_2011.pdf" rel="nofollow">
+           "GWEC Global Wind Statistics 2011"
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          . Global Wind Energy Commission
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            15 March
+           </span>
+           2012
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALow-carbon+power&amp;rft.btitle=GWEC+Global+Wind+Statistics+2011&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fgwec.net%2Fwp-content%2Fuploads%2F2012%2F06%2FGWEC_-_Global_Wind_Statistics_2011.pdf&amp;rft.pub=Global+Wind+Energy+Commission&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-global_council-34">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-global_council_34-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://gwec.net/wp-content/uploads/2012/06/GWEC_-_Global_Wind_Statistics_2011.pdf" rel="nofollow">
+          Global Wind Statistics
+         </a>
+         2 July 2012
+        </span>
+       </li>
+       <li id="cite_note-35">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-35">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.upi.com/Business_News/Energy-Resources/2012/10/01/EU-wind-power-capacity-reaches-100GW/UPI-52431349087400/" rel="nofollow">
+           "EU wind power capacity reaches 100GW"
+          </a>
+          . UPI. 1 October 2012
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            31 October
+           </span>
+           2012
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALow-carbon+power&amp;rft.btitle=EU+wind+power+capacity+reaches+100GW&amp;rft.date=2012-10-01&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.upi.com%2FBusiness_News%2FEnergy-Resources%2F2012%2F10%2F01%2FEU-wind-power-capacity-reaches-100GW%2FUPI-52431349087400%2F&amp;rft.pub=UPI&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-36">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-36">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.chinadaily.com.cn/bizchina/2012-08/16/content_15680451.htm" rel="nofollow">
+           "China's on-grid wind power capacity grows"
+          </a>
+          . China Daily. 16 August 2012
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            31 October
+           </span>
+           2012
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALow-carbon+power&amp;rft.btitle=China%27s+on-grid+wind+power+capacity+grows&amp;rft.date=2012-08-16&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.chinadaily.com.cn%2Fbizchina%2F2012-08%2F16%2Fcontent_15680451.htm&amp;rft.pub=China+Daily&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-37">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-37">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://cleantechnica.com/2012/08/10/us-reaches-50-gw-of-wind-energy-capacity-in-q2-of-2012/" rel="nofollow">
+           "US Reaches 50 GW of Wind Energy Capacity in Q2 of 2012"
+          </a>
+          . Clean Technica. 10 August 2012
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            31 October
+           </span>
+           2012
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALow-carbon+power&amp;rft.btitle=US+Reaches+50+GW+of+Wind+Energy+Capacity+in+Q2+of+2012&amp;rft.date=2012-08-10&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fcleantechnica.com%2F2012%2F08%2F10%2Fus-reaches-50-gw-of-wind-energy-capacity-in-q2-of-2012%2F&amp;rft.pub=Clean+Technica&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-38">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-38">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.gwec.net/global-figures/wind-energy-global-status/" rel="nofollow">
+           "Global status overview"
+          </a>
+          . GWEC
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            31 October
+           </span>
+           2012
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALow-carbon+power&amp;rft.btitle=Global+status+overview&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.gwec.net%2Fglobal-figures%2Fwind-energy-global-status%2F&amp;rft.pub=GWEC&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-wwea-39">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-wwea_39-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.wwindea.org/home/images/stories/pdfs/worldwindenergyreport2010_s.pdf" rel="nofollow">
+           "World Wind Energy Report 2010"
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          .
+          <i>
+           Report
+          </i>
+          .
+          <a href="/wiki/World_Wind_Energy_Association" title="World Wind Energy Association">
+           World Wind Energy Association
+          </a>
+          . February 2011
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            8 August
+           </span>
+           2011
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALow-carbon+power&amp;rft.atitle=World+Wind+Energy+Report+2010&amp;rft.date=2011-02&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.wwindea.org%2Fhome%2Fimages%2Fstories%2Fpdfs%2Fworldwindenergyreport2010_s.pdf&amp;rft.jtitle=Report&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-ren21.net-40">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-ren21.net_40-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-ren21.net_40-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.ren21.net/wp-content/uploads/2015/07/REN12-GSR2015_Onlinebook_low1.pdf" rel="nofollow">
+          http://www.ren21.net/wp-content/uploads/2015/07/REN12-GSR2015_Onlinebook_low1.pdf
+         </a>
+         pg31
+        </span>
+       </li>
+       <li id="cite_note-Elstat-41">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-Elstat_41-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.ens.dk/da-DK/Info/TalOgKort/Statistik_og_noegletal/Maanedsstatistik/Documents/El-maanedsstatistik.xls" rel="nofollow">
+           "Månedlig elforsyningsstatistik"
+          </a>
+          (in Danish). summary tab B58-B72:
+          <i>
+           <a href="/wiki/Danish_Energy_Agency" title="Danish Energy Agency">
+            Danish Energy Agency
+           </a>
+          </i>
+          . 18 January 2012
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            11 March
+           </span>
+           2012
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALow-carbon+power&amp;rft.btitle=M%C3%A5nedlig+elforsyningsstatistik&amp;rft.date=2012-01-18&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ens.dk%2Fda-DK%2FInfo%2FTalOgKort%2FStatistik_og_noegletal%2FMaanedsstatistik%2FDocuments%2FEl-maanedsstatistik.xls&amp;rft.place=summary+tab+B58-B72&amp;rft.pub=%27%27Danish+Energy+Agency%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-renPT2011-42">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-renPT2011_42-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.centrodeinformacao.ren.pt/EN/InformacaoExploracao/Pages/EstatisticaMensal.aspx" rel="nofollow">
+           "Monthly Statistics – SEN"
+          </a>
+          . Feb 2012.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALow-carbon+power&amp;rft.btitle=Monthly+Statistics+%93+SEN&amp;rft.date=2012-02&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.centrodeinformacao.ren.pt%2FEN%2FInformacaoExploracao%2FPages%2FEstatisticaMensal.aspx&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-ree2011prelim-43">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-ree2011prelim_43-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.ree.es/ingles/sistema_electrico/pdf/infosis/Avance_REE_2011_ingles.pdf" rel="nofollow">
+           "the Spanish electricity system: preliminary report 2011"
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          . Jan 2012. p. 13.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALow-carbon+power&amp;rft.btitle=the+Spanish+electricity+system%3A+preliminary+report+2011&amp;rft.date=2012-01&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ree.es%2Fingles%2Fsistema_electrico%2Fpdf%2Finfosis%2FAvance_REE_2011_ingles.pdf&amp;rft.pages=13&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-eirgrid_renewables-44">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-eirgrid_renewables_44-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.eirgrid.com/renewables/" rel="nofollow">
+           "Renewables"
+          </a>
+          . eirgrid.com
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            22 November
+           </span>
+           2010
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALow-carbon+power&amp;rft.btitle=Renewables&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.eirgrid.com%2Frenewables%2F&amp;rft.pub=eirgrid.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-45">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-45">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="mw-redirect" href="/wiki/Federal_Ministry_of_Economics_and_Technology_(Germany)" title="Federal Ministry of Economics and Technology (Germany)">
+           Bundesministerium für Wirtschaft und Technologie
+          </a>
+          (Feb 2012).
+          <a class="external text" href="http://www.bmwi.de/Dateien/BMWi/PDF/energiewende-in-deutschland,property=pdf,bereich=bmwi,sprache=de,rwb=true.pdf" rel="nofollow">
+           "Die Energiewende in Deutschland"
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          (in German). Berlin. p. 4.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALow-carbon+power&amp;rft.au=Bundesministerium+f%C3%BCr+Wirtschaft+und+Technologie&amp;rft.btitle=Die+Energiewende+in+Deutschland&amp;rft.date=2012-02&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.bmwi.de%2FDateien%2FBMWi%2FPDF%2Fenergiewende-in-deutschland%2Cproperty%3Dpdf%2Cbereich%3Dbmwi%2Csprache%3Dde%2Crwb%3Dtrue.pdf&amp;rft.pages=4&amp;rft.place=Berlin&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-46">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-46">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.energy.gov/energysources/solar.htm" rel="nofollow">
+           "Energy Sources: Solar"
+          </a>
+          .
+          <i>
+           Department of Energy
+          </i>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            19 April
+           </span>
+           2011
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALow-carbon+power&amp;rft.atitle=Energy+Sources%3A+Solar&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.energy.gov%2Fenergysources%2Fsolar.htm&amp;rft.jtitle=Department+of+Energy&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-gea2010-47">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-gea2010_47-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Geothermal Energy Association.
+         <a class="external text" href="http://www.geo-energy.org/pdf/reports/GEA_International_Market_Report_Final_May_2010.pdf" rel="nofollow">
+          Geothermal Energy: International Market Update
+         </a>
+         May 2010, p. 4-6.
+        </span>
+       </li>
+       <li id="cite_note-IPCC-48">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-IPCC_48-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-IPCC_48-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation" id="CITEREFFridleifsson.2CBertaniHuengesLund2008">
+          Fridleifsson,, Ingvar B.; Bertani, Ruggero; Huenges, Ernst; Lund, John W.; Ragnarsson, Arni; Rybach, Ladislaus (2008-02-11), O. Hohmeyer and T. Trittin, ed.,
+          <a class="external text" href="http://iga.igg.cnr.it/documenti/IGA/Fridleifsson_et_al_IPCC_Geothermal_paper_2008.pdf" rel="nofollow">
+           <i>
+            The possible role and contribution of geothermal energy to the mitigation of climate change
+           </i>
+          </a>
+          <span style="font-size:85%;">
+           (pdf)
+          </span>
+          , Luebeck, Germany, pp. 59–80
+          <span class="reference-accessdate">
+           , retrieved
+           <span class="nowrap">
+            2009-04-06
+           </span>
+          </span>
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALow-carbon+power&amp;rft.au=Bertani%2C+Ruggero&amp;rft.aufirst=Ingvar+B.&amp;rft.au=Huenges%2C+Ernst&amp;rft.aulast=Fridleifsson%2C&amp;rft.au=Lund%2C+John+W.&amp;rft.au=Ragnarsson%2C+Arni&amp;rft.au=Rybach%2C+Ladislaus&amp;rft.btitle=The+possible+role+and+contribution+of+geothermal+energy+to+the+mitigation+of+climate+change&amp;rft.date=2008-02-11&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Figa.igg.cnr.it%2Fdocumenti%2FIGA%2FFridleifsson_et_al_IPCC_Geothermal_paper_2008.pdf&amp;rft.pages=59-80&amp;rft.place=Luebeck%2C+Germany&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-geap7-49">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-geap7_49-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Geothermal Energy Association.
+         <a class="external text" href="http://www.geo-energy.org/pdf/reports/GEA_International_Market_Report_Final_May_2010.pdf" rel="nofollow">
+          Geothermal Energy: International Market Update
+         </a>
+         May 2010, p. 7.
+        </span>
+       </li>
+       <li id="cite_note-sustainability-50">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-sustainability_50-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation" id="CITEREFRybach2007">
+          Rybach, Ladislaus (September 2007),
+          <a class="external text" href="http://geoheat.oit.edu/bulletin/bull28-3/art2.pdf" rel="nofollow">
+           "Geothermal Sustainability"
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          ,
+          <i>
+           Geo-Heat Centre Quarterly Bulletin
+          </i>
+          , Klamath Falls, Oregon:
+          <a href="/wiki/Oregon_Institute_of_Technology" title="Oregon Institute of Technology">
+           Oregon Institute of Technology
+          </a>
+          ,
+          <b>
+           28
+          </b>
+          (3), pp. 2–7,
+          <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+           ISSN
+          </a>
+          <a class="external text" href="//www.worldcat.org/issn/0276-1084" rel="nofollow">
+           0276-1084
+          </a>
+          <span class="reference-accessdate">
+           , retrieved
+           <span class="nowrap">
+            2009-05-09
+           </span>
+          </span>
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALow-carbon+power&amp;rft.atitle=Geothermal+Sustainability&amp;rft.aufirst=Ladislaus&amp;rft.aulast=Rybach&amp;rft.date=2007-09&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fgeoheat.oit.edu%2Fbulletin%2Fbull28-3%2Fart2.pdf&amp;rft.issn=0276-1084&amp;rft.issue=3&amp;rft.jtitle=Geo-Heat+Centre+Quarterly+Bulletin&amp;rft.pages=2-7&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=28">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-CO2-51">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-CO2_51-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation" id="CITEREFBertaniThain2002">
+          Bertani, Ruggero; Thain, Ian (July 2002),
+          <a class="external text" href="http://www.geothermal-energy.org/documenti/IGA/newsletter/n49.pdf" rel="nofollow">
+           "Geothermal Power Generating Plant CO
+           <sub>
+            2
+           </sub>
+           Emission Survey"
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          ,
+          <i>
+           IGA News
+          </i>
+          ,
+          <a href="/wiki/International_Geothermal_Association" title="International Geothermal Association">
+           International Geothermal Association
+          </a>
+          (49): 1–3
+          <span class="reference-accessdate">
+           , retrieved
+           <span class="nowrap">
+            2009-05-13
+           </span>
+          </span>
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALow-carbon+power&amp;rft.atitle=Geothermal+Power+Generating+Plant+CO%3Csub%3E2%3C%2Fsub%3E+Emission+Survey&amp;rft.aufirst=Ruggero&amp;rft.aulast=Bertani&amp;rft.au=Thain%2C+Ian&amp;rft.date=2002-07&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.geothermal-energy.org%2Fdocumenti%2FIGA%2Fnewsletter%2Fn49.pdf&amp;rft.issue=49&amp;rft.jtitle=IGA+News&amp;rft.pages=1-3&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-netl-52">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-netl_52-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-netl_52-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.netl.doe.gov/coal/refshelf/ncp.pdf" rel="nofollow">
+          The National Energy Technology Laboratory Web site “Tracking New Coal Fired Power Plants”
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-53">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-53">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.ipcc.ch/SPM2feb07.pdf" rel="nofollow">
+          Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change. Intergovernmental Panel on Climate Change (2007-02-05). Retrieved on 2007-02-02.
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-54">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-54">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a href="/wiki/Greenhouse_gas" title="Greenhouse gas">
+          Greenhouse gas
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-55">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-55">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://cdiac.ornl.gov/trends/co2/graphics/mlo145e_thrudc04.pdf" rel="nofollow">
+          Carbon Dioxide Information Analysis Center (CDIAC), the primary climate-change data and information analysis center of the U.S. Department of Energy (DOE)
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-wri-56">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-wri_56-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-wri_56-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.wri.org/climate/topic_content.cfm?cid=4177" rel="nofollow">
+          World Resources Institute; “Greenhouse Gases and Where They Come From”
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-57">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-57">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://tonto.eia.doe.gov/FTPROOT/presentations/ieo99_3im/sld006.htm" rel="nofollow">
+          Energy Information Administration; “World Carbon Emissions by Region”
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-58">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-58">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.eia.doe.gov/oiaf/ieo/figure_7.html" rel="nofollow">
+          Energy Information Administration; “International Energy Outlook 2006”
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-59">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-59">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://timeforchange.org/prediction-of-energy-consumption" rel="nofollow">
+          Time for Change,org; “Prediction of Energy Consumption World-Wide”
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-60">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-60">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.eia.doe.gov/neic/press/images/06-03-1.gif" rel="nofollow">
+          Energy Information Administration; “World Market Energy Consumption by Region”
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-61">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-61">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.energysavingtrust.org.uk/domestic/air-source-heat-pumps" rel="nofollow">
+          http://www.energysavingtrust.org.uk/domestic/air-source-heat-pumps
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-nrdc-62">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-nrdc_62-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-nrdc_62-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://72.32.110.154/globalWarming/tdh0603.asp" rel="nofollow">
+          National Resources Defense Council Web site; "Hearing on Future Options for Generation of Electricity from Coal"
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-63">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-63">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          Keith Johnson in Washington, Rebecca Smith in San Francisco and Kris Maher in Pittsburgh (28 March 2012).
+          <a class="external text" href="http://online.wsj.com/article/SB10001424052702303404704577307524051798192.html" rel="nofollow">
+           "EPA Proposes CO - WSJ"
+          </a>
+          .
+          <i>
+           WSJ
+          </i>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALow-carbon+power&amp;rft.atitle=EPA+Proposes+CO+-+WSJ&amp;rft.au=Keith+Johnson+in+Washington%2C+Rebecca+Smith+in+San+Francisco+and+Kris+Maher+in+Pittsburgh&amp;rft.date=2012-03-28&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424052702303404704577307524051798192.html&amp;rft.jtitle=WSJ&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-64">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-64">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.unep.org/Documents.Multilingual/Default.asp?DocumentID=512&amp;ArticleID=5616&amp;l=en" rel="nofollow">
+          United Nations Environment Program Global Trends in Sustainable Energy Investment 2007
+         </a>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:14090587-0!*!0!!en!4!* and timestamp 20161029025414 and revision id 735978053
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Low-carbon_power&amp;oldid=735978053">
+      https://en.wikipedia.org/w/index.php?title=Low-carbon_power&amp;oldid=735978053
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Alternative_energy" title="Category:Alternative energy">
+         Alternative energy
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Energy_development" title="Category:Energy development">
+         Energy development
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Low-carbon_economy" title="Category:Low-carbon economy">
+         Low-carbon economy
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:CS1_Danish-language_sources_(da)" title="Category:CS1 Danish-language sources (da)">
+         CS1 Danish-language sources (da)
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">
+         CS1 German-language sources (de)
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Vague_or_ambiguous_time_from_December_2013" title="Category:Vague or ambiguous time from December 2013">
+         Vague or ambiguous time from December 2013
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Low-carbon+power" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Low-carbon+power" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Low-carbon_power" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Low-carbon_power" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Low-carbon_power">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Low-carbon_power&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Low-carbon_power&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Low-carbon_power" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Low-carbon_power" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Low-carbon_power&amp;oldid=735978053" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Low-carbon_power&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q6692723" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Low-carbon_power&amp;id=735978053" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Low-carbon+power">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Low-carbon+power&amp;returnto=Low-carbon+power&amp;oldid=735978053&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Low-carbon_power&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-add wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q6692723#sitelinks-wikipedia" title="Add interlanguage links">
+         Add links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 24 August 2016, at 09:57.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Low-carbon_power&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.280",
+            "walltime": "0.343",
+            "ppvisitednodes": {
+                "value": 1941,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 49972,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 1339,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 14,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 1,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  264.775      1 -total",
+                " 47.41%  125.517      1 Template:Reflist",
+                " 27.80%   73.618     18 Template:Cite_web",
+                " 13.81%   36.572      1 Template:Sustainable_energy",
+                " 13.07%   34.613      1 Template:Sidebar",
+                " 12.02%   31.829      1 Template:When",
+                " 10.81%   28.630      1 Template:Fix",
+                "  6.52%   17.276      1 Template:Category_handler",
+                "  5.27%   13.942      3 Template:Portal-inline",
+                "  5.13%   13.578      1 Template:Chem"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.099",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 4963052,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1270",
+            "timestamp": "20161029025414",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":58,"wgHostname":"mw1213"});});
+  </script>
+ </body>
+</html>

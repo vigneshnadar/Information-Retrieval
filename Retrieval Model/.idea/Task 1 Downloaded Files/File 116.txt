@@ -1,0 +1,2033 @@
+https://en.wikipedia.org/wiki/Environmental_degradation
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Environmental degradation - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Environmental_degradation","wgTitle":"Environmental degradation","wgCurRevisionId":743868224,"wgRevisionId":743868224,"wgArticleId":846000,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Environmental issues"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Environmental_degradation","wgRelevantArticleId":846000,"wgRequestId":"WCCWTApAICkAABolfF8AAACN","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q2022868","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Environmental_degradation" rel="alternate"/>
+  <link href="/w/index.php?title=Environmental_degradation&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Environmental_degradation&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Environmental_degradation" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Environmental_degradation rootpage-Environmental_degradation skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Environmental degradation
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Wallaroo-mines-0749.jpg">
+        <img alt="" class="thumbimage" data-file-height="1536" data-file-width="2048" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Wallaroo-mines-0749.jpg/220px-Wallaroo-mines-0749.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Wallaroo-mines-0749.jpg/330px-Wallaroo-mines-0749.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/18/Wallaroo-mines-0749.jpg/440px-Wallaroo-mines-0749.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Wallaroo-mines-0749.jpg" title="Enlarge">
+         </a>
+        </div>
+        Eighty-plus years after the abandonment of
+        <a href="/wiki/Wallaroo_Mines" title="Wallaroo Mines">
+         Wallaroo Mines
+        </a>
+        (
+        <a href="/wiki/Kadina,_South_Australia" title="Kadina, South Australia">
+         Kadina, South Australia
+        </a>
+        ),
+        <a class="mw-redirect" href="/wiki/Mosses" title="Mosses">
+         mosses
+        </a>
+        remain the only vegetation at some spots of the site's grounds
+       </div>
+      </div>
+     </div>
+     <p>
+      <b>
+       Environmental degradation
+      </b>
+      is the deterioration of the
+      <a href="/wiki/Environment_(biophysical)" title="Environment (biophysical)">
+       environment
+      </a>
+      through
+      <a class="mw-redirect" href="/wiki/Depletion_of_resources" title="Depletion of resources">
+       depletion of resources
+      </a>
+      such as
+      <a class="mw-redirect" href="/wiki/Air" title="Air">
+       air
+      </a>
+      ,
+      <a href="/wiki/Water" title="Water">
+       water
+      </a>
+      and
+      <a href="/wiki/Soil" title="Soil">
+       soil
+      </a>
+      ; the destruction of
+      <a class="mw-redirect" href="/wiki/Ecosystems" title="Ecosystems">
+       ecosystems
+      </a>
+      and the extinction of
+      <a href="/wiki/Wildlife" title="Wildlife">
+       wildlife
+      </a>
+      . It is defined as any change or disturbance to the environment perceived to be deleterious or undesirable.
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+      As indicated by the
+      <a class="mw-redirect" href="/wiki/I%3DPAT" title="I=PAT">
+       I=PAT
+      </a>
+      equation, environmental impact (I) or degradation is caused by the combination of an already very large and increasing human population (P), continually increasing
+      <a href="/wiki/Economic_growth" title="Economic growth">
+       economic growth
+      </a>
+      or per capita affluence (A), and the application of resource depleting and polluting technology (T).
+      <sup class="reference" id="cite_ref-2">
+       <a href="#cite_note-2">
+        [2]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-3">
+       <a href="#cite_note-3">
+        [3]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Environmental degradation is one of the ten threats officially cautioned by the
+      <a href="/wiki/High-level_Panel_on_Threats,_Challenges_and_Change" title="High-level Panel on Threats, Challenges and Change">
+       High-level Panel on Threats, Challenges and Change
+      </a>
+      of the
+      <a href="/wiki/United_Nations" title="United Nations">
+       United Nations
+      </a>
+      . The
+      <a href="/wiki/United_Nations_International_Strategy_for_Disaster_Reduction" title="United Nations International Strategy for Disaster Reduction">
+       United Nations International Strategy for Disaster Reduction
+      </a>
+      defines environmental degradation as "The reduction of the capacity of the environment to meet social and ecological objectives, and needs".
+      <sup class="reference" id="cite_ref-4">
+       <a href="#cite_note-4">
+        [4]
+       </a>
+      </sup>
+      Environmental degradation is of many types. When
+      <a href="/wiki/Habitat_destruction" title="Habitat destruction">
+       natural habitats are destroyed
+      </a>
+      or natural resources are depleted, the environment is degraded. Efforts to counteract this problem include
+      <a href="/wiki/Environmental_protection" title="Environmental protection">
+       environmental protection
+      </a>
+      and
+      <a class="mw-redirect" href="/wiki/Environmental_resources_management" title="Environmental resources management">
+       environmental resources management
+      </a>
+      .
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Water_degradation">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Water degradation
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-2">
+          <a href="#Climate_change_and_temperature">
+           <span class="tocnumber">
+            1.1
+           </span>
+           <span class="toctext">
+            Climate change and temperature
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-3">
+          <a href="#Climate_change_and_precipitation">
+           <span class="tocnumber">
+            1.2
+           </span>
+           <span class="toctext">
+            Climate change and precipitation
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-4">
+          <a href="#Population_growth">
+           <span class="tocnumber">
+            1.3
+           </span>
+           <span class="toctext">
+            Population growth
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-5">
+          <a href="#Agriculture">
+           <span class="tocnumber">
+            1.4
+           </span>
+           <span class="toctext">
+            Agriculture
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-6">
+          <a href="#Water_management">
+           <span class="tocnumber">
+            1.5
+           </span>
+           <span class="toctext">
+            Water management
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-7">
+        <a href="#See_also">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-8">
+        <a href="#References">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-9">
+        <a href="#External_links">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          External links
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Water_degradation">
+       Water degradation
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Environmental_degradation&amp;action=edit&amp;section=1" title="Edit section: Water degradation">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      One major component of environmental degradation is the depletion of the resource of fresh water on Earth. Approximately only 2.5% of all of the water on Earth is fresh water, with the rest being salt water. 69% of the fresh water is frozen in
+      <a class="mw-redirect" href="/wiki/Ice_caps" title="Ice caps">
+       ice caps
+      </a>
+      located on Antarctica and Greenland, so only 30% of the 2.5% of fresh water is available for consumption.
+      <sup class="reference" id="cite_ref-water_5-0">
+       <a href="#cite_note-water-5">
+        [5]
+       </a>
+      </sup>
+      Fresh water is an exceptionally important resource, since life on Earth is ultimately dependent on it. Water transports nutrients and chemicals within the
+      <a href="/wiki/Biosphere" title="Biosphere">
+       biosphere
+      </a>
+      to all forms of life, sustains both plants and animals, and moulds the surface of the Earth with transportation and deposition of materials.
+      <sup class="reference" id="cite_ref-issues_6-0">
+       <a href="#cite_note-issues-6">
+        [6]
+       </a>
+      </sup>
+     </p>
+     <p>
+      The current top three uses of fresh water account for 95% of its consumption; approximately 85% is used for
+      <a href="/wiki/Irrigation" title="Irrigation">
+       irrigation
+      </a>
+      of farmland, golf courses, and parks, 6% is used for domestic purposes such as indoor bathing uses and outdoor garden and lawn use, and 4% is used for industrial purposes such as processing, washing, and cooling in manufacturing centers.
+      <sup class="reference" id="cite_ref-change_7-0">
+       <a href="#cite_note-change-7">
+        [7]
+       </a>
+      </sup>
+      It is estimated that one in three people over the entire globe are already facing water shortages, almost one-fifth of the world's population live in areas of
+      <a href="/wiki/Physical_water_scarcity" title="Physical water scarcity">
+       physical water scarcity
+      </a>
+      , and almost one quarter of the world's population live in a
+      <a href="/wiki/Developing_country" title="Developing country">
+       developing country
+      </a>
+      that lacks the necessary infrastructure to use water from available rivers and aquifers. Water scarcity is an increasing problem due to many foreseen issues in the future, including population growth, increased urbanization, higher standards of living, and climate change.
+      <sup class="reference" id="cite_ref-water_5-1">
+       <a href="#cite_note-water-5">
+        [5]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Climate_change_and_temperature">
+       Climate change and temperature
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Environmental_degradation&amp;action=edit&amp;section=2" title="Edit section: Climate change and temperature">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      <a href="/wiki/Climate_change" title="Climate change">
+       Climate change
+      </a>
+      affects the Earth's water supply in a large number of ways. It is predicted that the mean global temperature will rise in the coming years due to a number of forces affecting the climate, the amount of
+      <a class="mw-redirect" href="/wiki/Atmospheric_CO2" title="Atmospheric CO2">
+       atmospheric CO2
+      </a>
+      will rise, and both of these will influence water resources;
+      <a href="/wiki/Evaporation" title="Evaporation">
+       evaporation
+      </a>
+      depends strongly on temperature and moisture availability, which can ultimately affect the amount of water available to replenish
+      <a href="/wiki/Groundwater" title="Groundwater">
+       groundwater
+      </a>
+      supplies.
+     </p>
+     <p>
+      <a href="/wiki/Transpiration" title="Transpiration">
+       Transpiration
+      </a>
+      from plants can be affected by a rise in atmospheric CO2, which can decrease their use of water, but can also raise their use of water from possible increases of leaf area. Temperature increase can decrease the length of the snow season in the winter and increase the intensity of snowmelt in warmer seasons, leading to peak runoff of snowmelt earlier in the season, affecting soil moisture, flood and drought risks, and storage capacities depending on the area.
+      <sup class="reference" id="cite_ref-arid_8-0">
+       <a href="#cite_note-arid-8">
+        [8]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Warmer winter temperatures cause a decrease in
+      <a href="/wiki/Snowpack" title="Snowpack">
+       snowpack
+      </a>
+      , which can result in diminished water resources during summer. This is especially important at mid-latitudes and in mountain regions that depend on glacial runoff to replenish their river systems and groundwater supplies, making these areas increasingly vulnerable to water shortages over time; an increase in temperature will initially result in a rapid rise in water melting from
+      <a class="mw-redirect" href="/wiki/Glaciers" title="Glaciers">
+       glaciers
+      </a>
+      in the summer, followed by a retreat in glaciers and a decrease in the melt and consequently the water supply every year as the size of these glaciers get smaller and smaller.
+      <sup class="reference" id="cite_ref-water_5-2">
+       <a href="#cite_note-water-5">
+        [5]
+       </a>
+      </sup>
+     </p>
+     <p>
+      <a href="/wiki/Thermal_expansion" title="Thermal expansion">
+       Thermal expansion
+      </a>
+      of water and increased melting of oceanic glaciers from an increase in temperature gives way to a rise in sea level, which can affect the fresh water supply of coastal areas as well; as river mouths and deltas with higher
+      <a href="/wiki/Salinity" title="Salinity">
+       salinity
+      </a>
+      get pushed further inland, an intrusion of saltwater results in an increase of salinity in reservoirs and aquifers.
+      <sup class="reference" id="cite_ref-change_7-1">
+       <a href="#cite_note-change-7">
+        [7]
+       </a>
+      </sup>
+      Sea-level rise may also consequently be caused by a depletion of groundwater,
+      <sup class="reference" id="cite_ref-groundwater_9-0">
+       <a href="#cite_note-groundwater-9">
+        [9]
+       </a>
+      </sup>
+      as climate change can affect the
+      <a class="mw-redirect" href="/wiki/Hydrologic_cycle" title="Hydrologic cycle">
+       hydrologic cycle
+      </a>
+      in a number of ways. Uneven distributions of increased temperatures and increased precipitation around the globe results in water surpluses and deficits,
+      <sup class="reference" id="cite_ref-arid_8-1">
+       <a href="#cite_note-arid-8">
+        [8]
+       </a>
+      </sup>
+      but a global decrease in groundwater suggests a rise in sea level, even after
+      <a href="/wiki/Meltwater" title="Meltwater">
+       meltwater
+      </a>
+      and thermal expansion were accounted for,
+      <sup class="reference" id="cite_ref-groundwater_9-1">
+       <a href="#cite_note-groundwater-9">
+        [9]
+       </a>
+      </sup>
+      which can provide a
+      <a href="/wiki/Positive_feedback" title="Positive feedback">
+       positive feedback
+      </a>
+      to the problems sea-level rise causes to fresh-water supply.
+     </p>
+     <p>
+      A rise in air temperature results in a rise in water temperature, which is also very significant in water degradation, as the water would become more susceptible to
+      <a href="/wiki/Bacterial_growth" title="Bacterial growth">
+       bacterial growth
+      </a>
+      . An increase in water temperature can also affect
+      <a class="mw-redirect" href="/wiki/Ecosystems" title="Ecosystems">
+       ecosystems
+      </a>
+      greatly because of a species' sensitivity to temperature, and also by inducing changes in a body of water's self-purification system from decreased amounts of dissolved oxygen in the water due to rises in temperature.
+      <sup class="reference" id="cite_ref-water_5-3">
+       <a href="#cite_note-water-5">
+        [5]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Climate_change_and_precipitation">
+       Climate change and precipitation
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Environmental_degradation&amp;action=edit&amp;section=3" title="Edit section: Climate change and precipitation">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      A rise in global temperatures is also predicted to correlate with an increase in global precipitation, but because of increased runoff, floods, increased rates of
+      <a href="/wiki/Soil_erosion" title="Soil erosion">
+       soil erosion
+      </a>
+      , and mass movement of land, a decline in
+      <a href="/wiki/Water_quality" title="Water quality">
+       water quality
+      </a>
+      is probable, while water will carry more nutrients, it will also carry more contaminants.
+      <sup class="reference" id="cite_ref-water_5-4">
+       <a href="#cite_note-water-5">
+        [5]
+       </a>
+      </sup>
+      While most of the attention about climate change is directed towards global warming and
+      <a href="/wiki/Greenhouse_effect" title="Greenhouse effect">
+       greenhouse effect
+      </a>
+      , some of the most severe effects of climate change are likely to be from changes in precipitation,
+      <a href="/wiki/Evapotranspiration" title="Evapotranspiration">
+       evapotranspiration
+      </a>
+      , runoff, and soil moisture. It is generally expected that, on average, global precipitation will increase, with some areas receiving increases and some decreases.
+     </p>
+     <p>
+      <a href="/wiki/Climate_model" title="Climate model">
+       Climate models
+      </a>
+      show that while some regions should expect an increase in precipitation,
+      <sup class="reference" id="cite_ref-arid_8-2">
+       <a href="#cite_note-arid-8">
+        [8]
+       </a>
+      </sup>
+      such as in the tropics and higher latitudes, other areas are expected to see a decrease, such as in the subtropics; this will ultimately cause a latitudinal variation in water distribution.
+      <sup class="reference" id="cite_ref-water_5-5">
+       <a href="#cite_note-water-5">
+        [5]
+       </a>
+      </sup>
+      The areas receiving more precipitation are also expected to receive this increase during their winter and actually become drier during their summer,
+      <sup class="reference" id="cite_ref-arid_8-3">
+       <a href="#cite_note-arid-8">
+        [8]
+       </a>
+      </sup>
+      creating even more of a variation of precipitation distribution. Naturally, the distribution of precipitation across the planet is very uneven, causing constant variations in water availability in respective locations.
+     </p>
+     <p>
+      Changes in precipitation affect the timing and magnitude of floods and droughts, shift runoff processes, and alter groundwater recharge rates. Vegetation patterns and growth rates will be directly affected by shifts in precipitation amount and distribution, which will in turn affect agriculture as well as natural ecosystems. Decreased precipitation will deprive areas of water, causing water tables to fall and reservoirs and wetlands, rivers, and lakes to empty,
+      <sup class="reference" id="cite_ref-arid_8-4">
+       <a href="#cite_note-arid-8">
+        [8]
+       </a>
+      </sup>
+      and possibly an increase in evaporation and evapotranspiration, depending on the accompanied rise in temperature.
+      <sup class="reference" id="cite_ref-change_7-2">
+       <a href="#cite_note-change-7">
+        [7]
+       </a>
+      </sup>
+      Groundwater reserves will be depleted, and the remaining water has a greater chance of being of poor quality from saline or contaminants on the land surface.
+      <sup class="reference" id="cite_ref-water_5-6">
+       <a href="#cite_note-water-5">
+        [5]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Population_growth">
+       Population growth
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Environmental_degradation&amp;action=edit&amp;section=4" title="Edit section: Population growth">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:World_population_growth_(lin-log_scale).png">
+        <img alt="" class="thumbimage" data-file-height="600" data-file-width="1000" height="132" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/World_population_growth_%28lin-log_scale%29.png/220px-World_population_growth_%28lin-log_scale%29.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/World_population_growth_%28lin-log_scale%29.png/330px-World_population_growth_%28lin-log_scale%29.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/World_population_growth_%28lin-log_scale%29.png/440px-World_population_growth_%28lin-log_scale%29.png 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:World_population_growth_(lin-log_scale).png" title="Enlarge">
+         </a>
+        </div>
+        World population growth in a
+        <a href="/wiki/Semi-log_plot" title="Semi-log plot">
+         lin-log scale
+        </a>
+        .
+       </div>
+      </div>
+     </div>
+     <p>
+      <a class="mw-redirect" href="/wiki/Human_population_growth" title="Human population growth">
+       The human population on Earth is expanding rapidly
+      </a>
+      which goes hand in hand with the degradation of the environment at large measures. Humanity's appetite for needs is disarranging the environment's natural equilibrium. Production industries are venting smoke and discharging chemicals that are polluting water resources. The smoke that is emitted into the atmosphere holds detrimental gases such as carbon monoxide and sulfur dioxide. The high levels of pollution in the atmosphere form layers that are eventually absorbed into the atmosphere. Organic compounds such as chlorofluorocarbons (CFC’s) have generated an unwanted opening in the ozone layer, which emits higher levels of ultraviolet radiation putting the globe at large threat.
+     </p>
+     <p>
+      The available fresh water being affected by the climate is also being stretched across an ever-increasing global population. It is estimated that almost a quarter of the global population is living in an area that is using more than 20% of their renewable water supply; water use will rise with population while the water supply is also being aggravated by decreases in streamflow and groundwater caused by climate change. Even though some areas may see an increase in freshwater supply from an uneven distribution of precipitation increase, an increased use of water supply is expected.
+      <sup class="reference" id="cite_ref-armed_10-0">
+       <a href="#cite_note-armed-10">
+        [10]
+       </a>
+      </sup>
+     </p>
+     <p>
+      An increased population means increased withdrawals from the water supply for domestic, agricultural, and industrial uses, the largest of these being agriculture,
+      <sup class="reference" id="cite_ref-sustain_11-0">
+       <a href="#cite_note-sustain-11">
+        [11]
+       </a>
+      </sup>
+      believed to be the major non-climate driver of environmental change and water deterioration. The next 50 years will likely be the last period of rapid agricultural expansion, but the larger and wealthier population over this time will demand more agriculture.
+      <sup class="reference" id="cite_ref-agriculture_12-0">
+       <a href="#cite_note-agriculture-12">
+        [12]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Population increase over the last two decades, at least in the United States, has also been accompanied by a shift to an increase in urban areas from rural areas,
+      <sup class="reference" id="cite_ref-human_13-0">
+       <a href="#cite_note-human-13">
+        [13]
+       </a>
+      </sup>
+      which concentrates the demand for water into certain areas, and puts stress on the fresh water supply from industrial and human contaminants.
+      <sup class="reference" id="cite_ref-water_5-7">
+       <a href="#cite_note-water-5">
+        [5]
+       </a>
+      </sup>
+      <a href="/wiki/Urbanization" title="Urbanization">
+       Urbanization
+      </a>
+      causes overcrowding and increasingly unsanitary living conditions, especially in developing countries, which in turn exposes an increasingly number of people to disease. About 79% of the world's population is in developing countries, which lack access to sanitary water and sewer systems, giving rises to disease and deaths from contaminated water and increased numbers of disease-carrying insects.
+      <sup class="reference" id="cite_ref-disease_14-0">
+       <a href="#cite_note-disease-14">
+        [14]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Agriculture">
+       Agriculture
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Environmental_degradation&amp;action=edit&amp;section=5" title="Edit section: Agriculture">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Water_pollution_in_the_Wairarapa.JPG">
+        <img alt="" class="thumbimage" data-file-height="2592" data-file-width="1944" height="293" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Water_pollution_in_the_Wairarapa.JPG/220px-Water_pollution_in_the_Wairarapa.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Water_pollution_in_the_Wairarapa.JPG/330px-Water_pollution_in_the_Wairarapa.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Water_pollution_in_the_Wairarapa.JPG/440px-Water_pollution_in_the_Wairarapa.JPG 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Water_pollution_in_the_Wairarapa.JPG" title="Enlarge">
+         </a>
+        </div>
+        <a href="/wiki/Water_pollution" title="Water pollution">
+         Water pollution
+        </a>
+        due to dairy farming in the
+        <a href="/wiki/Wairarapa" title="Wairarapa">
+         Wairarapa
+        </a>
+        in New Zealand
+       </div>
+      </div>
+     </div>
+     <p>
+      Agriculture is dependent on available soil moisture, which is directly affected by climate dynamics, with precipitation being the input in this system and various processes being the output, such as evapotranspiration,
+      <a href="/wiki/Surface_runoff" title="Surface runoff">
+       surface runoff
+      </a>
+      , drainage, and percolation into groundwater. Changes in climate, especially the changes in precipitation and evapotranspiration predicted by climate models, will directly affect soil moisture, surface runoff, and groundwater recharge.
+     </p>
+     <p>
+      In areas with decreasing precipitation as predicted by the climate models, soil moisture may be substantially reduced.
+      <sup class="reference" id="cite_ref-arid_8-5">
+       <a href="#cite_note-arid-8">
+        [8]
+       </a>
+      </sup>
+      With this in mind, agriculture in most areas needs irrigation already, which depletes fresh water supplies both by the physical use of the water and the degradation agriculture causes to the water. Irrigation increases salt and nutrient content in areas that would not normally be affected, and damages streams and rivers from damming and removal of water. Fertilizer enters both human and livestock waste streams that eventually enter groundwater, while nitrogen, phosphorus, and other chemicals from fertilizer can acidify both soils and water. Certain agricultural demands may increase more than others with an increasingly wealthier global population, and meat is one commodity expected to double global food demand by 2050,
+      <sup class="reference" id="cite_ref-agriculture_12-1">
+       <a href="#cite_note-agriculture-12">
+        [12]
+       </a>
+      </sup>
+      which directly affects the global supply of fresh water. Cows need water to drink, more if the temperature is high and humidity is low, and more if the production system the cow is in is extensive, since finding food takes more effort. Water is needed in processing of the meat, and also in the production of feed for the livestock. Manure can contaminate bodies of freshwater, and slaughterhouses, depending on how well they are managed, contribute waste such as blood, fat, hair, and other bodily contents to supplies of fresh water.
+      <sup class="reference" id="cite_ref-meat_15-0">
+       <a href="#cite_note-meat-15">
+        [15]
+       </a>
+      </sup>
+     </p>
+     <p>
+      The transfer of water from agricultural to urban and suburban use raises concerns about agricultural sustainability, rural socioeconomic decline, food security, an increased
+      <a href="/wiki/Carbon_footprint" title="Carbon footprint">
+       carbon footprint
+      </a>
+      from imported food, and decreased foreign trade balance.
+      <sup class="reference" id="cite_ref-sustain_11-1">
+       <a href="#cite_note-sustain-11">
+        [11]
+       </a>
+      </sup>
+      The depletion of fresh water, as applied to more specific and populated areas, increases fresh water scarcity among the population and also makes populations susceptible to economic, social, and political conflict in a number of ways; rising sea levels forces
+      <a href="/wiki/Human_migration" title="Human migration">
+       migration
+      </a>
+      from coastal areas to other areas farther inland, pushing populations closer together breaching borders and other geographical patterns, and agricultural surpluses and deficits from the availability of water induce trade problems and economies of certain areas.
+      <sup class="reference" id="cite_ref-armed_10-1">
+       <a href="#cite_note-armed-10">
+        [10]
+       </a>
+      </sup>
+      Climate change is an important cause of involuntary migration and forced displacement
+      <sup class="reference" id="cite_ref-16">
+       <a href="#cite_note-16">
+        [16]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Water_management">
+       Water management
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Environmental_degradation&amp;action=edit&amp;section=6" title="Edit section: Water management">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:AngleseyCopperStream.jpg">
+        <img alt="" class="thumbimage" data-file-height="656" data-file-width="492" height="293" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/AngleseyCopperStream.jpg/220px-AngleseyCopperStream.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/AngleseyCopperStream.jpg/330px-AngleseyCopperStream.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3a/AngleseyCopperStream.jpg/440px-AngleseyCopperStream.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:AngleseyCopperStream.jpg" title="Enlarge">
+         </a>
+        </div>
+        A stream in the town of
+        <a href="/wiki/Amlwch" title="Amlwch">
+         Amlwch
+        </a>
+        , Anglesey which is contaminated by
+        <a href="/wiki/Acid_mine_drainage" title="Acid mine drainage">
+         acid mine drainage
+        </a>
+        from the former copper mine at nearby
+        <a href="/wiki/Parys_Mountain" title="Parys Mountain">
+         Parys Mountain
+        </a>
+        .
+       </div>
+      </div>
+     </div>
+     <p>
+      The issue of the depletion of fresh water can be met by increased efforts in water management.
+      <sup class="reference" id="cite_ref-issues_6-1">
+       <a href="#cite_note-issues-6">
+        [6]
+       </a>
+      </sup>
+      While water management systems are often flexible, adaptation to new hydrologic conditions may be very costly.
+      <sup class="reference" id="cite_ref-arid_8-6">
+       <a href="#cite_note-arid-8">
+        [8]
+       </a>
+      </sup>
+      Preventative approaches are necessary to avoid high costs of inefficiency and the need for rehabilitation of water supplies,
+      <sup class="reference" id="cite_ref-issues_6-2">
+       <a href="#cite_note-issues-6">
+        [6]
+       </a>
+      </sup>
+      and innovations to decrease overall demand may be important in planning water sustainability.
+      <sup class="reference" id="cite_ref-sustain_11-2">
+       <a href="#cite_note-sustain-11">
+        [11]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Water supply systems, as they exist now, were based on the assumptions of the current climate, and built to accommodate existing river flows and flood frequencies. Reservoirs are operated based on past hydrologic records, and irrigation systems on historical temperature, water availability, and crop water requirements; these may not be a reliable guide to the future. Re-examining engineering designs, operations, optimizations, and planning, as well as re-evaluating legal, technical, and economic approaches to manage water resources are very important for the future of water management in response to water degradation. Another approach is water privatization; despite its economic and cultural effects, service quality and overall quality of the water can be more easily controlled and distributed. Rationality and sustainability is appropriate, and requires limits to overexploitation and pollution, and efforts in conservation.
+      <sup class="reference" id="cite_ref-issues_6-3">
+       <a href="#cite_note-issues-6">
+        [6]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Environmental_degradation&amp;action=edit&amp;section=7" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+      <ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+       <li style="display:table-row">
+        <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+         <img alt="" class="noviewer" data-file-height="1001" data-file-width="1500" height="21" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Atchafalaya_Basin.jpg/32px-Atchafalaya_Basin.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Atchafalaya_Basin.jpg/48px-Atchafalaya_Basin.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Atchafalaya_Basin.jpg/64px-Atchafalaya_Basin.jpg 2x" width="32"/>
+        </span>
+        <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+         <a href="/wiki/Portal:Wetlands" title="Portal:Wetlands">
+          Wetlands portal
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <ul>
+      <li>
+       <a class="mw-redirect" href="/wiki/Environmental_issues" title="Environmental issues">
+        Environmental issues
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Ecological_collapse" title="Ecological collapse">
+        Ecological collapse
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Ecologically_sustainable_development" title="Ecologically sustainable development">
+        Ecologically sustainable development
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Exploitation_of_natural_resources" title="Exploitation of natural resources">
+        Exploitation of natural resources
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/United_Nations_Decade_on_Biodiversity" title="United Nations Decade on Biodiversity">
+        United Nations Decade on Biodiversity
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/United_Nations_Development_Programme" title="United Nations Development Programme">
+        United Nations Development Programme
+       </a>
+       (UNDP)
+      </li>
+      <li>
+       <a href="/wiki/United_Nations_Environment_Programme" title="United Nations Environment Programme">
+        United Nations Environment Programme
+       </a>
+       (UNEP)
+      </li>
+      <li>
+       <a href="/wiki/World_Resources_Institute" title="World Resources Institute">
+        World Resources Institute
+       </a>
+       (WRI)
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Environmental_degradation&amp;action=edit&amp;section=8" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist" style="list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-1">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Johnson, D.L., S.H. Ambrose, T.J. Bassett, M.L. Bowen, D.E. Crummey, J.S. Isaacson, D.N. Johnson, P. Lamb, M. Saul, and A.E. Winter-Nelson. 1997. Meanings of environmental terms. Journal of Environmental Quality 26: 581–589.
+        </span>
+       </li>
+       <li id="cite_note-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-2">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Chertow, M.R., "The IPAT equation and its variants",
+         <i>
+          Journal of Industrial Ecology
+         </i>
+         , 4 (4):13–29, 2001.
+        </span>
+       </li>
+       <li id="cite_note-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-3">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Huesemann, Michael H., and Joyce A. Huesemann (2011).
+         <a class="external text" href="http://www.newtechnologyandsociety.org" rel="nofollow">
+          <i>
+           Technofix: Why Technology Won’t Save Us or the Environment
+          </i>
+         </a>
+         , Chapter 6, "Sustainability or Collapse?", New Society Publishers,
+         <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0865717044">
+          ISBN 0865717044
+         </a>
+         .
+        </span>
+       </li>
+       <li id="cite_note-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-4">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.unisdr.org/eng/library/lib-terminology-eng%20home.htm" rel="nofollow">
+           "ISDR : Terminology"
+          </a>
+          . The International Strategy for Disaster Reduction. 2004-03-31
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2010-06-09
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnvironmental+degradation&amp;rft.btitle=ISDR+%3A+Terminology&amp;rft.date=2004-03-31&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.unisdr.org%2Feng%2Flibrary%2Flib-terminology-eng%2520home.htm&amp;rft.pub=The+International+Strategy+for+Disaster+Reduction&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-water-5">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-water_5-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-water_5-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-water_5-2">
+          <sup>
+           <i>
+            <b>
+             c
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-water_5-3">
+          <sup>
+           <i>
+            <b>
+             d
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-water_5-4">
+          <sup>
+           <i>
+            <b>
+             e
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-water_5-5">
+          <sup>
+           <i>
+            <b>
+             f
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-water_5-6">
+          <sup>
+           <i>
+            <b>
+             g
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-water_5-7">
+          <sup>
+           <i>
+            <b>
+             h
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.climate.org/topics/water.html" rel="nofollow">
+          ”Water.”
+         </a>
+         Climate Institute. Web. Retrieved 2011-11-03.
+        </span>
+       </li>
+       <li id="cite_note-issues-6">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-issues_6-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-issues_6-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-issues_6-2">
+          <sup>
+           <i>
+            <b>
+             c
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-issues_6-3">
+          <sup>
+           <i>
+            <b>
+             d
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         Young, Gordon J., James Dooge, and John C. Rodda. Global Water Resource Issues. Cambridge UP, 2004.
+        </span>
+       </li>
+       <li id="cite_note-change-7">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-change_7-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-change_7-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-change_7-2">
+          <sup>
+           <i>
+            <b>
+             c
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         Frederick, Kenneth D., and David C. Major. “Climate Change and Water Resources.” Climatic Change 37.1 (1997): p 7-23.
+        </span>
+       </li>
+       <li id="cite_note-arid-8">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-arid_8-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-arid_8-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-arid_8-2">
+          <sup>
+           <i>
+            <b>
+             c
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-arid_8-3">
+          <sup>
+           <i>
+            <b>
+             d
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-arid_8-4">
+          <sup>
+           <i>
+            <b>
+             e
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-arid_8-5">
+          <sup>
+           <i>
+            <b>
+             f
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-arid_8-6">
+          <sup>
+           <i>
+            <b>
+             g
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         Ragab, Ragab, and Christel Prudhomme. "Soil and Water: Climate Change and Water Resources Management in Arid and Semi-Arid Regions: Prospective Challenges for the 21st Century". Biosystems Engineering 81.1 (2002): p 3-34.
+        </span>
+       </li>
+       <li id="cite_note-groundwater-9">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-groundwater_9-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-groundwater_9-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         Konikow, Leonard F. "Contribution of Global Groundwater Depletion since 1990 to Sea-level Rise".
+         <i>
+          Geophysical Research Letters
+         </i>
+         38.17 (2011).
+        </span>
+       </li>
+       <li id="cite_note-armed-10">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-armed_10-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-armed_10-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         Raleigh, Clionadh, and
+         <a href="/wiki/Henrik_Urdal" title="Henrik Urdal">
+          Henrik Urdal
+         </a>
+         . “Climate Change, Environmental Degradation, and Armed Conflict.” Political Geography 26.6 (2007): 674–94.
+        </span>
+       </li>
+       <li id="cite_note-sustain-11">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-sustain_11-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-sustain_11-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-sustain_11-2">
+          <sup>
+           <i>
+            <b>
+             c
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         MacDonald, Glen M. "Water, Climate Change, and Sustainability in the Southwest". PNAS 107.50 (2010): p 56-62.
+        </span>
+       </li>
+       <li id="cite_note-agriculture-12">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-agriculture_12-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-agriculture_12-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         Tilman, David, Joseph Fargione, Brian Wolff, Carla D'Antonio, Andrew Dobson, Robert Howarth, David Scindler, William Schlesinger, Danielle Simberloff, and Deborah Swackhamer. "Forecasting Agriculturally Driven Global Environmental Change".
+         <i>
+          Science
+         </i>
+         292.5515 (2011): p 281-84.
+        </span>
+       </li>
+       <li id="cite_note-human-13">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-human_13-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Wallach, Bret.
+         <i>
+          Understanding the Cultural Landscape
+         </i>
+         . New York; Guilford, 2005.
+        </span>
+       </li>
+       <li id="cite_note-disease-14">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-disease_14-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external autonumber" href="http://www.slideboom.com/presentations/32220/Environmental-Degradation" rel="nofollow">
+          [1]
+         </a>
+         . Powell, Fannetta. "Environmental Degradation and Human Disease". Lecture. SlideBoom. 2009. Web. Retrieved 2011-11-14.
+        </span>
+       </li>
+       <li id="cite_note-meat-15">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-meat_15-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://sites/google.com/site/redmeatimplications" rel="nofollow">
+          "Environmental Implications of the Global Demand for Red Meat"
+         </a>
+         . Web. Retrieved 2011-11-14.
+        </span>
+       </li>
+       <li id="cite_note-16">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-16">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Bogumil Terminski, Environmentally-Induced Displacement. Theoretical Frameworks and Current Challenges
+         <a class="external free" href="http://www.cedem.ulg.ac.be/wp-content/uploads/2012/09/Environmentally-Induced-Displacement-Terminski-1.pdf" rel="nofollow">
+          http://www.cedem.ulg.ac.be/wp-content/uploads/2012/09/Environmentally-Induced-Displacement-Terminski-1.pdf
+         </a>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Environmental_degradation&amp;action=edit&amp;section=9" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a class="external text" href="http://dieoff.org/page165.htm" rel="nofollow">
+        Ecology of Increasing Disease
+        <i>
+         Population growth and environmental degradation
+        </i>
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.blackwell-synergy.com/links/doi/10.1111/0004-5608.00156/abs/" rel="nofollow">
+        Annals of the Association of American Geographers Environmental Change in the Kalahari: Integrated Land Degradation Studies for Nonequilibrium Dryland Environments
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://meta2.com/PDB/Weekly/PDBEnvironmentalDegradation.pdf" rel="nofollow">
+        Public Daily Brief Threat: Environmental Degradation
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.ourplanet.com/imgversn/95/roberts.html" rel="nofollow">
+        Focus: Environmental degradation is contributing to health threats worldwide
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.tms.org/Meetings/Specialty/ED2005/home.html" rel="nofollow">
+        Environmental Degradation of Materials in Nuclear Systems-Water Reactors
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.pacificwestcom.com/amazon" rel="nofollow">
+        Herndon and Gibbon Lieutenants United States Navy
+       </a>
+       The First North American Explorers of the Amazon Valley, by Historian Normand E. Klare. Actual Reports from the explorers are compared with present Amazon Basin conditions.
+      </li>
+      <li>
+       <a class="external text" href="http://www.thenewpublicfinance.org/background/Measuring%20country%20performance_nov2006%20update.pdf" rel="nofollow">
+        Environmental Degradation Index by Jha &amp; Murthy (for 174 countries)
+       </a>
+      </li>
+     </ul>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:846000-0!*!0!!en!4!* and timestamp 20161106094842 and revision id 743868224
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Environmental_degradation&amp;oldid=743868224">
+      https://en.wikipedia.org/w/index.php?title=Environmental_degradation&amp;oldid=743868224
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Environmental_issues" title="Category:Environmental issues">
+         Environmental issues
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Environmental+degradation" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Environmental+degradation" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Environmental_degradation" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Environmental_degradation" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Environmental_degradation">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Environmental_degradation&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Environmental_degradation&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Environmental_degradation" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Environmental_degradation" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Environmental_degradation&amp;oldid=743868224" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Environmental_degradation&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q2022868" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Environmental_degradation&amp;id=743868224" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Environmental+degradation">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Environmental+degradation&amp;returnto=Environmental+degradation&amp;oldid=743868224&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Environmental_degradation&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AA%D8%AD%D9%84%D9%84_%D8%A8%D9%8A%D8%A6%D9%8A" hreflang="ar" lang="ar" title="تحلل بيئي – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-an">
+        <a class="interlanguage-link-target" href="https://an.wikipedia.org/wiki/Impacto_ambiental" hreflang="an" lang="an" title="Impacto ambiental – Aragonese">
+         Aragonés
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Impacte_ambiental" hreflang="ca" lang="ca" title="Impacte ambiental – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Impacto_ambiental" hreflang="es" lang="es" title="Impacto ambiental – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Impact_environnemental" hreflang="fr" lang="fr" title="Impact environnemental – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Impacto_ambiental" hreflang="gl" lang="gl" title="Impacto ambiental – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gu">
+        <a class="interlanguage-link-target" href="https://gu.wikipedia.org/wiki/%E0%AA%AA%E0%AA%B0%E0%AB%8D%E0%AA%AF%E0%AA%BE%E0%AA%B5%E0%AA%B0%E0%AA%A3%E0%AB%80%E0%AA%AF_%E0%AA%85%E0%AA%B5%E0%AA%95%E0%AB%8D%E0%AA%B0%E0%AA%AE%E0%AA%A3" hreflang="gu" lang="gu" title="પર્યાવરણીય અવક્રમણ – Gujarati">
+         ગુજરાતી
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Kerusakan_lingkungan" hreflang="id" lang="id" title="Kerusakan lingkungan – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Degrado_ambientale" hreflang="it" lang="it" title="Degrado ambientale – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sw">
+        <a class="interlanguage-link-target" href="https://sw.wikipedia.org/wiki/Uharibifu_wa_mazingira" hreflang="sw" lang="sw" title="Uharibifu wa mazingira – Swahili">
+         Kiswahili
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/A_k%C3%B6rnyezet_elhaszn%C3%A1l%C3%B3d%C3%A1sa" hreflang="hu" lang="hu" title="A környezet elhasználódása – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Degradacja_ekosystem%C3%B3w" hreflang="pl" lang="pl" title="Degradacja ekosystemów – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Impacto_ambiental" hreflang="pt" lang="pt" title="Impacto ambiental – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Degradarea_mediului" hreflang="ro" lang="ro" title="Degradarea mediului – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Ymp%C3%A4rist%C3%B6ongelma" hreflang="fi" lang="fi" title="Ympäristöongelma – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%8E%AF%E5%A2%83%E9%80%80%E5%8C%96" hreflang="zh" lang="zh" title="环境退化 – Chinese">
+         中文
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q2022868#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 11 October 2016, at 18:43.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Environmental_degradation&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.128",
+            "walltime": "0.148",
+            "ppvisitednodes": {
+                "value": 445,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 2821,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 0,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 4,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 0,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%   68.010      1 -total",
+                " 71.57%   48.675      1 Template:Reflist",
+                " 43.24%   29.410      1 Template:Cite_web",
+                " 28.25%   19.216      1 Template:Portal"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.020",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 1480908,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1209",
+            "timestamp": "20161106094842",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":57,"wgHostname":"mw1171"});});
+  </script>
+ </body>
+</html>

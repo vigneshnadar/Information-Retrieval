@@ -1,0 +1,18 @@
+The Stop List was created from the unigram data
+
+The stopword list consists of frequently used words in English language like 'the','is','an'
+It can also contain countires, cities, name , adjectives, temporal words like
+'wednesday', 'yesterday', 'tommorow'
+These terms occur in high frequencies across many documents in the corpus
+Hence tf-idf can be to generate the stopword list.
+Other factors also need to be considered at the same time.
+Generating a stop word list based on tf-idf alone is not entirely accurate
+
+
+The cut off value is chosen as top 41
+Since proper terms with high frequencies like 'power', 'gas'
+but which should not be included in the stoplist started appearing after 41
+
+
+Few terms like 'water','united','power','energy' were manually removed from the stoplist
+since they are important and should not be included in stoplist

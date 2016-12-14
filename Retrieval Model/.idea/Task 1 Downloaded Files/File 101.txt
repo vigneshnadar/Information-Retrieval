@@ -1,0 +1,2579 @@
+https://en.wikipedia.org/wiki/Energy_crop
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Energy crop - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Energy_crop","wgTitle":"Energy crop","wgCurRevisionId":745143366,"wgRevisionId":745143366,"wgArticleId":5665192,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using citations with format and no URL","CS1 errors: missing author or editor","Articles needing additional references from April 2012","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from April 2012","Articles with unsourced statements from April 2008","All articles with dead external links","Articles with dead external links from August 2016","Energy crops","Biofuels","Biomass","Anaerobic digestion"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Energy_crop","wgRelevantArticleId":5665192,"wgRequestId":"WCASGgpAICkAABBiCIQAAAAG","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q587926","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Energy_crop" rel="alternate"/>
+  <link href="/w/index.php?title=Energy_crop&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Energy_crop&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Energy_crop" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Energy_crop rootpage-Energy_crop skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Energy crop
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+      <tr>
+       <td class="mbox-image">
+        <div style="width:52px">
+         <a class="image" href="/wiki/File:Question_book-new.svg">
+          <img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/>
+         </a>
+        </div>
+       </td>
+       <td class="mbox-text">
+        <span class="mbox-text-span">
+         This article
+         <b>
+          needs additional citations for
+          <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">
+           verification
+          </a>
+         </b>
+         .
+         <span class="hide-when-compact">
+          Please help
+          <a class="external text" href="//en.wikipedia.org/w/index.php?title=Energy_crop&amp;action=edit">
+           improve this article
+          </a>
+          by
+          <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">
+           adding citations to reliable sources
+          </a>
+          . Unsourced material may be challenged and removed.
+         </span>
+         <small>
+          <i>
+           (April 2012)
+          </i>
+         </small>
+         <small class="hide-when-compact">
+          <i>
+           (
+           <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+            Learn how and when to remove this template message
+           </a>
+           )
+          </i>
+         </small>
+        </span>
+       </td>
+      </tr>
+     </table>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:202px;">
+       <a class="image" href="/wiki/File:DEFRA_Energy_Crops_scheme_plantation_-_geograph.org.uk_-_848101.jpg">
+        <img alt="" class="thumbimage" data-file-height="640" data-file-width="427" height="300" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/DEFRA_Energy_Crops_scheme_plantation_-_geograph.org.uk_-_848101.jpg/200px-DEFRA_Energy_Crops_scheme_plantation_-_geograph.org.uk_-_848101.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/DEFRA_Energy_Crops_scheme_plantation_-_geograph.org.uk_-_848101.jpg/300px-DEFRA_Energy_Crops_scheme_plantation_-_geograph.org.uk_-_848101.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/DEFRA_Energy_Crops_scheme_plantation_-_geograph.org.uk_-_848101.jpg/400px-DEFRA_Energy_Crops_scheme_plantation_-_geograph.org.uk_-_848101.jpg 2x" width="200"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:DEFRA_Energy_Crops_scheme_plantation_-_geograph.org.uk_-_848101.jpg" title="Enlarge">
+         </a>
+        </div>
+        A
+        <a href="/wiki/Department_for_Environment,_Food_and_Rural_Affairs" title="Department for Environment, Food and Rural Affairs">
+         Department for Environment, Food and Rural Affairs
+        </a>
+        energy crops scheme plantation in the United Kingdom. Energy
+        <a href="/wiki/Crop" title="Crop">
+         crops
+        </a>
+        of this sort can be used in conventional power stations or specialised electricity generation units, reducing the amount of
+        <a href="/wiki/Fossil_fuel" title="Fossil fuel">
+         fossil fuel
+        </a>
+        -derived
+        <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">
+         carbon dioxide
+        </a>
+        emissions.
+       </div>
+      </div>
+     </div>
+     <p>
+      An
+      <b>
+       energy crop
+      </b>
+      is a
+      <a href="/wiki/Plant" title="Plant">
+       plant
+      </a>
+      grown as a low-cost and low-maintenance
+      <a href="/wiki/Harvest" title="Harvest">
+       harvest
+      </a>
+      used to make
+      <a href="/wiki/Biofuel" title="Biofuel">
+       biofuels
+      </a>
+      , such as
+      <a class="mw-redirect" href="/wiki/Bioethanol" title="Bioethanol">
+       bioethanol
+      </a>
+      , or combusted for its energy content to generate electricity or heat. Energy
+      <a href="/wiki/Crop" title="Crop">
+       crops
+      </a>
+      are generally categorized as woody or
+      <a class="mw-redirect" href="/wiki/Herbaceous" title="Herbaceous">
+       herbaceous
+      </a>
+      plants; many of the latter are grasses (
+      <i>
+       <a class="mw-redirect" href="/wiki/Graminaceae" title="Graminaceae">
+        Graminaceae
+       </a>
+      </i>
+      ).
+     </p>
+     <p>
+      Commercial energy crops are typically densely planted, high-yielding crop species, processed to bio-fuel and burnt to generate power. Woody crops such as
+      <a class="mw-redirect" href="/wiki/Salix" title="Salix">
+       willow
+      </a>
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+      or
+      <a href="/wiki/Populus" title="Populus">
+       poplar
+      </a>
+      are widely utilised, as well as temperate grasses such as
+      <i>
+       <a href="/wiki/Miscanthus" title="Miscanthus">
+        Miscanthus
+       </a>
+      </i>
+      and
+      <i>
+       <a href="/wiki/Pennisetum_purpureum" title="Pennisetum purpureum">
+        Pennisetum purpureum
+       </a>
+      </i>
+      (both known as elephant grass).
+      <sup class="reference" id="cite_ref-2">
+       <a href="#cite_note-2">
+        [2]
+       </a>
+      </sup>
+      If carbohydrate content is desired for the production of
+      <a href="/wiki/Biogas" title="Biogas">
+       biogas
+      </a>
+      , whole-crops such as
+      <a href="/wiki/Maize" title="Maize">
+       maize
+      </a>
+      ,
+      <a class="mw-redirect" href="/wiki/Sudan_grass" title="Sudan grass">
+       Sudan grass
+      </a>
+      ,
+      <a href="/wiki/Millet" title="Millet">
+       millet
+      </a>
+      ,
+      <a href="/wiki/Melilotus_albus" title="Melilotus albus">
+       white sweet clover
+      </a>
+      and many others, can be made into silage and then converted into biogas.
+      <sup class="reference" id="cite_ref-Kirakosyan_3-0">
+       <a href="#cite_note-Kirakosyan-3">
+        [3]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Through
+      <a class="mw-redirect" href="/wiki/Genetic_modification" title="Genetic modification">
+       genetic modification
+      </a>
+      and application of
+      <a href="/wiki/Biotechnology" title="Biotechnology">
+       biotechnology
+      </a>
+      plants can be manipulated to create greater yields, reduce associated costs and require less water. However, high energy yield can be realized with existing cultivars.
+      <sup class="reference" id="cite_ref-Kirakosyan_3-1">
+       <a href="#cite_note-Kirakosyan-3">
+        [3]
+       </a>
+      </sup>
+      <sup class="reference" style="white-space:nowrap;">
+       :250
+      </sup>
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Types_of_energy_crops">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Types of energy crops
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-2">
+          <a href="#By_state">
+           <span class="tocnumber">
+            1.1
+           </span>
+           <span class="toctext">
+            By state
+           </span>
+          </a>
+          <ul>
+           <li class="toclevel-3 tocsection-3">
+            <a href="#Solid_biomass">
+             <span class="tocnumber">
+              1.1.1
+             </span>
+             <span class="toctext">
+              Solid biomass
+             </span>
+            </a>
+           </li>
+           <li class="toclevel-3 tocsection-4">
+            <a href="#Gas_biomass_.28methane.29">
+             <span class="tocnumber">
+              1.1.2
+             </span>
+             <span class="toctext">
+              Gas biomass (methane)
+             </span>
+            </a>
+           </li>
+           <li class="toclevel-3 tocsection-5">
+            <a href="#Liquid_biomass">
+             <span class="tocnumber">
+              1.1.3
+             </span>
+             <span class="toctext">
+              Liquid biomass
+             </span>
+            </a>
+            <ul>
+             <li class="toclevel-4 tocsection-6">
+              <a href="#Biodiesel">
+               <span class="tocnumber">
+                1.1.3.1
+               </span>
+               <span class="toctext">
+                Biodiesel
+               </span>
+              </a>
+             </li>
+             <li class="toclevel-4 tocsection-7">
+              <a href="#Bioethanol">
+               <span class="tocnumber">
+                1.1.3.2
+               </span>
+               <span class="toctext">
+                Bioethanol
+               </span>
+              </a>
+             </li>
+            </ul>
+           </li>
+          </ul>
+         </li>
+         <li class="toclevel-2 tocsection-8">
+          <a href="#By_dedication">
+           <span class="tocnumber">
+            1.2
+           </span>
+           <span class="toctext">
+            By dedication
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-9">
+        <a href="#See_also">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-10">
+        <a href="#References">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-11">
+        <a href="#External_links">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          External links
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <div style="clear:both;">
+     </div>
+     <h2>
+      <span class="mw-headline" id="Types_of_energy_crops">
+       Types of energy crops
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Energy_crop&amp;action=edit&amp;section=1" title="Edit section: Types of energy crops">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <h3>
+      <span class="mw-headline" id="By_state">
+       By state
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Energy_crop&amp;action=edit&amp;section=2" title="Edit section: By state">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <h4>
+      <span class="mw-headline" id="Solid_biomass">
+       Solid biomass
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Energy_crop&amp;action=edit&amp;section=3" title="Edit section: Solid biomass">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h4>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Public_Footpath_Through_Elephant_Grass_-_geograph.org.uk_-_291522.jpg">
+        <img alt="" class="thumbimage" data-file-height="427" data-file-width="640" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Public_Footpath_Through_Elephant_Grass_-_geograph.org.uk_-_291522.jpg/220px-Public_Footpath_Through_Elephant_Grass_-_geograph.org.uk_-_291522.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Public_Footpath_Through_Elephant_Grass_-_geograph.org.uk_-_291522.jpg/330px-Public_Footpath_Through_Elephant_Grass_-_geograph.org.uk_-_291522.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Public_Footpath_Through_Elephant_Grass_-_geograph.org.uk_-_291522.jpg/440px-Public_Footpath_Through_Elephant_Grass_-_geograph.org.uk_-_291522.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Public_Footpath_Through_Elephant_Grass_-_geograph.org.uk_-_291522.jpg" title="Enlarge">
+         </a>
+        </div>
+        Elephant grass (
+        <i>
+         <a href="/wiki/Miscanthus_sinensis" title="Miscanthus sinensis">
+          Miscanthus sinensis
+         </a>
+        </i>
+        ) is an experimental energy crop
+       </div>
+      </div>
+     </div>
+     <p>
+      (Note: The terms biofuel, biomass, and so on, are often used interchangeably.)
+     </p>
+     <p>
+      Energy generated by burning plants grown for the purpose, often after the dry matter is
+      <a href="/wiki/Pelletizing" title="Pelletizing">
+       pelletized
+      </a>
+      . Energy crops are used for firing power plants, either alone or co-fired with other fuels. Alternatively they may be used for heat or
+      <a class="mw-redirect" href="/wiki/Combined_heat_and_power" title="Combined heat and power">
+       combined heat and power
+      </a>
+      (CHP) production.
+     </p>
+     <p>
+      To cover the increasing requirements of woody biomass,
+      <a href="/wiki/Short_rotation_coppice" title="Short rotation coppice">
+       short rotation coppice
+      </a>
+      (SRC) were applied to agricultural sites. Within this cropping systems fast growing tree species like
+      <a href="/wiki/Willow" title="Willow">
+       willows
+      </a>
+      and
+      <a href="/wiki/Populus" title="Populus">
+       poplars
+      </a>
+      are planted in growing cycles of three to five years. The cultivation of this cultures is dependent on wet soil conditions and could be an alternative for moist field sieds. However, an influence on local water conditions could not be excluded. This indicates that an establishment should exclude the vicinity to vulnarable
+      <a href="/wiki/Wetland" title="Wetland">
+       wetland
+      </a>
+      ecosystems.
+      <sup class="reference" id="cite_ref-4">
+       <a href="#cite_note-4">
+        [4]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-5">
+       <a href="#cite_note-5">
+        [5]
+       </a>
+      </sup>
+     </p>
+     <h4>
+      <span class="mw-headline" id="Gas_biomass_.28methane.29">
+       Gas biomass (methane)
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Energy_crop&amp;action=edit&amp;section=4" title="Edit section: Gas biomass (methane)">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h4>
+     <p>
+      <a class="mw-redirect" href="/wiki/Anaerobic_digesters" title="Anaerobic digesters">
+       Anaerobic digesters
+      </a>
+      or biogas plants can be directly supplemented with energy crops once they have been ensiled into
+      <a href="/wiki/Silage" title="Silage">
+       silage
+      </a>
+      . The fastest growing sector of German biofarming has been in the area of "Renewable Energy Crops" on nearly 500,000 ha (1,200,000 acres) of land (2006).
+      <sup class="reference" id="cite_ref-6">
+       <a href="#cite_note-6">
+        [6]
+       </a>
+      </sup>
+      Energy crops can also be grown to boost gas yields where feedstocks have a low energy content, such as manures and spoiled grain. It is estimated that the energy yield presently of bioenergy crops converted via silage to methane is about 2
+      <a class="mw-redirect" href="/wiki/Watt-hour" title="Watt-hour">
+       GWh
+      </a>
+      /
+      <a href="/wiki/Square_kilometre" title="Square kilometre">
+       km
+       <sup>
+        2
+       </sup>
+      </a>
+      (1.8
+      <span style="margin:0 .15em 0 .25em">
+       ×
+      </span>
+      10
+      <sup>
+       10
+      </sup>
+      <a href="/wiki/British_thermal_unit" title="British thermal unit">
+       BTU
+      </a>
+      /
+      <a href="/wiki/Square_mile" title="Square mile">
+       sq mi
+      </a>
+      ). Small mixed cropping enterprises with animals can use a portion of their acreage to grow and convert energy crops and sustain the entire farms energy requirements with about 1/5 the acreage. In Europe and especially Germany, however, this rapid growth has occurred only with substantial government support, as in the German bonus system for
+      <a href="/wiki/Renewable_energy" title="Renewable energy">
+       renewable energy
+      </a>
+      . Similar developments of integrating crop farming and bioenergy production via silage-methane have been almost entirely overlooked in N. America, where political and structural issues and a huge continued push to centralize energy production has overshadowed positive developments.
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (April 2012)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+     </p>
+     <h4>
+      <span class="mw-headline" id="Liquid_biomass">
+       Liquid biomass
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Energy_crop&amp;action=edit&amp;section=5" title="Edit section: Liquid biomass">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h4>
+     <h5>
+      <span class="mw-headline" id="Biodiesel">
+       Biodiesel
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Energy_crop&amp;action=edit&amp;section=6" title="Edit section: Biodiesel">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h5>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Kerala_coconut.jpg">
+        <img alt="" class="thumbimage" data-file-height="600" data-file-width="800" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kerala_coconut.jpg/220px-Kerala_coconut.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kerala_coconut.jpg/330px-Kerala_coconut.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kerala_coconut.jpg/440px-Kerala_coconut.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Kerala_coconut.jpg" title="Enlarge">
+         </a>
+        </div>
+        Coconuts sun-dried in
+        <a href="/wiki/Kozhikode" title="Kozhikode">
+         Kozhikode
+        </a>
+        ,
+        <a href="/wiki/Kerala" title="Kerala">
+         Kerala
+        </a>
+        for making copra, the dried meat, or kernel, of the
+        <a href="/wiki/Coconut" title="Coconut">
+         coconut
+        </a>
+        .
+        <a href="/wiki/Coconut_oil" title="Coconut oil">
+         Coconut oil
+        </a>
+        extracted from it has made copra an important agricultural commodity for many coconut-producing countries. It also yields coconut cake which is mainly used as
+        <a href="/wiki/Fodder" title="Fodder">
+         feed
+        </a>
+        for livestock.
+       </div>
+      </div>
+     </div>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:172px;">
+       <a class="image" href="/wiki/File:Bequer-B100-SOJA-SOYBEAM.jpg">
+        <img alt="" class="thumbimage" data-file-height="547" data-file-width="480" height="194" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bequer-B100-SOJA-SOYBEAM.jpg/170px-Bequer-B100-SOJA-SOYBEAM.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bequer-B100-SOJA-SOYBEAM.jpg/255px-Bequer-B100-SOJA-SOYBEAM.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bequer-B100-SOJA-SOYBEAM.jpg/340px-Bequer-B100-SOJA-SOYBEAM.jpg 2x" width="170"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Bequer-B100-SOJA-SOYBEAM.jpg" title="Enlarge">
+         </a>
+        </div>
+        Pure biodiesel (B-100), made from soybeans
+       </div>
+      </div>
+     </div>
+     <p>
+      European production of
+      <a href="/wiki/Biodiesel" title="Biodiesel">
+       biodiesel
+      </a>
+      from energy crops has grown steadily in the last decade, principally focused on
+      <a href="/wiki/Rapeseed" title="Rapeseed">
+       rapeseed
+      </a>
+      used for oil and energy. Production of oil/biodiesel from rape covers more than 12,000 km² in Germany alone, and has doubled in the past 15 years.
+      <sup class="reference" id="cite_ref-7">
+       <a href="#cite_note-7">
+        [7]
+       </a>
+      </sup>
+      Typical yield of oil as pure biodiesel may be is 100,000 L/km
+      <sup>
+       2
+      </sup>
+      (68,000 US gal/sq mi; 57,000 imp gal/sq mi) or more, making biodiesel crops economically attractive, provided sustainable
+      <a href="/wiki/Crop_rotation" title="Crop rotation">
+       crop rotations
+      </a>
+      exist that are nutrient-balanced and preventative of the spread of disease such as
+      <a href="/wiki/Clubroot" title="Clubroot">
+       clubroot
+      </a>
+      . Biodiesel yield of soybeans is significantly lower than that of rape.
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (April 2012)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+     </p>
+     <table class="wikitable sortable">
+      <caption>
+       Typical oil extractable by weight
+      </caption>
+      <tr>
+       <th>
+        Crop
+       </th>
+       <th>
+        Oil %
+       </th>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/Copra" title="Copra">
+         copra
+        </a>
+       </td>
+       <td>
+        62
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a class="mw-redirect" href="/wiki/Castor_oil_plant" title="Castor oil plant">
+         castor
+        </a>
+        seed
+       </td>
+       <td>
+        50
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/Sesame" title="Sesame">
+         sesame
+        </a>
+       </td>
+       <td>
+        50
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/Peanut" title="Peanut">
+         groundnut
+        </a>
+        kernel
+       </td>
+       <td>
+        42
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/Jatropha" title="Jatropha">
+         jatropha
+        </a>
+       </td>
+       <td>
+        40
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/Rapeseed" title="Rapeseed">
+         rapeseed
+        </a>
+       </td>
+       <td>
+        37
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/Arecaceae" title="Arecaceae">
+         palm
+        </a>
+        kernel
+       </td>
+       <td>
+        36
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/Mustard_seed" title="Mustard seed">
+         mustard seed
+        </a>
+       </td>
+       <td>
+        35
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a class="mw-redirect" href="/wiki/Sunflower" title="Sunflower">
+         sunflower
+        </a>
+       </td>
+       <td>
+        32
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/Arecaceae" title="Arecaceae">
+         palm
+        </a>
+        fruit
+       </td>
+       <td>
+        20
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/Soybean" title="Soybean">
+         soybean
+        </a>
+       </td>
+       <td>
+        14
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/Cotton" title="Cotton">
+         cotton
+        </a>
+        seed
+       </td>
+       <td>
+        13
+       </td>
+      </tr>
+     </table>
+     <h5>
+      <span class="mw-headline" id="Bioethanol">
+       Bioethanol
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Energy_crop&amp;action=edit&amp;section=7" title="Edit section: Bioethanol">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h5>
+     <p>
+      Energy crops for
+      <a class="mw-redirect" href="/wiki/Biobutanol" title="Biobutanol">
+       biobutanol
+      </a>
+      are
+      <a class="mw-redirect" href="/wiki/Grasses" title="Grasses">
+       grasses
+      </a>
+      . Two leading non-food crops for the production of
+      <a href="/wiki/Cellulosic_ethanol" title="Cellulosic ethanol">
+       cellulosic bioethanol
+      </a>
+      are
+      <a class="mw-redirect" href="/wiki/Switchgrass" title="Switchgrass">
+       switchgrass
+      </a>
+      and
+      <a class="mw-redirect" href="/wiki/Giant_miscanthus" title="Giant miscanthus">
+       giant miscanthus
+      </a>
+      . There has been a preoccupation with cellulosic bioethanol in America as the agricultural structure supporting biomethane is absent in many regions, with no credits or bonus system in place.
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (April 2008)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+      Consequently, a lot of private money and investor hopes are being pinned on marketable and patentable innovations in enzyme hydrolysis and the like.
+     </p>
+     <p>
+      <a class="mw-redirect" href="/wiki/Bioethanol" title="Bioethanol">
+       Bioethanol
+      </a>
+      also refers to the technology of using principally corn (maize seed) to make ethanol directly through fermentation, a process that under certain field and process conditions can consume as much energy as is the energy value of the ethanol it produces, therefore being non-sustainable. New developments in converting grain stillage (referred to as distillers grain stillage or DGS) into biogas energy looks promising as a means to improve the poor energy ratio of this type of bioethanol process.
+     </p>
+     <h3>
+      <span class="mw-headline" id="By_dedication">
+       By dedication
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Energy_crop&amp;action=edit&amp;section=8" title="Edit section: By dedication">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <div class="hatnote" role="note">
+      Main article:
+      <a class="mw-redirect" href="/wiki/Food_vs_fuel" title="Food vs fuel">
+       Food vs fuel
+      </a>
+     </div>
+     <p>
+      Dedicated energy crops are non-
+      <a href="/wiki/Food" title="Food">
+       food
+      </a>
+      energy crops as
+      <a class="mw-redirect" href="/wiki/Giant_miscanthus" title="Giant miscanthus">
+       giant miscanthus
+      </a>
+      ,
+      <a class="mw-redirect" href="/wiki/Switchgrass" title="Switchgrass">
+       switchgrass
+      </a>
+      ,
+      <a href="/wiki/Jatropha" title="Jatropha">
+       jatropha
+      </a>
+      ,
+      <a class="mw-redirect" href="/wiki/Fungi" title="Fungi">
+       fungi
+      </a>
+      , and
+      <a href="/wiki/Algae" title="Algae">
+       algae
+      </a>
+      . Dedicated energy crops are promising cellulose sources that can be
+      <a href="/wiki/Sustainability" title="Sustainability">
+       sustainably produced
+      </a>
+      in many regions of the United States.
+      <sup class="reference" id="cite_ref-8">
+       <a href="#cite_note-8">
+        [8]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Additionally,
+      <a class="mw-redirect" href="/wiki/Byproduct" title="Byproduct">
+       Byproducts
+      </a>
+      (
+      <a href="/wiki/Green_waste" title="Green waste">
+       green waste
+      </a>
+      ) of food and non-food energy crops can be used to produce various biofuels.
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Energy_crop&amp;action=edit&amp;section=9" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+      <ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+       <li style="display:table-row">
+        <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+         <a class="image" href="/wiki/File:Veranotrigo.jpg">
+          <img alt="icon" class="noviewer" data-file-height="1200" data-file-width="1600" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Veranotrigo.jpg/32px-Veranotrigo.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Veranotrigo.jpg/48px-Veranotrigo.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Veranotrigo.jpg/64px-Veranotrigo.jpg 2x" width="32"/>
+         </a>
+        </span>
+        <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+         <a class="mw-redirect" href="/wiki/Portal:Agriculture" title="Portal:Agriculture">
+          Agriculture portal
+         </a>
+        </span>
+       </li>
+       <li style="display:table-row">
+        <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+         <a class="image" href="/wiki/File:Wind-turbine-icon.svg">
+          <img alt="icon" class="noviewer" data-file-height="128" data-file-width="128" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/28px-Wind-turbine-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/42px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/56px-Wind-turbine-icon.svg.png 2x" width="28"/>
+         </a>
+        </span>
+        <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+         <a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">
+          Renewable energy portal
+         </a>
+        </span>
+       </li>
+       <li style="display:table-row">
+        <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+         <a class="image" href="/wiki/File:Crystal_energy.svg">
+          <img alt="icon" class="noviewer" data-file-height="124" data-file-width="130" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" width="29"/>
+         </a>
+        </span>
+        <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+         <a href="/wiki/Portal:Energy" title="Portal:Energy">
+          Energy portal
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+      <ul>
+       <li>
+        <a class="mw-redirect" href="/wiki/Agricultural_byproduct" title="Agricultural byproduct">
+         Agricultural byproduct
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Algal_fuel" title="Algal fuel">
+         Algal fuel
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Anaerobic_digestion" title="Anaerobic digestion">
+         Anaerobic digestion
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Biogas" title="Biogas">
+         Biogas
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Biotech_crop" title="Biotech crop">
+         Biotech crop
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Cellulosic_ethanol" title="Cellulosic ethanol">
+         Cellulosic ethanol
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Eichhornia_crassipes#Bioenergy" title="Eichhornia crassipes">
+         Eichhornia crassipes#Bioenergy
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/European_Biomass_Association" title="European Biomass Association">
+         European Biomass Association
+        </a>
+       </li>
+       <li>
+        <i>
+         <a href="/wiki/Myriophyllum" title="Myriophyllum">
+          Myriophyllum
+         </a>
+        </i>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Non-food_crop" title="Non-food crop">
+         Non-food crop
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Short_rotation_coppice" title="Short rotation coppice">
+         Short rotation coppice
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Short_rotation_forestry" title="Short rotation forestry">
+         Short rotation forestry
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Table_of_biofuel_crop_yields" title="Table of biofuel crop yields">
+         Table of biofuel crop yields
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Vegoil" title="Vegoil">
+         Vegoil
+        </a>
+       </li>
+      </ul>
+     </div>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Energy_crop&amp;action=edit&amp;section=10" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist" style="list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-1">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation journal">
+          Mola-Yudego, B; Aronsson, P. (2008). "Yield models for commercial willow biomass plantations in Sweden".
+          <i>
+           Biomass and Bioenergy
+          </i>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          <span class="error citation-comment" style="display:none;font-size:100%">
+           <code style="color:inherit; border:inherit; padding:inherit;">
+            |format=
+           </code>
+           requires
+           <code style="color:inherit; border:inherit; padding:inherit;">
+            |url=
+           </code>
+           (
+           <a href="/wiki/Help:CS1_errors#format_missing_url" title="Help:CS1 errors">
+            help
+           </a>
+           )
+          </span>
+          .
+          <b>
+           32
+          </b>
+          (9): 829–837.
+          <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+           doi
+          </a>
+          :
+          <a class="external text" href="//dx.doi.org/10.1016%2Fj.biombioe.2008.01.002" rel="nofollow">
+           10.1016/j.biombioe.2008.01.002
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+crop&amp;rft.atitle=Yield+models+for+commercial+willow+biomass+plantations+in+Sweden&amp;rft.au=Aronsson%2C+P.&amp;rft.au=Mola-Yudego%2C+B&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.biombioe.2008.01.002&amp;rft.issue=9&amp;rft.jtitle=Biomass+and+Bioenergy&amp;rft.pages=829-837&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=32">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-2">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         NNFCC, Hodsman, L., Smallwood, M., Williams, D.
+         <a class="external text" href="http://www.nnfcc.co.uk/tools/the-promotion-of-non-food-crops" rel="nofollow">
+          "The Promotion of Non-Food Crops"
+         </a>
+         ,
+         <i>
+          <a class="mw-redirect" href="/wiki/National_Non-Food_Crops_Centre" title="National Non-Food Crops Centre">
+           National Non-Food Crops Centre
+          </a>
+         </i>
+         , 2005-11-30. Retrieved on 2009-05-11.
+        </span>
+       </li>
+       <li id="cite_note-Kirakosyan-3">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-Kirakosyan_3-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-Kirakosyan_3-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation book">
+          Ara Kirakosyan; Peter B. Kaufman (2009-08-15).
+          <a class="external text" href="https://books.google.com/books?id=SlFBQsfskzcC&amp;pg=PA169&amp;lpg=PA169&amp;dq=maize,+Sudan+grass,+millet,+white+sweet+clover+silage+converted+into+biogas#v=onepage&amp;q=maize%2C%20Sudan%20grass%2C%20millet%2C%20white%20sweet%20clover%20silage%20converted%20into%20biogas&amp;f=false" rel="nofollow">
+           <i>
+            Recent Advances in Plant Biotechnology
+           </i>
+          </a>
+          . p. 169.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/9781441901934" title="Special:BookSources/9781441901934">
+           9781441901934
+          </a>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            14 February
+           </span>
+           2013
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+crop&amp;rft.au=Ara+Kirakosyan&amp;rft.au=Peter+B.+Kaufman&amp;rft.btitle=Recent+Advances+in+Plant+Biotechnology&amp;rft.date=2009-08-15&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DSlFBQsfskzcC%26pg%3DPA169%26lpg%3DPA169%26dq%3Dmaize%2C%2BSudan%2Bgrass%2C%2Bmillet%2C%2Bwhite%2Bsweet%2Bclover%2Bsilage%2Bconverted%2Binto%2Bbiogas%23v%3Donepage%26q%3Dmaize%252C%2520Sudan%2520grass%252C%2520millet%252C%2520white%2520sweet%2520clover%2520silage%2520converted%2520into%2520biogas%26f%3Dfalse&amp;rft.isbn=9781441901934&amp;rft.pages=169&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-4">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation journal">
+          Hartwich, Jens; Bölscher, Jens; Schulte, Achim (2014-09-19).
+          <a class="external text" href="http://dx.doi.org/10.1080/02508060.2014.959870" rel="nofollow">
+           "Impact of short-rotation coppice on water and land resources"
+          </a>
+          .
+          <i>
+           Water International
+          </i>
+          .
+          <b>
+           39
+          </b>
+          (6): 813–825.
+          <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+           doi
+          </a>
+          :
+          <a class="external text" href="//dx.doi.org/10.1080%2F02508060.2014.959870" rel="nofollow">
+           10.1080/02508060.2014.959870
+          </a>
+          .
+          <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+           ISSN
+          </a>
+          <a class="external text" href="//www.worldcat.org/issn/0250-8060" rel="nofollow">
+           0250-8060
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+crop&amp;rft.atitle=Impact+of+short-rotation+coppice+on+water+and+land+resources&amp;rft.au=B%C3%B6lscher%2C+Jens&amp;rft.aufirst=Jens&amp;rft.aulast=Hartwich&amp;rft.au=Schulte%2C+Achim&amp;rft.date=2014-09-19&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fdx.doi.org%2F10.1080%2F02508060.2014.959870&amp;rft_id=info%3Adoi%2F10.1080%2F02508060.2014.959870&amp;rft.issn=0250-8060&amp;rft.issue=6&amp;rft.jtitle=Water+International&amp;rft.pages=813-825&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=39">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-5">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation journal">
+          Hartwich, Jens; Schmidt, Markus; Bölscher, Jens; Reinhardt-Imjela, Christian; Murach, Dieter; Schulte, Achim (2016-07-11).
+          <a class="external text" href="http://link.springer.com/article/10.1007/s12665-016-5870-4" rel="nofollow">
+           "Hydrological modelling of changes in the water balance due to the impact of woody biomass production in the North German Plain"
+          </a>
+          .
+          <i>
+           Environmental Earth Sciences
+          </i>
+          .
+          <b>
+           75
+          </b>
+          (14): 1–17.
+          <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+           doi
+          </a>
+          :
+          <a class="external text" href="//dx.doi.org/10.1007%2Fs12665-016-5870-4" rel="nofollow">
+           10.1007/s12665-016-5870-4
+          </a>
+          .
+          <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+           ISSN
+          </a>
+          <a class="external text" href="//www.worldcat.org/issn/1866-6280" rel="nofollow">
+           1866-6280
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+crop&amp;rft.atitle=Hydrological+modelling+of+changes+in+the+water+balance+due+to+the+impact+of+woody+biomass+production+in+the+North+German+Plain&amp;rft.au=B%C3%B6lscher%2C+Jens&amp;rft.aufirst=Jens&amp;rft.aulast=Hartwich&amp;rft.au=Murach%2C+Dieter&amp;rft.au=Reinhardt-Imjela%2C+Christian&amp;rft.au=Schmidt%2C+Markus&amp;rft.au=Schulte%2C+Achim&amp;rft.date=2016-07-11&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs12665-016-5870-4&amp;rft_id=info%3Adoi%2F10.1007%2Fs12665-016-5870-4&amp;rft.issn=1866-6280&amp;rft.issue=14&amp;rft.jtitle=Environmental+Earth+Sciences&amp;rft.pages=1-17&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=75">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-6">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-6">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.theenvironmentalist.com/index.php?option=com_content&amp;task=section&amp;id=4&amp;Itemid=26" rel="nofollow">
+           "Environmental Use of BioMass"
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+crop&amp;rft.btitle=Environmental+Use+of+BioMass&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.theenvironmentalist.com%2Findex.php%3Foption%3Dcom_content%26task%3Dsection%26id%3D4%26Itemid%3D26&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-7">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-7">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://biomassenergyintroduction.blogspot.com/" rel="nofollow">
+           "Bio Mass Energy"
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+crop&amp;rft.btitle=Bio+Mass+Energy&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fbiomassenergyintroduction.blogspot.com%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+         <span class="error citation-comment" style="font-size:100%">
+          <code style="color:inherit; border:inherit; padding:inherit;">
+           |first1=
+          </code>
+          missing
+          <code style="color:inherit; border:inherit; padding:inherit;">
+           |last1=
+          </code>
+          in Authors list (
+          <a href="/wiki/Help:CS1_errors#first_missing_last" title="Help:CS1 errors">
+           help
+          </a>
+          )
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-8">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-8">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Biotechnology Industry Organization (2007).
+         <a class="external text" href="http://www.docstoc.com/docs/53174530/Industrial-Biotechnology-Is-Revolutionizing-the-Production-of-Ethanol" rel="nofollow">
+          <i>
+           Industrial Biotechnology Is Revolutionizing the Production of Ethanol Transportation Fuel
+          </i>
+         </a>
+         pp. 3-4.
+        </span>
+       </li>
+      </ol>
+     </div>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Energy_crop&amp;action=edit&amp;section=11" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       GA Mansoori, N Enayati, LB Agyarko (2016),
+       <a class="external text" href="http://www.worldscientific.com/worldscibooks/10.1142/9699" rel="nofollow">
+        Energy: Sources, Utilization, Legislation, Sustainability, Illinois as Model State
+       </a>
+       , World Sci. Pub. Co.,
+       <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/9789814704007">
+        ISBN 978-981-4704-00-7
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.seco.cpa.state.tx.us/re_biomass-crops.htm" rel="nofollow">
+        Energy Crops for Fuel
+       </a>
+       <sup class="noprint Inline-Template">
+        <span style="white-space: nowrap;">
+         [
+         <i>
+          <a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot">
+           <span title=" Dead link since August 2016">
+            dead link
+           </span>
+          </a>
+         </i>
+         ]
+        </span>
+       </sup>
+      </li>
+      <li>
+       <a class="external text" href="http://www.biomassenergycentre.org.uk/portal/page?_pageid=75,17301&amp;_dad=portal&amp;_schema=PORTAL" rel="nofollow">
+        Energy crops
+       </a>
+       at Biomass Energy Centre
+      </li>
+      <li>
+       <a class="external text" href="http://www.cfsef.org" rel="nofollow">
+        Center for Sustainable Energy Farming
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.birdlife.org/eu/pdfs/RenewableSummaryreportfinal.pdf" rel="nofollow">
+        Reviewing the scientific evidence about ecological impacts of renewables
+       </a>
+      </li>
+     </ul>
+     <div aria-labelledby="Bioenergy" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="3" scope="col">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Bioenergy" title="Template:Bioenergy">
+             <abbr style=";;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Bioenergy" title="Template talk:Bioenergy">
+             <abbr style=";;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Bioenergy&amp;action=edit">
+             <abbr style=";;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="Bioenergy" style="font-size:114%">
+          <a href="/wiki/Bioenergy" title="Bioenergy">
+           Bioenergy
+          </a>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Category:Biofuels" title="Category:Biofuels">
+          Biofuels
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Alcohol" title="Alcohol">
+             Alcohol
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Algae_fuel" title="Algae fuel">
+             Algae fuel
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Bagasse" title="Bagasse">
+             Bagasse
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Babassu_oil" title="Babassu oil">
+             Babassu oil
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Butanol_fuel" title="Butanol fuel">
+             Biobutanol
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Biodiesel" title="Biodiesel">
+             Biodiesel
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Biogas" title="Biogas">
+             Biogas
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Biogasoline" title="Biogasoline">
+             Biogasoline
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Corn_stover" title="Corn stover">
+             Corn stover
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ethanol_fuel" title="Ethanol fuel">
+             Ethanol
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Cellulosic_ethanol" title="Cellulosic ethanol">
+               cellulosic
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Common_ethanol_fuel_mixtures" title="Common ethanol fuel mixtures">
+               mixtures
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/Methanol_fuel" title="Methanol fuel">
+             Methanol
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Stover" title="Stover">
+             Stover
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Corn_stover" title="Corn stover">
+               Corn stover
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/Straw" title="Straw">
+             Straw
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cooking_oil" title="Cooking oil">
+             Cooking oil
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Vegetable_oil_fuel" title="Vegetable oil fuel">
+               Vegetable oil
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/Eichhornia_crassipes#Bioenergy" title="Eichhornia crassipes">
+             Water hyacinth
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Wood_gas" title="Wood gas">
+             Wood gas
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+        <td class="navbox-image" rowspan="9" style="width:0%;padding:0px 0px 0px 2px">
+         <div>
+          <a class="image" href="/wiki/File:Sugarcane_field.jpg">
+           <img alt="Sugarcane field.jpg" data-file-height="2790" data-file-width="1848" height="181" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sugarcane_field.jpg/120px-Sugarcane_field.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sugarcane_field.jpg/180px-Sugarcane_field.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sugarcane_field.jpg/240px-Sugarcane_field.jpg 2x" width="120"/>
+          </a>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Category:Energy_crops" title="Category:Energy crops">
+          Energy from
+          <br/>
+          foodstock
+         </a>
+        </th>
+        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Barley" title="Barley">
+             Barley
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cassava" title="Cassava">
+             Cassava
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Grape" title="Grape">
+             Grape
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Hemp" title="Hemp">
+             Hemp
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Maize" title="Maize">
+             Maize
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Oat" title="Oat">
+             Oat
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Palm_oil" title="Palm oil">
+             Palm oil
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Potato" title="Potato">
+             Potato
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Rapeseed" title="Rapeseed">
+             Rapeseed
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Rice" title="Rice">
+             Rice
+            </a>
+           </li>
+           <li>
+            <i>
+             <a href="/wiki/Sorghum_bicolor" title="Sorghum bicolor">
+              Sorghum bicolor
+             </a>
+            </i>
+           </li>
+           <li>
+            <a href="/wiki/Soybean" title="Soybean">
+             Soybean
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sugarcane" title="Sugarcane">
+             Sugarcane
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sugar_beet" title="Sugar beet">
+             Sugar beet
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Sunflower" title="Sunflower">
+             Sunflower
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Wheat" title="Wheat">
+             Wheat
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Yam_(vegetable)" title="Yam (vegetable)">
+             Yam
+            </a>
+           </li>
+           <li>
+            <i>
+             <a href="/wiki/Camelina_sativa#Biodiesel_and_jet_fuel" title="Camelina sativa">
+              Camelina sativa
+             </a>
+            </i>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Category:Non-food_crops" title="Category:Non-food crops">
+          Non-food
+          <br/>
+          energy crops
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <i>
+             <a href="/wiki/Arundo" title="Arundo">
+              Arundo
+             </a>
+            </i>
+           </li>
+           <li>
+            <a href="/wiki/Andropogon_gerardi" title="Andropogon gerardi">
+             Big bluestem
+            </a>
+           </li>
+           <li>
+            <i>
+             <a href="/wiki/Camelina" title="Camelina">
+              Camelina
+             </a>
+            </i>
+           </li>
+           <li>
+            <a href="/wiki/Triadica_sebifera" title="Triadica sebifera">
+             Chinese tallow
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Lemnoideae" title="Lemnoideae">
+             Duckweed
+            </a>
+           </li>
+           <li>
+            <i>
+             <a href="/wiki/Jatropha_curcas" title="Jatropha curcas">
+              Jatropha curcas
+             </a>
+            </i>
+           </li>
+           <li>
+            <i>
+             <a href="/wiki/Millettia_pinnata" title="Millettia pinnata">
+              Millettia pinnata
+             </a>
+            </i>
+           </li>
+           <li>
+            <i>
+             <a href="/wiki/Miscanthus_giganteus" title="Miscanthus giganteus">
+              Miscanthus giganteus
+             </a>
+            </i>
+           </li>
+           <li>
+            <a href="/wiki/Panicum_virgatum" title="Panicum virgatum">
+             Switchgrass
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Wood_fuel" title="Wood fuel">
+             Wood fuel
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Technology
+        </th>
+        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Bio-energy_with_carbon_capture_and_storage" title="Bio-energy with carbon capture and storage">
+             BECCS
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Bioconversion_of_biomass_to_mixed_alcohol_fuels" title="Bioconversion of biomass to mixed alcohol fuels">
+             Bioconversion
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Biomass_heating_system" title="Biomass heating system">
+             Biomass heating systems
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Biorefinery" title="Biorefinery">
+             Biorefinery
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Fischer%E2%80%93Tropsch_process" title="Fischer–Tropsch process">
+             Fischer–Tropsch process
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Industrial_biotechnology" title="Industrial biotechnology">
+             Industrial biotechnology
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Pellet_fuel" title="Pellet fuel">
+             Pellets
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Pellet_mill" title="Pellet mill">
+               mill
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Pellet_stove" title="Pellet stove">
+               stove
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/Thermal_depolymerization" title="Thermal depolymerization">
+             Thermal depolymerization
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Concepts
+        </th>
+        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Cellulosic_ethanol_commercialization" title="Cellulosic ethanol commercialization">
+             Cellulosic ethanol commercialization
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Energy_content_of_biofuel" title="Energy content of biofuel">
+             Energy content of biofuel
+            </a>
+           </li>
+           <li>
+            <strong class="selflink">
+             Energy crop
+            </strong>
+           </li>
+           <li>
+            <a href="/wiki/Energy_forestry" title="Energy forestry">
+             Energy forestry
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Energy_returned_on_energy_invested" title="Energy returned on energy invested">
+             EROEI
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Food_vs._fuel" title="Food vs. fuel">
+             Food vs. fuel
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Issues_relating_to_biofuels" title="Issues relating to biofuels">
+             Issues
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sustainable_biofuel" title="Sustainable biofuel">
+             Sustainable biofuel
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:5665192-0!*!0!!en!4!* and timestamp 20161027105721 and revision id 745143366
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Energy_crop&amp;oldid=745143366">
+      https://en.wikipedia.org/w/index.php?title=Energy_crop&amp;oldid=745143366
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Energy_crops" title="Category:Energy crops">
+         Energy crops
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Biofuels" title="Category:Biofuels">
+         Biofuels
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Biomass" title="Category:Biomass">
+         Biomass
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Anaerobic_digestion" title="Category:Anaerobic digestion">
+         Anaerobic digestion
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Pages_using_citations_with_format_and_no_URL" title="Category:Pages using citations with format and no URL">
+         Pages using citations with format and no URL
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:CS1_errors:_missing_author_or_editor" title="Category:CS1 errors: missing author or editor">
+         CS1 errors: missing author or editor
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_needing_additional_references_from_April_2012" title="Category:Articles needing additional references from April 2012">
+         Articles needing additional references from April 2012
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">
+         All articles needing additional references
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+         All articles with unsourced statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2012" title="Category:Articles with unsourced statements from April 2012">
+         Articles with unsourced statements from April 2012
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2008" title="Category:Articles with unsourced statements from April 2008">
+         Articles with unsourced statements from April 2008
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">
+         All articles with dead external links
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_dead_external_links_from_August_2016" title="Category:Articles with dead external links from August 2016">
+         Articles with dead external links from August 2016
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Energy+crop" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Energy+crop" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Energy_crop" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Energy_crop" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Energy_crop">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Energy_crop&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Energy_crop&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Energy_crop" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Energy_crop" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Energy_crop&amp;oldid=745143366" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Energy_crop&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q587926" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Energy_crop&amp;id=745143366" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Energy+crop">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Energy+crop&amp;returnto=Energy+crop&amp;oldid=745143366&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Energy_crop&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Energy_crops" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Energetick%C3%A9_byliny" hreflang="cs" lang="cs" title="Energetické byliny – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Energipil" hreflang="da" lang="da" title="Energipil – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Energiepflanze" hreflang="de" lang="de" title="Energiepflanze – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Energia_planto" hreflang="eo" lang="eo" title="Energia planto – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Energia%C3%BCltetv%C3%A9ny" hreflang="hu" lang="hu" title="Energiaültetvény – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Energiegewas" hreflang="nl" lang="nl" title="Energiegewas – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Uprawy_energetyczne" hreflang="pl" lang="pl" title="Uprawy energetyczne – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B" hreflang="ru" lang="ru" title="Энергетические культуры – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-si">
+        <a class="interlanguage-link-target" href="https://si.wikipedia.org/wiki/%E0%B7%81%E0%B6%9A%E0%B7%8A%E0%B6%AD%E0%B7%92_%E0%B6%B6%E0%B7%9D%E0%B6%9C" hreflang="si" lang="si" title="ශක්ති බෝග – Sinhala">
+         සිංහල
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Energiakasvi" hreflang="fi" lang="fi" title="Energiakasvi – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Energiskog" hreflang="sv" lang="sv" title="Energiskog – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%95%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%BD%D1%96_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B8" hreflang="uk" lang="uk" title="Енергетичні культури – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q587926#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 19 October 2016, at 14:05.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Energy_crop&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.232",
+            "walltime": "0.293",
+            "ppvisitednodes": {
+                "value": 1188,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 40742,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 1973,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 11,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 4,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  230.782      1 -total",
+                " 27.48%   63.408      1 Template:Reflist",
+                " 20.31%   46.875      3 Template:Citation_needed",
+                " 20.12%   46.440      4 Template:Fix",
+                " 16.04%   37.025      3 Template:Cite_journal",
+                " 16.03%   36.996      1 Template:Refimprove",
+                " 12.35%   28.511      3 Template:Convert",
+                " 11.32%   26.120      3 Template:Delink",
+                " 10.00%   23.073      1 Template:Ambox",
+                "  6.88%   15.877      8 Template:Category_handler"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.116",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 5851626,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1177",
+            "timestamp": "20161027105721",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":57,"wgHostname":"mw1171"});});
+  </script>
+ </body>
+</html>

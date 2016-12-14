@@ -1,0 +1,1817 @@
+https://en.wikipedia.org/wiki/SeaGen
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   SeaGen - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"SeaGen","wgTitle":"SeaGen","wgCurRevisionId":709996158,"wgRevisionId":709996158,"wgArticleId":18362930,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Coordinates on Wikidata","Tidal stream generators","Tidal power stations in Northern Ireland"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"SeaGen","wgRelevantArticleId":18362930,"wgRequestId":"WB@utQpAMFAAAK@ya10AAABU","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":54.368666666667,"lon":-5.5460555555556},"wgWikibaseItemId":"Q1521172","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/SeaGen" rel="alternate"/>
+  <link href="/w/index.php?title=SeaGen&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=SeaGen&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/SeaGen" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-SeaGen rootpage-SeaGen skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    SeaGen
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <table class="infobox vcard" style="width:22em">
+      <tr>
+       <th class="fn org" colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color:#FFFFE6;">
+        SeaGen
+       </th>
+      </tr>
+      <tr>
+       <td colspan="2" style="text-align:center">
+        <a class="image" href="/wiki/File:SeaGen_installed.jpg">
+         <img alt="SeaGen installed.jpg" data-file-height="300" data-file-width="358" height="184" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/SeaGen_installed.jpg/220px-SeaGen_installed.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/SeaGen_installed.jpg/330px-SeaGen_installed.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/7/77/SeaGen_installed.jpg 2x" width="220"/>
+        </a>
+        <div>
+         Commercial tidal stream generator — SeaGen — in
+         <a href="/wiki/Strangford_Lough" title="Strangford Lough">
+          Strangford Lough
+         </a>
+         . The strong wake shows the power in the tidal current.
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <td colspan="2" style="text-align:center">
+        <div class="center">
+         <div style="width:235px;float:none;clear:both;margin-left:auto;margin-right:auto">
+          <div style="width:235px;padding:0">
+           <div style="position:relative;width:235px">
+            <a class="image" href="/wiki/File:Relief_Map_of_Northern_Ireland.png" title="SeaGen is located in Northern Ireland">
+             <img alt="SeaGen is located in Northern Ireland" data-file-height="685" data-file-width="806" height="200" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Relief_Map_of_Northern_Ireland.png/235px-Relief_Map_of_Northern_Ireland.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Relief_Map_of_Northern_Ireland.png/353px-Relief_Map_of_Northern_Ireland.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/12/Relief_Map_of_Northern_Ireland.png/470px-Relief_Map_of_Northern_Ireland.png 2x" width="235"/>
+            </a>
+            <div style="position:absolute;top:68.756%;left:91.798%">
+             <div style="position:absolute;left:-4px;top:-4px;line-height:0">
+              <img alt="SeaGen" data-file-height="64" data-file-width="64" height="8" src="//upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" title="SeaGen" width="8"/>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div>
+         Location of SeaGen in Northern Ireland
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Country
+       </th>
+       <td>
+        <a href="/wiki/Northern_Ireland" title="Northern Ireland">
+         Northern Ireland
+        </a>
+        , United Kingdom
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Location
+       </th>
+       <td>
+        Strangford Narrows between
+        <a href="/wiki/Strangford" title="Strangford">
+         Strangford
+        </a>
+        and
+        <a href="/wiki/Portaferry" title="Portaferry">
+         Portaferry
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Coordinates
+       </th>
+       <td>
+        <small>
+         <span class="plainlinks nourlexpansion">
+          <a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=SeaGen&amp;params=54_22_7.2_N_5_32_45.8_W_region:GB_type:landmark">
+           <span class="geo-default">
+            <span class="geo-dms" title="Maps, aerial photos, and other data for this location">
+             <span class="latitude">
+              54°22′7.2″N
+             </span>
+             <span class="longitude">
+              5°32′45.8″W
+             </span>
+            </span>
+           </span>
+           <span class="geo-multi-punct">
+            ﻿ / ﻿
+           </span>
+           <span class="geo-nondefault">
+            <span class="geo-dec" title="Maps, aerial photos, and other data for this location">
+             54.368667°N 5.546056°W
+            </span>
+            <span style="display:none">
+             ﻿ /
+             <span class="geo">
+              54.368667; -5.546056
+             </span>
+            </span>
+           </span>
+          </a>
+         </span>
+         <span style="font-size: small;">
+          <span id="coordinates">
+           <a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">
+            Coordinates
+           </a>
+           :
+           <span class="plainlinks nourlexpansion">
+            <a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=SeaGen&amp;params=54_22_7.2_N_5_32_45.8_W_region:GB_type:landmark">
+             <span class="geo-default">
+              <span class="geo-dms" title="Maps, aerial photos, and other data for this location">
+               <span class="latitude">
+                54°22′7.2″N
+               </span>
+               <span class="longitude">
+                5°32′45.8″W
+               </span>
+              </span>
+             </span>
+             <span class="geo-multi-punct">
+              ﻿ / ﻿
+             </span>
+             <span class="geo-nondefault">
+              <span class="geo-dec" title="Maps, aerial photos, and other data for this location">
+               54.368667°N 5.546056°W
+              </span>
+              <span style="display:none">
+               ﻿ /
+               <span class="geo">
+                54.368667; -5.546056
+               </span>
+              </span>
+             </span>
+            </a>
+           </span>
+          </span>
+         </span>
+        </small>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        Status
+       </th>
+       <td>
+        Operational
+       </td>
+      </tr>
+      <tr>
+       <th scope="row">
+        <a href="/wiki/Project_commissioning" title="Project commissioning">
+         Commission date
+        </a>
+       </th>
+       <td>
+        April 2008
+       </td>
+      </tr>
+      <tr>
+       <th colspan="2" style="text-align:center;background-color:#FFFFE6;">
+        Power generation
+       </th>
+      </tr>
+      <tr>
+       <th scope="row">
+        <a href="/wiki/Nameplate_capacity" title="Nameplate capacity">
+         Nameplate capacity
+        </a>
+       </th>
+       <td>
+        1.2 MW
+       </td>
+      </tr>
+     </table>
+     <p>
+      <b>
+       SeaGen
+      </b>
+      is the world's first large scale commercial
+      <a href="/wiki/Tidal_stream_generator" title="Tidal stream generator">
+       tidal stream
+      </a>
+      <a class="mw-redirect" href="/wiki/Electrical_generator" title="Electrical generator">
+       generator
+      </a>
+      .
+      <sup class="reference" id="cite_ref-engineering_1-0">
+       <a href="#cite_note-engineering-1">
+        [1]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-independent_2-0">
+       <a href="#cite_note-independent-2">
+        [2]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-channel4_3-0">
+       <a href="#cite_note-channel4-3">
+        [3]
+       </a>
+      </sup>
+      It was four times more powerful than any other tidal stream generator in the world at the time of installation.
+      <sup class="reference" id="cite_ref-bbc_4-0">
+       <a href="#cite_note-bbc-4">
+        [4]
+       </a>
+      </sup>
+     </p>
+     <p>
+      The first SeaGen generator was installed in Strangford Narrows between
+      <a href="/wiki/Strangford" title="Strangford">
+       Strangford
+      </a>
+      and
+      <a href="/wiki/Portaferry" title="Portaferry">
+       Portaferry
+      </a>
+      in
+      <a href="/wiki/Northern_Ireland" title="Northern Ireland">
+       Northern Ireland
+      </a>
+      ,
+      <a class="mw-redirect" href="/wiki/UK" title="UK">
+       UK
+      </a>
+      in April 2008 and was connected to the grid in July 2008.
+      <sup class="reference" id="cite_ref-5">
+       <a href="#cite_note-5">
+        [5]
+       </a>
+      </sup>
+      It generates 1.2 MW for between 18 and 20 hours a day while the tides are forced in and out of
+      <a href="/wiki/Strangford_Lough" title="Strangford Lough">
+       Strangford Lough
+      </a>
+      through the Narrows.
+      <sup class="reference" id="cite_ref-technology_6-0">
+       <a href="#cite_note-technology-6">
+        [6]
+       </a>
+      </sup>
+      Strangford Lough was also the site of the very first known
+      <a href="/wiki/Tide_mill" title="Tide mill">
+       tide mill
+      </a>
+      in the world, the
+      <a href="/wiki/Nendrum_Monastery_mill" title="Nendrum Monastery mill">
+       Nendrum Monastery mill
+      </a>
+      where remains dating from 787 have been excavated.
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Background">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Background
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#Technology">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Technology
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#Environmental_impact">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          Environmental impact
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-4">
+        <a href="#Problems">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          Problems
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-5">
+        <a href="#References">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-6">
+        <a href="#External_links">
+         <span class="tocnumber">
+          6
+         </span>
+         <span class="toctext">
+          External links
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Background">
+       Background
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=SeaGen&amp;action=edit&amp;section=1" title="Edit section: Background">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="thumb tleft">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Seagenraised.jpg">
+        <img alt="" class="thumbimage" data-file-height="300" data-file-width="341" height="194" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Seagenraised.jpg/220px-Seagenraised.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Seagenraised.jpg/330px-Seagenraised.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/e/e1/Seagenraised.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Seagenraised.jpg" title="Enlarge">
+         </a>
+        </div>
+        The SeaGen rotors can be raised above the surface for maintenance.
+       </div>
+      </div>
+     </div>
+     <div class="thumb tleft">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Seaflow_raised_16_jun_03.jpg">
+        <img alt="" class="thumbimage" data-file-height="652" data-file-width="589" height="244" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Seaflow_raised_16_jun_03.jpg/220px-Seaflow_raised_16_jun_03.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Seaflow_raised_16_jun_03.jpg/330px-Seaflow_raised_16_jun_03.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/25/Seaflow_raised_16_jun_03.jpg/440px-Seaflow_raised_16_jun_03.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Seaflow_raised_16_jun_03.jpg" title="Enlarge">
+         </a>
+        </div>
+        SeaGen's predecessor, the 300 kW 'SeaFlow' turbine off the north coast of Devon
+       </div>
+      </div>
+     </div>
+     <p>
+      <a href="/wiki/Marine_Current_Turbines" title="Marine Current Turbines">
+       Marine Current Turbines
+      </a>
+      , the developer of SeaGen, demonstrated first prototype of tidal stream generator in 1994 with a 15 kilowatt system in
+      <a href="/wiki/Loch_Linnhe" title="Loch Linnhe">
+       Loch Linnhe
+      </a>
+      , off the west coast of
+      <a href="/wiki/Scotland" title="Scotland">
+       Scotland
+      </a>
+      . In May 2003, the prototype for SeaGen, '
+      <span id="SeaFlow">
+       SeaFlow
+      </span>
+      ', was installed off the coast of
+      <a href="/wiki/Lynmouth" title="Lynmouth">
+       Lynmouth
+      </a>
+      ,
+      <a href="/wiki/North_Devon" title="North Devon">
+       North Devon
+      </a>
+      , England.
+      <sup class="reference" id="cite_ref-technology_6-1">
+       <a href="#cite_note-technology-6">
+        [6]
+       </a>
+      </sup>
+      Seaflow was a single rotor turbine which generated 300 kW but was not connected to the grid. SeaFlow was the world's first offshore tidal generator, and remained the world's largest until SeaGen was installed.
+      <sup class="reference" id="cite_ref-berr_7-0">
+       <a href="#cite_note-berr-7">
+        [7]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Technology">
+       Technology
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=SeaGen&amp;action=edit&amp;section=2" title="Edit section: Technology">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      SeaGen generator weighs 300 tonnes.
+      <sup class="reference" id="cite_ref-channel4_3-1">
+       <a href="#cite_note-channel4-3">
+        [3]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-telegraph_8-0">
+       <a href="#cite_note-telegraph-8">
+        [8]
+       </a>
+      </sup>
+      each driving a generator through a gearbox like a hydro-electric or wind turbine. These turbines have a patented feature by which the rotor blades can be pitched through 180 degrees allowing them to operate in both flow directions – on ebb and flood tides. The company claims a
+      <a href="/wiki/Capacity_factor" title="Capacity factor">
+       capacity factor
+      </a>
+      of 0.59 (average of the last 2000 hours). The power units of each system are mounted on arm-like extensions either side of a tubular steel monopile some 3 metres (9.8 ft) in diameter and the arms with the power units can be raised above the surface for safe and easy maintenance access.
+      <sup class="reference" id="cite_ref-engineering_1-1">
+       <a href="#cite_note-engineering-1">
+        [1]
+       </a>
+      </sup>
+      The SeaGen was built at
+      <a href="/wiki/Belfast" title="Belfast">
+       Belfast
+      </a>
+      's
+      <a href="/wiki/Harland_and_Wolff" title="Harland and Wolff">
+       Harland and Wolff
+      </a>
+      's shipyards.
+      <sup class="reference" id="cite_ref-guardian_9-0">
+       <a href="#cite_note-guardian-9">
+        [9]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Environmental_impact">
+       Environmental impact
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=SeaGen&amp;action=edit&amp;section=3" title="Edit section: Environmental impact">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Strangfordloughmap.jpg">
+        <img alt="" class="thumbimage" data-file-height="352" data-file-width="300" height="258" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Strangfordloughmap.jpg/220px-Strangfordloughmap.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/f/f6/Strangfordloughmap.jpg 1.5x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Strangfordloughmap.jpg" title="Enlarge">
+         </a>
+        </div>
+        400 million gallons of water flow in and out of
+        <a href="/wiki/Strangford_Lough" title="Strangford Lough">
+         Strangford Lough
+        </a>
+        twice a day.
+       </div>
+      </div>
+     </div>
+     <p>
+      SeaGen has been licensed to operate over a period of 5 years, during which there will be a comprehensive environmental monitoring programme to determine the precise impact on the marine environment.
+      <sup class="reference" id="cite_ref-erwin_10-0">
+       <a href="#cite_note-erwin-10">
+        [10]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Problems">
+       Problems
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=SeaGen&amp;action=edit&amp;section=4" title="Edit section: Problems">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      During the commissioning of the system a software error caused the blades of one of the turbines to be damaged. This left the turbine operating at half power until autumn 2008. The incident is being investigated and MCT is confident that it will not happen again.
+      <sup class="reference" id="cite_ref-mct1_11-0">
+       <a href="#cite_note-mct1-11">
+        [11]
+       </a>
+      </sup>
+      Full power operation was finally achieved on 18 Dec 2008.
+      <sup class="reference" id="cite_ref-12">
+       <a href="#cite_note-12">
+        [12]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=SeaGen&amp;action=edit&amp;section=5" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist" style="list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-engineering-1">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-engineering_1-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-engineering_1-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation journal">
+          Douglas, C.A.; Harrison, G.P.; Chick, J.P. (2008).
+          <a class="external text" href="https://commerce.metapress.com/content/l2525g3001286200/resource-secured/?target=fulltext.pdf&amp;sid=vwpwqjm0htfuvn45hmy4wf45&amp;sh=journals.pepublishing.com" rel="nofollow">
+           "Life cycle assessment of the Seagen marine current turbine"
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          .
+          <i>
+           Proceedings of the Institution of Mechanical Engineers, Part M: Journal of Engineering for the Maritime Environment
+          </i>
+          . Professional Engineering Publishing.
+          <b>
+           222
+          </b>
+          (1): 1–12.
+          <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+           doi
+          </a>
+          :
+          <a class="external text" href="//dx.doi.org/10.1243%2F14750902JEME94" rel="nofollow">
+           10.1243/14750902JEME94
+          </a>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2008-07-10
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeaGen&amp;rft.atitle=Life+cycle+assessment+of+the+Seagen+marine+current+turbine&amp;rft.au=Chick%2C+J.P.&amp;rft.aufirst=C.A.&amp;rft.au=Harrison%2C+G.P.&amp;rft.aulast=Douglas&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fcommerce.metapress.com%2Fcontent%2Fl2525g3001286200%2Fresource-secured%2F%3Ftarget%3Dfulltext.pdf%26sid%3Dvwpwqjm0htfuvn45hmy4wf45%26sh%3Djournals.pepublishing.com&amp;rft_id=info%3Adoi%2F10.1243%2F14750902JEME94&amp;rft.issue=1&amp;rft.jtitle=Proceedings+of+the+Institution+of+Mechanical+Engineers%2C+Part+M%3A+Journal+of+Engineering+for+the+Maritime+Environment&amp;rft.pages=1-12&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=222">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-independent-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-independent_2-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation news">
+          <a class="external text" href="http://www.independent.co.uk/environment/green-living/the-rise-of-british-sea-power-799630.html" rel="nofollow">
+           "The rise of British sea power"
+          </a>
+          .
+          <a href="/wiki/The_Independent" title="The Independent">
+           The Independent
+          </a>
+          . 2008-03-23
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2008-07-30
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeaGen&amp;rft.atitle=The+rise+of+British+sea+power&amp;rft.date=2008-03-23&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.independent.co.uk%2Fenvironment%2Fgreen-living%2Fthe-rise-of-british-sea-power-799630.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-channel4-3">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-channel4_3-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-channel4_3-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation news">
+          Julian Rush (2008-03-31).
+          <a class="external text" href="http://www.channel4.com/news/articles/science_technology/power+generation+the+new+wave/1907547" rel="nofollow">
+           "Power generation: the new wave"
+          </a>
+          . Channel 4
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2008-07-30
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeaGen&amp;rft.atitle=Power+generation%3A+the+new+wave&amp;rft.au=Julian+Rush&amp;rft.date=2008-03-31&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.channel4.com%2Fnews%2Farticles%2Fscience_technology%2Fpower%2Bgeneration%2Bthe%2Bnew%2Bwave%2F1907547&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-bbc-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-bbc_4-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation news">
+          Arthur Strain (2008-02-08).
+          <a class="external text" href="http://news.bbc.co.uk/1/hi/northern_ireland/7233829.stm" rel="nofollow">
+           "Sea change for energy generation"
+          </a>
+          .
+          <a href="/wiki/BBC" title="BBC">
+           BBC
+          </a>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2008-07-10
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeaGen&amp;rft.atitle=Sea+change+for+energy+generation&amp;rft.au=Arthur+Strain&amp;rft.date=2008-02-08&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Fnorthern_ireland%2F7233829.stm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-5">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.marineturbines.com/3/news/article/10/world_s_first_commercial_scale_tidal_power_system_feeds_electricity_to_the_national_grid__/" rel="nofollow">
+          First connection to the grid
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-technology-6">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-technology_6-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-technology_6-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation news">
+          Brittany Sauser (2008-07-29).
+          <a class="external text" href="http://www.technologyreview.com/Energy/21142/" rel="nofollow">
+           "Tidal Power Comes to Market. A large-scale tidal-power unit has started up in Northern Ireland"
+          </a>
+          . Technology Review Inc.,
+          <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">
+           Massachusetts Institute of Technology
+          </a>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2008-07-30
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeaGen&amp;rft.atitle=Tidal+Power+Comes+to+Market.+A+large-scale+tidal-power+unit+has+started+up+in+Northern+Ireland&amp;rft.au=Brittany+Sauser&amp;rft.date=2008-07-29&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.technologyreview.com%2FEnergy%2F21142%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-berr-7">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-berr_7-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.berr.gov.uk/energy/sources/renewables/schools/case-studies/tidal/page23016.html" rel="nofollow">
+           "Case Studies for Schools: Tidal Power"
+          </a>
+          . Department for Business, Enterprise and Regulatory Reform
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2008-07-10
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeaGen&amp;rft.btitle=Case+Studies+for+Schools%3A+Tidal+Power&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.berr.gov.uk%2Fenergy%2Fsources%2Frenewables%2Fschools%2Fcase-studies%2Ftidal%2Fpage23016.html&amp;rft.pub=Department+for+Business%2C+Enterprise+and+Regulatory+Reform&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-telegraph-8">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-telegraph_8-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation news">
+          <a class="external text" href="http://www.belfasttelegraph.co.uk/news/environment/worlds-first-as-16312m-turbine-installed-" rel="nofollow">
+           "World's first as £12m turbine installed in Strangford Lough"
+          </a>
+          . Belfast Telegraph. 2008-03-31
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2008-07-30
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeaGen&amp;rft.atitle=World%27s+first+as+%A312m+turbine+installed+in+Strangford+Lough&amp;rft.date=2008-03-31&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.belfasttelegraph.co.uk%2Fnews%2Fenvironment%2Fworlds-first-as-16312m-turbine-installed-&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-guardian-9">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-guardian_9-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation news">
+          Henry McDonald (2008-03-31).
+          <a class="external text" href="http://www.guardian.co.uk/environment/2008/mar/31/tidal.power" rel="nofollow">
+           "Tidal power comes to Northern Ireland"
+          </a>
+          . Guardian
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2008-07-30
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeaGen&amp;rft.atitle=Tidal+power+comes+to+Northern+Ireland&amp;rft.au=Henry+McDonald&amp;rft.date=2008-03-31&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.guardian.co.uk%2Fenvironment%2F2008%2Fmar%2F31%2Ftidal.power&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-erwin-10">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-erwin_10-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation journal">
+          David G Erwin.
+          <a class="external text" href="http://www.all-energy.co.uk/UserFiles/File/2007DavidErwin.pdf" rel="nofollow">
+           "Environmental monitoring, liaison and consultation concerning the MCT Strangford Lough Turbine"
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2008-07-10
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeaGen&amp;rft.atitle=Environmental+monitoring%2C+liaison+and+consultation+concerning+the+MCT+Strangford+Lough+Turbine&amp;rft.au=David+G+Erwin&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.all-energy.co.uk%2FUserFiles%2FFile%2F2007DavidErwin.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-mct1-11">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-mct1_11-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation news">
+          <a class="external text" href="http://www.marineturbines.com/3/news/article/11/delay_in_commissioning_one_of_seagen_s_rotors/" rel="nofollow">
+           "Delay in commissioning one of SeaGen's rotors"
+          </a>
+          . Marine Current Turbines. 2008-07-22
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2008-07-30
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeaGen&amp;rft.atitle=Delay+in+commissioning+one+of+SeaGen%27s+rotors&amp;rft.date=2008-07-22&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.marineturbines.com%2F3%2Fnews%2Farticle%2F11%2Fdelay_in_commissioning_one_of_seagen_s_rotors%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-12">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-12">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation news">
+          <a class="external text" href="http://news.bbc.co.uk/1/hi/northern_ireland/7790494.stm" rel="nofollow">
+           "Tidal energy system on full power"
+          </a>
+          . BBC. 2008-12-18
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2009-06-25
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeaGen&amp;rft.atitle=Tidal+energy+system+on+full+power&amp;rft.date=2008-12-18&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Fnorthern_ireland%2F7790494.stm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=SeaGen&amp;action=edit&amp;section=6" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a class="external text" href="http://www.seageneration.co.uk/" rel="nofollow">
+        Sea Generation Ltd
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.marineturbines.com/" rel="nofollow">
+        Marine Current Turbines Ltd
+       </a>
+       .
+      </li>
+     </ul>
+     <div aria-labelledby="Electricity_generation_in_Ireland" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="2" scope="col">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Electricity_generation_in_Ireland" title="Template:Electricity generation in Ireland">
+             <abbr style=";;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Electricity_generation_in_Ireland" title="Template talk:Electricity generation in Ireland">
+             <abbr style=";;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Electricity_generation_in_Ireland&amp;action=edit">
+             <abbr style=";;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="Electricity_generation_in_Ireland" style="font-size:114%">
+          Electricity generation in
+          <a href="/wiki/Ireland" title="Ireland">
+           Ireland
+          </a>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Companies / organisations
+        </th>
+        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Airtricity" title="Airtricity">
+             Airtricity
+            </a>
+           </li>
+           <li>
+            <a class="new" href="/w/index.php?title=Dublin_Bay_Power&amp;action=edit&amp;redlink=1" title="Dublin Bay Power (page does not exist)">
+             Dublin Bay Power
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/EirGrid" title="EirGrid">
+             EirGrid
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ervia" title="Ervia">
+             Ervia
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/ESB_Group" title="ESB Group">
+             ESB Group
+            </a>
+           </li>
+           <li>
+            <a class="new" href="/w/index.php?title=Huntstown_Power&amp;action=edit&amp;redlink=1" title="Huntstown Power (page does not exist)">
+             Huntstown Power
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Imera_(company)" title="Imera (company)">
+             Imera Power
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Northern_Ireland_Electricity" title="Northern Ireland Electricity">
+             Northern Ireland Electricity
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Premier_Power" title="Premier Power">
+             Premier Power
+            </a>
+            (NI)
+           </li>
+           <li>
+            <a href="/wiki/Spirit_of_Ireland" title="Spirit of Ireland">
+             Spirit of Ireland
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/SSE_Renewables" title="SSE Renewables">
+             SSE Renewables
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Viridian_Group" title="Viridian Group">
+             Viridian Group
+            </a>
+            (NI)
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Electricity generating stations
+        </th>
+        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a class="mw-redirect" href="/wiki/Aghada_power_station" title="Aghada power station">
+             Aghada
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Ardnacrusha_power_plant" title="Ardnacrusha power plant">
+             Ardnacrusha
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ballylumford_power_station" title="Ballylumford power station">
+             Ballylumford
+            </a>
+            (NI)
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Carnsore_Point_power_station" title="Carnsore Point power station">
+             Carnsore Point
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Coolkeeragh_power_station" title="Coolkeeragh power station">
+             Coolkeeragh
+            </a>
+            (NI)
+           </li>
+           <li>
+            <a href="/wiki/Inniscarra_Dam" title="Inniscarra Dam">
+             Inniscarra
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Kilroot_power_station" title="Kilroot power station">
+             Kilroot
+            </a>
+            (NI)
+           </li>
+           <li>
+            <a href="/wiki/Kinsale_Road_power_station" title="Kinsale Road power station">
+             Kinsale Road
+            </a>
+           </li>
+           <li>
+            <a class="new" href="/w/index.php?title=Leixlip_power_station&amp;action=edit&amp;redlink=1" title="Leixlip power station (page does not exist)">
+             Leixlip
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Lough_Ree_Power_Station" title="Lough Ree Power Station">
+             Lough Ree
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Moneypoint_power_station" title="Moneypoint power station">
+             Moneypoint
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Poulaphouca_power_station" title="Poulaphouca power station">
+             Poulaphouca
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Poolbeg_Generating_Station" title="Poolbeg Generating Station">
+             Ringsend (Poolbeg)
+            </a>
+           </li>
+           <li>
+            <strong class="selflink">
+             SeaGen
+            </strong>
+            (NI)
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Shannonbridge_power_station" title="Shannonbridge power station">
+             Shannonbridge
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Tarbert_power_station" title="Tarbert power station">
+             Tarbert
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Turlough_Hill_Power_Station" title="Turlough Hill Power Station">
+             Turlough Hill
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td class="navbox-abovebelow" colspan="2">
+         <div>
+          (NI) indicates
+          <a href="/wiki/Northern_Ireland" title="Northern Ireland">
+           Northern Ireland
+          </a>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:18362930-0!*!0!!en!4!* and timestamp 20161026181611 and revision id 709996158
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=SeaGen&amp;oldid=709996158">
+      https://en.wikipedia.org/w/index.php?title=SeaGen&amp;oldid=709996158
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Tidal_stream_generators" title="Category:Tidal stream generators">
+         Tidal stream generators
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Tidal_power_stations_in_Northern_Ireland" title="Category:Tidal power stations in Northern Ireland">
+         Tidal power stations in Northern Ireland
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">
+         Coordinates on Wikidata
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=SeaGen" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=SeaGen" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/SeaGen" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:SeaGen" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/SeaGen">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=SeaGen&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=SeaGen&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/SeaGen" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/SeaGen" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=SeaGen&amp;oldid=709996158" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=SeaGen&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q1521172" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=SeaGen&amp;id=709996158" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=SeaGen">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=SeaGen&amp;returnto=SeaGen&amp;oldid=709996158&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=SeaGen&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:SeaGen_tidal_power_plant" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Gezeitenkraftwerk_Strangford" hreflang="de" lang="de" title="Gezeitenkraftwerk Strangford – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%94%D0%B6%D0%B5%D0%BD" hreflang="ru" lang="ru" title="СиДжен – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q1521172#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 14 March 2016, at 10:02.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=SeaGen&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.188",
+            "walltime": "0.237",
+            "ppvisitednodes": {
+                "value": 1609,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 41748,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 652,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 12,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 2,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 1,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  199.466      1 -total",
+                " 42.21%   84.199      1 Template:Infobox_power_station",
+                " 36.01%   71.835      1 Template:Reflist",
+                " 34.59%   69.001      1 Template:Infobox",
+                " 12.83%   25.595      1 Template:Convert",
+                " 12.61%   25.152      1 Template:Cite_journal",
+                " 11.42%   22.776      8 Template:Cite_news",
+                " 10.84%   21.631      1 Template:Geobox_coor",
+                "  7.00%   13.967      1 Template:Location_map",
+                "  4.05%    8.087      1 Template:Electricity_generation_in_Ireland"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.089",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 4910557,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1249",
+            "timestamp": "20161026181611",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":55,"wgHostname":"mw1245"});});
+  </script>
+ </body>
+</html>

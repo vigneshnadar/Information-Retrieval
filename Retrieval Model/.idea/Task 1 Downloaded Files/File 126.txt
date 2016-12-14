@@ -1,0 +1,2605 @@
+https://en.wikipedia.org/wiki/Thermal_energy_storage
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Thermal energy storage - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Thermal_energy_storage","wgTitle":"Thermal energy storage","wgCurRevisionId":748296035,"wgRevisionId":748296035,"wgArticleId":2465250,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from March 2011","Wikipedia articles with GND identifiers","Energy storage","Heating, ventilating, and air conditioning","Energy conservation","Heat transfer","Solar design","Renewable energy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Thermal_energy_storage","wgRelevantArticleId":2465250,"wgRequestId":"WCCGTApAIDcAACFc73AAAAAT","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q2142963","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Thermal_energy_storage" rel="alternate"/>
+  <link href="/w/index.php?title=Thermal_energy_storage&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Thermal_energy_storage&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Thermal_energy_storage" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Thermal_energy_storage rootpage-Thermal_energy_storage skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Thermal energy storage
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Fernw%C3%A4rmespricher_Theiss.JPG">
+        <img alt="" class="thumbimage" data-file-height="1488" data-file-width="2240" height="146" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fernw%C3%A4rmespricher_Theiss.JPG/220px-Fernw%C3%A4rmespricher_Theiss.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fernw%C3%A4rmespricher_Theiss.JPG/330px-Fernw%C3%A4rmespricher_Theiss.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fernw%C3%A4rmespricher_Theiss.JPG/440px-Fernw%C3%A4rmespricher_Theiss.JPG 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Fernw%C3%A4rmespricher_Theiss.JPG" title="Enlarge">
+         </a>
+        </div>
+        District heating accumulation tower from Theiss near
+        <a href="/wiki/Krems_an_der_Donau" title="Krems an der Donau">
+         Krems an der Donau
+        </a>
+        in
+        <a href="/wiki/Lower_Austria" title="Lower Austria">
+         Lower Austria
+        </a>
+        with a thermal capacity of 2 GWh
+       </div>
+      </div>
+     </div>
+     <p>
+      <b>
+       Thermal energy storage (TES)
+      </b>
+      is achieved with greatly differing technologies that collectively accommodate a wide range of needs. It allows excess
+      <a href="/wiki/Thermal_energy" title="Thermal energy">
+       thermal energy
+      </a>
+      to be collected for later use, hours, days or many months later, at individual building, multiuser building, district, town or even regional scale depending on the specific technology. As examples: energy demand can be balanced between daytime and nighttime; summer heat from
+      <a href="/wiki/Solar_thermal_collector" title="Solar thermal collector">
+       solar collectors
+      </a>
+      can be
+      <a href="/wiki/Seasonal_thermal_energy_storage" title="Seasonal thermal energy storage">
+       stored interseasonally
+      </a>
+      for use in winter; and cold obtained from winter air can be provided for summer air conditioning. Storage mediums include: water or ice-slush tanks ranging from small to massive, masses of native earth or bedrock accessed with heat exchangers in clusters of small-diameter boreholes (sometimes quite deep); deep aquifers contained between impermeable strata; shallow, lined pits filled with gravel and water and top-insulated; and
+      <a class="mw-redirect" href="/wiki/Eutectic" title="Eutectic">
+       eutectic
+      </a>
+      ,
+      <a href="/wiki/Phase-change_material" title="Phase-change material">
+       phase-change materials
+      </a>
+      .
+     </p>
+     <p>
+      Other sources of thermal energy for storage include heat or cold produced with
+      <a href="/wiki/Heat_pump" title="Heat pump">
+       heat pumps
+      </a>
+      from off-peak, lower cost electric power, a practice called
+      <a class="mw-redirect" href="/wiki/Peak_shaving" title="Peak shaving">
+       peak shaving
+      </a>
+      ; heat from combined heat and power (CHP) power plants; heat produced by renewable electrical energy that exceeds grid demand and waste heat from industrial processes. Heat storage, both seasonal and short term, is considered an important means for cheaply balancing high shares of variable
+      <a href="/wiki/Renewable_energy" title="Renewable energy">
+       renewable electricity
+      </a>
+      production and integration of electricity and heating sectors in energy systems almost or
+      <a href="/wiki/100%25_renewable_energy" title="100% renewable energy">
+       completely fed
+      </a>
+      by renewable energy.
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-2">
+       <a href="#cite_note-2">
+        [2]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-3">
+       <a href="#cite_note-3">
+        [3]
+       </a>
+      </sup>
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Solar_energy_storage">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Solar energy storage
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#Economics">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Economics
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#Heat_storage_in_tanks_or_rock_caverns">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          Heat storage in tanks or rock caverns
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-4">
+        <a href="#Heat_storage_in_hot_rocks.2C_concrete.2C_pebbles_etc">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          Heat storage in hot rocks, concrete, pebbles etc
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-5">
+        <a href="#Electric_thermal_storage_heaters">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          Electric thermal storage heaters
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-6">
+        <a href="#Ice-based_technology">
+         <span class="tocnumber">
+          6
+         </span>
+         <span class="toctext">
+          Ice-based technology
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-7">
+        <a href="#Cryogenic_energy_storage">
+         <span class="tocnumber">
+          7
+         </span>
+         <span class="toctext">
+          Cryogenic energy storage
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-8">
+        <a href="#Molten_salt_technology">
+         <span class="tocnumber">
+          8
+         </span>
+         <span class="toctext">
+          Molten salt technology
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-9">
+        <a href="#Hot_silicon_technology">
+         <span class="tocnumber">
+          9
+         </span>
+         <span class="toctext">
+          Hot silicon technology
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-10">
+        <a href="#Pumped-heat_electricity_storage">
+         <span class="tocnumber">
+          10
+         </span>
+         <span class="toctext">
+          Pumped-heat electricity storage
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-11">
+          <a href="#Isentropic">
+           <span class="tocnumber">
+            10.1
+           </span>
+           <span class="toctext">
+            Isentropic
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-12">
+        <a href="#Electrolysis_of_Water">
+         <span class="tocnumber">
+          11
+         </span>
+         <span class="toctext">
+          Electrolysis of Water
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-13">
+        <a href="#Other_systems">
+         <span class="tocnumber">
+          12
+         </span>
+         <span class="toctext">
+          Other systems
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-14">
+        <a href="#Research">
+         <span class="tocnumber">
+          13
+         </span>
+         <span class="toctext">
+          Research
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-15">
+        <a href="#See_also">
+         <span class="tocnumber">
+          14
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-16">
+        <a href="#References">
+         <span class="tocnumber">
+          15
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-17">
+        <a href="#External_links">
+         <span class="tocnumber">
+          16
+         </span>
+         <span class="toctext">
+          External links
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-18">
+        <a href="#Further_reading">
+         <span class="tocnumber">
+          17
+         </span>
+         <span class="toctext">
+          Further reading
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Solar_energy_storage">
+       Solar energy storage
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Thermal_energy_storage&amp;action=edit&amp;section=1" title="Edit section: Solar energy storage">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="hatnote" role="note">
+      Main articles:
+      <a class="mw-redirect" href="/wiki/Solar_hot_water_storage_tank" title="Solar hot water storage tank">
+       Solar hot water storage tank
+      </a>
+      and
+      <a href="/wiki/Seasonal_thermal_energy_storage" title="Seasonal thermal energy storage">
+       Seasonal thermal energy storage
+      </a>
+     </div>
+     <p>
+      Most practical active solar heating systems provide storage from a few hours to a day's worth of energy collected. However, there are a growing number of facilities that use
+      <a href="/wiki/Seasonal_thermal_energy_storage" title="Seasonal thermal energy storage">
+       seasonal thermal energy storage
+      </a>
+      (STES), enabling solar energy to be stored in summer for space heating use during winter.
+      <sup class="reference" id="cite_ref-drake_4-0">
+       <a href="#cite_note-drake-4">
+        [4]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-5">
+       <a href="#cite_note-5">
+        [5]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-6">
+       <a href="#cite_note-6">
+        [6]
+       </a>
+      </sup>
+      <a href="/wiki/Drake_Landing_Solar_Community" title="Drake Landing Solar Community">
+       The Drake Landing Solar Community
+      </a>
+      in Alberta, Canada has now achieved a year-round 97% solar heating fraction, a world record made possible only by incorporating STES.
+      <sup class="reference" id="cite_ref-drake_4-1">
+       <a href="#cite_note-drake-4">
+        [4]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-7">
+       <a href="#cite_note-7">
+        [7]
+       </a>
+      </sup>
+     </p>
+     <p>
+      <a href="/wiki/Molten_salt" title="Molten salt">
+       Molten salt
+      </a>
+      is a means of storing heat at a high temperature. This is a current commercial technology used in conjunction with
+      <a href="/wiki/Concentrated_solar_power" title="Concentrated solar power">
+       concentrated solar power
+      </a>
+      for later use in electricity generation, to allow solar power to provide electricity on a more continuous basis. These molten salts (
+      <a href="/wiki/Potassium_nitrate" title="Potassium nitrate">
+       Potassium nitrate
+      </a>
+      ,
+      <a href="/wiki/Calcium_nitrate" title="Calcium nitrate">
+       Calcium nitrate
+      </a>
+      ,
+      <a href="/wiki/Sodium_nitrate" title="Sodium nitrate">
+       Sodium nitrate
+      </a>
+      ,
+      <a href="/wiki/Lithium_nitrate" title="Lithium nitrate">
+       Lithium nitrate
+      </a>
+      , etc.) have the property to absorb and store the heat energy that is released to the water, to transfer energy when needed. To improve the salt properties it must be mixed in a
+      <a href="/wiki/Eutectic_system" title="Eutectic system">
+       eutectic mixture
+      </a>
+      .
+     </p>
+     <p>
+      The use of both
+      <a href="/wiki/Latent_heat" title="Latent heat">
+       latent heat
+      </a>
+      and
+      <a href="/wiki/Sensible_heat" title="Sensible heat">
+       sensible heat
+      </a>
+      are also possible with high temperature solar thermal input. Various eutectic mixtures of metals, such as Aluminium and Silicon (AlSi12) offer a high melting point suited to efficient steam generation,
+      <sup class="reference" id="cite_ref-8">
+       <a href="#cite_note-8">
+        [8]
+       </a>
+      </sup>
+      while high alumina cement-based materials offer good thermal storage capabilities
+      <sup class="reference" id="cite_ref-9">
+       <a href="#cite_note-9">
+        [9]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Economics">
+       Economics
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Thermal_energy_storage&amp;action=edit&amp;section=2" title="Edit section: Economics">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      High peak loads drive the capital expenditures of the
+      <a href="/wiki/Electricity_generation" title="Electricity generation">
+       electricity generation
+      </a>
+      industry. The industry meets these peak loads with low-efficiency
+      <a href="/wiki/Peaking_power_plant" title="Peaking power plant">
+       peaking power plants
+      </a>
+      , usually
+      <a href="/wiki/Gas_turbine" title="Gas turbine">
+       gas turbines
+      </a>
+      , which have lower
+      <a href="/wiki/Capital_cost" title="Capital cost">
+       capital costs
+      </a>
+      and, since the recent drop in natural gas prices, have low fuel costs as well. A
+      <a class="mw-redirect" href="/wiki/Kilowatt-hour" title="Kilowatt-hour">
+       kilowatt-hour
+      </a>
+      of electricity consumed at night can be produced at much lower marginal cost. Utilities have begun to pass these lower costs to consumers,
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (March 2011)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+      in the form of Time of Use (TOU) rates, or Real Time Pricing (RTP) Rates.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Heat_storage_in_tanks_or_rock_caverns">
+       Heat storage in tanks or rock caverns
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Thermal_energy_storage&amp;action=edit&amp;section=3" title="Edit section: Heat storage in tanks or rock caverns">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="hatnote" role="note">
+      See also:
+      <a href="/wiki/Steam_accumulator" title="Steam accumulator">
+       steam accumulator
+      </a>
+     </div>
+     <p>
+      A steam accumulator consists of an insulated steel pressure tank containing hot water and steam under pressure. As a heat storage device, it is used to mediate heat production by a variable or steady source from a variable demand for heat. Steam accumulators may take on a significance for energy storage in solar thermal energy projects.
+     </p>
+     <div class="hatnote" role="note">
+      See also:
+      <a href="/wiki/Hot_water_storage_tank" title="Hot water storage tank">
+       Hot water storage tank
+      </a>
+     </div>
+     <p>
+      Large stores are widely used in Scandinavia to store heat for several days, to decouple heat and power production and to help meet peak demands. Interseasonal storage in caverns has been investigated and appears to be economical.
+      <sup class="reference" id="cite_ref-10">
+       <a href="#cite_note-10">
+        [10]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Heat_storage_in_hot_rocks.2C_concrete.2C_pebbles_etc">
+       Heat storage in hot rocks, concrete, pebbles etc
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Thermal_energy_storage&amp;action=edit&amp;section=4" title="Edit section: Heat storage in hot rocks, concrete, pebbles etc">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      Water has one of the highest thermal capacities
+      <a href="/wiki/Heat_capacity" title="Heat capacity">
+       Heat capacity
+      </a>
+      - 4.2 J/(cm³·K) whereas concrete has about one third of that. On the other hand, concrete can be heated to much higher temperatures – 1200 °C by e.g. electrical heating and therefore has a much higher overall volumetric capacity. Thus in the example below, an insulated cube of about 2.8 m would appear to provide sufficient storage for a single house to meet 50% of heating demand. This could, in principle, be used to store surplus wind or PV heat due to the ability of electrical heating to reach high temperatures. At the neighborhood level, the Wiggenhausen-Süd solar development at Friedrichshafen has received international attention. This features a 12,000 m³ (420,000 cu ft) reinforced concrete thermal store linked to 4,300 m² (46,000 sq ft) of solar collectors, which will supply the 570 houses with around 50% of their heating and hot water. Siemens builds a 36 MWh thermal storage near Hamburg with 600°C basalt and 1.5 MW electric output.
+      <sup class="reference" id="cite_ref-11">
+       <a href="#cite_note-11">
+        [11]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Electric_thermal_storage_heaters">
+       Electric thermal storage heaters
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Thermal_energy_storage&amp;action=edit&amp;section=5" title="Edit section: Electric thermal storage heaters">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="hatnote" role="note">
+      Main article:
+      <a href="/wiki/Storage_heater" title="Storage heater">
+       Storage heater
+      </a>
+     </div>
+     <p>
+      These are commonplace in European homes and consist of high-density ceramic bricks or
+      <a href="/wiki/Feolite" title="Feolite">
+       feolite
+      </a>
+      blocks heated to a high temperature with electricity, and well insulated to release heat over a number of hours.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Ice-based_technology">
+       Ice-based technology
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Thermal_energy_storage&amp;action=edit&amp;section=6" title="Edit section: Ice-based technology">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="hatnote" role="note">
+      Main article:
+      <a href="/wiki/Ice_storage_air_conditioning" title="Ice storage air conditioning">
+       Ice storage air conditioning
+      </a>
+     </div>
+     <p>
+      Air conditioning can be provided more economically by using cheaper electricity at night to freeze water into ice, then using the cool of the ice in the afternoon to reduce the electricity needed to handle air conditioning demands. Thermal energy storage using ice makes use of the large
+      <a class="mw-redirect" href="/wiki/Heat_of_fusion" title="Heat of fusion">
+       heat of fusion
+      </a>
+      of water. One
+      <a class="mw-redirect" href="/wiki/Metric_ton" title="Metric ton">
+       metric ton
+      </a>
+      of water, one cubic meter, can store 334 million
+      <a href="/wiki/Joule" title="Joule">
+       joules
+      </a>
+      (MJ) or 317,000
+      <a class="mw-redirect" href="/wiki/BTU" title="BTU">
+       BTUs
+      </a>
+      (93kWh or 26.4 ton-hours). In fact, ice was originally transported from mountains to cities for use as a coolant, and the original definition of a "ton" of
+      <a href="/wiki/Cooling_capacity" title="Cooling capacity">
+       cooling capacity
+      </a>
+      (heat flow) was the heat to melt one ton of ice every 24 hours. This is the heat flow one would expect in a 3,000-square-foot (280 m
+      <sup>
+       2
+      </sup>
+      ) house in Boston in the summer. This definition has since been replaced by less archaic units: one ton
+      <a href="/wiki/HVAC" title="HVAC">
+       HVAC
+      </a>
+      capacity = 12,000 BTU/hour (~3.5 kW). Either way, an agreeably small storage facility can hold enough ice to cool a large building for a day or a week, whether that ice is produced by
+      <a class="mw-redirect" href="/wiki/Anhydrous_ammonia" title="Anhydrous ammonia">
+       anhydrous ammonia
+      </a>
+      chillers or hauled in by horse-drawn carts.
+     </p>
+     <p>
+      As such there are developing and developed applications where ice is produced during off-peak periods and used for cooling at later time.
+     </p>
+     <p>
+      In addition to using ice in cooling applications it is also being used in heat pump based heating systems. In these applications the phase change energy provides a very significant layer of thermal capacity that is near the bottom range of temperature that water source heat pumps can operate in. This allows the system to ride out the heaviest heating load conditions and extends the timeframe by which the source energy elements can contribute heat back into the system.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Cryogenic_energy_storage">
+       Cryogenic energy storage
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Thermal_energy_storage&amp;action=edit&amp;section=7" title="Edit section: Cryogenic energy storage">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="hatnote" role="note">
+      Main article:
+      <a href="/wiki/Cryogenic_energy_storage" title="Cryogenic energy storage">
+       Cryogenic energy storage
+      </a>
+     </div>
+     <p>
+      This uses liquification of air or nitrogen as an energy store.
+     </p>
+     <p>
+      A pilot cryogenic energy system that uses liquid air as the energy store, and low-grade waste heat to drive the thermal re-expansion of the air, has been operating at a power station in Slough, UK since 2010.
+      <sup class="reference" id="cite_ref-12">
+       <a href="#cite_note-12">
+        [12]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Molten_salt_technology">
+       Molten salt technology
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Thermal_energy_storage&amp;action=edit&amp;section=8" title="Edit section: Molten salt technology">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      Molten salt can be employed as a thermal energy storage method to retain thermal energy collected by a
+      <a href="/wiki/Solar_power_tower" title="Solar power tower">
+       solar tower
+      </a>
+      or
+      <a class="mw-redirect" href="/wiki/Solar_trough" title="Solar trough">
+       solar trough
+      </a>
+      of a
+      <a class="mw-redirect" href="/wiki/Concentrated_solar_power_plant" title="Concentrated solar power plant">
+       concentrated solar power plant
+      </a>
+      , so that it can be used to generate electricity in bad weather or at night. It was demonstrated in the
+      <a class="mw-redirect" href="/wiki/Solar_Two" title="Solar Two">
+       Solar Two
+      </a>
+      project from 1995-1999. The system is predicted to have an annual efficiency of 99%, a reference to the energy retained by storing heat before turning it into electricity, versus converting heat directly into electricity.
+      <sup class="reference" id="cite_ref-13">
+       <a href="#cite_note-13">
+        [13]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-14">
+       <a href="#cite_note-14">
+        [14]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-15">
+       <a href="#cite_note-15">
+        [15]
+       </a>
+      </sup>
+      The molten salt mixtures vary. The most extended mixture contains
+      <a href="/wiki/Sodium_nitrate" title="Sodium nitrate">
+       sodium nitrate
+      </a>
+      ,
+      <a href="/wiki/Potassium_nitrate" title="Potassium nitrate">
+       potassium nitrate
+      </a>
+      and
+      <a href="/wiki/Calcium_nitrate" title="Calcium nitrate">
+       calcium nitrate
+      </a>
+      . It is non-flammable and nontoxic, and has already been used in the chemical and metals industries as a heat-transport fluid, so experience with such systems exists in non-solar applications.
+     </p>
+     <p>
+      The salt melts at 131 °C (268 °F). It is kept liquid at 288 °C (550 °F) in an insulated "cold" storage tank. The liquid salt is pumped through panels in a solar collector where the focused sun heats it to 566 °C (1,051 °F). It is then sent to a hot storage tank. This is so well insulated that the thermal energy can be usefully stored for up to a week.
+      <sup class="reference" id="cite_ref-16">
+       <a href="#cite_note-16">
+        [16]
+       </a>
+      </sup>
+     </p>
+     <p>
+      When electricity is needed, the hot salt is pumped to a conventional steam-generator to produce
+      <a href="/wiki/Superheated_steam" title="Superheated steam">
+       superheated steam
+      </a>
+      for a turbine/generator as used in any conventional coal, oil, or nuclear power plant. A 100-megawatt turbine would need a tank of about 9.1 metres (30 ft) tall and 24 metres (79 ft) in diameter to drive it for four hours by this design.
+     </p>
+     <p>
+      Several
+      <a href="/wiki/Parabolic_trough" title="Parabolic trough">
+       parabolic trough
+      </a>
+      power plants in Spain
+      <sup class="reference" id="cite_ref-17">
+       <a href="#cite_note-17">
+        [17]
+       </a>
+      </sup>
+      and
+      <a href="/wiki/Solar_power_tower" title="Solar power tower">
+       solar power tower
+      </a>
+      developer
+      <a href="/wiki/SolarReserve" title="SolarReserve">
+       SolarReserve
+      </a>
+      use this thermal energy storage concept. The
+      <a href="/wiki/Solana_Generating_Station" title="Solana Generating Station">
+       Solana Generating Station
+      </a>
+      in the U.S. has 6 hours of storage by molten salt.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Hot_silicon_technology">
+       Hot silicon technology
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Thermal_energy_storage&amp;action=edit&amp;section=9" title="Edit section: Hot silicon technology">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      Solid or molten
+      <a href="/wiki/Silicon" title="Silicon">
+       silicon
+      </a>
+      offers much higher storage temperatures than salts with consequent greater capacity and efficiency. It is being researched as a possible more energy efficient storage technology. Silicon is able to store more than 1MWh of energy per cubic metre at 1400°C.
+      <sup class="reference" id="cite_ref-18">
+       <a href="#cite_note-18">
+        [18]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-19">
+       <a href="#cite_note-19">
+        [19]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Pumped-heat_electricity_storage">
+       Pumped-heat electricity storage
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Thermal_energy_storage&amp;action=edit&amp;section=10" title="Edit section: Pumped-heat electricity storage">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      In pumped-heat electricity storage (PHES), a reversible heat-pump system is used to store energy as a temperature difference between two heat stores.
+      <sup class="reference" id="cite_ref-econ1406_20-0">
+       <a href="#cite_note-econ1406-20">
+        [20]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-IMEchE_21-0">
+       <a href="#cite_note-IMEchE-21">
+        [21]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-Ruer_22-0">
+       <a href="#cite_note-Ruer-22">
+        [22]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Isentropic">
+       Isentropic
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Thermal_energy_storage&amp;action=edit&amp;section=11" title="Edit section: Isentropic">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      One system which was being developed by the UK based company Isentropic operates as follows. Isentropic went bankrupt.
+      <sup class="reference" id="cite_ref-Isentropic_23-0">
+       <a href="#cite_note-Isentropic-23">
+        [23]
+       </a>
+      </sup>
+      It comprises two insulated containers; a hot vessel storing thermal energy at high temperature and high pressure, and a cold vessel storing thermal energy at low temperature and low pressure. Both vessels are filled with crushed rock or gravel which acts as the heat storage medium. The vessels are connected at top and bottom by pipes and the whole system is filled with the inert gas
+      <a href="/wiki/Argon" title="Argon">
+       argon
+      </a>
+      .
+     </p>
+     <p>
+      During the charging cycle the system uses surplus electricity to work as a
+      <a href="/wiki/Heat_pump_and_refrigeration_cycle" title="Heat pump and refrigeration cycle">
+       heat pump
+      </a>
+      . Argon at ambient temperature and pressure from the top of the cold store is compressed
+      <a href="/wiki/Adiabatic_process" title="Adiabatic process">
+       adiabatically
+      </a>
+      to a pressure of 12 bar, heating it to around 500 °C (900 °F). The compressed gas is transferred to the top of the hot vessel where it percolates down through the gravel, transferring its heat to the rock and cooling to ambient temperature. The cooled, but still pressurized, gas emerging at the bottom of the vessel is then expanded (again adiabatically) back down to 1 bar, which lowers its temperature to -150 °C. The cold gas is then passed up through the cold vessel where it cools the rock while being warmed back to its initial condition.
+     </p>
+     <p>
+      The energy is recovered as electricity by reversing the cycle. The hot gas from the hot vessel is expanded to drive a generator and then supplied to the cold store. The cooled gas retrieved from the bottom of the cold store is compressed which heats the gas to ambient temperature. The gas is then transferred to the bottom of the hot vessel to be reheated.
+     </p>
+     <p>
+      The compression and expansion processes are provided by a specially designed
+      <a href="/wiki/Reciprocating_compressor" title="Reciprocating compressor">
+       reciprocating machine
+      </a>
+      using sliding valves. Surplus heat generated by inefficiencies in the process is shed to the environment through heat exchangers during the discharging cycle.
+      <sup class="reference" id="cite_ref-econ1406_20-1">
+       <a href="#cite_note-econ1406-20">
+        [20]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-Isentropic_23-1">
+       <a href="#cite_note-Isentropic-23">
+        [23]
+       </a>
+      </sup>
+     </p>
+     <p>
+      The developer claims that a round trip efficiency of 72-80% is achievable.
+      <sup class="reference" id="cite_ref-econ1406_20-2">
+       <a href="#cite_note-econ1406-20">
+        [20]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-Isentropic_23-2">
+       <a href="#cite_note-Isentropic-23">
+        [23]
+       </a>
+      </sup>
+      This compares to &gt;80% achievable with pumped hydro energy storage.
+      <sup class="reference" id="cite_ref-IMEchE_21-1">
+       <a href="#cite_note-IMEchE-21">
+        [21]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Electrolysis_of_Water">
+       Electrolysis of Water
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Thermal_energy_storage&amp;action=edit&amp;section=12" title="Edit section: Electrolysis of Water">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      It has also been suggested that an innovative method of 'storing' solar energy is to use electricity generated by
+      <a class="mw-redirect" href="/wiki/Photovoltaic" title="Photovoltaic">
+       Photovoltaic
+      </a>
+      panels to
+      <a class="new" href="/w/index.php?title=Electrolyse&amp;action=edit&amp;redlink=1" title="Electrolyse (page does not exist)">
+       electrolyse
+      </a>
+      water to produce
+      <a href="/wiki/Hydrogen_fuel" title="Hydrogen fuel">
+       hydrogen fuel
+      </a>
+      that can be stored and used to power cars and fuel cells renewably and cleanly.
+      <sup class="reference" id="cite_ref-24">
+       <a href="#cite_note-24">
+        [24]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Other_systems">
+       Other systems
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Thermal_energy_storage&amp;action=edit&amp;section=13" title="Edit section: Other systems">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      Another proposed system uses
+      <a href="/wiki/Turbomachinery" title="Turbomachinery">
+       turbomachinery
+      </a>
+      and is capable of operating at much higher power levels.
+      <sup class="reference" id="cite_ref-Ruer_22-1">
+       <a href="#cite_note-Ruer-22">
+        [22]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Research">
+       Research
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Thermal_energy_storage&amp;action=edit&amp;section=14" title="Edit section: Research">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      Storing energy in molecular bonds is being investigated. Energy densities equivalent to
+      <a class="mw-redirect" href="/wiki/Lithium-ion_batteries" title="Lithium-ion batteries">
+       lithium-ion batteries
+      </a>
+      have been achieved.
+      <sup class="reference" id="cite_ref-25">
+       <a href="#cite_note-25">
+        [25]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Thermal_energy_storage&amp;action=edit&amp;section=15" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+      <ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+       <li style="display:table-row">
+        <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+         <a class="image" href="/wiki/File:Sustainable_development.svg">
+          <img alt="icon" class="noviewer" data-file-height="510" data-file-width="800" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/32px-Sustainable_development.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/64px-Sustainable_development.svg.png 2x" width="32"/>
+         </a>
+        </span>
+        <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+         <a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">
+          Sustainable development portal
+         </a>
+        </span>
+       </li>
+       <li style="display:table-row">
+        <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+         <a class="image" href="/wiki/File:Crystal_energy.svg">
+          <img alt="icon" class="noviewer" data-file-height="124" data-file-width="130" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" width="29"/>
+         </a>
+        </span>
+        <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+         <a href="/wiki/Portal:Energy" title="Portal:Energy">
+          Energy portal
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+      <ul>
+       <li>
+        <a href="/wiki/District_heating" title="District heating">
+         District heating
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Eutectic_system" title="Eutectic system">
+         Eutectic system
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Fireless_locomotive" title="Fireless locomotive">
+         Fireless locomotive
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Heat_capacity" title="Heat capacity">
+         Heat capacity
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Ice_storage_air_conditioning" title="Ice storage air conditioning">
+         Ice storage air conditioning
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Liquid_nitrogen_economy" title="Liquid nitrogen economy">
+         Liquid nitrogen economy
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/List_of_energy_storage_projects" title="List of energy storage projects">
+         List of energy storage projects
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/Phase_change_material" title="Phase change material">
+         Phase change material
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Pumpable_ice_technology" title="Pumpable ice technology">
+         Pumpable ice technology
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Steam_accumulator" title="Steam accumulator">
+         Steam accumulator
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Storage_heater" title="Storage heater">
+         Storage heater
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/United_States_Department_of_Energy_International_Energy_Storage_Database" title="United States Department of Energy International Energy Storage Database">
+         US DOE International Energy Storage Database
+        </a>
+       </li>
+      </ul>
+     </div>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Thermal_energy_storage&amp;action=edit&amp;section=16" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist" style="list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-1">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Jacobson et al.,
+         <i>
+          Low-cost solution to the grid reliability problem with 100% penetration of intermittent wind, water, and solar for all purposes
+         </i>
+         . In:
+         <i>
+          <a class="mw-redirect" href="/wiki/Proceedings_of_the_National_Academy_of_Sciences" title="Proceedings of the National Academy of Sciences">
+           Proceedings of the National Academy of Sciences
+          </a>
+         </i>
+         112, No. 49, (2015), 15060–15065,
+         <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+          doi
+         </a>
+         :
+         <a class="external text" href="//dx.doi.org/10.1073%2Fpnas.1510028112" rel="nofollow">
+          10.1073/pnas.1510028112
+         </a>
+         .
+        </span>
+       </li>
+       <li id="cite_note-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-2">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a href="/wiki/Brian_Vad_Mathiesen" title="Brian Vad Mathiesen">
+          Mathiesen
+         </a>
+         et al,
+         <i>
+          Smart Energy Systems for coherent 100% renewable energy and transport solutions
+         </i>
+         . In:
+         <i>
+          Applied Energy
+         </i>
+         145, (2015), 139–154,
+         <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+          doi
+         </a>
+         :
+         <a class="external text" href="//dx.doi.org/10.1016%2Fj.apenergy.2015.01.075" rel="nofollow">
+          10.1016/j.apenergy.2015.01.075
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-3">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Henning, Palzer,
+         <i>
+          A comprehensive model for the German electricity and heat sector in a future energy system with a dominant contribution from renewable energy technologies—Part I: Methodology.
+         </i>
+         In:
+         <i>
+          <a href="/wiki/Renewable_and_Sustainable_Energy_Reviews" title="Renewable and Sustainable Energy Reviews">
+           Renewable and Sustainable Energy Reviews
+          </a>
+         </i>
+         30, (2014), 1003–1018,
+         <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+          doi
+         </a>
+         :
+         <a class="external text" href="//dx.doi.org/10.1016%2Fj.rser.2013.09.012" rel="nofollow">
+          10.1016/j.rser.2013.09.012
+         </a>
+         .
+        </span>
+       </li>
+       <li id="cite_note-drake-4">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-drake_4-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-drake_4-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         Wong B. (2011).
+         <a class="external text" href="http://www.districtenergy.org/assets/pdfs/2011Annual_Conf/Proceedings/A24WONG-v03.pdf" rel="nofollow">
+          Drake Landing Solar Community
+         </a>
+         . Presentation at IDEA/CDEA District Energy/CHP 2011 Conference. Toronto, June 26–29, 2011.
+        </span>
+       </li>
+       <li id="cite_note-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-5">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         SunStor-4 Project, Marstal, Denmark.
+         <a class="external text" href="http://wk.bakuri.dk/filarkiv/solarmarstal.bakuri.dk/file/del_af_annex_1(1).pdf" rel="nofollow">
+          The solar district heating system
+         </a>
+         , which has an interseasonal pit storage, is being expanded.
+        </span>
+       </li>
+       <li id="cite_note-6">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-6">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.icax.co.uk/thermal_energy_storage.html" rel="nofollow">
+           "Thermal Energy Storage in ThermalBanks"
+          </a>
+          . ICAX Ltd, London
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2011-11-21
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermal+energy+storage&amp;rft.btitle=Thermal+Energy+Storage+in+ThermalBanks&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.icax.co.uk%2Fthermal_energy_storage.html&amp;rft.pub=ICAX+Ltd%2C+London&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-7">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-7">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Natural Resources Canada (2012).
+         <a class="external text" href="http://www.nrcan.gc.ca/media-room/news-release/2012/6586" rel="nofollow">
+          Canadian Solar Community Sets New World Record for Energy Efficiency and Innovation
+         </a>
+         . 5 Oct 2012.
+        </span>
+       </li>
+       <li id="cite_note-8">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-8">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         ^Khare, S; Dell'Amico, M; Knight, C; McGarry, S. "Selection of materials for high temperature latent heat energy storage". Solar energy materials and solar cells, 2012.
+        </span>
+       </li>
+       <li id="cite_note-9">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-9">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         ^Khare, S; Dell'Amico, M; Knight, C; McGarry, S. "Selection of materials for high temperature sensible heat energy storage". Solar energy materials and solar cells, 2013.
+        </span>
+       </li>
+       <li id="cite_note-10">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-10">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         ^ Gebremedhin, Alemayehu; Heimo Zinko. "SEASONAL HEAT STORAGES IN DISTRICT HEATING SYSTEMS" (PDF). Linköping University, Linköping, Sweden. Archived from the original on 2011-07-13. Retrieved 2011-07-13.
+        </span>
+       </li>
+       <li id="cite_note-11">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-11">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.utilitydive.com/news/siemens-project-to-test-heated-rocks-for-large-scale-low-cost-thermal-ener/428055/" rel="nofollow">
+           "Siemens project to test heated rocks for large-scale, low-cost thermal energy storage"
+          </a>
+          .
+          <i>
+           Utility Dive
+          </i>
+          . 12 October 2016
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            15 October
+           </span>
+           2016
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermal+energy+storage&amp;rft.atitle=Siemens+project+to+test+heated+rocks+for+large-scale%2C+low-cost+thermal+energy+storage&amp;rft.date=2016-10-12&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.utilitydive.com%2Fnews%2Fsiemens-project-to-test-heated-rocks-for-large-scale-low-cost-thermal-ener%2F428055%2F&amp;rft.jtitle=Utility+Dive&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-12">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-12">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          Roger Harrabin, BBC Environment analyst (2 October 2012).
+          <a class="external text" href="http://www.bbc.co.uk/news/science-environment-19785689" rel="nofollow">
+           "Liquid air 'offers energy storage hope
+           <span style="padding-right:0.2em;">
+            '
+           </span>
+           "
+          </a>
+          .
+          <i>
+           BBC News, Science and Environment
+          </i>
+          . BBC
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2012-10-02
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermal+energy+storage&amp;rft.atitle=Liquid+air+%27offers+energy+storage+hope%27&amp;rft.au=Roger+Harrabin%2C+BBC+Environment+analyst&amp;rft.date=2012-10-02&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fscience-environment-19785689&amp;rft.jtitle=BBC+News%2C+Science+and+Environment&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-13">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-13">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          Mancini, Tom (10 January 2006).
+          <a class="external text" href="http://www.webcitation.org/60AE7heEZ" rel="nofollow">
+           "Advantages of Using Molten Salt"
+          </a>
+          . Sandia National Laboratories. Archived from
+          <a class="external text" href="http://www.sandia.gov/Renewable_Energy/solarthermal/NSTTF/salt.htm" rel="nofollow">
+           the original
+          </a>
+          on 2011-07-14
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2011-07-14
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermal+energy+storage&amp;rft.aufirst=Tom&amp;rft.aulast=Mancini&amp;rft.btitle=Advantages+of+Using+Molten+Salt&amp;rft.date=2006-01-10&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.sandia.gov%2FRenewable_Energy%2Fsolarthermal%2FNSTTF%2Fsalt.htm&amp;rft.pub=Sandia+National+Laboratories&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-14">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-14">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://adsabs.harvard.edu/abs/1977htec.proc...39J" rel="nofollow">
+          Molten salt energy storage system - A feasibility study
+         </a>
+         Jones, B. G.; Roy, R. P.; Bohl, R. W. (1977) - Smithsonian/NASA ADS Physics Abstract Service. Abstract accessed December 2007
+        </span>
+       </li>
+       <li id="cite_note-15">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-15">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          Biello, David.
+          <a class="external text" href="http://www.scientificamerican.com/article.cfm?id=how-to-use-solar-energy-at-night" rel="nofollow">
+           "How to Use Solar Energy at Night"
+          </a>
+          .
+          <i>
+           Scientific American
+          </i>
+          . Scientific American, a Division of Nature America, Inc
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            19 June
+           </span>
+           2011
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermal+energy+storage&amp;rft.atitle=How+to+Use+Solar+Energy+at+Night&amp;rft.aufirst=David&amp;rft.aulast=Biello&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.scientificamerican.com%2Farticle.cfm%3Fid%3Dhow-to-use-solar-energy-at-night&amp;rft.jtitle=Scientific+American&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-16">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-16">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Ehrlich, Robert, 2013,
+         <i>
+          Renewable Energy: A First Course,
+         </i>
+         CRC Press, Chap. 13.1.22
+         <i>
+          Thermal storage
+         </i>
+         p. 375
+         <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/9781439861158">
+          ISBN 978-1439861158
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-17">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-17">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.nrel.gov/csp/troughnet/thermal_energy_storage.html" rel="nofollow">
+          Parabolic Trough Thermal Energy Storage Technology
+         </a>
+         Parabolic Trough Solar Power Network. April 04, 2007. Accessed December 2007
+        </span>
+       </li>
+       <li id="cite_note-18">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-18">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation news">
+          <a class="external text" href="https://www.theengineer.co.uk/molten-silicon-used-for-thermal-energy-storage/" rel="nofollow">
+           "Molten silicon used for thermal energy storage"
+          </a>
+          .
+          <i>
+           The Engineer
+          </i>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2016-11-02
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermal+energy+storage&amp;rft.atitle=Molten+silicon+used+for+thermal+energy+storage&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.theengineer.co.uk%2Fmolten-silicon-used-for-thermal-energy-storage%2F&amp;rft.jtitle=The+Engineer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-19">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-19">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.powerengineeringint.com/articles/2015/11/australian-company-develops-energy-storage-system-based-on-silicon-from-sand.html" rel="nofollow">
+           "Energy storage system based on silicon from sand"
+          </a>
+          .
+          <i>
+           www.powerengineeringint.com
+          </i>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2016-11-02
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermal+energy+storage&amp;rft.atitle=Energy+storage+system+based+on+silicon+from+sand&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.powerengineeringint.com%2Farticles%2F2015%2F11%2Faustralian-company-develops-energy-storage-system-based-on-silicon-from-sand.html&amp;rft.jtitle=www.powerengineeringint.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-econ1406-20">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-econ1406_20-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-econ1406_20-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-econ1406_20-2">
+          <sup>
+           <i>
+            <b>
+             c
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          Economist.com (2014-03-12).
+          <a class="external text" href="http://www.economist.com/blogs/babbage/2014/03/electricity-storage" rel="nofollow">
+           "Electricity storage: Pumping heat"
+          </a>
+          . The Economist
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2014-06-19
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermal+energy+storage&amp;rft.au=Economist.com&amp;rft.btitle=Electricity+storage%3A+Pumping+heat&amp;rft.date=2014-03-12&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.economist.com%2Fblogs%2Fbabbage%2F2014%2F03%2Felectricity-storage&amp;rft.pub=The+Economist&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-IMEchE-21">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-IMEchE_21-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-IMEchE_21-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.imeche.org/knowledge/themes/energy/energy-storage" rel="nofollow">
+           "ENERGY STORAGE:THE MISSING LINK IN THE UK'S ENERGY COMMITMENTS"
+          </a>
+          . IMechE. p. 27.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermal+energy+storage&amp;rft.btitle=ENERGY+STORAGE%3ATHE+MISSING+LINK+IN+THE+UK%27S+ENERGY+COMMITMENTS&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.imeche.org%2Fknowledge%2Fthemes%2Fenergy%2Fenergy-storage&amp;rft.pages=27&amp;rft.pub=IMechE&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-Ruer-22">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-Ruer_22-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-Ruer_22-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          Jacques Ruer; et al.
+          <a class="external text" href="http://www.keynergie.com/articles/paper%20PHS-paper.pdf" rel="nofollow">
+           "Pumped Heat Energy Storage"
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2014-07-16
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermal+energy+storage&amp;rft.au=Jacques+Ruer&amp;rft.btitle=Pumped+Heat+Energy+Storage&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.keynergie.com%2Farticles%2Fpaper%2520PHS-paper.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-Isentropic-23">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-Isentropic_23-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-Isentropic_23-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-Isentropic_23-2">
+          <sup>
+           <i>
+            <b>
+             c
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.isentropic.co.uk/our-phes-technology" rel="nofollow">
+           "Isentropic's PHES Technology"
+          </a>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            16 July
+           </span>
+           2014
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermal+energy+storage&amp;rft.btitle=Isentropic%27s+PHES+Technology&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.isentropic.co.uk%2Four-phes-technology&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-24">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-24">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://news.stanford.edu/news/2014/november/catalyst-energy-storage-110514.html" rel="nofollow">
+          http://news.stanford.edu/news/2014/november/catalyst-energy-storage-110514.html
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-25">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-25">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          Kolpak, Alexie M. (20 June 2011).
+          <a class="external text" href="http://pubs.acs.org/doi/full/10.1021/nl201357n" rel="nofollow">
+           "Azobenzene-Functionalized Carbon Nanotubes As High-Energy Density Solar Thermal Fuels"
+          </a>
+          .
+          <i>
+           NANO Letters
+          </i>
+          . American Chemical Society
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            14 July
+           </span>
+           2011
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermal+energy+storage&amp;rft.atitle=Azobenzene-Functionalized+Carbon+Nanotubes+As+High-Energy+Density+Solar+Thermal+Fuels&amp;rft.aufirst=Alexie+M.&amp;rft.aulast=Kolpak&amp;rft.date=2011-06-20&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Ffull%2F10.1021%2Fnl201357n&amp;rft.jtitle=NANO+Letters&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Thermal_energy_storage&amp;action=edit&amp;section=17" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a href="/wiki/ASHRAE" title="ASHRAE">
+        ASHRAE
+       </a>
+       <a class="external text" href="http://www.pwi-energy.com/main/whitepapers/tsdereg.htm" rel="nofollow">
+        white paper
+       </a>
+       on the economies of load shifting
+      </li>
+      <li>
+       <a class="external text" href="http://archive.is/20130119140153/http://msn-cnet.com.com/Ice-powered+air+conditioner+could+cut+costs/2100-1008_3-6101045.html?part=msn-cnet&amp;subj-ns_3-6101045&amp;tag=msn_home&amp;GT1=8486" rel="nofollow">
+        MSN article on Ice Storage Air Conditioning
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.ide-thermalenergystorage.com/?page_id=12" rel="nofollow">
+        ICE TES Thermal Energy Storage - IDE-Tech
+       </a>
+      </li>
+      <li>
+       <a class="external free" href="http://thermalbatterysystems.com/featured-systems/laramie-wyoming-thermal-battery-system-example/#.U8Whdo1dXx8" rel="nofollow">
+        http://thermalbatterysystems.com/featured-systems/laramie-wyoming-thermal-battery-system-example/#.U8Whdo1dXx8
+       </a>
+      </li>
+      <li>
+       "Prepared for the Thermal Energy Storage Systems Collaborative of the California Energy Commission" Report titled "Source Energy and Environmental Impacts of Thermal Energy Storage." Tabors Caramanis &amp; Assoc
+       <a class="external text" href="http://www.energy.ca.gov/reports/500-95-005_TES-REPORT.PDF" rel="nofollow">
+        energy.ca.gov
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="Further_reading">
+       Further reading
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Thermal_energy_storage&amp;action=edit&amp;section=18" title="Edit section: Further reading">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       Hyman, Lucas B.
+       <i>
+        Sustainable Thermal Storage Systems: Planning, Design, and Operations
+       </i>
+       . New York: McGraw-Hill, 2011. Print.
+      </li>
+      <li>
+       <a href="/wiki/Henrik_Lund_(academic)" title="Henrik Lund (academic)">
+        Henrik Lund
+       </a>
+       ,
+       <i>
+        Renewable Energy Systems: A Smart Energy Systems Approach to the Choice and Modeling of 100 % Renewable Solutions
+       </i>
+       , Academic Press 2014,
+       <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/9780124104235">
+        ISBN 978-0-124-10423-5
+       </a>
+       .
+      </li>
+     </ul>
+     <div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Help:Authority_control" title="Help:Authority control">
+          Authority control
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">
+              GND
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="http://d-nb.info/gnd/4064204-5" rel="nofollow">
+               4064204-5
+              </a>
+             </span>
+            </span>
+           </li>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/National_Diet_Library" title="National Diet Library">
+              NDL
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="http://id.ndl.go.jp/auth/ndlna/01198874" rel="nofollow">
+               01198874
+              </a>
+             </span>
+            </span>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:2465250-0!*!0!!en!4!* and timestamp 20161107134637 and revision id 748296035
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Thermal_energy_storage&amp;oldid=748296035">
+      https://en.wikipedia.org/w/index.php?title=Thermal_energy_storage&amp;oldid=748296035
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Energy_storage" title="Category:Energy storage">
+         Energy storage
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Heating,_ventilating,_and_air_conditioning" title="Category:Heating, ventilating, and air conditioning">
+         Heating, ventilating, and air conditioning
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Energy_conservation" title="Category:Energy conservation">
+         Energy conservation
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Heat_transfer" title="Category:Heat transfer">
+         Heat transfer
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Solar_design" title="Category:Solar design">
+         Solar design
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Renewable_energy" title="Category:Renewable energy">
+         Renewable energy
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+         All articles with unsourced statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2011" title="Category:Articles with unsourced statements from March 2011">
+         Articles with unsourced statements from March 2011
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">
+         Wikipedia articles with GND identifiers
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Thermal+energy+storage" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Thermal+energy+storage" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Thermal_energy_storage" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Thermal_energy_storage" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Thermal_energy_storage">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Thermal_energy_storage&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Thermal_energy_storage&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Thermal_energy_storage" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Thermal_energy_storage" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Thermal_energy_storage&amp;oldid=748296035" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Thermal_energy_storage&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q2142963" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Thermal_energy_storage&amp;id=748296035" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Thermal+energy+storage">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Thermal+energy+storage&amp;returnto=Thermal+energy+storage&amp;oldid=748296035&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Thermal_energy_storage&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AA%D8%AE%D8%B2%D9%8A%D9%86_%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9_%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9" hreflang="ar" lang="ar" title="تخزين الطاقة الحرارية – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Emmagatzematge_d%27energia_t%C3%A8rmica" hreflang="ca" lang="ca" title="Emmagatzematge d'energia tèrmica – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Akkumuleringsbeholder" hreflang="da" lang="da" title="Akkumuleringsbeholder – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/W%C3%A4rmespeicher" hreflang="de" lang="de" title="Wärmespeicher – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Almacenamiento_de_calor" hreflang="es" lang="es" title="Almacenamiento de calor – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Accumulateur_solaire" hreflang="fr" lang="fr" title="Accumulateur solaire – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ga">
+        <a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/St%C3%B3r%C3%A1il_teasa" hreflang="ga" lang="ga" title="Stóráil teasa – Irish">
+         Gaeilge
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Toplinsko_uskladi%C5%A1tenje_sun%C4%8Deve_energije" hreflang="hr" lang="hr" title="Toplinsko uskladištenje sunčeve energije – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Accumulatore_termico" hreflang="it" lang="it" title="Accumulatore termico – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Termikus_energiat%C3%A1rol%C3%A1s" hreflang="hu" lang="hu" title="Termikus energiatárolás – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E8%93%84%E7%86%B1" hreflang="ja" lang="ja" title="蓄熱 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Shranjevanje_toplotne_energije" hreflang="sl" lang="sl" title="Shranjevanje toplotne energije – Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Toplinsko_uskladi%C5%A1tenje_sun%C4%8Deve_energije" hreflang="sh" lang="sh" title="Toplinsko uskladištenje sunčeve energije – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q2142963#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 7 November 2016, at 13:46.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Thermal_energy_storage&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.224",
+            "walltime": "0.287",
+            "ppvisitednodes": {
+                "value": 1134,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 26149,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 1153,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 11,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 1,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 1,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  247.322      1 -total",
+                " 36.05%   89.150      1 Template:Reflist",
+                " 22.72%   56.187     11 Template:Cite_web",
+                " 16.62%   41.105      1 Template:Citation_needed",
+                " 15.09%   37.327      1 Template:Fix",
+                " 12.15%   30.047      7 Template:Convert",
+                " 10.26%   25.376      4 Template:Main",
+                "  9.36%   23.156      2 Template:Category_handler",
+                "  8.09%   20.017      1 Template:Authority_control",
+                "  5.16%   12.765      1 Template:Portal"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.106",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 5603063,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1223",
+            "timestamp": "20161107134632",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":58,"wgHostname":"mw1185"});});
+  </script>
+ </body>
+</html>

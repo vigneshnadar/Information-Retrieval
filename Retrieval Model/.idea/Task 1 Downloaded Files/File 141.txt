@@ -1,0 +1,4527 @@
+https://en.wikipedia.org/wiki/Nuclear_transmutation
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Nuclear transmutation - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Nuclear_transmutation","wgTitle":"Nuclear transmutation","wgCurRevisionId":742838791,"wgRevisionId":742838791,"wgArticleId":27739443,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from May 2016","Articles with unsourced statements from February 2016","Articles with specifically marked weasel-worded phrases from March 2014","Nuclear physics","Nuclear chemistry","Radioactivity"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Nuclear_transmutation","wgRelevantArticleId":27739443,"wgRequestId":"WB@3CApAIDMAAG3C53oAAABX","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q202651","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Nuclear_transmutation" rel="alternate"/>
+  <link href="/w/index.php?title=Nuclear_transmutation&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Nuclear_transmutation&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Nuclear_transmutation" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Nuclear_transmutation rootpage-Nuclear_transmutation skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Nuclear transmutation
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <p>
+      <b>
+       Nuclear transmutation
+      </b>
+      is the conversion of one
+      <a href="/wiki/Chemical_element" title="Chemical element">
+       chemical element
+      </a>
+      or an
+      <a href="/wiki/Isotope" title="Isotope">
+       isotope
+      </a>
+      into another.
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (May 2016)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+      Because any element (isotope) is defined by its number of
+      <a href="/wiki/Proton" title="Proton">
+       protons
+      </a>
+      (and
+      <a href="/wiki/Neutron" title="Neutron">
+       neutrons
+      </a>
+      ) in its
+      <a href="/wiki/Atom" title="Atom">
+       atoms
+      </a>
+      , i.e. in the
+      <a href="/wiki/Atomic_nucleus" title="Atomic nucleus">
+       atomic nucleus
+      </a>
+      , nuclear transmutation occurs in any process where this number is changed.
+     </p>
+     <p>
+      A transmutation can be achieved either by
+      <a href="/wiki/Nuclear_reaction" title="Nuclear reaction">
+       nuclear reactions
+      </a>
+      (in which an outside particle reacts with a nucleus) or by
+      <a href="/wiki/Radioactive_decay" title="Radioactive decay">
+       radioactive decay
+      </a>
+      (where no outside particle is needed).
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Natural_and_artificial_transmutation">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Natural and artificial transmutation
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#History">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          History
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-3">
+          <a href="#Alchemy">
+           <span class="tocnumber">
+            2.1
+           </span>
+           <span class="toctext">
+            Alchemy
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-4">
+          <a href="#Modern_physics">
+           <span class="tocnumber">
+            2.2
+           </span>
+           <span class="toctext">
+            Modern physics
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-5">
+        <a href="#Transmutation_in_the_universe">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          Transmutation in the universe
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-6">
+        <a href="#Artificial_transmutation_of_nuclear_waste">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          Artificial transmutation of nuclear waste
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-7">
+          <a href="#Overview">
+           <span class="tocnumber">
+            4.1
+           </span>
+           <span class="toctext">
+            Overview
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-8">
+          <a href="#Reactor_types">
+           <span class="tocnumber">
+            4.2
+           </span>
+           <span class="toctext">
+            Reactor types
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-9">
+          <a href="#Fuel_types">
+           <span class="tocnumber">
+            4.3
+           </span>
+           <span class="toctext">
+            Fuel types
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-10">
+          <a href="#Reasoning_behind_transmutation">
+           <span class="tocnumber">
+            4.4
+           </span>
+           <span class="toctext">
+            Reasoning behind transmutation
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-11">
+          <a href="#Long-lived_fission_products_.28LLFP.29">
+           <span class="tocnumber">
+            4.5
+           </span>
+           <span class="toctext">
+            Long-lived fission products (LLFP)
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-12">
+        <a href="#See_also">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-13">
+        <a href="#External_links">
+         <span class="tocnumber">
+          6
+         </span>
+         <span class="toctext">
+          External links
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-14">
+        <a href="#References">
+         <span class="tocnumber">
+          7
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Natural_and_artificial_transmutation">
+       Natural and artificial transmutation
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Nuclear_transmutation&amp;action=edit&amp;section=1" title="Edit section: Natural and artificial transmutation">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      Although all transmutation is caused by either decay or nuclear reaction, not all of these processes cause transmutation. E.g.,
+      <a class="mw-redirect" href="/wiki/Gamma_decay" title="Gamma decay">
+       gamma decay
+      </a>
+      ,
+      <a href="/wiki/Internal_conversion" title="Internal conversion">
+       internal conversion
+      </a>
+      do not transmute the affected atom.
+     </p>
+     <p>
+      Natural transmutation by
+      <a href="/wiki/Stellar_nucleosynthesis" title="Stellar nucleosynthesis">
+       stellar nucleosynthesis
+      </a>
+      in the past created most of the heavier chemical elements in the universe, see the corresponding section below.
+     </p>
+     <p>
+      One type of natural transmutation observable in the present occurs when certain
+      <a class="mw-redirect" href="/wiki/Radioactive" title="Radioactive">
+       radioactive
+      </a>
+      elements present in nature spontaneously decay by a process that causes transmutation, such as
+      <a href="/wiki/Alpha_decay" title="Alpha decay">
+       alpha
+      </a>
+      or
+      <a href="/wiki/Beta_decay" title="Beta decay">
+       beta decay
+      </a>
+      . An example is the natural decay of
+      <a href="/wiki/Potassium-40" title="Potassium-40">
+       potassium-40
+      </a>
+      to
+      <a class="mw-redirect" href="/wiki/Argon-40" title="Argon-40">
+       argon-40
+      </a>
+      , which forms most of the
+      <a href="/wiki/Argon" title="Argon">
+       argon
+      </a>
+      in air. Also on Earth, natural transmutations from the different mechanism of
+      <i>
+       natural
+       <a href="/wiki/Nuclear_reaction" title="Nuclear reaction">
+        nuclear reactions
+       </a>
+      </i>
+      occur, due to
+      <a href="/wiki/Cosmic_ray" title="Cosmic ray">
+       cosmic ray
+      </a>
+      bombardment of elements (for example, to form
+      <a href="/wiki/Carbon-14" title="Carbon-14">
+       carbon-14
+      </a>
+      ), and also occasionally from natural neutron bombardment (for example, see
+      <a href="/wiki/Natural_nuclear_fission_reactor" title="Natural nuclear fission reactor">
+       natural nuclear fission reactor
+      </a>
+      ).
+     </p>
+     <p>
+      Artificial transmutation may occur in machinery that has enough energy to cause changes in the nuclear structure of the elements. Such machines include
+      <a href="/wiki/Particle_accelerator" title="Particle accelerator">
+       particle accelerators
+      </a>
+      and
+      <a href="/wiki/Tokamak" title="Tokamak">
+       tokamak
+      </a>
+      reactors. Conventional
+      <a href="/wiki/Nuclear_fission#Fission_reactors" title="Nuclear fission">
+       fission power reactors
+      </a>
+      also cause artificial transmutation, not from the power of the machine, but by exposing elements to
+      <a href="/wiki/Neutron" title="Neutron">
+       neutrons
+      </a>
+      produced by fission from an artificially produced
+      <a href="/wiki/Nuclear_chain_reaction" title="Nuclear chain reaction">
+       nuclear chain reaction
+      </a>
+      . For instance, when a uranium atom is bombarded with slow neutrons, fission takes place. This releases, on average, 3 neutrons and a large amount of energy. The released neutrons then cause fission of other uranium atoms, until all of the available uranium is exhausted. This is called a chain reaction.
+     </p>
+     <p>
+      Artificial nuclear transmutation has been considered as a possible mechanism for reducing the volume and hazard of
+      <a href="/wiki/Radioactive_waste" title="Radioactive waste">
+       radioactive waste
+      </a>
+      .
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="History">
+       History
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Nuclear_transmutation&amp;action=edit&amp;section=2" title="Edit section: History">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <h3>
+      <span class="mw-headline" id="Alchemy">
+       Alchemy
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Nuclear_transmutation&amp;action=edit&amp;section=3" title="Edit section: Alchemy">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      The term
+      <i>
+       transmutation
+      </i>
+      dates back to
+      <a href="/wiki/Alchemy" title="Alchemy">
+       alchemy
+      </a>
+      . Alchemists pursued the
+      <a href="/wiki/Philosopher%27s_stone" title="Philosopher's stone">
+       philosopher's stone
+      </a>
+      , capable of
+      <a href="/wiki/Chrysopoeia" title="Chrysopoeia">
+       chrysopoeia
+      </a>
+      – the transformation of
+      <a href="/wiki/Base_metal" title="Base metal">
+       base metals
+      </a>
+      into gold.
+      <sup class="reference" id="cite_ref-2">
+       <a href="#cite_note-2">
+        [2]
+       </a>
+      </sup>
+      While alchemists often understood chrysopoeia as a metaphor for a mystical, or religious process, some practitioners adopted a literal interpretation, and tried to make gold through physical experiment. The impossibility of the metallic transmutation had been debated amongst alchemists, philosophers and scientists since the Middle Ages. Pseudo-alchemical transmutation was outlawed
+      <sup class="reference" id="cite_ref-3">
+       <a href="#cite_note-3">
+        [3]
+       </a>
+      </sup>
+      and publicly mocked beginning in the fourteenth century. Alchemists like
+      <a href="/wiki/Michael_Maier" title="Michael Maier">
+       Michael Maier
+      </a>
+      and
+      <a href="/wiki/Heinrich_Khunrath" title="Heinrich Khunrath">
+       Heinrich Khunrath
+      </a>
+      wrote tracts exposing fraudulent claims of gold making. By the 1720s, there were no longer any respectable figures pursuing the physical transmutation of substances into gold.
+      <sup class="reference" id="cite_ref-4">
+       <a href="#cite_note-4">
+        [4]
+       </a>
+      </sup>
+      <a href="/wiki/Antoine_Lavoisier" title="Antoine Lavoisier">
+       Antoine Lavoisier
+      </a>
+      , in the 18th century, replaced the
+      <a href="/wiki/Classical_element#Elements_in_Medieval_alchemy" title="Classical element">
+       alchemical theory of elements
+      </a>
+      with the modern theory of chemical elements, and
+      <a href="/wiki/John_Dalton" title="John Dalton">
+       John Dalton
+      </a>
+      further developed the notion of atoms (from the alchemical theory of
+      <a href="/wiki/Corpuscularianism" title="Corpuscularianism">
+       corpuscles
+      </a>
+      ) to explain various chemical processes. The disintegration of atoms is a distinct process involving much greater energies than could be achieved by alchemists.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Modern_physics">
+       Modern physics
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Nuclear_transmutation&amp;action=edit&amp;section=4" title="Edit section: Modern physics">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      It was first consciously applied to modern physics by
+      <a href="/wiki/Frederick_Soddy" title="Frederick Soddy">
+       Frederick Soddy
+      </a>
+      when he, along with
+      <a href="/wiki/Ernest_Rutherford" title="Ernest Rutherford">
+       Ernest Rutherford
+      </a>
+      , discovered that radioactive
+      <a href="/wiki/Thorium" title="Thorium">
+       thorium
+      </a>
+      was converting itself into
+      <a href="/wiki/Radium" title="Radium">
+       radium
+      </a>
+      in 1901. At the moment of realization, Soddy later recalled, he shouted out: "Rutherford, this is transmutation!" Rutherford snapped back, "For Christ's sake, Soddy, don't call it
+      <i>
+       transmutation
+      </i>
+      . They'll have our heads off as alchemists."
+      <sup class="reference" id="cite_ref-5">
+       <a href="#cite_note-5">
+        [5]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Rutherford and Soddy were observing natural transmutation as a part of
+      <a href="/wiki/Radioactive_decay" title="Radioactive decay">
+       radioactive decay
+      </a>
+      of the
+      <a href="/wiki/Alpha_decay" title="Alpha decay">
+       alpha decay
+      </a>
+      type. However in 1919, Rutherford was able to accomplish transmutation of nitrogen into
+      <a href="/wiki/Oxygen-17" title="Oxygen-17">
+       oxygen
+      </a>
+      , using alpha particles directed at nitrogen
+      <sup>
+       14
+      </sup>
+      N + α →
+      <a href="/wiki/Oxygen-17" title="Oxygen-17">
+       <sup>
+        17
+       </sup>
+       O
+      </a>
+      + p.  This was the first observation of a
+      <a href="/wiki/Nuclear_reaction" title="Nuclear reaction">
+       nuclear reaction
+      </a>
+      , that is, a reaction in which particles from one decay are used to transform another atomic nucleus. Eventually, in 1932, a fully artificial nuclear reaction and nuclear transmutation was achieved by Rutherford's colleagues
+      <a href="/wiki/John_Cockcroft" title="John Cockcroft">
+       John Cockcroft
+      </a>
+      and
+      <a href="/wiki/Ernest_Walton" title="Ernest Walton">
+       Ernest Walton
+      </a>
+      , who used artificially accelerated protons against lithium-7 to split the nucleus into two alpha particles. The feat was popularly known as "splitting the atom," although it was not the modern
+      <a href="/wiki/Nuclear_fission" title="Nuclear fission">
+       nuclear fission
+      </a>
+      reaction discovered in 1938 by
+      <a href="/wiki/Otto_Hahn" title="Otto Hahn">
+       Otto Hahn
+      </a>
+      ,
+      <a href="/wiki/Lise_Meitner" title="Lise Meitner">
+       Lise Meitner
+      </a>
+      and their assistant Fritz Strassmann in heavy elements.
+      <sup class="reference" id="cite_ref-6">
+       <a href="#cite_note-6">
+        [6]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Later in the twentieth century the transmutation of elements within stars was elaborated, accounting for the relative abundance of heavier elements in the universe. Save for the first five elements, which were produced in the Big Bang and other
+      <a href="/wiki/Cosmic_ray" title="Cosmic ray">
+       cosmic ray
+      </a>
+      processes, stellar nucleosynthesis accounted for the abundance of all elements heavier than boron. In their 1957 paper
+      <i>
+       <a class="mw-redirect" href="/wiki/Synthesis_of_the_Elements_in_Stars" title="Synthesis of the Elements in Stars">
+        Synthesis of the Elements in Stars
+       </a>
+      </i>
+      ,
+      <sup class="reference" id="cite_ref-7">
+       <a href="#cite_note-7">
+        [7]
+       </a>
+      </sup>
+      <a href="/wiki/William_Alfred_Fowler" title="William Alfred Fowler">
+       William Alfred Fowler
+      </a>
+      ,
+      <a href="/wiki/Margaret_Burbidge" title="Margaret Burbidge">
+       Margaret Burbidge
+      </a>
+      ,
+      <a href="/wiki/Geoffrey_Burbidge" title="Geoffrey Burbidge">
+       Geoffrey Burbidge
+      </a>
+      , and
+      <a href="/wiki/Fred_Hoyle" title="Fred Hoyle">
+       Fred Hoyle
+      </a>
+      explained how the abundances of essentially all but the lightest chemical elements could be explained by the process of
+      <a href="/wiki/Nucleosynthesis" title="Nucleosynthesis">
+       nucleosynthesis
+      </a>
+      in stars.
+     </p>
+     <p>
+      It transpired that, under true nuclear transmutation, it is far easier to turn gold into lead than the reverse reaction, which was the one the alchemists had ardently pursued. Nuclear experiments have successfully transmuted lead into gold, but the expense far exceeds any gain.
+      <sup class="reference" id="cite_ref-8">
+       <a href="#cite_note-8">
+        [8]
+       </a>
+      </sup>
+      It would be easier to convert gold into lead via
+      <a href="/wiki/Neutron_capture" title="Neutron capture">
+       neutron capture
+      </a>
+      and
+      <a href="/wiki/Beta_decay" title="Beta decay">
+       beta decay
+      </a>
+      by leaving gold in a nuclear reactor for a long period of time.
+     </p>
+     <p>
+      <a href="/wiki/Glenn_T._Seaborg#Return_to_California" title="Glenn T. Seaborg">
+       Glenn Seaborg produced several thousand atoms of gold from bismuth
+      </a>
+      , but at a net loss.
+     </p>
+     <p>
+      More information on gold synthesis, see
+      <a href="/wiki/Synthesis_of_precious_metals" title="Synthesis of precious metals">
+       Synthesis of precious metals
+      </a>
+      .
+     </p>
+     <p>
+      <sup>
+       197
+      </sup>
+      <a href="/wiki/Gold" title="Gold">
+       Au
+      </a>
+      +
+      <a href="/wiki/Neutron_capture" title="Neutron capture">
+       n
+      </a>
+      →
+      <sup>
+       198
+      </sup>
+      Au (
+      <a href="/wiki/Half-life" title="Half-life">
+       half-life
+      </a>
+      2.7 days) →
+      <sup>
+       198
+      </sup>
+      <a href="/wiki/Mercury_(element)" title="Mercury (element)">
+       Hg
+      </a>
+      + n →
+      <sup>
+       199
+      </sup>
+      Hg + n →
+      <sup>
+       200
+      </sup>
+      Hg + n →
+      <sup>
+       201
+      </sup>
+      Hg + n →
+      <sup>
+       202
+      </sup>
+      Hg + n →
+      <sup>
+       203
+      </sup>
+      Hg (halflife 47 days) →
+      <sup>
+       203
+      </sup>
+      <a href="/wiki/Thallium" title="Thallium">
+       Tl
+      </a>
+      + n →
+      <sup>
+       204
+      </sup>
+      Tl (halflife 3.8 years) →
+      <sup>
+       204
+      </sup>
+      <a href="/wiki/Lead" title="Lead">
+       Pb
+      </a>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Transmutation_in_the_universe">
+       Transmutation in the universe
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Nuclear_transmutation&amp;action=edit&amp;section=5" title="Edit section: Transmutation in the universe">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="hatnote" role="note">
+      Main article:
+      <a href="/wiki/Nucleosynthesis" title="Nucleosynthesis">
+       nucleosynthesis
+      </a>
+     </div>
+     <p>
+      The
+      <a href="/wiki/Big_Bang" title="Big Bang">
+       Big Bang
+      </a>
+      is thought to be the origin of the hydrogen (including all
+      <a href="/wiki/Deuterium" title="Deuterium">
+       deuterium
+      </a>
+      ) and helium in the universe. Hydrogen and helium together account for 98% of the mass of ordinary matter in the universe. The Big Bang also produced small amounts of
+      <a href="/wiki/Lithium" title="Lithium">
+       lithium
+      </a>
+      ,
+      <a href="/wiki/Beryllium" title="Beryllium">
+       beryllium
+      </a>
+      and perhaps
+      <a href="/wiki/Boron" title="Boron">
+       boron
+      </a>
+      . More lithium, beryllium and boron were produced later, in a natural nuclear reaction,
+      <a href="/wiki/Cosmic_ray_spallation" title="Cosmic ray spallation">
+       cosmic ray spallation
+      </a>
+      .
+     </p>
+     <p>
+      <a href="/wiki/Stellar_nucleosynthesis" title="Stellar nucleosynthesis">
+       Stellar nucleosynthesis
+      </a>
+      is responsible for all of the other elements occurring naturally in the universe as
+      <a class="mw-redirect" href="/wiki/Stable_isotopes" title="Stable isotopes">
+       stable isotopes
+      </a>
+      and
+      <a href="/wiki/Primordial_nuclide" title="Primordial nuclide">
+       primordial nuclide
+      </a>
+      , from
+      <a href="/wiki/Carbon" title="Carbon">
+       carbon
+      </a>
+      to
+      <a href="/wiki/Plutonium" title="Plutonium">
+       plutonium
+      </a>
+      . These occurred after the Big Bang, during star formation. Some lighter elements from carbon to iron were formed in stars and released into space by
+      <a href="/wiki/Asymptotic_giant_branch" title="Asymptotic giant branch">
+       asymptotic giant branch
+      </a>
+      (AGB) stars. These are a type of red giant that "puffs" off its outer atmosphere, containing some elements from carbon to nickel and iron. All elements with
+      <a class="mw-redirect" href="/wiki/Atomic_weight" title="Atomic weight">
+       atomic weight
+      </a>
+      greater than 64
+      <a class="mw-redirect" href="/wiki/Atomic_mass_unit" title="Atomic mass unit">
+       atomic mass units
+      </a>
+      are produced in
+      <a href="/wiki/Supernova" title="Supernova">
+       supernova
+      </a>
+      stars by means of nuclear reaction of lighter nuclei called
+      <a href="/wiki/Neutron_capture" title="Neutron capture">
+       neutron capture
+      </a>
+      , which sub-divides into two processes:
+      <a href="/wiki/R-process" title="R-process">
+       r-process
+      </a>
+      and
+      <a href="/wiki/S-process" title="S-process">
+       s-process
+      </a>
+      .
+     </p>
+     <p>
+      The
+      <a href="/wiki/Solar_System" title="Solar System">
+       Solar System
+      </a>
+      is thought to have condensed approximately 4.6 billion years before the present, from a cloud of hydrogen and helium containing heavier elements in dust grains formed previously by a large number of such stars. These grains contained the heavier elements formed by transmutation earlier in the history of the universe.
+     </p>
+     <p>
+      All of these natural processes of transmutation in stars are continuing today, in our own galaxy and in others. For example, the observed light curves of supernova stars such as
+      <a href="/wiki/SN_1987A" title="SN 1987A">
+       SN 1987A
+      </a>
+      show them blasting large amounts (comparable to the mass of Earth) of radioactive nickel and cobalt into space. However, little of this material reaches Earth. Most natural transmutation on the Earth today is mediated by
+      <a class="mw-redirect" href="/wiki/Cosmic_rays" title="Cosmic rays">
+       cosmic rays
+      </a>
+      (such as production of
+      <a href="/wiki/Carbon-14" title="Carbon-14">
+       carbon-14
+      </a>
+      ) and by the radioactive decay of radioactive
+      <a href="/wiki/Primordial_nuclide" title="Primordial nuclide">
+       primordial nuclides
+      </a>
+      left over from the initial formation of the solar system (such as
+      <a href="/wiki/Potassium-40" title="Potassium-40">
+       potassium-40
+      </a>
+      , uranium and thorium), plus the radioactive decay of products of these nucleides (radium, radon, polonium, etc.). See
+      <a href="/wiki/Decay_chain" title="Decay chain">
+       decay chain
+      </a>
+      .
+     </p>
+     <h2>
+      <span class="mw-headline" id="Artificial_transmutation_of_nuclear_waste">
+       Artificial transmutation of nuclear waste
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Nuclear_transmutation&amp;action=edit&amp;section=6" title="Edit section: Artificial transmutation of nuclear waste">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <h3>
+      <span class="mw-headline" id="Overview">
+       Overview
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Nuclear_transmutation&amp;action=edit&amp;section=7" title="Edit section: Overview">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Transmutation of
+      <a href="/wiki/Transuranium_element" title="Transuranium element">
+       transuranium elements
+      </a>
+      (TRUs, i.e.
+      <a class="mw-redirect" href="/wiki/Actinides" title="Actinides">
+       actinides
+      </a>
+      minus
+      <a href="/wiki/Actinium" title="Actinium">
+       actinium
+      </a>
+      to
+      <a href="/wiki/Uranium" title="Uranium">
+       uranium
+      </a>
+      ) such as the
+      <a href="/wiki/Isotope" title="Isotope">
+       isotopes
+      </a>
+      of
+      <a href="/wiki/Plutonium" title="Plutonium">
+       plutonium
+      </a>
+      (about 1wt% in the
+      <a class="mw-redirect" href="/wiki/Light_Water_Reactor" title="Light Water Reactor">
+       Light Water Reactors
+      </a>
+      ' used
+      <a href="/wiki/Nuclear_fuel" title="Nuclear fuel">
+       nuclear fuel
+      </a>
+      ) or the minor actinides (MAs, i.e.
+      <a href="/wiki/Neptunium" title="Neptunium">
+       neptunium
+      </a>
+      ,
+      <a href="/wiki/Americium" title="Americium">
+       americium
+      </a>
+      , and
+      <a href="/wiki/Curium" title="Curium">
+       curium
+      </a>
+      , about 0.1wt% each in LWRs' UNF) has the potential to help solve some problems posed by the management of
+      <a href="/wiki/Radioactive_waste" title="Radioactive waste">
+       radioactive waste
+      </a>
+      by reducing the proportion of long-lived isotopes it contains. (This does not rule-out the need for a Deep Geological Repository (DGR) for High radioactive Level Waste (HLW).) When irradiated with
+      <a class="mw-redirect" href="/wiki/Fast_neutrons" title="Fast neutrons">
+       fast neutrons
+      </a>
+      in a
+      <a href="/wiki/Nuclear_reactor" title="Nuclear reactor">
+       nuclear reactor
+      </a>
+      , these isotopes can undergo
+      <a href="/wiki/Nuclear_fission" title="Nuclear fission">
+       nuclear fission
+      </a>
+      , destroying the original
+      <a href="/wiki/Actinide" title="Actinide">
+       actinide
+      </a>
+      isotope and producing a spectrum of radioactive and nonradioactive
+      <a class="mw-redirect" href="/wiki/Fission_products" title="Fission products">
+       fission products
+      </a>
+      .
+     </p>
+     <p>
+      Ceramic targets containing actinides can be bombarded with neutrons to induce transmutation reactions to remove the most difficult long-lived species. These can consist of actinide-containing solid solutions such as (Am,Zr)N, (Am,Y)N, (Zr,Cm)O
+      <sub>
+       2
+      </sub>
+      , (Zr,Cm,Am)O
+      <sub>
+       2
+      </sub>
+      , (Zr,Am,Y)O
+      <sub>
+       2
+      </sub>
+      or just actinide phases such as AmO
+      <sub>
+       2
+      </sub>
+      , NpO
+      <sub>
+       2
+      </sub>
+      , NpN, AmN mixed with some inert phases such as MgO, MgAl
+      <sub>
+       2
+      </sub>
+      O
+      <sub>
+       4
+      </sub>
+      , (Zr,Y)O
+      <sub>
+       2
+      </sub>
+      , TiN and ZrN. The role of non-radioactive inert phases is mainly to provide stable mechanical behaviour to the target under neutron irradiation.
+      <sup class="reference" id="cite_ref-9">
+       <a href="#cite_note-9">
+        [9]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Reactor_types">
+       Reactor types
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Nuclear_transmutation&amp;action=edit&amp;section=8" title="Edit section: Reactor types">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      For instance, plutonium can be reprocessed into
+      <a href="/wiki/MOX_fuel" title="MOX fuel">
+       MOX fuels
+      </a>
+      and transmuted in standard reactors. The heavier elements could be transmuted in
+      <a class="mw-redirect" href="/wiki/Fast_reactor" title="Fast reactor">
+       fast reactors
+      </a>
+      , but probably more effectively in a subcritical reactor which is sometimes known as an
+      <a href="/wiki/Energy_amplifier" title="Energy amplifier">
+       energy amplifier
+      </a>
+      and which was devised by
+      <a href="/wiki/Carlo_Rubbia" title="Carlo Rubbia">
+       Carlo Rubbia
+      </a>
+      .
+      <a href="/wiki/Nuclear_fusion" title="Nuclear fusion">
+       Fusion
+      </a>
+      <a href="/wiki/Neutron_source" title="Neutron source">
+       neutron sources
+      </a>
+      have also been proposed as well suited.
+      <sup class="reference" id="cite_ref-10">
+       <a href="#cite_note-10">
+        [10]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-11">
+       <a href="#cite_note-11">
+        [11]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-12">
+       <a href="#cite_note-12">
+        [12]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Fuel_types">
+       Fuel types
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Nuclear_transmutation&amp;action=edit&amp;section=9" title="Edit section: Fuel types">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      There are several fuels that can incorporate plutonium in their initial composition at beginning of cycle (BOC) and have a smaller amount of this element at the end of cycle (EOC). During the cycle, plutonium can be burnt in a power reactor, generating electricity. This process is not only interesting from a power generation standpoint, but also due to its capability of consuming the surplus weapons grade plutonium from the weapons program and plutonium resulting of
+      <a href="/wiki/Nuclear_reprocessing" title="Nuclear reprocessing">
+       reprocessing
+      </a>
+      UNF.
+     </p>
+     <p>
+      <a href="/wiki/MOX_fuel" title="MOX fuel">
+       Mixed oxide fuel (MOX)
+      </a>
+      is one of these. Its blend of oxides of plutonium and uranium constitutes an alternative to the low enriched uranium (LEU) fuel predominantly used in LWRs. Since uranium is present in MOX, although plutonium will be burnt, second generation plutonium will be produced through the radiative capture of U-238 and the two subsequent beta minus decays.
+     </p>
+     <p>
+      Fuels with plutonium and thorium are also an option. In these, the neutrons released in the fission of plutonium are captured by Th-232. After this radiative capture, Th-232 becomes Th-233, which undergoes two beta minus decays resulting in the production of the fissile isotope U-233. The radiative capture cross section for Th-232 is more than three times that of U-238, yielding a higher conversion to fissile fuel than that from U-238. Due to the absence of uranium in the fuel, there is no second generation plutonium produced, and the amount of plutonium burnt will be higher than in MOX fuels. However, U-233, which is fissile, will be present in the UNF. Weapons-grade and reactor-grade plutonium can be used in plutonium-thorium fuels, with weapons-grade plutonium being the one that shows a bigger reduction in the amount of Pu-239.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Reasoning_behind_transmutation">
+       Reasoning behind transmutation
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Nuclear_transmutation&amp;action=edit&amp;section=10" title="Edit section: Reasoning behind transmutation">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Isotopes of plutonium and other actinides tend to be long-lived with
+      <a href="/wiki/Half-life" title="Half-life">
+       half-lives
+      </a>
+      of many thousands of years, whereas radioactive fission products tend to be shorter-lived (most with half-lives of 30 years or less). From a waste management viewpoint, transmutation (or "burning" or "incineration") of actinides eliminates a very long-term radioactive hazard and replaces it with a much shorter-term one.
+     </p>
+     <p>
+      It is important to understand that the threat posed by a radioisotope is influenced by many factors including the
+      <a href="/wiki/Physical_chemistry" title="Physical chemistry">
+       physical
+      </a>
+      (e.g. heat -infrared photon radiation-, which is an advantage for the storage or disposal af radioactive waste),
+      <a class="mw-redirect" href="/wiki/Chemical" title="Chemical">
+       chemical
+      </a>
+      and
+      <a href="/wiki/Biology" title="Biology">
+       biological
+      </a>
+      properties of the element. For instance
+      <a href="/wiki/Caesium" title="Caesium">
+       caesium
+      </a>
+      has a relatively short
+      <a href="/wiki/Biological_half-life" title="Biological half-life">
+       biological half-life
+      </a>
+      (1 to 4 months) while
+      <a href="/wiki/Strontium" title="Strontium">
+       strontium
+      </a>
+      and
+      <a href="/wiki/Radium" title="Radium">
+       radium
+      </a>
+      both have very long biological half-lives. As a result
+      <a href="/wiki/Strontium-90" title="Strontium-90">
+       strontium-90
+      </a>
+      and radium are much more able to cause harm than
+      <a href="/wiki/Caesium-137" title="Caesium-137">
+       caesium-137
+      </a>
+      when a given activity is ingested.
+      <span class="citation-needed-content" style="padding-left:0.1em; padding-right:0.1em; color:#595959; border:1px solid #DDD;">
+       Insert a brief calculation of doses
+      </span>
+      <sup class="noprint Inline-Template Template-Fact" style="margin-left:0.1em; white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="Or insert a brief calculation of doses (February 2016)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+     </p>
+     <p>
+      Many of the actinides are very radiotoxic because they have long biological half-lives and are
+      <a href="/wiki/Alpha_particle" title="Alpha particle">
+       alpha
+      </a>
+      emitters. In transmutation the intention is to convert the actinides into
+      <a class="mw-redirect" href="/wiki/Fission_products" title="Fission products">
+       fission products
+      </a>
+      . The fission products are very radioactive, but the majority of the activity will decay away within a short time. The most worrying short-lived fission products are those that accumulate in the body, such as
+      <a href="/wiki/Iodine" title="Iodine">
+       iodine
+      </a>
+      -131 which accumulates in the thyroid gland, but it is hoped
+      <sup class="noprint Inline-Template" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch">
+         <span title="The material near this tag may use weasel words or too-vague attribution. (March 2014)">
+          by whom?
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+      that by good design of the nuclear fuel and transmutation plant that such fission products can be isolated from humans and their environment and allowed to decay. In the medium term the fission products of highest concern are strontium-90 and caesium-137; both have a half-life of about 30 years. The caesium-137 is responsible for the majority of the external
+      <a class="mw-redirect" href="/wiki/Gamma_radiation" title="Gamma radiation">
+       gamma
+      </a>
+      dose experienced by workers in
+      <a href="/wiki/Nuclear_reprocessing" title="Nuclear reprocessing">
+       nuclear reprocessing
+      </a>
+      plants
+      <sup class="reference" id="cite_ref-13">
+       <a href="#cite_note-13">
+        [13]
+       </a>
+      </sup>
+      and, in 2005, to workers at the
+      <a href="/wiki/Chernobyl" title="Chernobyl">
+       Chernobyl
+      </a>
+      site.
+      <sup class="reference" id="cite_ref-14">
+       <a href="#cite_note-14">
+        [14]
+       </a>
+      </sup>
+      When these medium-lived isotopes have decayed almost completely (usually after 10 half-lives) the remaining isotopes will pose a much smaller threat.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Long-lived_fission_products_.28LLFP.29">
+       Long-lived fission products (LLFP)
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Nuclear_transmutation&amp;action=edit&amp;section=11" title="Edit section: Long-lived fission products (LLFP)">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <table style="float:right; text-align: right; border: 1px solid #CCCCCC; margin-left: 10px; margin-right: -1px;">
+      <caption style="background-color:#FF6666">
+       <b>
+        <a href="/wiki/Long-lived_fission_product" title="Long-lived fission product">
+         Long-lived
+        </a>
+        <br/>
+        <a class="mw-redirect" href="/wiki/Fission_product" title="Fission product">
+         fission products
+        </a>
+       </b>
+      </caption>
+      <tr>
+       <th style="text-align:right;">
+        Prop:
+        <br/>
+        Unit:
+       </th>
+       <th style="text-align:center;">
+        <a class="mw-redirect" href="/wiki/Halflife" title="Halflife">
+         t
+         <sub>
+          ½
+         </sub>
+        </a>
+        <br/>
+        (
+        <a class="mw-redirect" href="/wiki/Megaannum" title="Megaannum">
+         Ma
+        </a>
+        )
+       </th>
+       <th style="text-align:center;">
+        <a href="/wiki/Fission_product_yield" title="Fission product yield">
+         Yield
+        </a>
+        <br/>
+        (
+        <span style="border-bottom:1px dotted" title="Per 65 thermal-neutron fissions of U-235 and 35 of Pu-239">
+         %
+        </span>
+        )
+       </th>
+       <th style="text-align:center;">
+        <a href="/wiki/Decay_energy" title="Decay energy">
+         Q
+        </a>
+        <span style="border-bottom:1px dotted" title="Decay energy is split among β, neutrino, and γ if any">
+         *
+        </span>
+        <br/>
+        (
+        <a class="mw-redirect" href="/wiki/Kiloelectronvolt" title="Kiloelectronvolt">
+         keV
+        </a>
+        )
+       </th>
+       <th>
+        <a class="mw-redirect" href="/wiki/Decay_mode" title="Decay mode">
+         βγ
+        </a>
+        <br/>
+        <span style="border-bottom:1px dotted" title="Decay energy is split among β, neutrino, and γ if any">
+         *
+        </span>
+       </th>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/Technetium-99" title="Technetium-99">
+         <sup>
+          99
+         </sup>
+         Tc
+        </a>
+       </td>
+       <td>
+        0.211
+       </td>
+       <td>
+        6.1385
+       </td>
+       <td>
+        294
+       </td>
+       <td style="text-align:left;">
+        β
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a class="mw-redirect" href="/wiki/Tin-126" title="Tin-126">
+         <sup>
+          126
+         </sup>
+         Sn
+        </a>
+       </td>
+       <td>
+        0.230
+       </td>
+       <td>
+        0.1084
+       </td>
+       <td>
+        <span style="border-bottom:1px dotted" title="Has decay energy 380 keV, but decay product Sb-126 has decay energy 3.67 MeV">
+         4050
+        </span>
+       </td>
+       <td>
+        β
+        <span style="border-bottom:1px dotted" title="High-energy gamma">
+         <b>
+          γ
+         </b>
+        </span>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/Selenium-79" title="Selenium-79">
+         <sup>
+          79
+         </sup>
+         Se
+        </a>
+       </td>
+       <td>
+        0.327
+       </td>
+       <td>
+        0.0447
+       </td>
+       <td>
+        151
+       </td>
+       <td style="text-align:left;">
+        β
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a class="mw-redirect" href="/wiki/Zirconium-93" title="Zirconium-93">
+         <sup>
+          93
+         </sup>
+         Zr
+        </a>
+       </td>
+       <td>
+        1.53
+       </td>
+       <td>
+        5.4575
+       </td>
+       <td>
+        91
+       </td>
+       <td>
+        βγ
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a class="mw-redirect" href="/wiki/Caesium-135" title="Caesium-135">
+         <sup>
+          135
+         </sup>
+         Cs
+        </a>
+       </td>
+       <td>
+        2.3
+       </td>
+       <td>
+        <span style="border-bottom:1px dotted" title="Lower in thermal reactor because predecessor absorbs neutrons">
+         6.9110
+        </span>
+       </td>
+       <td>
+        269
+       </td>
+       <td style="text-align:left;">
+        β
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a class="mw-redirect" href="/wiki/Palladium-107" title="Palladium-107">
+         <sup>
+          107
+         </sup>
+         Pd
+        </a>
+       </td>
+       <td>
+        6.5
+       </td>
+       <td>
+        1.2499
+       </td>
+       <td>
+        33
+       </td>
+       <td style="text-align:left;">
+        β
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/Iodine-129" title="Iodine-129">
+         <sup>
+          129
+         </sup>
+         I
+        </a>
+       </td>
+       <td>
+        15.7
+       </td>
+       <td>
+        0.8410
+       </td>
+       <td>
+        194
+       </td>
+       <td>
+        βγ
+       </td>
+      </tr>
+      <tr>
+       <td align="center" colspan="5">
+        Hover
+        <span style="border-bottom:1px dotted" title="and get popups like this">
+         underlined
+        </span>
+        : more info
+       </td>
+      </tr>
+     </table>
+     <table style="float:right; text-align:right; margin:0.5em 0 0.5em 0.5em; border: 1px solid #CCCCCC;">
+      <caption style="background-color:orange">
+       <b>
+        Medium-lived
+        <br/>
+        <a class="mw-redirect" href="/wiki/Fission_product" title="Fission product">
+         fission products
+        </a>
+       </b>
+      </caption>
+      <tr>
+       <th style="text-align:right;">
+        Prop:
+        <br/>
+        Unit:
+       </th>
+       <th style="text-align:center;">
+        <a class="mw-redirect" href="/wiki/Halflife" title="Halflife">
+         t
+         <sub>
+          ½
+         </sub>
+        </a>
+        <br/>
+        (
+        <a class="mw-redirect" href="/wiki/Annum" title="Annum">
+         a
+        </a>
+        )
+       </th>
+       <th style="text-align:center;">
+        <a href="/wiki/Fission_product_yield" title="Fission product yield">
+         Yield
+        </a>
+        <br/>
+        (
+        <span style="border-bottom:1px dotted" title="Per 65 thermal-neutron fissions of U-235 and 35 of Pu-239">
+         %
+        </span>
+        )
+       </th>
+       <th style="text-align:center;">
+        <a href="/wiki/Decay_energy" title="Decay energy">
+         Q
+        </a>
+        <span style="border-bottom:1px dotted" title="Decay energy is split among β, neutrino, and γ if any">
+         *
+        </span>
+        <br/>
+        (
+        <a class="mw-redirect" href="/wiki/Kiloelectronvolt" title="Kiloelectronvolt">
+         keV
+        </a>
+        )
+       </th>
+       <th style="text-align:center; vertical-align:top;">
+        <a class="mw-redirect" href="/wiki/Decay_mode" title="Decay mode">
+         βγ
+        </a>
+        <span style="border-bottom:1px dotted" title="Decay energy is split among β, neutrino, and γ if any">
+         *
+        </span>
+       </th>
+      </tr>
+      <tr>
+       <td>
+        <a class="mw-redirect" href="/wiki/Europium-155" title="Europium-155">
+         <sup>
+          155
+         </sup>
+         Eu
+        </a>
+       </td>
+       <td style="text-align:right;">
+        4.76
+       </td>
+       <td>
+        <span style="border-bottom:1px dotted" title="In thermal reactor, varies with later neutron capture">
+         0.0803
+        </span>
+       </td>
+       <td>
+        252
+       </td>
+       <td>
+        βγ
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/Krypton-85" title="Krypton-85">
+         <sup>
+          85
+         </sup>
+         Kr
+        </a>
+       </td>
+       <td style="text-align:left;">
+        10.76
+       </td>
+       <td>
+        <span style="border-bottom:1px dotted" title="Only 1/5 of mass-85 FP; rest go through short-lived isomer to Rb-85">
+         0.2180
+        </span>
+       </td>
+       <td>
+        687
+       </td>
+       <td>
+        βγ
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a class="mw-redirect" href="/wiki/Cadmium-113m" title="Cadmium-113m">
+         <sup>
+          113m
+         </sup>
+         Cd
+        </a>
+       </td>
+       <td style="text-align:left;">
+        14.1
+       </td>
+       <td>
+        <span style="border-bottom:1px dotted" title="In thermal reactor, reduced by later neutron capture">
+         0.0008
+        </span>
+       </td>
+       <td>
+        316
+       </td>
+       <td>
+        β
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/Strontium-90" title="Strontium-90">
+         <sup>
+          90
+         </sup>
+         Sr
+        </a>
+       </td>
+       <td style="text-align:left;">
+        28.9
+       </td>
+       <td>
+        4.505
+       </td>
+       <td>
+        <span style="border-bottom:1px dotted" title="Sr-90 has decay energy 546 keV; its decay product Y-90 has decay energy 2.28 MeV">
+         2826
+        </span>
+       </td>
+       <td>
+        <span style="border-bottom:1px dotted" title="High-energy beta">
+         <b>
+          β
+         </b>
+        </span>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/Caesium-137" title="Caesium-137">
+         <sup>
+          137
+         </sup>
+         Cs
+        </a>
+       </td>
+       <td style="text-align:left;">
+        30.23
+       </td>
+       <td>
+        6.337
+       </td>
+       <td>
+        <span style="border-bottom:1px dotted" title="Cs-137 has decay energy 514 keV; its decay product Ba-137m emits a 662 keV gamma">
+         1176
+        </span>
+       </td>
+       <td>
+        β
+        <span style="border-bottom:1px dotted" title="High-energy gamma">
+         <b>
+          γ
+         </b>
+        </span>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a class="mw-redirect" href="/wiki/Tin-121m" title="Tin-121m">
+         <sup>
+          121m
+         </sup>
+         Sn
+        </a>
+       </td>
+       <td style="text-align:left;">
+        43.9
+       </td>
+       <td>
+        0.00005
+       </td>
+       <td>
+        390
+       </td>
+       <td>
+        βγ
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a class="mw-redirect" href="/wiki/Samarium-151" title="Samarium-151">
+         <sup>
+          151
+         </sup>
+         Sm
+        </a>
+       </td>
+       <td style="text-align:left;">
+        96.6
+       </td>
+       <td>
+        <span style="border-bottom:1px dotted" title="In thermal reactor, reduced by later neutron capture">
+         0.5314
+        </span>
+       </td>
+       <td>
+        77
+       </td>
+       <td>
+        β
+       </td>
+      </tr>
+     </table>
+     <p>
+      Some radioactive fission products can be converted into shorter-lived radioisotopes by transmutation. Transmutation of all fission products with half-life greater than one year is studied in Grenoble,
+      <sup class="reference" id="cite_ref-15">
+       <a href="#cite_note-15">
+        [15]
+       </a>
+      </sup>
+      with varying results.
+     </p>
+     <p>
+      <a class="mw-redirect" href="/wiki/Sr-90" title="Sr-90">
+       Sr-90
+      </a>
+      and
+      <a class="mw-redirect" href="/wiki/Cs-137" title="Cs-137">
+       Cs-137
+      </a>
+      , with half-lives of about 30 years, are the largest radiation (including heat) emitters in used nuclear fuel on a scale of decades to ~305 years (Sn-121m is insignificant because of the low yield), and are not easily transmuted because they have low
+      <a class="mw-redirect" href="/wiki/Neutron_absorption" title="Neutron absorption">
+       neutron absorption
+      </a>
+      <a class="mw-redirect" href="/wiki/Neutron_cross-section" title="Neutron cross-section">
+       cross sections
+      </a>
+      . Instead, they should simply be stored until they decay. Given that this length of storage is necessary, the fission products with shorter half-lives can also be stored until they decay.
+     </p>
+     <p>
+      The next longer-lived fission product is
+      <a class="mw-redirect" href="/wiki/Sm-151" title="Sm-151">
+       Sm-151
+      </a>
+      , which has a half-life of 90 years, and is such a good neutron absorber that most of it is transmuted while the nuclear fuel is still being used; however, effectively transmuting the remaining Sm-151 in nuclear waste would require separation from other isotopes of
+      <a href="/wiki/Samarium" title="Samarium">
+       samarium
+      </a>
+      . Given the smaller quantities and its low-energy radioactivity, Sm-151 is less dangerous than Sr-90 and Cs-137 and can also be left to decay for ~970 years.
+     </p>
+     <p>
+      Finally, there are 7
+      <a href="/wiki/Long-lived_fission_product" title="Long-lived fission product">
+       long-lived fission products
+      </a>
+      . They have much longer half-lives in the range 211,000 years to 15.7 million years. Two of them,
+      <a class="mw-redirect" href="/wiki/Tc-99" title="Tc-99">
+       Tc-99
+      </a>
+      and
+      <a href="/wiki/Iodine-129" title="Iodine-129">
+       I-129
+      </a>
+      , are mobile enough in the environment to be potential dangers, are free or mostly free of mixture with stable isotopes of the same element, and have neutron cross sections that are small but adequate to support transmutation. Also, Tc-99 can substitute for
+      <a href="/wiki/Uranium-238" title="Uranium-238">
+       U-238
+      </a>
+      in supplying
+      <a href="/wiki/Doppler_broadening" title="Doppler broadening">
+       Doppler broadening
+      </a>
+      for negative feedback for reactor stability.
+      <sup class="reference" id="cite_ref-16">
+       <a href="#cite_note-16">
+        [16]
+       </a>
+      </sup>
+      Most studies of proposed transmutation schemes have assumed
+      <a href="/wiki/Technetium" title="Technetium">
+       <sup>
+        99
+       </sup>
+       Tc
+      </a>
+      ,
+      <a href="/wiki/Iodine-129" title="Iodine-129">
+       <sup>
+        129
+       </sup>
+       I
+      </a>
+      , and TRUs as the targets for transmutation, with other fission products,
+      <a class="mw-redirect" href="/wiki/Activation_products" title="Activation products">
+       activation products
+      </a>
+      , and possibly
+      <a href="/wiki/Reprocessed_uranium" title="Reprocessed uranium">
+       reprocessed uranium
+      </a>
+      remaining as waste.
+      <sup class="reference" id="cite_ref-17">
+       <a href="#cite_note-17">
+        [17]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Of the remaining 5 long-lived fission products,
+      <a class="mw-redirect" href="/wiki/Se-79" title="Se-79">
+       Se-79
+      </a>
+      ,
+      <a class="mw-redirect" href="/wiki/Sn-126" title="Sn-126">
+       Sn-126
+      </a>
+      and
+      <a class="mw-redirect" href="/wiki/Pd-107" title="Pd-107">
+       Pd-107
+      </a>
+      are produced only in small quantities (at least in today's
+      <a class="mw-redirect" href="/wiki/Thermal_neutron" title="Thermal neutron">
+       thermal neutron
+      </a>
+      ,
+      <a href="/wiki/Uranium-235" title="Uranium-235">
+       U-235
+      </a>
+      -burning
+      <a class="mw-redirect" href="/wiki/Light_water_reactors" title="Light water reactors">
+       light water reactors
+      </a>
+      ) and the last two should be relatively inert. The other two,
+      <a class="mw-redirect" href="/wiki/Zr-93" title="Zr-93">
+       Zr-93
+      </a>
+      and
+      <a class="mw-redirect" href="/wiki/Cs-135" title="Cs-135">
+       Cs-135
+      </a>
+      , are produced in larger quantities, but also not highly mobile in the environment. They are also mixed with larger quantities of other isotopes of the same element.
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Nuclear_transmutation&amp;action=edit&amp;section=12" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a href="/wiki/Neutron_activation" title="Neutron activation">
+        Neutron activation
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Nuclear_power" title="Nuclear power">
+        Nuclear power
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/List_of_nuclear_waste_treatment_technologies" title="List of nuclear waste treatment technologies">
+        List of nuclear waste treatment technologies
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Synthesis_of_precious_metals" title="Synthesis of precious metals">
+        Synthesis of precious metals
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Nuclear_transmutation&amp;action=edit&amp;section=13" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       "Radioactive change", Rutherford &amp; Soddy article (1903), online and analyzed on
+       <i>
+        <a class="external text" href="http://www.bibnum.education.fr/physique/radioactivite/la-transformation-radioactive" rel="nofollow">
+         Bibnum
+        </a>
+       </i>
+       <small>
+        [click 'à télécharger' for English version]
+       </small>
+       .
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Nuclear_transmutation&amp;action=edit&amp;section=14" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ol class="references">
+      <li id="cite_note-1">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-1">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        <a class="external free" href="http://www.oecd-nea.org/trw/" rel="nofollow">
+         http://www.oecd-nea.org/trw/
+        </a>
+        "Transmutation of Radioactive Waste." Nuclear Energy Agency. Feb 3rd 2012.
+       </span>
+      </li>
+      <li id="cite_note-2">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-2">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        <cite class="citation">
+         <a class="external text" href="http://dictionary.reference.com/browse/alchemy" rel="nofollow">
+          "Alchemy"
+         </a>
+         ,
+         <i>
+          Dictionary.com
+         </i>
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANuclear+transmutation&amp;rft.atitle=Alchemy&amp;rft.btitle=Dictionary.com&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fdictionary.reference.com%2Fbrowse%2Falchemy&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+         <span style="display:none;">
+         </span>
+        </span>
+       </span>
+      </li>
+      <li id="cite_note-3">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-3">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        John Hines, II, R. F. Yeager.
+        <i>
+         John Gower, Trilingual Poet: Language, Translation, and Tradition.
+        </i>
+        Boydell &amp; Brewer. 2010. p.170
+       </span>
+      </li>
+      <li id="cite_note-4">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-4">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        Lawrence Principe.
+        <i>
+         New Narratives in Eighteenth-Century Chemistry
+        </i>
+        . Springer. 2007. p.8
+       </span>
+      </li>
+      <li id="cite_note-5">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-5">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        Muriel Howorth,
+        <i>
+         Pioneer Research on the Atom: The Life Story of Frederick Soddy
+        </i>
+        , New World, London 1958, pp 83-84; Lawrence Badash, Radium,
+        <i>
+         Radioactivity and the Popularity of Scientific Discovery
+        </i>
+        , Proceedings of the American Philosophical Society 122,1978: 145-54; Thaddeus J. Trenn,
+        <i>
+         The Self-Splitting Atom: The History of the Rutherford-Soddy Collaboration
+        </i>
+        , Taylor &amp; Francis, London, 1977, pp 42, 58-60, 111-17.
+       </span>
+      </li>
+      <li id="cite_note-6">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-6">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        <a class="external text" href="http://www-outreach.phy.cam.ac.uk/camphy/cockcroftwalton/cockcroftwalton9_1.htm" rel="nofollow">
+         Cockcroft and Walton split lithium with high energy protons April 1932.
+        </a>
+       </span>
+      </li>
+      <li id="cite_note-7">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-7">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        William Alfred Fowler, Margaret Burbidge, Geoffrey Burbidge, and Fred Hoyle, 'Synthesis of the Elements in Stars',
+        <i>
+         Reviews of Modern Physics
+        </i>
+        , vol. 29, Issue 4, pp. 547–650
+       </span>
+      </li>
+      <li id="cite_note-8">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-8">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        Anne Marie Helmenstine,
+        <a class="external text" href="http://chemistry.about.com/cs/generalchemistry/a/aa050601a.htm" rel="nofollow">
+         Turning Lead into Gold: Is Alchemy Real?
+        </a>
+        , About.com:Chemistry, retrieved January 2008
+       </span>
+      </li>
+      <li id="cite_note-9">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-9">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        <cite class="citation web">
+         <a class="external text" href="https://web.archive.org/web/20120309093650/http://www.icpress.co.uk/engineering/p652.html" rel="nofollow">
+          "Crystalline Materials for Actinide Immobilisation"
+         </a>
+         . London: Imperial College Press. 2010. p. 198. Archived from
+         <a class="external text" href="http://www.icpress.co.uk/engineering/p652.html" rel="nofollow">
+          the original
+         </a>
+         on 9 March 2012.
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANuclear+transmutation&amp;rft.btitle=Crystalline+Materials+for+Actinide+Immobilisation&amp;rft.date=2010&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.icpress.co.uk%2Fengineering%2Fp652.html&amp;rft.pages=198&amp;rft.place=London&amp;rft.pub=Imperial+College+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+         <span style="display:none;">
+         </span>
+        </span>
+       </span>
+      </li>
+      <li id="cite_note-10">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-10">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        Rita Plukiene,
+        <i>
+         <a class="external text" href="http://www-dapnia.cea.fr/Phocea/file.php?class=std&amp;file=Doc/Publications/Archives/dapnia-03-12-T.pdf" rel="nofollow">
+          Evolution Of Transuranium Isotopic Composition In Power Reactors And Innovative Nuclear Systems For Transmutation
+         </a>
+        </i>
+        , PhD Thesis, Vytautas Magnus University, 2003, retrieved January 2008
+       </span>
+      </li>
+      <li id="cite_note-11">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-11">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        Takibayev A., Saito M., Artisyuk V., and Sagara H., '
+        <a class="external text" href="http://cat.inist.fr/?aModele=afficheN&amp;cpsidt=17035603" rel="nofollow">
+         Fusion-driven transmutation of selected long-lived fission products
+        </a>
+        ',
+        <i>
+         Progress in nuclear energy
+        </i>
+        , Vol. 47, 2005, retrieved January 2008.
+       </span>
+      </li>
+      <li id="cite_note-12">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-12">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        <a class="external text" href="http://aries.ucsd.edu/LIB/MEETINGS/0103-TRANSMUT/gohar/Gohar-present.pdf" rel="nofollow">
+         Transmutation of Transuranic Elements and Long Lived Fission Products in Fusion Devices, Y. Gohar,
+        </a>
+        <a href="/wiki/Argonne_National_Laboratory" title="Argonne National Laboratory">
+         Argonne National Laboratory
+        </a>
+       </span>
+      </li>
+      <li id="cite_note-13">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-13">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        <cite class="citation journal">
+         Schwenk-Ferrero, A. (2013).
+         <a class="external text" href="http://downloads.hindawi.com/journals/stni/2013/293792.pdf" rel="nofollow">
+          "German Spent Nuclear Fuel Legacy: Characteristics and High-Level Waste Management Issues"
+         </a>
+         <span style="font-size:85%;">
+          (PDF)
+         </span>
+         .
+         <i>
+          Science and Technology of Nuclear Installations
+         </i>
+         : 293792.
+         <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+          doi
+         </a>
+         :
+         <a class="external text" href="//dx.doi.org/10.1155%2F2013%2F293792" rel="nofollow">
+          10.1155/2013/293792
+         </a>
+         <span class="reference-accessdate">
+          . Retrieved
+          <span class="nowrap">
+           5 April
+          </span>
+          2013
+         </span>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANuclear+transmutation&amp;rft.atitle=German+Spent+Nuclear+Fuel+Legacy%3A+Characteristics+and+High-Level+Waste+Management+Issues&amp;rft.aufirst=A.&amp;rft.aulast=Schwenk-Ferrero&amp;rft.date=2013&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fdownloads.hindawi.com%2Fjournals%2Fstni%2F2013%2F293792.pdf&amp;rft_id=info%3Adoi%2F10.1155%2F2013%2F293792&amp;rft.jtitle=Science+and+Technology+of+Nuclear+Installations&amp;rft.pages=293792&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+         <span style="display:none;">
+         </span>
+        </span>
+       </span>
+      </li>
+      <li id="cite_note-14">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-14">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        <cite class="citation web">
+         <a class="external text" href="http://www.atsdr.cdc.gov/toxprofiles/tp157-c2.pdf" rel="nofollow">
+          "Cesium-RELEVANCE TO PUBLIC HEALTH"
+         </a>
+         <span style="font-size:85%;">
+          (PDF)
+         </span>
+         . cdc.gov
+         <span class="reference-accessdate">
+          . Retrieved
+          <span class="nowrap">
+           5 April
+          </span>
+          2013
+         </span>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANuclear+transmutation&amp;rft.btitle=Cesium-RELEVANCE+TO+PUBLIC+HEALTH&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.atsdr.cdc.gov%2Ftoxprofiles%2Ftp157-c2.pdf&amp;rft.pub=cdc.gov&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+         <span style="display:none;">
+         </span>
+        </span>
+       </span>
+      </li>
+      <li id="cite_note-15">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-15">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        <a class="external text" href="https://www.google.com/patents/US4721596" rel="nofollow">
+         Method for net decrease of hazardous radioactive nuclear waste materials - US Patent 4721596 Description
+        </a>
+       </span>
+      </li>
+      <li id="cite_note-16">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-16">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        <a class="external text" href="http://www.osti.gov/bridge/servlets/purl/10180577-PCAEyE/10180577.PDF" rel="nofollow">
+         Transmutation of Selected Fission Products in a Fast Reactor
+        </a>
+       </span>
+      </li>
+      <li id="cite_note-17">
+       <span class="mw-cite-backlink">
+        <b>
+         <a href="#cite_ref-17">
+          ^
+         </a>
+        </b>
+       </span>
+       <span class="reference-text">
+        <a class="external text" href="http://www.ieer.org/reports/transm/report.pdf" rel="nofollow">
+         The Nuclear Alchemy Gamble - Institute for Energy and Environmental Research
+        </a>
+       </span>
+      </li>
+     </ol>
+     <div aria-labelledby="Nuclear_technology" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="2" scope="col">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Nuclear_technology" title="Template:Nuclear technology">
+             <abbr style=";;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Nuclear_technology" title="Template talk:Nuclear technology">
+             <abbr style=";;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Nuclear_technology&amp;action=edit">
+             <abbr style=";;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="Nuclear_technology" style="font-size:114%">
+          <a href="/wiki/Nuclear_technology" title="Nuclear technology">
+           Nuclear technology
+          </a>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+         </div>
+         <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+          <tr>
+           <th class="navbox-group" scope="row">
+            Science
+           </th>
+           <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a href="/wiki/Nuclear_chemistry" title="Nuclear chemistry">
+                Chemistry
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Nuclear_engineering" title="Nuclear engineering">
+                Engineering
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Nuclear_physics" title="Nuclear physics">
+                Physics
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Atomic_nucleus" title="Atomic nucleus">
+                Atomic nucleus
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Nuclear_fission" title="Nuclear fission">
+                Fission
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Nuclear_fusion" title="Nuclear fusion">
+                Fusion
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Radiation" title="Radiation">
+                Radiation
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Ionizing_radiation" title="Ionizing radiation">
+                  ionizing
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Bremsstrahlung" title="Bremsstrahlung">
+                  braking
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+          <tr style="height:2px">
+           <td colspan="2">
+           </td>
+          </tr>
+          <tr>
+           <th class="navbox-group" scope="row">
+            <a href="/wiki/Nuclear_fuel" title="Nuclear fuel">
+             Fuel
+            </a>
+           </th>
+           <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a href="/wiki/Tritium" title="Tritium">
+                Tritium
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Deuterium" title="Deuterium">
+                Deuterium
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Helium-3" title="Helium-3">
+                Helium-3
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Fertile_material" title="Fertile material">
+                Fertile material
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Fissile_material" title="Fissile material">
+                Fissile material
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Isotope_separation" title="Isotope separation">
+                Isotope separation
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Uranium" title="Uranium">
+                Uranium
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Enriched_uranium" title="Enriched uranium">
+                  enriched
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Depleted_uranium" title="Depleted uranium">
+                  depleted
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Plutonium" title="Plutonium">
+                Plutonium
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Thorium" title="Thorium">
+                Thorium
+               </a>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+          <tr style="height:2px">
+           <td colspan="2">
+           </td>
+          </tr>
+          <tr>
+           <th class="navbox-group" scope="row">
+            <a href="/wiki/Neutron" title="Neutron">
+             Neutron
+            </a>
+           </th>
+           <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a href="/wiki/Neutron_activation" title="Neutron activation">
+                Activation
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Neutron_capture" title="Neutron capture">
+                Capture
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Neutron_poison" title="Neutron poison">
+                Poison
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Neutron_cross_section" title="Neutron cross section">
+                Cross section
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Neutron_generator" title="Neutron generator">
+                Generator
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Neutron_radiation" title="Neutron radiation">
+                Radiation
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Neutron_reflector" title="Neutron reflector">
+                Reflector
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Neutron_temperature" title="Neutron temperature">
+                Temperature
+               </a>
+              </li>
+              <li>
+               <a class="mw-redirect" href="/wiki/Thermal_neutron" title="Thermal neutron">
+                Thermal
+               </a>
+              </li>
+              <li>
+               <a class="mw-redirect" href="/wiki/Fast_neutron" title="Fast neutron">
+                Fast
+               </a>
+              </li>
+              <li>
+               <a class="mw-redirect" href="/wiki/Fusion_neutron" title="Fusion neutron">
+                Fusion
+               </a>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+          <tr style="height:2px">
+           <td colspan="2">
+           </td>
+          </tr>
+          <tr>
+           <th class="navbox-group" scope="row">
+            <a href="/wiki/Nuclear_power" title="Nuclear power">
+             Power
+            </a>
+           </th>
+           <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a href="/wiki/Nuclear_power_by_country" title="Nuclear power by country">
+                by country
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Nuclear_power_plant" title="Nuclear power plant">
+                Power plant
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Economics_of_nuclear_power_plants" title="Economics of nuclear power plants">
+                Economics
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Multi-Mission_Radioisotope_Thermoelectric_Generator" title="Multi-Mission Radioisotope Thermoelectric Generator">
+                Multi-Mission Radioisotope Thermoelectric Generator
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Nuclear_and_radiation_accidents_and_incidents" title="Nuclear and radiation accidents and incidents">
+                Accidents and incidents
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Nuclear_energy_policy" title="Nuclear energy policy">
+                Policy
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Fusion_power" title="Fusion power">
+                Fusion
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Radioisotope_thermoelectric_generator" title="Radioisotope thermoelectric generator">
+                Radioisotope thermoelectric (RTG)
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Nuclear_propulsion" title="Nuclear propulsion">
+                Propulsion
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Nuclear_thermal_rocket" title="Nuclear thermal rocket">
+                  rocket
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/Nuclear_safety_and_security" title="Nuclear safety and security">
+                Safety and security
+               </a>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+          <tr style="height:2px">
+           <td colspan="2">
+           </td>
+          </tr>
+          <tr>
+           <th class="navbox-group" scope="row">
+            <a href="/wiki/Nuclear_medicine" title="Nuclear medicine">
+             Medicine
+            </a>
+           </th>
+           <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background:none;">
+            <div style="padding:0em 0.25em">
+            </div>
+            <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+             <tr>
+              <th class="navbox-group" scope="row" style="width:4.0em;font-weight:normal;">
+               <a href="/wiki/Medical_imaging" title="Medical imaging">
+                Imaging
+               </a>
+              </th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+               <div style="padding:0em 0.25em">
+               </div>
+               <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                <tr>
+                 <th class="navbox-group" scope="row" style="font-weight:normal;">
+                  <a href="/wiki/Gamma_camera" title="Gamma camera">
+                   γ-camera
+                  </a>
+                 </th>
+                 <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                  <div style="padding:0em 0.25em">
+                   <ul>
+                    <li>
+                     <a href="/wiki/RadBall" title="RadBall">
+                      RadBall
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/wiki/Scintigraphy" title="Scintigraphy">
+                      Scintigraphy
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/wiki/Single-photon_emission_computed_tomography" title="Single-photon emission computed tomography">
+                      Single-photon emission (SPECT)
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/wiki/Positron_emission_tomography" title="Positron emission tomography">
+                      Positron-emission tomography (PET scan)
+                     </a>
+                    </li>
+                   </ul>
+                  </div>
+                 </td>
+                </tr>
+                <tr style="height:2px">
+                 <td colspan="2">
+                 </td>
+                </tr>
+                <tr>
+                 <th class="navbox-group" scope="row" style="font-weight:normal;">
+                  <a href="/wiki/X-ray" title="X-ray">
+                   X-ray
+                  </a>
+                 </th>
+                 <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                  <div style="padding:0em 0.25em">
+                   <ul>
+                    <li>
+                     <a href="/wiki/Projectional_radiography" title="Projectional radiography">
+                      Projectional radiography
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/wiki/CT_scan" title="CT scan">
+                      Computed tomography
+                     </a>
+                    </li>
+                   </ul>
+                  </div>
+                 </td>
+                </tr>
+               </table>
+              </td>
+             </tr>
+             <tr style="height:2px">
+              <td colspan="2">
+              </td>
+             </tr>
+             <tr>
+              <th class="navbox-group" scope="row" style="width:4.0em;font-weight:normal;">
+               Therapy
+              </th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;background:none;">
+               <div style="padding:0em 0.25em">
+                <ul>
+                 <li>
+                  <a href="/wiki/Fast_neutron_therapy" title="Fast neutron therapy">
+                   Fast-neutron
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Neutron_capture_therapy_of_cancer" title="Neutron capture therapy of cancer">
+                   Neutron capture therapy of cancer
+                  </a>
+                 </li>
+                 <li>
+                  Targeted alpha-particle
+                 </li>
+                 <li>
+                  <a href="/wiki/Proton_therapy" title="Proton therapy">
+                   Proton-beam
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Tomotherapy" title="Tomotherapy">
+                   Tomotherapy
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Brachytherapy" title="Brachytherapy">
+                   Brachytherapy
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Radiation_therapy" title="Radiation therapy">
+                   Radiation therapy
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Radiosurgery" title="Radiosurgery">
+                   Radiosurgery
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Radiopharmacology" title="Radiopharmacology">
+                   Radiopharmacology
+                  </a>
+                 </li>
+                </ul>
+               </div>
+              </td>
+             </tr>
+            </table>
+           </td>
+          </tr>
+          <tr style="height:2px">
+           <td colspan="2">
+           </td>
+          </tr>
+          <tr>
+           <th class="navbox-group" scope="row">
+            <a href="/wiki/Nuclear_weapon" title="Nuclear weapon">
+             Weapons
+            </a>
+           </th>
+           <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background:none;">
+            <div style="padding:0em 0.25em">
+            </div>
+            <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+             <tr>
+              <th class="navbox-group" scope="row" style="width:4.0em;font-weight:normal;">
+               Topics
+              </th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+               <div style="padding:0em 0.25em">
+                <ul>
+                 <li>
+                  <a href="/wiki/Nuclear_arms_race" title="Nuclear arms race">
+                   Arms race
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Nuclear_weapons_delivery" title="Nuclear weapons delivery">
+                   Delivery
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Nuclear_weapon_design" title="Nuclear weapon design">
+                   Design
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Nuclear_disarmament" title="Nuclear disarmament">
+                   Disarmament
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Nuclear_ethics" title="Nuclear ethics">
+                   Ethics
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Nuclear_explosion" title="Nuclear explosion">
+                   Explosion
+                  </a>
+                  <ul>
+                   <li>
+                    <a href="/wiki/Effects_of_nuclear_explosions" title="Effects of nuclear explosions">
+                     effects
+                    </a>
+                   </li>
+                  </ul>
+                 </li>
+                 <li>
+                  <a href="/wiki/History_of_nuclear_weapons" title="History of nuclear weapons">
+                   History
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Nuclear_proliferation" title="Nuclear proliferation">
+                   Proliferation
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Nuclear_weapons_testing" title="Nuclear weapons testing">
+                   Testing
+                  </a>
+                  <ul>
+                   <li>
+                    <a href="/wiki/High-altitude_nuclear_explosion" title="High-altitude nuclear explosion">
+                     high-altitude
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/wiki/Underground_nuclear_weapons_testing" title="Underground nuclear weapons testing">
+                     underground
+                    </a>
+                   </li>
+                  </ul>
+                 </li>
+                 <li>
+                  <a href="/wiki/Nuclear_warfare" title="Nuclear warfare">
+                   Warfare
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Nuclear_weapon_yield" title="Nuclear weapon yield">
+                   Yield
+                  </a>
+                  <ul>
+                   <li>
+                    <a href="/wiki/TNT_equivalent" title="TNT equivalent">
+                     TNTe
+                    </a>
+                   </li>
+                  </ul>
+                 </li>
+                </ul>
+               </div>
+              </td>
+             </tr>
+             <tr style="height:2px">
+              <td colspan="2">
+              </td>
+             </tr>
+             <tr>
+              <th class="navbox-group" scope="row" style="width:4.0em;font-weight:normal;">
+               Lists
+              </th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+               <div style="padding:0em 0.25em">
+                <ul>
+                 <li>
+                  <a href="/wiki/List_of_states_with_nuclear_weapons" title="List of states with nuclear weapons">
+                   States with nuclear weapons
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/List_of_nuclear_weapons_tests" title="List of nuclear weapons tests">
+                   Tests
+                  </a>
+                  <ul>
+                   <li>
+                    <a href="/wiki/List_of_nuclear_weapons_tests_of_the_United_States" title="List of nuclear weapons tests of the United States">
+                     United States
+                    </a>
+                   </li>
+                  </ul>
+                 </li>
+                 <li>
+                  <a href="/wiki/List_of_weapons_of_mass_destruction_treaties" title="List of weapons of mass destruction treaties">
+                   WMD treaties
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Nuclear-weapon-free_zone" title="Nuclear-weapon-free zone">
+                   Weapon-free zones
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/List_of_nuclear_weapons" title="List of nuclear weapons">
+                   Weapons
+                  </a>
+                 </li>
+                </ul>
+               </div>
+              </td>
+             </tr>
+            </table>
+           </td>
+          </tr>
+          <tr style="height:2px">
+           <td colspan="2">
+           </td>
+          </tr>
+          <tr>
+           <th class="navbox-group" scope="row">
+            <a href="/wiki/Radioactive_waste" title="Radioactive waste">
+             Waste
+            </a>
+           </th>
+           <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background:none;">
+            <div style="padding:0em 0.25em">
+            </div>
+            <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+             <tr>
+              <th class="navbox-group" scope="row" style="width:4.0em;font-weight:normal;">
+               Products
+              </th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+               <div style="padding:0em 0.25em">
+                <ul>
+                 <li>
+                  <a href="/wiki/Actinide" title="Actinide">
+                   Actinide
+                  </a>
+                  <ul>
+                   <li>
+                    <a href="/wiki/Reprocessed_uranium" title="Reprocessed uranium">
+                     Reprocessed uranium
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/wiki/Reactor-grade_plutonium" title="Reactor-grade plutonium">
+                     Reactor-grade plutonium
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/wiki/Minor_actinide" title="Minor actinide">
+                     Minor actinide
+                    </a>
+                   </li>
+                  </ul>
+                 </li>
+                 <li>
+                  <a href="/wiki/Activation_product" title="Activation product">
+                   Activation
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Nuclear_fission_product" title="Nuclear fission product">
+                   Fission
+                  </a>
+                  <ul>
+                   <li>
+                    <a href="/wiki/Long-lived_fission_product" title="Long-lived fission product">
+                     LLFP
+                    </a>
+                   </li>
+                  </ul>
+                 </li>
+                 <li>
+                  <a href="/wiki/Actinide_chemistry" title="Actinide chemistry">
+                   Actinide chemistry
+                  </a>
+                 </li>
+                </ul>
+               </div>
+              </td>
+             </tr>
+             <tr style="height:2px">
+              <td colspan="2">
+              </td>
+             </tr>
+             <tr>
+              <th class="navbox-group" scope="row" style="width:4.0em;font-weight:normal;">
+               Disposal
+              </th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+               <div style="padding:0em 0.25em">
+                <ul>
+                 <li>
+                  <a href="/wiki/Nuclear_fuel_cycle" title="Nuclear fuel cycle">
+                   Fuel cycle
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/High-level_waste" title="High-level waste">
+                   High-level (HLW)
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Low-level_waste" title="Low-level waste">
+                   Low-level (LLW)
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Deep_geological_repository" title="Deep geological repository">
+                   Repository
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Nuclear_reprocessing" title="Nuclear reprocessing">
+                   Reprocessing
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Spent_nuclear_fuel" title="Spent nuclear fuel">
+                   Spent fuel
+                  </a>
+                  <ul>
+                   <li>
+                    <a href="/wiki/Spent_fuel_pool" title="Spent fuel pool">
+                     pool
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/wiki/Dry_cask_storage" title="Dry cask storage">
+                     cask
+                    </a>
+                   </li>
+                  </ul>
+                 </li>
+                 <li>
+                  <strong class="selflink">
+                   Transmutation
+                  </strong>
+                 </li>
+                </ul>
+               </div>
+              </td>
+             </tr>
+            </table>
+           </td>
+          </tr>
+          <tr style="height:2px">
+           <td colspan="2">
+           </td>
+          </tr>
+          <tr>
+           <th class="navbox-group" scope="row">
+            Debate
+           </th>
+           <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a href="/wiki/Nuclear_power_debate" title="Nuclear power debate">
+                Nuclear power
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Nuclear_weapons_debate" title="Nuclear weapons debate">
+                Nuclear weapons
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Blue_Ribbon_Commission_on_America%27s_Nuclear_Future" title="Blue Ribbon Commission on America's Nuclear Future">
+                Blue Ribbon Commission on America's Nuclear Future
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Anti-nuclear_movement" title="Anti-nuclear movement">
+                Anti-nuclear movement
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Uranium_mining_debate" title="Uranium mining debate">
+                Uranium mining
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Nuclear_power_phase-out" title="Nuclear power phase-out">
+                Nuclear power phase-out
+               </a>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+         </table>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+         </div>
+         <table class="nowraplinks collapsible expanded navbox-subgroup" style="border-spacing:0">
+          <tr>
+           <th class="navbox-title" colspan="2" scope="col" style=";">
+            <span style="float:left;width:6em">
+            </span>
+            <div id="Nuclear_reactors" style="font-size:114%">
+             <a href="/wiki/Nuclear_reactor" title="Nuclear reactor">
+              Nuclear reactors
+             </a>
+            </div>
+           </th>
+          </tr>
+          <tr style="height:2px">
+           <td colspan="2">
+           </td>
+          </tr>
+          <tr>
+           <td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+            <div style="padding:0em 0.25em">
+            </div>
+            <table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0">
+             <tr>
+              <th class="navbox-title" colspan="2" scope="col">
+               <span style="float:left;width:6em">
+               </span>
+               <div id="Fission" style="font-size:114%">
+                <span style="font-size:90%;">
+                 <a href="/wiki/Nuclear_reactor#Fission" title="Nuclear reactor">
+                  Fission
+                 </a>
+                </span>
+               </div>
+              </th>
+             </tr>
+             <tr style="height:2px">
+              <td colspan="2">
+              </td>
+             </tr>
+             <tr>
+              <td class="navbox-abovebelow" colspan="2">
+               <div>
+                by primary
+                <a href="/wiki/Neutron_moderator" title="Neutron moderator">
+                 moderator
+                </a>
+               </div>
+              </td>
+             </tr>
+             <tr style="height:2px">
+              <td colspan="2">
+              </td>
+             </tr>
+             <tr>
+              <th class="navbox-group" scope="row">
+               <a href="/wiki/Light-water_reactor" title="Light-water reactor">
+                Light water
+               </a>
+              </th>
+              <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background:none;">
+               <div style="padding:0em 0.25em">
+                <ul>
+                 <li>
+                  <a href="/wiki/Natural_nuclear_fission_reactor" title="Natural nuclear fission reactor">
+                   Natural fission reactor
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Aqueous_homogeneous_reactor" title="Aqueous homogeneous reactor">
+                   Aqueous homogeneous reactor
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Boiling_water_reactor" title="Boiling water reactor">
+                   Boiling
+                  </a>
+                  <ul>
+                   <li>
+                    <a href="/wiki/Boiling_water_reactor" title="Boiling water reactor">
+                     BWR
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/wiki/Advanced_boiling_water_reactor" title="Advanced boiling water reactor">
+                     Advanced (ABWR)
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/wiki/Economic_Simplified_Boiling_Water_Reactor" title="Economic Simplified Boiling Water Reactor">
+                     ESBWR
+                    </a>
+                   </li>
+                  </ul>
+                 </li>
+                 <li>
+                  <a href="/wiki/Pressurized_water_reactor" title="Pressurized water reactor">
+                   Pressurized
+                  </a>
+                  <ul>
+                   <li>
+                    <a href="/wiki/AP1000" title="AP1000">
+                     AP1000
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/wiki/APR-1400" title="APR-1400">
+                     APR-1400
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/wiki/CPR-1000" title="CPR-1000">
+                     CPR-1000
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/wiki/EPR_(nuclear_reactor)" title="EPR (nuclear reactor)">
+                     EPR
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/wiki/OPR-1000" title="OPR-1000">
+                     OPR-1000
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/wiki/VVER" title="VVER">
+                     VVER
+                    </a>
+                   </li>
+                  </ul>
+                 </li>
+                 <li>
+                  <a href="/wiki/Supercritical_water_reactor" title="Supercritical water reactor">
+                   Supercritical (SCWR)
+                  </a>
+                 </li>
+                </ul>
+               </div>
+              </td>
+             </tr>
+             <tr style="height:2px">
+              <td colspan="2">
+              </td>
+             </tr>
+             <tr>
+              <th class="navbox-group" scope="row">
+               <a class="mw-redirect" href="/wiki/Heavy-water_reactor" title="Heavy-water reactor">
+                Heavy water
+               </a>
+              </th>
+              <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background:none;;background:whitesmoke;">
+               <div style="padding:0em 0.25em">
+                <ul>
+                 <li>
+                  <a href="/wiki/CANDU_reactor" title="CANDU reactor">
+                   CANDU
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Advanced_heavy-water_reactor" title="Advanced heavy-water reactor">
+                   Advanced (AHWR)
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Pressurized_heavy-water_reactor" title="Pressurized heavy-water reactor">
+                   Pressurized (PHWR)
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Steam-generating_heavy_water_reactor" title="Steam-generating heavy water reactor">
+                   Steam-generating (SGHWR)
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/WR-1" title="WR-1">
+                   WR-1
+                  </a>
+                 </li>
+                </ul>
+               </div>
+              </td>
+             </tr>
+             <tr style="height:2px">
+              <td colspan="2">
+              </td>
+             </tr>
+             <tr>
+              <th class="navbox-group" scope="row">
+               <div style="padding:0.1em 0;line-height:1.2em;">
+                <a href="/wiki/Graphite-moderated_reactor" title="Graphite-moderated reactor">
+                 Graphite
+                </a>
+                <br/>
+                <span style="font-size:90%;">
+                 <span style="font-weight:normal;">
+                  by
+                  <a href="/wiki/Nuclear_reactor_coolant" title="Nuclear reactor coolant">
+                   coolant
+                  </a>
+                 </span>
+                </span>
+               </div>
+              </th>
+              <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background:none;">
+               <div style="padding:0em 0.25em">
+               </div>
+               <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                <tr>
+                 <th class="navbox-group" scope="row" style="font-weight:normal;">
+                  Water
+                 </th>
+                 <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                  <div style="padding:0em 0.25em">
+                  </div>
+                  <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                   <tr>
+                    <th class="navbox-group" scope="row" style="width:2.5em;font-weight:normal;">
+                     <a class="mw-redirect" href="/wiki/H2O" title="H2O">
+                      H
+                      <sub>
+                       2
+                      </sub>
+                      O
+                     </a>
+                    </th>
+                    <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+                     <div style="padding:0em 0.25em">
+                      <ul>
+                       <li>
+                        <a href="/wiki/RBMK" title="RBMK">
+                         RBMK
+                        </a>
+                       </li>
+                       <li>
+                        <a href="/wiki/EGP-6" title="EGP-6">
+                         EGP-6
+                        </a>
+                       </li>
+                      </ul>
+                     </div>
+                    </td>
+                   </tr>
+                  </table>
+                 </td>
+                </tr>
+                <tr style="height:2px">
+                 <td colspan="2">
+                 </td>
+                </tr>
+                <tr>
+                 <th class="navbox-group" scope="row" style="font-weight:normal;">
+                  <a href="/wiki/Gas-cooled_reactor" title="Gas-cooled reactor">
+                   Gas
+                  </a>
+                 </th>
+                 <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                  <div style="padding:0em 0.25em">
+                  </div>
+                  <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                   <tr>
+                    <th class="navbox-group" scope="row" style="width:2.5em;font-weight:normal;">
+                     <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">
+                      CO
+                      <span style="position:relative; bottom:0.2em;">
+                       <sub>
+                        <small>
+                         2
+                        </small>
+                       </sub>
+                      </span>
+                     </a>
+                    </th>
+                    <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+                     <div style="padding:0em 0.25em">
+                      <ul>
+                       <li>
+                        <a href="/wiki/UNGG_reactor" title="UNGG reactor">
+                         <i>
+                          Uranium Naturel Graphite Gaz
+                         </i>
+                         (UNGG)
+                        </a>
+                       </li>
+                       <li>
+                        <a href="/wiki/Magnox" title="Magnox">
+                         Magnox
+                        </a>
+                       </li>
+                       <li>
+                        <a href="/wiki/Advanced_gas-cooled_reactor" title="Advanced gas-cooled reactor">
+                         Advanced gas-cooled (AGR)
+                        </a>
+                       </li>
+                      </ul>
+                     </div>
+                    </td>
+                   </tr>
+                   <tr style="height:2px">
+                    <td colspan="2">
+                    </td>
+                   </tr>
+                   <tr>
+                    <th class="navbox-group" scope="row" style="width:2.5em;font-weight:normal;">
+                     <a href="/wiki/Helium" title="Helium">
+                      He
+                     </a>
+                    </th>
+                    <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+                     <div style="padding:0em 0.25em">
+                      <ul>
+                       <li>
+                        <a href="/wiki/UHTREX" title="UHTREX">
+                         Ultra-high-temperature experiment (UHTREX)
+                        </a>
+                       </li>
+                       <li>
+                        <a href="/wiki/Pebble-bed_reactor" title="Pebble-bed reactor">
+                         Pebble-bed (PBMR)
+                        </a>
+                        (
+                        <a class="mw-redirect" href="/wiki/HTR-PM" title="HTR-PM">
+                         HTR-PM
+                        </a>
+                        )
+                       </li>
+                       <li>
+                        <a href="/wiki/Gas_turbine_modular_helium_reactor" title="Gas turbine modular helium reactor">
+                         Gas-turbine modular-helium (GTMHR)
+                        </a>
+                       </li>
+                       <li>
+                        <a href="/wiki/Very-high-temperature_reactor" title="Very-high-temperature reactor">
+                         Very-high-temperature (VHTR)
+                        </a>
+                       </li>
+                      </ul>
+                     </div>
+                    </td>
+                   </tr>
+                  </table>
+                 </td>
+                </tr>
+                <tr style="height:2px">
+                 <td colspan="2">
+                 </td>
+                </tr>
+                <tr>
+                 <th class="navbox-group" scope="row" style="font-weight:normal;">
+                  <a href="/wiki/Molten_salt_reactor" title="Molten salt reactor">
+                   Molten-salt
+                  </a>
+                 </th>
+                 <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                  <div style="padding:0em 0.25em">
+                  </div>
+                  <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                   <tr>
+                    <th class="navbox-group" scope="row" style="width:2.5em;font-weight:normal;">
+                     <a href="/wiki/FLiBe" title="FLiBe">
+                      FLiBe
+                     </a>
+                    </th>
+                    <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+                     <div style="padding:0em 0.25em">
+                      <ul>
+                       <li>
+                        <a href="/wiki/Fuji_Molten_Salt_Reactor" title="Fuji Molten Salt Reactor">
+                         Fuji MSR
+                        </a>
+                       </li>
+                       <li>
+                        <a href="/wiki/Liquid_fluoride_thorium_reactor" title="Liquid fluoride thorium reactor">
+                         Liquid-fluoride thorium reactor (LFTR)
+                        </a>
+                       </li>
+                       <li>
+                        <a href="/wiki/Molten-Salt_Reactor_Experiment" title="Molten-Salt Reactor Experiment">
+                         Molten-Salt Reactor Experiment (MSRE)
+                        </a>
+                       </li>
+                       <li>
+                        <a href="/wiki/IMSR" title="IMSR">
+                         Integral Molten Salt Reactor (IMSR)
+                        </a>
+                       </li>
+                      </ul>
+                     </div>
+                    </td>
+                   </tr>
+                  </table>
+                 </td>
+                </tr>
+               </table>
+              </td>
+             </tr>
+             <tr style="height:2px">
+              <td colspan="2">
+              </td>
+             </tr>
+             <tr>
+              <th class="navbox-group" scope="row">
+               <div style="padding:0.1em 0;line-height:1.2em;">
+                None
+                <br/>
+                <span style="font-weight:normal;">
+                 (
+                 <a href="/wiki/Fast-neutron_reactor" title="Fast-neutron reactor">
+                  fast
+                 </a>
+                 )
+                </span>
+               </div>
+              </th>
+              <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background:none;">
+               <div style="padding:0em 0.25em">
+               </div>
+               <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                <tr>
+                 <td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+                  <div style="padding:0em 0.25em">
+                   <ul>
+                    <li>
+                     <a class="mw-redirect" href="/wiki/Fast_breeder_reactor" title="Fast breeder reactor">
+                      Breeder (FBR)
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/wiki/Integral_fast_reactor" title="Integral fast reactor">
+                      Integral (IFR)
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/wiki/Liquid_metal_cooled_reactor" title="Liquid metal cooled reactor">
+                      Liquid-metal-cooled (LMFR)
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/wiki/Small,_sealed,_transportable,_autonomous_reactor" title="Small, sealed, transportable, autonomous reactor">
+                      Small sealed transportable autonomous (SSTAR)
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/wiki/Traveling_wave_reactor" title="Traveling wave reactor">
+                      Traveling-wave (TWR)
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/wiki/Energy_Multiplier_Module" title="Energy Multiplier Module">
+                      Energy Multiplier Module (EM2)
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/wiki/Reduced_moderation_water_reactor" title="Reduced moderation water reactor">
+                      Reduced-moderation (RMWR)
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/wiki/Fast_Breeder_Test_Reactor" title="Fast Breeder Test Reactor">
+                      Fast Breeder Test Reactor (FBTR)
+                     </a>
+                    </li>
+                   </ul>
+                  </div>
+                 </td>
+                </tr>
+                <tr style="height:2px">
+                 <td colspan="2">
+                 </td>
+                </tr>
+                <tr>
+                 <th class="navbox-group" scope="row" style="font-weight:normal;">
+                  <a href="/wiki/Generation_IV_reactor#Fast_reactors" title="Generation IV reactor">
+                   Generation IV
+                  </a>
+                 </th>
+                 <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                  <div style="padding:0em 0.25em">
+                   <ul>
+                    <li>
+                     <a href="/wiki/Sodium-cooled_fast_reactor" title="Sodium-cooled fast reactor">
+                      Sodium (SFR)
+                     </a>
+                     <ul>
+                      <li>
+                       <a href="/wiki/BN-600_reactor" title="BN-600 reactor">
+                        BN-600
+                       </a>
+                      </li>
+                      <li>
+                       <a href="/wiki/BN-800_reactor" title="BN-800 reactor">
+                        BN-800
+                       </a>
+                      </li>
+                      <li>
+                       <a href="/wiki/BN-1200_reactor" title="BN-1200 reactor">
+                        BN-1200
+                       </a>
+                      </li>
+                      <li>
+                       <a href="/wiki/Prototype_Fast_Breeder_Reactor" title="Prototype Fast Breeder Reactor">
+                        PFBR
+                       </a>
+                      </li>
+                      <li>
+                       <a href="/wiki/China_Experimental_Fast_Reactor" title="China Experimental Fast Reactor">
+                        CEFR
+                       </a>
+                      </li>
+                     </ul>
+                    </li>
+                    <li>
+                     <a href="/wiki/Lead-cooled_fast_reactor" title="Lead-cooled fast reactor">
+                      Lead (LFR)
+                     </a>
+                    </li>
+                    <li>
+                     <a href="/wiki/Gas-cooled_fast_reactor" title="Gas-cooled fast reactor">
+                      Helium gas (GFR)
+                     </a>
+                    </li>
+                   </ul>
+                  </div>
+                 </td>
+                </tr>
+               </table>
+              </td>
+             </tr>
+             <tr style="height:2px">
+              <td colspan="2">
+              </td>
+             </tr>
+             <tr>
+              <th class="navbox-group" scope="row">
+               Others
+              </th>
+              <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background:none;">
+               <div style="padding:0em 0.25em">
+                <ul>
+                 <li>
+                  <a href="/wiki/Organically_moderated_and_cooled_reactor" title="Organically moderated and cooled reactor">
+                   Organically moderated and cooled reactor
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Aircraft_Nuclear_Propulsion" title="Aircraft Nuclear Propulsion">
+                   Aircraft Reactor Experiment
+                  </a>
+                 </li>
+                </ul>
+               </div>
+              </td>
+             </tr>
+            </table>
+            <table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0">
+             <tr>
+              <th class="navbox-title" colspan="2" scope="col">
+               <span style="float:left;width:6em">
+               </span>
+               <div id="Fusion" style="font-size:114%">
+                <span style="font-size:90%;">
+                 <a href="/wiki/Nuclear_reactor#Fusion_reactors" title="Nuclear reactor">
+                  Fusion
+                 </a>
+                </span>
+               </div>
+              </th>
+             </tr>
+             <tr style="height:2px">
+              <td colspan="2">
+              </td>
+             </tr>
+             <tr>
+              <td class="navbox-abovebelow" colspan="2">
+               <div>
+                by
+                <a href="/wiki/Thermonuclear_fusion#Confinement" title="Thermonuclear fusion">
+                 confinement
+                </a>
+               </div>
+              </td>
+             </tr>
+             <tr style="height:2px">
+              <td colspan="2">
+              </td>
+             </tr>
+             <tr>
+              <th class="navbox-group" scope="row">
+               <a href="/wiki/Magnetic_confinement_fusion" title="Magnetic confinement fusion">
+                Magnetic
+               </a>
+              </th>
+              <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em">
+                <ul>
+                 <li>
+                  <a href="/wiki/Field-reversed_configuration" title="Field-reversed configuration">
+                   Field-reversed configuration
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Levitated_dipole" title="Levitated dipole">
+                   Levitated dipole
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Reversed_field_pinch" title="Reversed field pinch">
+                   Reversed field pinch
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Spheromak" title="Spheromak">
+                   Spheromak
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Stellarator" title="Stellarator">
+                   Stellarator
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Tokamak" title="Tokamak">
+                   Tokamak
+                  </a>
+                 </li>
+                </ul>
+               </div>
+              </td>
+             </tr>
+             <tr style="height:2px">
+              <td colspan="2">
+              </td>
+             </tr>
+             <tr>
+              <th class="navbox-group" scope="row">
+               <a href="/wiki/Inertial_confinement_fusion" title="Inertial confinement fusion">
+                Inertial
+               </a>
+              </th>
+              <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em">
+                <ul>
+                 <li>
+                  <a href="/wiki/Bubble_fusion" title="Bubble fusion">
+                   Bubble
+                   <small>
+                    (acoustic)
+                   </small>
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Fusor" title="Fusor">
+                   Fusor
+                  </a>
+                  <ul>
+                   <li>
+                    <a href="/wiki/Inertial_electrostatic_confinement" title="Inertial electrostatic confinement">
+                     electrostatic
+                    </a>
+                   </li>
+                  </ul>
+                 </li>
+                 <li>
+                  <a href="/wiki/Inertial_confinement_fusion" title="Inertial confinement fusion">
+                   Laser-driven
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Magnetized_target_fusion" title="Magnetized target fusion">
+                   Magnetized-target
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Z-pinch" title="Z-pinch">
+                   Z-pinch
+                  </a>
+                 </li>
+                </ul>
+               </div>
+              </td>
+             </tr>
+             <tr style="height:2px">
+              <td colspan="2">
+              </td>
+             </tr>
+             <tr>
+              <th class="navbox-group" scope="row">
+               Other
+              </th>
+              <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em">
+                <ul>
+                 <li>
+                  <a href="/wiki/Dense_plasma_focus" title="Dense plasma focus">
+                   Dense plasma focus
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Migma" title="Migma">
+                   Migma
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Muon-catalyzed_fusion" title="Muon-catalyzed fusion">
+                   Muon-catalyzed
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Polywell" title="Polywell">
+                   Polywell
+                  </a>
+                 </li>
+                 <li>
+                  <a href="/wiki/Pyroelectric_fusion" title="Pyroelectric fusion">
+                   Pyroelectric
+                  </a>
+                 </li>
+                </ul>
+               </div>
+              </td>
+             </tr>
+            </table>
+           </td>
+          </tr>
+         </table>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td class="navbox-abovebelow" colspan="2">
+         <div>
+          <ul>
+           <li>
+            <img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/>
+            <b>
+             <a href="/wiki/Category:Nuclear_technology" title="Category:Nuclear technology">
+              Category
+             </a>
+            </b>
+           </li>
+           <li>
+            <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/>
+            <b>
+             <a href="/wiki/Portal:Nuclear_technology" title="Portal:Nuclear technology">
+              Portal
+             </a>
+            </b>
+           </li>
+           <li>
+            <img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/>
+            <b>
+             <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Nuclear_technology" title="commons:Category:Nuclear technology">
+              Commons
+             </a>
+            </b>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:27739443-0!*!0!!en!4!* and timestamp 20161105035636 and revision id 742838791
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Nuclear_transmutation&amp;oldid=742838791">
+      https://en.wikipedia.org/w/index.php?title=Nuclear_transmutation&amp;oldid=742838791
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Nuclear_physics" title="Category:Nuclear physics">
+         Nuclear physics
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Nuclear_chemistry" title="Category:Nuclear chemistry">
+         Nuclear chemistry
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Radioactivity" title="Category:Radioactivity">
+         Radioactivity
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+         All articles with unsourced statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2016" title="Category:Articles with unsourced statements from May 2016">
+         Articles with unsourced statements from May 2016
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2016" title="Category:Articles with unsourced statements from February 2016">
+         Articles with unsourced statements from February 2016
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_March_2014" title="Category:Articles with specifically marked weasel-worded phrases from March 2014">
+         Articles with specifically marked weasel-worded phrases from March 2014
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Nuclear+transmutation" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Nuclear+transmutation" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Nuclear_transmutation" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Nuclear_transmutation" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Nuclear_transmutation">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Nuclear_transmutation&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Nuclear_transmutation&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Nuclear_transmutation" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Nuclear_transmutation" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Nuclear_transmutation&amp;oldid=742838791" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Nuclear_transmutation&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q202651" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Nuclear_transmutation&amp;id=742838791" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Nuclear+transmutation">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Nuclear+transmutation&amp;returnto=Nuclear+transmutation&amp;oldid=742838791&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Nuclear_transmutation&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AA%D8%AD%D9%88%D9%84_%D9%86%D9%88%D9%88%D9%8A" hreflang="ar" lang="ar" title="تحول نووي – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D1%8F" hreflang="bg" lang="bg" title="Трансмутация – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bs">
+        <a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Transmutacija_jezgre" hreflang="bs" lang="bs" title="Transmutacija jezgre – Bosnian">
+         Bosanski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Transmutaci%C3%B3_nuclear" hreflang="ca" lang="ca" title="Transmutació nuclear – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Kernetransmutation" hreflang="da" lang="da" title="Kernetransmutation – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Transmutation" hreflang="de" lang="de" title="Transmutation – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%9C%CE%B5%CF%84%CE%B1%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CF%89%CF%83%CE%B7" hreflang="el" lang="el" title="Μεταστοιχείωση – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Transmutaci%C3%B3n" hreflang="es" lang="es" title="Transmutación – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AA%D8%A8%D8%AF%DB%8C%D9%84_%D9%87%D8%B3%D8%AA%D9%87%E2%80%8C%D8%A7%DB%8C" hreflang="fa" lang="fa" title="تبدیل هسته‌ای – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Transmutation" hreflang="fr" lang="fr" title="Transmutation – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ga">
+        <a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Claochl%C3%BA_(fisic)" hreflang="ga" lang="ga" title="Claochlú (fisic) – Irish">
+         Gaeilge
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Transmutacija" hreflang="hr" lang="hr" title="Transmutacija – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Transmutasi" hreflang="id" lang="id" title="Transmutasi – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Trasmutazione" hreflang="it" lang="it" title="Trasmutazione – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-la">
+        <a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Transmutatio_nuclearis" hreflang="la" lang="la" title="Transmutatio nuclearis – Latin">
+         Latina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Transzmut%C3%A1ci%C3%B3_(k%C3%A9mia)" hreflang="hu" lang="hu" title="Transzmutáció (kémia) – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ml">
+        <a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%A8%E0%B5%8D%E0%B4%AF%E0%B5%82%E0%B4%95%E0%B5%8D%E0%B4%B2%E0%B4%BF%E0%B4%AF%E0%B5%BC_%E0%B4%9F%E0%B5%8D%E0%B4%B0%E0%B4%BE%E0%B5%BB%E0%B4%B8%E0%B5%8D%E2%80%8C%E0%B4%AE%E0%B5%8D%E0%B4%AF%E0%B5%82%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%87%E0%B4%B7%E0%B5%BB" hreflang="ml" lang="ml" title="ന്യൂക്ലിയർ ട്രാൻസ്‌മ്യൂട്ടേഷൻ – Malayalam">
+         മലയാളം
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Transmutatie_(kernfysica)" hreflang="nl" lang="nl" title="Transmutatie (kernfysica) – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E6%A0%B8%E5%A4%89%E6%8F%9B" hreflang="ja" lang="ja" title="核変換 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Transmutasjon" hreflang="no" lang="no" title="Transmutasjon – Norwegian">
+         Norsk bokmål
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Transmutacja" hreflang="pl" lang="pl" title="Transmutacja – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Transmuta%C3%A7%C3%A3o" hreflang="pt" lang="pt" title="Transmutação – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D1%8F" hreflang="ru" lang="ru" title="Трансмутация – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Transmutation" hreflang="simple" lang="simple" title="Transmutation – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ckb">
+        <a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%DA%AF%DB%86%DA%95%D8%A7%D9%86%DB%8C_%D9%86%D8%A7%D9%88%DA%A9%DB%8C" hreflang="ckb" lang="ckb" title="گۆڕانی ناوکی – Central Kurdish">
+         کوردیی ناوەندی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Transmutaatio" hreflang="fi" lang="fi" title="Transmutaatio – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Transmutation" hreflang="sv" lang="sv" title="Transmutation – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%9B%E0%B8%A3%E0%B8%99%E0%B8%B4%E0%B8%A7%E0%B9%80%E0%B8%84%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B8%AA" hreflang="th" lang="th" title="การแปรนิวเคลียส – Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/N%C3%BCkleer_D%C3%B6n%C3%BC%C5%9F%C3%BCm" hreflang="tr" lang="tr" title="Nükleer Dönüşüm – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BC%D1%83%D1%82%D0%B0%D1%86%D1%96%D1%8F" hreflang="uk" lang="uk" title="Трансмутація – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%A0%B8%E5%AC%97%E5%8F%98" hreflang="zh" lang="zh" title="核嬗变 – Chinese">
+         中文
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q202651#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 6 October 2016, at 03:32.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Nuclear_transmutation&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.288",
+            "walltime": "0.378",
+            "ppvisitednodes": {
+                "value": 2136,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 186188,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 22462,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 18,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 3,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  277.883      1 -total",
+                " 31.26%   86.868      1 Template:Nuclear_technology",
+                " 30.11%   83.662      1 Template:Navbox_with_collapsible_sections",
+                " 24.28%   67.463     12 Template:Navbox",
+                " 18.21%   50.609      1 Template:Citation_needed",
+                " 17.95%   49.874      2 Template:Fix",
+                " 11.31%   31.440      1 Template:Citation",
+                "  9.84%   27.355      5 Template:Category_handler",
+                "  8.92%   24.795      1 Template:Nuclear_fission_reactors",
+                "  8.49%   23.604      1 Template:Gold"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.096",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 4273893,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1215",
+            "timestamp": "20161105035636",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":77,"wgHostname":"mw1181"});});
+  </script>
+ </body>
+</html>

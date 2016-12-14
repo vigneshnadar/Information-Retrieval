@@ -1,0 +1,1880 @@
+https://en.wikipedia.org/wiki/Solar_trough
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Parabolic trough - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Parabolic_trough","wgTitle":"Parabolic trough","wgCurRevisionId":744584944,"wgRevisionId":744584944,"wgArticleId":788725,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia introduction cleanup from November 2012","All pages needing cleanup","Articles covered by WikiProject Wikify from November 2012","All articles covered by WikiProject Wikify","All articles with unsourced statements","Articles with unsourced statements from April 2014","Articles with unsourced statements from December 2013","Solar thermal energy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Parabolic_trough","wgRelevantArticleId":788725,"wgRequestId":"WCCRBgpAMFQAACxglLwAAABX","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Solar_trough","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Parabolic_trough","wgWikibaseItemId":"Q2051219","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.redirect","mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Parabolic_trough" rel="alternate"/>
+  <link href="/w/index.php?title=Parabolic_trough&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Parabolic_trough&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Parabolic_trough" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Parabolic_trough rootpage-Parabolic_trough skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Parabolic trough
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+     <span class="mw-redirectedfrom">
+      (Redirected from
+      <a class="mw-redirect" href="/w/index.php?title=Solar_trough&amp;redirect=no" title="Solar trough">
+       Solar trough
+      </a>
+      )
+     </span>
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <table class="plainlinks metadata ambox ambox-content ambox-lead_too_short" role="presentation">
+      <tr>
+       <td class="mbox-image">
+        <div style="width:52px">
+         <a class="image" href="/wiki/File:Wiki_letter_w.svg">
+          <img alt="Wiki letter w.svg" data-file-height="44" data-file-width="44" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/40px-Wiki_letter_w.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/60px-Wiki_letter_w.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/80px-Wiki_letter_w.svg.png 2x" width="40"/>
+         </a>
+        </div>
+       </td>
+       <td class="mbox-text">
+        <span class="mbox-text-span">
+         This article's
+         <b>
+          <a href="/wiki/Wikipedia:Manual_of_Style/Lead_section" title="Wikipedia:Manual of Style/Lead section">
+           lead section
+          </a>
+          may not adequately
+          <a href="/wiki/Wikipedia:Summary_style" title="Wikipedia:Summary style">
+           summarize
+          </a>
+          key points of its contents
+         </b>
+         .
+         <span class="hide-when-compact">
+          Please consider expanding the lead to
+          <a href="/wiki/Wikipedia:Manual_of_Style/Lead_section#Provide_an_accessible_overview" title="Wikipedia:Manual of Style/Lead section">
+           provide an accessible overview
+          </a>
+          of all important aspects of the article. Please discuss this issue on the article's
+          <a href="/wiki/Talk:Parabolic_trough" title="Talk:Parabolic trough">
+           talk page
+          </a>
+          .
+         </span>
+         <small>
+          <i>
+           (November 2012)
+          </i>
+         </small>
+        </span>
+       </td>
+      </tr>
+     </table>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:302px;">
+       <a class="image" href="/wiki/File:Parabolic_trough_at_Harper_Lake_in_California.jpg">
+        <img alt="" class="thumbimage" data-file-height="1887" data-file-width="2370" height="239" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Parabolic_trough_at_Harper_Lake_in_California.jpg/300px-Parabolic_trough_at_Harper_Lake_in_California.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Parabolic_trough_at_Harper_Lake_in_California.jpg/450px-Parabolic_trough_at_Harper_Lake_in_California.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Parabolic_trough_at_Harper_Lake_in_California.jpg/600px-Parabolic_trough_at_Harper_Lake_in_California.jpg 2x" width="300"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Parabolic_trough_at_Harper_Lake_in_California.jpg" title="Enlarge">
+         </a>
+        </div>
+        Parabolic trough at a plant near Harper Lake, California
+       </div>
+      </div>
+     </div>
+     <p>
+      A
+      <b>
+       parabolic trough
+      </b>
+      is a type of
+      <a href="/wiki/Solar_thermal_collector" title="Solar thermal collector">
+       solar thermal collector
+      </a>
+      that is straight in one dimension and curved as a
+      <a href="/wiki/Parabola" title="Parabola">
+       parabola
+      </a>
+      in the other two, lined with a polished metal
+      <a href="/wiki/Mirror" title="Mirror">
+       mirror
+      </a>
+      . The energy of
+      <a href="/wiki/Sunlight" title="Sunlight">
+       sunlight
+      </a>
+      which enters the mirror parallel to its plane of symmetry is focused along the
+      <a href="/wiki/Parabola#Proof_of_the_reflective_property" title="Parabola">
+       focal line
+      </a>
+      , where objects are positioned that are intended to be heated. For example, food may be placed at the focal line of a trough, which causes the food to be cooked when the trough is aimed so the Sun is in its plane of symmetry. Further information on the use of parabolic troughs for cooking can be found in the article about
+      <a href="/wiki/Solar_cooker#Parabolic_troughs" title="Solar cooker">
+       solar cookers
+      </a>
+      .
+     </p>
+     <p>
+      For other purposes, there is often a tube, frequently a
+      <a class="mw-redirect" href="/wiki/Dewar_tube" title="Dewar tube">
+       Dewar tube
+      </a>
+      , which runs the length of the trough at its focal line. The mirror is oriented so that sunlight which it reflects is concentrated on the tube, which contains a
+      <a href="/wiki/Fluid" title="Fluid">
+       fluid
+      </a>
+      which is heated to a high temperature by the energy of the sunlight. The hot fluid can be used for many purposes. Often, it is piped to a
+      <a href="/wiki/Heat_engine" title="Heat engine">
+       heat engine
+      </a>
+      , which uses the heat energy to drive machinery or to generate electricity. This solar energy collector is the most common and best known type of parabolic trough. The paragraphs below therefore concentrate on this type.
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Efficiency">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Efficiency
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#Design">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Design
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#Variations">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          Variations
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-4">
+          <a href="#Enclosed_trough">
+           <span class="tocnumber">
+            3.1
+           </span>
+           <span class="toctext">
+            Enclosed trough
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-5">
+        <a href="#Early_commercial_adaption">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          Early commercial adaption
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-6">
+        <a href="#Commercial_plants">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          Commercial plants
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-7">
+        <a href="#See_also">
+         <span class="tocnumber">
+          6
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-8">
+        <a href="#References">
+         <span class="tocnumber">
+          7
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-9">
+        <a href="#Bibliography">
+         <span class="tocnumber">
+          8
+         </span>
+         <span class="toctext">
+          Bibliography
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-10">
+        <a href="#External_links">
+         <span class="tocnumber">
+          9
+         </span>
+         <span class="toctext">
+          External links
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Efficiency">
+       Efficiency
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Parabolic_trough&amp;action=edit&amp;section=1" title="Edit section: Efficiency">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:172px;">
+       <a class="image" href="/wiki/File:Parabolic_trough.svg">
+        <img alt="" class="thumbimage" data-file-height="1200" data-file-width="600" height="340" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Parabolic_trough.svg/170px-Parabolic_trough.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Parabolic_trough.svg/255px-Parabolic_trough.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Parabolic_trough.svg/340px-Parabolic_trough.svg.png 2x" width="170"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Parabolic_trough.svg" title="Enlarge">
+         </a>
+        </div>
+        A diagram of a parabolic trough solar farm (top), and an end view of how a parabolic collector focuses sunlight onto its focal point.
+       </div>
+      </div>
+     </div>
+     <p>
+      The trough is usually aligned on a north-south axis, and rotated to track the sun as it moves across the sky each day. Alternatively, the trough can be aligned on an east-west axis; this reduces the overall efficiency of the collector due to cosine loss but only requires the trough to be aligned with the change in
+      <a href="/wiki/Season" title="Season">
+       seasons
+      </a>
+      , avoiding the need for tracking motors. This tracking method approaches theoretical efficiencies at the spring and fall
+      <a href="/wiki/Equinox" title="Equinox">
+       equinoxes
+      </a>
+      with less accurate focusing of the light at other times during the year. The daily motion of the sun across the sky also introduces errors, greatest at the sunrise and sunset and smallest at solar noon. Due to these sources of error, seasonally adjusted parabolic troughs are generally designed with a lower
+      <a href="/wiki/Acceptance_angle_(solar_concentrator)#Concentration_acceptance_product_.28CAP.29" title="Acceptance angle (solar concentrator)">
+       concentration acceptance product
+      </a>
+      .
+     </p>
+     <p>
+      Parabolic trough concentrators have a simple geometry, but their concentration is about 1/3 of the theoretical maximum for the same
+      <a href="/wiki/Acceptance_angle_(solar_concentrator)" title="Acceptance angle (solar concentrator)">
+       acceptance angle
+      </a>
+      , that is, for the same overall tolerances of the system to all kinds of errors, including those referenced above. The theoretical maximum is better achieved with more elaborate concentrators based on primary-secondary designs using
+      <a href="/wiki/Nonimaging_optics" title="Nonimaging optics">
+       nonimaging optics
+      </a>
+      <sup class="reference" id="cite_ref-IntroNio2e_1-0">
+       <a href="#cite_note-IntroNio2e-1">
+        [1]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-2">
+       <a href="#cite_note-2">
+        [2]
+       </a>
+      </sup>
+      which may nearly double the concentration of conventional parabolic troughs
+      <sup class="reference" id="cite_ref-XXSMS_3-0">
+       <a href="#cite_note-XXSMS-3">
+        [3]
+       </a>
+      </sup>
+      and are used to improve practical designs such as those with fixed receivers.
+      <sup class="reference" id="cite_ref-XXcSMS_4-0">
+       <a href="#cite_note-XXcSMS-4">
+        [4]
+       </a>
+      </sup>
+     </p>
+     <p>
+      <a class="mw-redirect" href="/wiki/Heat-transfer_oil" title="Heat-transfer oil">
+       Heat transfer fluid
+      </a>
+      (usually
+      <a class="mw-redirect" href="/wiki/Thermal_oil" title="Thermal oil">
+       thermal oil
+      </a>
+      ) runs through the tube to
+      <a href="/wiki/Absorption_(electromagnetic_radiation)" title="Absorption (electromagnetic radiation)">
+       absorb
+      </a>
+      the concentrated sunlight. This increases the temperature of the fluid to some 400 °C.
+      <sup class="reference" id="cite_ref-5">
+       <a href="#cite_note-5">
+        [5]
+       </a>
+      </sup>
+      The heat transfer fluid is then used to heat steam in a standard turbine generator. The process is economical and, for heating the pipe, thermal efficiency ranges from 60-80%. The overall efficiency from collector to grid, i.e. (Electrical Output Power)/(Total Impinging Solar Power) is about 15%, similar to PV (Photovoltaic Cells) but less than
+      <a href="/wiki/Stirling_engine" title="Stirling engine">
+       Stirling
+      </a>
+      <a href="/wiki/Solar_thermal_energy#Dish_designs" title="Solar thermal energy">
+       dish concentrators
+      </a>
+      .
+      <sup class="reference" id="cite_ref-6">
+       <a href="#cite_note-6">
+        [6]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Design">
+       Design
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Parabolic_trough&amp;action=edit&amp;section=2" title="Edit section: Design">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="thumb tleft">
+      <div class="thumbinner" style="width:194px;">
+       <a class="image" href="/wiki/File:Quadric_Parabolic_Cylinder.jpg">
+        <img alt="" class="thumbimage" data-file-height="144" data-file-width="192" height="144" src="//upload.wikimedia.org/wikipedia/commons/b/b9/Quadric_Parabolic_Cylinder.jpg" width="192"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Quadric_Parabolic_Cylinder.jpg" title="Enlarge">
+         </a>
+        </div>
+        A parabolic trough is shaped as a parabola in the x-y plane, but is linear in the z direction
+       </div>
+      </div>
+     </div>
+     <p>
+      A parabolic trough is made of a number of
+      <b>
+       solar collector modules
+      </b>
+      (
+      <b>
+       SCM
+      </b>
+      ) fixed together to move as one
+      <b>
+       solar collector assembly
+      </b>
+      (
+      <b>
+       SCA
+      </b>
+      ). A SCM could have a length up to 15 metres (49 ft) or more. About a dozen or more of SCM make each SCA up to 200 metres (660 ft) length. Each SCA is an independently tracking parabolic trough.
+     </p>
+     <p>
+      A SCM may be made as a single-piece parabolic mirror or assembled with a number of smaller mirrors in parallel rows. Smaller modular mirrors requires smaller machines to build the mirror, reducing cost. Cost is also reduced in case of the need of replacing a damaged mirror, like after an object hit (during bad weather or other causes).
+     </p>
+     <p>
+      In addition, V-type parabolic troughs exist which are made from 2 mirrors and placed at an angle towards each other.
+      <sup class="reference" id="cite_ref-7">
+       <a href="#cite_note-7">
+        [7]
+       </a>
+      </sup>
+     </p>
+     <p>
+      In 2009, scientists at the
+      <a href="/wiki/National_Renewable_Energy_Laboratory" title="National Renewable Energy Laboratory">
+       National Renewable Energy Laboratory
+      </a>
+      (NREL) and
+      <a href="/wiki/SkyFuel" title="SkyFuel">
+       SkyFuel
+      </a>
+      teamed to develop large curved sheets of metal that have the potential to be 30% less expensive than today's best collectors of concentrated solar power by replacing glass-based models with a
+      <a href="/wiki/Silver" title="Silver">
+       silver
+      </a>
+      polymer sheet that has the same performance as the heavy glass mirrors, but at a much lower cost and much lower weight. It also is much easier to deploy and install. The glossy film uses several layers of polymers, with an inner layer of pure silver.
+      <sup class="reference" id="cite_ref-8">
+       <a href="#cite_note-8">
+        [8]
+       </a>
+      </sup>
+     </p>
+     <p>
+      As this renewable source of energy is inconsistent by nature, methods for energy storage have been studied, for instance the single-tank (
+      <a href="/wiki/Thermocline" title="Thermocline">
+       thermocline
+      </a>
+      ) storage technology for large-scale solar thermal power plants. The thermocline tank approach uses a mixture of silica sand and quartzite rock to displace a significant portion of the volume in the tank. Then it is filled with the heat transfer fluid, typically a
+      <a href="/wiki/Molten_salt" title="Molten salt">
+       molten nitrate salt
+      </a>
+      .
+     </p>
+     <h2>
+      <span class="mw-headline" id="Variations">
+       Variations
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Parabolic_trough&amp;action=edit&amp;section=3" title="Edit section: Variations">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <h3>
+      <span class="mw-headline" id="Enclosed_trough">
+       Enclosed trough
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Parabolic_trough&amp;action=edit&amp;section=4" title="Edit section: Enclosed trough">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Inside_an_enclosed_CSP_Trough.jpg">
+        <img alt="" class="thumbimage" data-file-height="3745" data-file-width="5617" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Inside_an_enclosed_CSP_Trough.jpg/220px-Inside_an_enclosed_CSP_Trough.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Inside_an_enclosed_CSP_Trough.jpg/330px-Inside_an_enclosed_CSP_Trough.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Inside_an_enclosed_CSP_Trough.jpg/440px-Inside_an_enclosed_CSP_Trough.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Inside_an_enclosed_CSP_Trough.jpg" title="Enlarge">
+         </a>
+        </div>
+        Inside an enclosed trough system
+       </div>
+      </div>
+     </div>
+     <p>
+      The enclosed trough architecture encapsulates the solar thermal system within a greenhouse-like glasshouse. The glasshouse creates a protected environment to withstand the elements that can negatively impact reliability and efficiency of the solar thermal system.
+      <sup class="reference" id="cite_ref-2012_pred_9-0">
+       <a href="#cite_note-2012_pred-9">
+        [9]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Lightweight curved solar-reflecting mirrors are suspended within the glasshouse structure. A
+      <a href="/wiki/Solar_tracker" title="Solar tracker">
+       single-axis tracking system
+      </a>
+      positions the mirrors to track the sun and focus its light onto a network of stationary steel pipes, also suspended from the glasshouse structure.
+      <sup class="reference" id="cite_ref-10">
+       <a href="#cite_note-10">
+        [10]
+       </a>
+      </sup>
+      Steam is generated directly using, oil field-quality water, as water flows from the inlet throughout the length of the pipes, without heat exchangers or intermediate working fluids.
+     </p>
+     <p>
+      The steam produced is then fed directly to the field’s existing steam distribution network, where the steam is continuously injected deep into the oil reservoir. Sheltering the mirrors from the wind allows them to achieve higher temperature rates and prevents dust from building up as a result from exposure to humidity.
+      <sup class="reference" id="cite_ref-2012_pred_9-1">
+       <a href="#cite_note-2012_pred-9">
+        [9]
+       </a>
+      </sup>
+      <a href="/wiki/GlassPoint_Solar" title="GlassPoint Solar">
+       GlassPoint Solar
+      </a>
+      , the company that created the Enclosed Trough design, states its technology can produce heat for EOR for about $5 per million British thermal units in sunny regions, compared to between $10 and $12 for other conventional solar thermal technologies.
+      <sup class="reference" id="cite_ref-ehren_chevron_11-0">
+       <a href="#cite_note-ehren_chevron-11">
+        [11]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Early_commercial_adaption">
+       Early commercial adaption
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Parabolic_trough&amp;action=edit&amp;section=5" title="Edit section: Early commercial adaption">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:US_Patent_1240890.pdf">
+        <img alt="" class="thumbimage" data-file-height="1650" data-file-width="1275" height="285" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/US_Patent_1240890.pdf/page1-220px-US_Patent_1240890.pdf.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/US_Patent_1240890.pdf/page1-330px-US_Patent_1240890.pdf.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/US_Patent_1240890.pdf/page1-440px-US_Patent_1240890.pdf.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:US_Patent_1240890.pdf" title="Enlarge">
+         </a>
+        </div>
+        A 1917 patent drawing for Shuman's parabolic trough solar energy system
+       </div>
+      </div>
+     </div>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Shuman_sunengine_1907.jpg">
+        <img alt="" class="thumbimage" data-file-height="450" data-file-width="660" height="150" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Shuman_sunengine_1907.jpg/220px-Shuman_sunengine_1907.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Shuman_sunengine_1907.jpg/330px-Shuman_sunengine_1907.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Shuman_sunengine_1907.jpg/440px-Shuman_sunengine_1907.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Shuman_sunengine_1907.jpg" title="Enlarge">
+         </a>
+        </div>
+        Shuman sunengine 1907 Photo: Technical World magazine, September 1907
+       </div>
+      </div>
+     </div>
+     <p>
+      In 1897,
+      <a href="/wiki/Frank_Shuman" title="Frank Shuman">
+       Frank Shuman
+      </a>
+      , a U.S. inventor, engineer and solar energy pioneer built a small demonstration solar engine that worked by reflecting solar energy onto square boxes filled with ether, which has a lower boiling point than water, and were fitted internally with black pipes which in turn powered a steam engine. In 1908 Shuman formed the Sun Power Company with the intent of building larger solar power plants. He, along with his technical advisor A.S.E. Ackermann and British physicist Sir
+      <a href="/wiki/C._V._Boys" title="C. V. Boys">
+       Charles Vernon Boys
+      </a>
+      ,
+      <sup class="reference" id="cite_ref-12">
+       <a href="#cite_note-12">
+        [12]
+       </a>
+      </sup>
+      developed an improved system using mirrors to reflect solar energy upon collector boxes, increasing heating capacity to the extent that water could now be used instead of ether. Shuman then constructed a full-scale steam engine powered by low-pressure water, enabling him to patent the entire solar engine system by 1912.
+     </p>
+     <p>
+      Shuman built the world’s first
+      <a href="/wiki/Solar_thermal_energy" title="Solar thermal energy">
+       solar thermal power station
+      </a>
+      in
+      <a href="/wiki/Maadi" title="Maadi">
+       Maadi
+      </a>
+      ,
+      <a href="/wiki/Egypt" title="Egypt">
+       Egypt
+      </a>
+      between 1912 and 1913. Shuman’s plant used parabolic troughs to power a 45-52 kilowatt (60-70
+      <a href="/wiki/Horsepower" title="Horsepower">
+       hp
+      </a>
+      ) engine that pumped more than 22,000 litres of water per minute from the
+      <a class="mw-redirect" href="/wiki/Nile_River" title="Nile River">
+       Nile River
+      </a>
+      to adjacent cotton fields. Although the outbreak of World War I and the discovery of cheap oil in the 1930s discouraged the advancement of solar energy, Shuman’s vision and basic design were resurrected in the 1970s with a new wave of interest in solar thermal energy.
+      <sup class="reference" id="cite_ref-13">
+       <a href="#cite_note-13">
+        [13]
+       </a>
+      </sup>
+      In 1916 Shuman was quoted in the media advocating solar energy's utilization, saying:
+     </p>
+     <blockquote class="templatequote">
+      <p>
+       We have proved the commercial profit of sun power in the tropics and have more particularly proved that after our stores of oil and coal are exhausted the human race can receive unlimited power from the rays of the sun.
+      </p>
+      <div class="templatequotecite">
+       <cite>
+        — Frank Shuman, New York Times, July 2, 1916
+        <sup class="reference" id="cite_ref-14">
+         <a href="#cite_note-14">
+          [14]
+         </a>
+        </sup>
+       </cite>
+      </div>
+     </blockquote>
+     <h2>
+      <span class="mw-headline" id="Commercial_plants">
+       Commercial plants
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Parabolic_trough&amp;action=edit&amp;section=6" title="Edit section: Commercial plants">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Solar_Array.jpg">
+        <img alt="" class="thumbimage" data-file-height="183" data-file-width="244" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Solar_Array.jpg/220px-Solar_Array.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/d/d7/Solar_Array.jpg 1.5x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Solar_Array.jpg" title="Enlarge">
+         </a>
+        </div>
+        Array of parabolic troughs.
+       </div>
+      </div>
+     </div>
+     <div class="hatnote" role="note">
+      Main article:
+      <a href="/wiki/List_of_solar_thermal_power_stations" title="List of solar thermal power stations">
+       List of solar thermal power stations
+      </a>
+     </div>
+     <p>
+      Most commercial plants utilizing parabolic troughs are hybrids;
+      <a href="/wiki/Fossil_fuel" title="Fossil fuel">
+       fossil fuels
+      </a>
+      are used during night hours, but the amount of fossil fuel used is limited to a maximum 27% of electricity production, allowing the plant to qualify in the US as a renewable energy source.
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (April 2014)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+      Because they are hybrids and include cooling stations,
+      <a class="mw-redirect" href="/wiki/Condenser_(steam_turbine)" title="Condenser (steam turbine)">
+       condensers
+      </a>
+      ,
+      <a href="/wiki/Accumulator_(energy)" title="Accumulator (energy)">
+       accumulators
+      </a>
+      and other things besides the actual solar collectors, the power generated per square meter of area varies enormously.
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (December 2013)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+     </p>
+     <p>
+      As of 2014, the
+      <a href="/wiki/List_of_solar_thermal_power_stations" title="List of solar thermal power stations">
+       largest solar thermal power systems
+      </a>
+      using parabolic trough technology include, the 354 MW
+      <a href="/wiki/Solar_Energy_Generating_Systems" title="Solar Energy Generating Systems">
+       SEGS
+      </a>
+      plants in California, the 280 MW
+      <a href="/wiki/Solana_Generating_Station" title="Solana Generating Station">
+       Solana Generating Station
+      </a>
+      that features a
+      <a class="mw-redirect" href="/wiki/Molten_salt_heat_storage" title="Molten salt heat storage">
+       molten salt heat storage
+      </a>
+      , the 250 MW
+      <a href="/wiki/Genesis_Solar_Energy_Project" title="Genesis Solar Energy Project">
+       Genesis Solar Energy Project
+      </a>
+      , that came online in 2014, as well as the Spanish 200 MW Solaben Solar Power Station, the 200 MW
+      <a href="/wiki/Solnova_Solar_Power_Station" title="Solnova Solar Power Station">
+       Solnova Solar Power Station
+      </a>
+      , and the
+      <a href="/wiki/Andasol_Solar_Power_Station" title="Andasol Solar Power Station">
+       Andasol 1 solar power station
+      </a>
+      , using a
+      <i>
+       Eurotrough
+      </i>
+      -collector.
+      <sup class="reference" id="cite_ref-15">
+       <a href="#cite_note-15">
+        [15]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-16">
+       <a href="#cite_note-16">
+        [16]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Parabolic_trough&amp;action=edit&amp;section=7" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a href="/wiki/Parabola" title="Parabola">
+        Parabola
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Parabolic_reflector" title="Parabolic reflector">
+        Parabolic reflector
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Solar_cooker" title="Solar cooker">
+        Solar cooker
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/List_of_solar_thermal_power_stations" title="List of solar thermal power stations">
+        List of solar thermal power stations
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Parabolic_trough&amp;action=edit&amp;section=8" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-IntroNio2e-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-IntroNio2e_1-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation book">
+          Chaves, Julio (2015).
+          <a class="external text" href="https://books.google.com/books?id=e11ECgAAQBAJ" rel="nofollow">
+           <i>
+            Introduction to Nonimaging Optics, Second Edition
+           </i>
+          </a>
+          .
+          <a href="/wiki/CRC_Press" title="CRC Press">
+           CRC Press
+          </a>
+          .
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/978-1482206739" title="Special:BookSources/978-1482206739">
+           978-1482206739
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AParabolic+trough&amp;rft.aufirst=Julio&amp;rft.aulast=Chaves&amp;rft.btitle=Introduction+to+Nonimaging+Optics%2C+Second+Edition&amp;rft.date=2015&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3De11ECgAAQBAJ&amp;rft.isbn=978-1482206739&amp;rft.pub=CRC+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-2">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Roland Winston et al.,,
+         <i>
+          Nonimaging Optics
+         </i>
+         , Academic Press, 2004
+         <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/9780127597515">
+          ISBN 978-0-12-759751-5
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-XXSMS-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-XXSMS_3-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Diogo Canavarro et al.,
+         <i>
+          New second-stage concentrators (XX SMS) for parabolic primaries; Comparison with conventional parabolic trough concentrators
+         </i>
+         , Solar Energy 92 (2013) 98–105
+        </span>
+       </li>
+       <li id="cite_note-XXcSMS-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-XXcSMS_4-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Diogo Canavarro et al.,
+         <i>
+          Infinitesimal etendue and Simultaneous Multiple Surface (SMS) concentrators for fixed receiver troughs
+         </i>
+         , Solar Energy 97 (2013) 493–504
+        </span>
+       </li>
+       <li id="cite_note-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-5">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.abengoasolar.es/sites/solar/en/technologies/concentrated_solar_power/parabolic_trough/index.html" rel="nofollow">
+          Absorber tube temperature
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-6">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-6">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Patel99 Ch.9
+        </span>
+       </li>
+       <li id="cite_note-7">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-7">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://adsabs.harvard.edu/abs/1978PhDT.......157S" rel="nofollow">
+          V-type parabolic troughs
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-8">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-8">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          Harry Tournemille.
+          <a class="external text" href="http://www.energyboom.com/solar/award-winning-solar-reflectors-will-cut-production-costs" rel="nofollow">
+           "Award-Winning Solar Reflectors Will Cut Production Costs"
+          </a>
+          . www.energyboom.com
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2009-11-25
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AParabolic+trough&amp;rft.au=Harry+Tournemille&amp;rft.btitle=Award-Winning+Solar+Reflectors+Will+Cut+Production+Costs&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.energyboom.com%2Fsolar%2Faward-winning-solar-reflectors-will-cut-production-costs&amp;rft.pub=www.energyboom.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-2012_pred-9">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-2012_pred_9-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-2012_pred_9-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         Deloitte Touche Tohmatsu Ltd,
+         <a class="external text" href="http://www.deloitte.com/energypredictions2012" rel="nofollow">
+          "Energy &amp; Resources Predictions 2012"
+         </a>
+         , 2 November 2011
+        </span>
+       </li>
+       <li id="cite_note-10">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-10">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Helman, Christopher,
+         <a class="external text" href="http://www.forbes.com/forbes/2011/0425/features-glasspoint-greenhouses-green-energy-oil-from-sun.html" rel="nofollow">
+          "Oil from the sun"
+         </a>
+         , "Forbes", April 25, 2011
+        </span>
+       </li>
+       <li id="cite_note-ehren_chevron-11">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-ehren_chevron_11-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Goossens, Ehren,
+         <a class="external text" href="http://www.bloomberg.com/news/2011-10-03/chevron-using-solar-thermal-steam-at-enhanced-oil-recovery-plant.html" rel="nofollow">
+          "Chevron Uses Solar-Thermal Steam to Extract Oil in California"
+         </a>
+         , "Bloomberg", October 3, 2011
+        </span>
+       </li>
+       <li id="cite_note-12">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-12">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.yatedo.com/p/C.V.+Boys/famous/4c880e9645e2ca90f61156a9efa6d16a" rel="nofollow">
+          C.V. Boys, scientist
+         </a>
+         , Yatedo.com website.
+        </span>
+       </li>
+       <li id="cite_note-13">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-13">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation book">
+          Smith, Zachary Alden; Taylor, Katrina D. (2008).
+          <i>
+           Renewable And Alternative Energy Resources: A Reference Handbook
+          </i>
+          .
+          <a href="/wiki/ABC-CLIO" title="ABC-CLIO">
+           ABC-CLIO
+          </a>
+          . p. 174.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/978-1-59884-089-6" title="Special:BookSources/978-1-59884-089-6">
+           978-1-59884-089-6
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AParabolic+trough&amp;rft.aufirst=Zachary+Alden&amp;rft.aulast=Smith&amp;rft.au=Taylor%2C+Katrina+D.&amp;rft.btitle=Renewable+And+Alternative+Energy+Resources%3A+A+Reference+Handbook&amp;rft.date=2008&amp;rft.genre=book&amp;rft.isbn=978-1-59884-089-6&amp;rft.pages=174&amp;rft.pub=ABC-CLIO&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-14">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-14">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://query.nytimes.com/mem/archive-free/pdf?res=F60616FE355B17738DDDAB0894DF405B868DF1D3" rel="nofollow">
+          American Inventor Uses Egypt's Sun for Power; Appliance Concentrates the Heat Rays and Produces Steam, Which Can Be Used to Drive Irrigation Pumps in Hot Climates
+         </a>
+         ,
+         <i>
+          <a href="/wiki/The_New_York_Times" title="The New York Times">
+           The New York Times
+          </a>
+         </i>
+         , July 2, 1916.
+        </span>
+       </li>
+       <li id="cite_note-15">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-15">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         NREL.gov
+         <a class="external text" href="http://www.nrel.gov/csp/solarpaces/by_country_detail.cfm/country=US" rel="nofollow">
+          Concentrating Solar Power Projects in the United States
+         </a>
+         , 17 February 2014
+        </span>
+       </li>
+       <li id="cite_note-16">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-16">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         NREL-gov
+         <a class="external text" href="http://www.nrel.gov/csp/solarpaces/by_country_detail.cfm/country=ES" rel="nofollow">
+          Concentrating Solar Power Projects in Spain
+         </a>
+         , 17 February 2014
+        </span>
+       </li>
+      </ol>
+     </div>
+     <h2>
+      <span class="mw-headline" id="Bibliography">
+       Bibliography
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Parabolic_trough&amp;action=edit&amp;section=9" title="Edit section: Bibliography">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="refbegin" style="">
+      <ul>
+       <li>
+        <cite class="citation book">
+         Duffie, John; Williams Beckman (1991).
+         <a class="external text" href="https://books.google.com/books?id=UtZSAAAAMAAJ" rel="nofollow">
+          <i>
+           Solar Engineering of Thermal Processes
+          </i>
+         </a>
+         (Second ed.). New York: John Wiley &amp; Sons, Inc.
+         <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+          ISBN
+         </a>
+         <a href="/wiki/Special:BookSources/0-471-51056-4" title="Special:BookSources/0-471-51056-4">
+          0-471-51056-4
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AParabolic+trough&amp;rft.aufirst=John&amp;rft.aulast=Duffie&amp;rft.au=Williams+Beckman&amp;rft.btitle=Solar+Engineering+of+Thermal+Processes&amp;rft.date=1991&amp;rft.edition=Second&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DUtZSAAAAMAAJ&amp;rft.isbn=0-471-51056-4&amp;rft.place=New+York&amp;rft.pub=John+Wiley+%26+Sons%2C+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+       <li>
+        <cite class="citation book">
+         Patel., Mukund (1999).
+         <a class="external text" href="https://books.google.com/books?id=8aQDw14fQnkC" rel="nofollow">
+          <i>
+           Wind and solar power systems
+          </i>
+         </a>
+         . Boca Raton London New York Washington, D.C.: CRC Press.
+         <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+          ISBN
+         </a>
+         <a href="/wiki/Special:BookSources/0-8493-1605-7" title="Special:BookSources/0-8493-1605-7">
+          0-8493-1605-7
+         </a>
+         .
+        </cite>
+        <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AParabolic+trough&amp;rft.aufirst=Mukund&amp;rft.aulast=Patel.&amp;rft.btitle=Wind+and+solar+power+systems&amp;rft.date=1999&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D8aQDw14fQnkC&amp;rft.isbn=0-8493-1605-7&amp;rft.place=Boca+Raton+London+New+York+Washington%2C+D.C.&amp;rft.pub=CRC+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+         <span style="display:none;">
+         </span>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Parabolic_trough&amp;action=edit&amp;section=10" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a class="external text" href="http://maps.google.com/maps?f=q&amp;hl=en&amp;q=kramer+junction,+ca&amp;layer=&amp;ie=UTF8&amp;om=1&amp;z=14&amp;ll=35.012986,-117.554998&amp;spn=0.030157,0.086517&amp;t=k&amp;iwloc=addr" rel="nofollow">
+        Kramer Junction Solar Power Plants
+       </a>
+       , satellite image, Google Map.
+      </li>
+      <li>
+       <a class="external text" href="http://www.sonsts.de/projects/parabola_tool.html" rel="nofollow">
+        ParabolaTool
+       </a>
+       - Tool for calculating the shape of a parabolic trough
+      </li>
+     </ul>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:788725-0!*!0!!en!4!* and timestamp 20161106071809 and revision id 744584944
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Parabolic_trough&amp;oldid=744584944">
+      https://en.wikipedia.org/w/index.php?title=Parabolic_trough&amp;oldid=744584944
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Solar_thermal_energy" title="Category:Solar thermal energy">
+         Solar thermal energy
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Wikipedia_introduction_cleanup_from_November_2012" title="Category:Wikipedia introduction cleanup from November 2012">
+         Wikipedia introduction cleanup from November 2012
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_pages_needing_cleanup" title="Category:All pages needing cleanup">
+         All pages needing cleanup
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_covered_by_WikiProject_Wikify_from_November_2012" title="Category:Articles covered by WikiProject Wikify from November 2012">
+         Articles covered by WikiProject Wikify from November 2012
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_covered_by_WikiProject_Wikify" title="Category:All articles covered by WikiProject Wikify">
+         All articles covered by WikiProject Wikify
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+         All articles with unsourced statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2014" title="Category:Articles with unsourced statements from April 2014">
+         Articles with unsourced statements from April 2014
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2013" title="Category:Articles with unsourced statements from December 2013">
+         Articles with unsourced statements from December 2013
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Parabolic+trough" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Parabolic+trough" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Parabolic_trough" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Parabolic_trough" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Parabolic_trough">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Parabolic_trough&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Parabolic_trough&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Parabolic_trough" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Parabolic_trough" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Parabolic_trough&amp;oldid=744584944" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Parabolic_trough&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q2051219" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Parabolic_trough&amp;id=744584944" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Parabolic+trough">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Parabolic+trough&amp;returnto=Parabolic+trough&amp;oldid=744584944&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Parabolic_trough&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Parabolic_troughs" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%82%D9%86%D8%A7%D8%A9_%D9%82%D8%B7%D8%B9_%D9%85%D9%83%D8%A7%D9%81%D8%A6" hreflang="ar" lang="ar" title="قناة قطع مكافئ – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Concentrador_solar" hreflang="ca" lang="ca" title="Concentrador solar – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Parabolrinne" hreflang="de" lang="de" title="Parabolrinne – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Concentrador_solar" hreflang="es" lang="es" title="Concentrador solar – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Parabola_suntrogo" hreflang="eo" lang="eo" title="Parabola suntrogo – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Miroir_cylindro-parabolique" hreflang="fr" lang="fr" title="Miroir cylindro-parabolique – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Paraboli%C4%8Dni_kolektor" hreflang="hr" lang="hr" title="Parabolični kolektor – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Cilindro_parabolico" hreflang="it" lang="it" title="Cilindro parabolico – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Parabolic_trough" hreflang="simple" lang="simple" title="Parabolic trough – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Paraboli%C4%8Dna_solarna_elektrarna" hreflang="sl" lang="sl" title="Parabolična solarna elektrarna – Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D0%BB%D0%B8%D1%87%D0%BD%D0%B8_%D0%BA%D0%BE%D0%BB%D0%B5%D0%BA%D1%82%D0%BE%D1%80" hreflang="sr" lang="sr" title="Параболични колектор – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Paraboli%C4%8Dni_kolektor" hreflang="sh" lang="sh" title="Parabolični kolektor – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q2051219#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 16 October 2016, at 05:40.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Parabolic_trough&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.156",
+            "walltime": "0.214",
+            "ppvisitednodes": {
+                "value": 871,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 17538,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 1370,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 11,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 4,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  179.152      1 -total",
+                " 24.53%   43.938      1 Template:Reflist",
+                " 22.20%   39.768      1 Template:Lead_too_short",
+                " 18.46%   33.071      4 Template:Cite_book",
+                " 17.52%   31.380      2 Template:Citation_needed",
+                " 15.80%   28.310      2 Template:Fix",
+                " 14.69%   26.310      1 Template:Ambox",
+                " 13.42%   24.040      2 Template:Convert",
+                "  9.47%   16.961      2 Template:Delink",
+                "  7.86%   14.090      1 Template:Quote"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.077",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 4520724,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1240",
+            "timestamp": "20161106071810",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":73,"wgHostname":"mw1249"});});
+  </script>
+ </body>
+</html>

@@ -1,0 +1,2078 @@
+https://en.wikipedia.org/wiki/Nanosolar
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Nanosolar - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Nanosolar","wgTitle":"Nanosolar","wgCurRevisionId":727983533,"wgRevisionId":727983533,"wgArticleId":6239802,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Solar energy companies of the United States","Thin-film cell manufacturers","Technology companies based in the San Francisco Bay Area","Energy companies established in 2002","Renewable resource companies established in 2002","Companies disestablished in 2013","Companies based in San Jose, California","Defunct companies based in the San Francisco Bay Area"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Nanosolar","wgRelevantArticleId":6239802,"wgRequestId":"WB@0eApAMFoAAIAGkc4AAAAJ","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q6964149","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Nanosolar" rel="alternate"/>
+  <link href="/w/index.php?title=Nanosolar&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Nanosolar&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Nanosolar" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Nanosolar rootpage-Nanosolar skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Nanosolar
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <table class="infobox vcard" style="width:22em">
+      <caption class="fn org">
+       Nanosolar, Inc.
+      </caption>
+      <tr>
+       <td class="logo" colspan="2" style="text-align:center">
+        <div class="floatright">
+         <a class="image" href="/wiki/File:Nanosolar_logo.jpg">
+          <img alt="Nanosolar logo.jpg" data-file-height="59" data-file-width="240" height="59" src="//upload.wikimedia.org/wikipedia/en/2/26/Nanosolar_logo.jpg" width="240"/>
+         </a>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.5em;">
+        <div style="padding:0.1em 0;line-height:1.2em;">
+         <a href="/wiki/Types_of_business_entity" title="Types of business entity">
+          Former type
+         </a>
+        </div>
+       </th>
+       <td class="category" style="line-height:1.35em;">
+        <a class="mw-redirect" href="/wiki/Private_company" title="Private company">
+         Private
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.5em;">
+        Industry
+       </th>
+       <td class="category" style="line-height:1.35em;">
+        <a class="mw-redirect" href="/wiki/Solar_Energy" title="Solar Energy">
+         Solar Energy
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.5em;">
+        Founded
+       </th>
+       <td style="line-height:1.35em;">
+        2002
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.5em;">
+        Founder
+       </th>
+       <td class="agent" style="line-height:1.35em;">
+        <a href="/wiki/Martin_Roscheisen" title="Martin Roscheisen">
+         Martin Roscheisen
+        </a>
+        <br/>
+        Brian Sager
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.5em;">
+        Defunct
+       </th>
+       <td style="line-height:1.35em;">
+        2013
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.5em;">
+        Headquarters
+       </th>
+       <td class="adr" style="line-height:1.35em;">
+        <span class="locality">
+         <a href="/wiki/San_Jose,_California" title="San Jose, California">
+          San Jose, California
+         </a>
+        </span>
+        ,
+        <span class="country-name">
+         <a href="/wiki/United_States" title="United States">
+          U.S.
+         </a>
+        </span>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.5em;">
+        <div style="padding:0.1em 0;line-height:1.2em;">
+         Key people
+        </div>
+       </th>
+       <td class="agent" style="line-height:1.35em;">
+        <p>
+         Eugenia Corrales
+         <small>
+          (
+          <a href="/wiki/Chief_executive_officer" title="Chief executive officer">
+           CEO
+          </a>
+          )
+         </small>
+         <br/>
+        </p>
+        Dave Jackrel
+        <br/>
+        John McAdoo
+        <br/>
+        Becky Baybrook
+        <br/>
+        John Bender
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.5em;">
+        Products
+       </th>
+       <td style="line-height:1.35em;">
+        <a class="mw-redirect" href="/wiki/Photovoltaic" title="Photovoltaic">
+         Solar panels
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.5em;">
+        Revenue
+       </th>
+       <td style="line-height:1.35em;">
+        US$3,100,000 (2007)
+        <sup class="reference" id="cite_ref-Yahoo_financials_1-0">
+         <a href="#cite_note-Yahoo_financials-1">
+          [1]
+         </a>
+        </sup>
+       </td>
+      </tr>
+     </table>
+     <p>
+      <b>
+       Nanosolar
+      </b>
+      was a developer of
+      <a href="/wiki/Solar_power" title="Solar power">
+       solar power
+      </a>
+      technology. Based in
+      <a href="/wiki/San_Jose,_California" title="San Jose, California">
+       San Jose
+      </a>
+      , CA, Nanosolar developed and briefly commercialized a low-cost
+      <a href="/wiki/Printed_electronics" title="Printed electronics">
+       printable
+      </a>
+      <a href="/wiki/Solar_cell" title="Solar cell">
+       solar cell
+      </a>
+      manufacturing process. The company started selling
+      <a class="mw-redirect" href="/wiki/Thin_film_solar_cell" title="Thin film solar cell">
+       thin-film
+      </a>
+      <a class="mw-redirect" href="/wiki/Copper_indium_gallium_selenide_solar_cell" title="Copper indium gallium selenide solar cell">
+       CIGS panels
+      </a>
+      mid-December 2007, and planned to sell them at 99 cents per watt, much below the market at the time. However, prices for
+      <a href="/wiki/Solar_panel" title="Solar panel">
+       solar panels
+      </a>
+      made of
+      <a href="/wiki/Crystalline_silicon" title="Crystalline silicon">
+       crystalline silicon
+      </a>
+      declined significantly during the following years, reducing most of Nanosolar's cost advantage.
+      <sup class="reference" id="cite_ref-2">
+       <a href="#cite_note-2">
+        [2]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-3">
+       <a href="#cite_note-3">
+        [3]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-4">
+       <a href="#cite_note-4">
+        [4]
+       </a>
+      </sup>
+      By February 2013 Nanosolar had laid off 75% of its work force.
+      <sup class="reference" id="cite_ref-5">
+       <a href="#cite_note-5">
+        [5]
+       </a>
+      </sup>
+      Nanosolar began auctioning off its equipment in August 2013.
+      <sup class="reference" id="cite_ref-6">
+       <a href="#cite_note-6">
+        [6]
+       </a>
+      </sup>
+      Co-Founder of Nanosolar
+      <a href="/wiki/Martin_Roscheisen" title="Martin Roscheisen">
+       Martin Roscheisen
+      </a>
+      stated on his personal blog that nanosolar "ultimately failed commercially." and that he would not enter this industry again because of slow-development cycle, complex production problems and the impact of cheap Chinese solar power production.
+      <sup class="reference" id="cite_ref-7">
+       <a href="#cite_note-7">
+        [7]
+       </a>
+      </sup>
+      Nanosolar ultimately produced less than 50 MW of solar power capacity despite having raised more than $400 million in investment.
+      <sup class="reference" id="cite_ref-8">
+       <a href="#cite_note-8">
+        [8]
+       </a>
+      </sup>
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Financial_backers_and_manufacturing">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Financial backers and manufacturing
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#Management">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Management
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#Technology">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          Technology
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-4">
+        <a href="#See_also">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-5">
+        <a href="#References">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Financial_backers_and_manufacturing">
+       Financial backers and manufacturing
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Nanosolar&amp;action=edit&amp;section=1" title="Edit section: Financial backers and manufacturing">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      Nanosolar was started in 2002 and is headquartered in
+      <a href="/wiki/San_Jose,_California" title="San Jose, California">
+       San Jose, California
+      </a>
+      . The company has received financing from a number of technology investors including
+      <a class="mw-redirect" href="/wiki/Benchmark_Capital" title="Benchmark Capital">
+       Benchmark Capital
+      </a>
+      ,
+      <a class="new" href="/w/index.php?title=Mohr_Davidow_Ventures&amp;action=edit&amp;redlink=1" title="Mohr Davidow Ventures (page does not exist)">
+       Mohr Davidow Ventures
+      </a>
+      , and
+      <a href="/wiki/Larry_Page" title="Larry Page">
+       Larry Page
+      </a>
+      and
+      <a href="/wiki/Sergey_Brin" title="Sergey Brin">
+       Sergey Brin
+      </a>
+      , the founders of
+      <a href="/wiki/Google" title="Google">
+       Google
+      </a>
+      . Nanosolar received the largest amount in a round of
+      <a class="mw-redirect" href="/wiki/Venture_Capital" title="Venture Capital">
+       Venture Capital
+      </a>
+      technology funding amongst United States companies during Q2 2006, with 100 million USD of new funding secured.
+      <sup class="reference" id="cite_ref-9">
+       <a href="#cite_note-9">
+        [9]
+       </a>
+      </sup>
+      It also received the largest amount of financing of any private company in 2008 (USD 300 million in Q1).
+     </p>
+     <p>
+      Nanosolar planned to build a large production facility in San Jose, and in Germany at
+      <a href="/wiki/Luckenwalde" title="Luckenwalde">
+       Luckenwalde
+      </a>
+      (
+      <a href="/wiki/Berlin" title="Berlin">
+       Berlin
+      </a>
+      ),
+      <sup class="reference" id="cite_ref-10">
+       <a href="#cite_note-10">
+        [10]
+       </a>
+      </sup>
+      with an annual capacity of 430
+      <a class="mw-redirect" href="/wiki/Megawatts" title="Megawatts">
+       megawatts
+      </a>
+      . Several German energy and venture capital companies have heavily invested in this company as a consequence of the favourable economics for solar energy in Germany due to government subsidies.
+      <sup class="reference" id="cite_ref-11">
+       <a href="#cite_note-11">
+        [11]
+       </a>
+      </sup>
+     </p>
+     <p>
+      On December 12, 2007 the company announced
+      <sup class="reference" id="cite_ref-12">
+       <a href="#cite_note-12">
+        [12]
+       </a>
+      </sup>
+      that it had started solar cell production in its San Jose factory, with its German facility slated to go into operation in the 1st quarter of 2008. The company said in 2006 that the San Jose factory, when fully built, would have the capacity to produce 430 megawatts of cells each year.
+      <sup class="reference" id="cite_ref-13">
+       <a href="#cite_note-13">
+        [13]
+       </a>
+      </sup>
+     </p>
+     <p>
+      On December 18, 2007 the company began shipping its first solar panels for a one-megawatt municipal power plant in Germany.
+      <sup class="reference" id="cite_ref-14">
+       <a href="#cite_note-14">
+        [14]
+       </a>
+      </sup>
+     </p>
+     <p>
+      As of 2008 Nanosolar had raised about 500 million USD in total funding by private investors
+      <a class="mw-redirect" href="/wiki/Benchmark_Capital" title="Benchmark Capital">
+       Benchmark Capital
+      </a>
+      ,
+      <a class="new" href="/w/index.php?title=Mitsui_Ventures&amp;action=edit&amp;redlink=1" title="Mitsui Ventures (page does not exist)">
+       Mitsui Ventures
+      </a>
+      ,
+      <a class="new" href="/w/index.php?title=Mohr_Davidow_Ventures&amp;action=edit&amp;redlink=1" title="Mohr Davidow Ventures (page does not exist)">
+       Mohr Davidow Ventures
+      </a>
+      ,
+      <a class="mw-redirect" href="/wiki/OnPoint" title="OnPoint">
+       OnPoint
+      </a>
+      ,
+      <a class="new" href="/w/index.php?title=Capricorn_Management&amp;action=edit&amp;redlink=1" title="Capricorn Management (page does not exist)">
+       Capricorn Management
+      </a>
+      ,
+      <a class="new" href="/w/index.php?title=Firelake_Capital_Management&amp;action=edit&amp;redlink=1" title="Firelake Capital Management (page does not exist)">
+       Firelake Capital Management
+      </a>
+      ,
+      <a href="/wiki/GLG_Partners" title="GLG Partners">
+       GLG Partners
+      </a>
+      ,
+      <a class="new" href="/w/index.php?title=Grazia_Equity&amp;action=edit&amp;redlink=1" title="Grazia Equity (page does not exist)">
+       Grazia Equity
+      </a>
+      ,
+      <a href="/wiki/Swiss_Re" title="Swiss Re">
+       Swiss Re
+      </a>
+      ,
+      <a class="new" href="/w/index.php?title=Beck_Energy&amp;action=edit&amp;redlink=1" title="Beck Energy (page does not exist)">
+       Beck Energy
+      </a>
+      ,
+      <a href="/wiki/Omidyar_Network" title="Omidyar Network">
+       Omidyar Network
+      </a>
+      ,
+      <a href="/wiki/Lone_Pine_Capital" title="Lone Pine Capital">
+       Lone Pine Capital
+      </a>
+      ,
+      <a class="new" href="/w/index.php?title=Energy_Capital_Partners&amp;action=edit&amp;redlink=1" title="Energy Capital Partners (page does not exist)">
+       Energy Capital Partners
+      </a>
+      ,
+      <a href="/wiki/Riverstone_Holdings" title="Riverstone Holdings">
+       Riverstone Holdings
+      </a>
+      ,
+      <a class="new" href="/w/index.php?title=EDF_Ventures&amp;action=edit&amp;redlink=1" title="EDF Ventures (page does not exist)">
+       EDF Ventures
+      </a>
+      ,
+      <a class="mw-redirect" href="/wiki/The_Skoll_Foundation" title="The Skoll Foundation">
+       The Skoll Foundation
+      </a>
+      ,
+      <a href="/wiki/Electronic_Data_Systems" title="Electronic Data Systems">
+       EDS
+      </a>
+      (
+      <a href="/wiki/Hewlett-Packard" title="Hewlett-Packard">
+       HP
+      </a>
+      ) and
+      <a href="/wiki/The_Carlyle_Group" title="The Carlyle Group">
+       The Carlyle Group
+      </a>
+      .
+      <sup class="reference" id="cite_ref-15">
+       <a href="#cite_note-15">
+        [15]
+       </a>
+      </sup>
+     </p>
+     <p>
+      On February 17, 2012 Nanosolar announced they had achieved 115MW capacity, $20 Million in additional funding to further expand manufacturing capacity and a NREL Thin-Film Solar Aperture Efficiency of 17.1%.
+      <sup class="reference" id="cite_ref-16">
+       <a href="#cite_note-16">
+        [16]
+       </a>
+      </sup>
+      This capacity is just over one quarter of the 430 megawatts predicted five years previously.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Management">
+       Management
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Nanosolar&amp;action=edit&amp;section=2" title="Edit section: Management">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      On Jan. 19 2012 former EVP of Engineering &amp; Operations Eugenia Corrales was named CEO following CEO Geoff Tate returning to retirement. Tate had been CEO of Nanosolar since March 22, 2010 having been hired out of retirement as an interim CEO for his experience in leading a company into volume production as CEO of Rambus.
+      <sup class="reference" id="cite_ref-17">
+       <a href="#cite_note-17">
+        [17]
+       </a>
+      </sup>
+      Tate replaced co-founder
+      <a href="/wiki/Martin_Roscheisen" title="Martin Roscheisen">
+       Martin Roscheisen
+      </a>
+      who had been the company's Chairman &amp; CEO for the past eight years; no reason was given for Roscheisen's exit.
+      <sup class="reference" id="cite_ref-18">
+       <a href="#cite_note-18">
+        [18]
+       </a>
+      </sup>
+     </p>
+     <p>
+      On June 25, 2012, nano solar hired 3 new sales &amp; marketing executives: Stephan Hansen, executive vice president of Worldwide Sales; Roy Shaw, head of North America Sales and Stefan Zschiegner, vice president of Worldwide Marketing. Prior to joining Nanosolar, Hansen led the European sales organization of First Solar for more than seven years. Shaw brings over 25 years of sales management experience in the solar industry. He most recently was director of USA Sales at Jinko Solar, a global PV manufacturer, producing crystalline ingots, wafers, cells, and mono- and multi- crystalline PV panels. Prior to Jinko Solar, he was head of Western Sales at Suntech Solar Corp., a global producer of silicon solar modules. Zschiegner most recently was vice president of Global Product Management and Applications at First Solar, where he focused on solutions for emerging markets, balance-of-system and module product management.
+     </p>
+     <p>
+      On Sep. 11, 2012, Nanosolar appointed Karl Steigele to the position of President &amp; COO. Eugenia Corrales left the company to pursue other ventures. Before joining Nanosolar, Steigele spent more than 30 years in international management and consulting at IBM, where he worked with Fortune 500 global manufacturing companies, including Intel, Hitachi, ABB, Thomson, Siemens, Sony and McKesson, among others.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Technology">
+       Technology
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Nanosolar&amp;action=edit&amp;section=3" title="Edit section: Technology">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The company used
+      <a href="/wiki/Thin_film" title="Thin film">
+       thin film
+      </a>
+      technology to manufacture
+      <a href="/wiki/Copper_indium_gallium_selenide_solar_cells" title="Copper indium gallium selenide solar cells">
+       CIGS solar cells
+      </a>
+      , that use a semiconductor material made of
+      <a href="/wiki/Copper_indium_gallium_selenide" title="Copper indium gallium selenide">
+       copper, indium, gallium and selenium
+      </a>
+      , and achieved an
+      <a href="/wiki/Energy_conversion_efficiency" title="Energy conversion efficiency">
+       efficiency
+      </a>
+      of up to 19.9% in laboratory samples at the time.
+      <sup class="reference" id="cite_ref-19">
+       <a href="#cite_note-19">
+        [19]
+       </a>
+      </sup>
+     </p>
+     <p>
+      The company's technology gained early industry recognition with the presentation of a Small Times Magazine award at a leading nanotech business event in 2005.
+      <sup class="reference" id="cite_ref-20">
+       <a href="#cite_note-20">
+        [20]
+       </a>
+      </sup>
+      Technical details of Nanosolar's manufacturing techniques have been disclosed in patent applications.
+      <sup class="reference" id="cite_ref-21">
+       <a href="#cite_note-21">
+        [21]
+       </a>
+      </sup>
+      Some information about their process has become available in a
+      <a href="/wiki/Scientific_American" title="Scientific American">
+       Scientific American
+      </a>
+      article (in German).
+      <sup class="reference" id="cite_ref-Printing_Solar_Cells_in_German_22-0">
+       <a href="#cite_note-Printing_Solar_Cells_in_German-22">
+        [22]
+       </a>
+      </sup>
+      These details involve a semiconductor ink that it claims will enable it to produce
+      <a class="mw-redirect" href="/wiki/Solar_cells" title="Solar cells">
+       solar cells
+      </a>
+      with a basic printing process, rather than using slow and expensive high-vacuum based thin-film deposition processes. The ink is deposited on a flexible substrate (the “paper”), and then nanocomponents in the ink align themselves properly via
+      <a href="/wiki/Molecular_self-assembly" title="Molecular self-assembly">
+       molecular self-assembly
+      </a>
+      .
+     </p>
+     <p>
+      Nanosolar's solar cells have been verified by
+      <a class="mw-redirect" href="/wiki/NREL" title="NREL">
+       NREL
+      </a>
+      to be as efficient as 14.6% in 2006,
+      <sup class="reference" id="cite_ref-Printing_Solar_Cells_in_German_22-1">
+       <a href="#cite_note-Printing_Solar_Cells_in_German-22">
+        [22]
+       </a>
+      </sup>
+      15.3% in 2009,
+      <sup class="reference" id="cite_ref-23">
+       <a href="#cite_note-23">
+        [23]
+       </a>
+      </sup>
+      and 17.1% in 2011.
+      <sup class="reference" id="cite_ref-24">
+       <a href="#cite_note-24">
+        [24]
+       </a>
+      </sup>
+      Efficiencies for current production
+      <i>
+       panels
+      </i>
+      are said to be 8-9%, with plans to submit panels with 10-11% efficiency for IEC certification in the fall of 2010.
+      <sup class="reference" id="cite_ref-PVTech_focus_25-0">
+       <a href="#cite_note-PVTech_focus-25">
+        [25]
+       </a>
+      </sup>
+     </p>
+     <p>
+      In September 2009, Nanosolar announced the launch of production at a rate of 640 MW annually;
+      <sup class="reference" id="cite_ref-26">
+       <a href="#cite_note-26">
+        [26]
+       </a>
+      </sup>
+      however, ramp-up to volume production after the announcement took an additional six months,
+      <sup class="reference" id="cite_ref-PVTech_focus_25-1">
+       <a href="#cite_note-PVTech_focus-25">
+        [25]
+       </a>
+      </sup>
+      limiting actual production in 2009 to an estimated 4 MW,
+      <sup class="reference" id="cite_ref-Photon_CIGS_27-0">
+       <a href="#cite_note-Photon_CIGS-27">
+        [27]
+       </a>
+      </sup>
+      and as of August 2010 the plant was still ramping up toward its announced capacity.
+      <sup class="reference" id="cite_ref-28">
+       <a href="#cite_note-28">
+        [28]
+       </a>
+      </sup>
+      Since the hiring of new CEO Geoff Tate, the company has declined to discuss its actual manufacturing capacity,
+      <sup class="reference" id="cite_ref-PVTech_focus_25-2">
+       <a href="#cite_note-PVTech_focus-25">
+        [25]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-Photon_CIGS_27-1">
+       <a href="#cite_note-Photon_CIGS-27">
+        [27]
+       </a>
+      </sup>
+      but has said that its target for 2010 is to ship panels for "several ... megawatt-size projects" and "[build] panels for projects that have been identified that can help build the case for an operating history and bankability in 2011."
+      <sup class="reference" id="cite_ref-PVTech_focus_25-3">
+       <a href="#cite_note-PVTech_focus-25">
+        [25]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Nanosolar has developed a suite of in-house capabilities for creating
+      <a href="/wiki/Nanostructure" title="Nanostructure">
+       nanostructured
+      </a>
+      components based on various patented and patent-pending techniques. It uses
+      <a href="/wiki/Nanostructure" title="Nanostructure">
+       nanostructured
+      </a>
+      components as the basis for creating printable semiconductors, printable transparent electrodes, novel forms of advanced
+      <a href="/wiki/Nanocomposite" title="Nanocomposite">
+       nanocomposite
+      </a>
+      solar-cell design and powerful new forms of barrier films.
+      <sup class="reference" id="cite_ref-29">
+       <a href="#cite_note-29">
+        [29]
+       </a>
+      </sup>
+     </p>
+     <p>
+      According to the company, "leveraging recent science advances in
+      <a href="/wiki/Nanostructure" title="Nanostructure">
+       nanostructured
+      </a>
+      materials, Nanosolar has developed a proprietary ink that makes it possible to simply print the semiconductor of a high-performance solar cell. This ink is based on Nanosolar developing various proprietary forms of
+      <a class="mw-redirect" href="/wiki/Nanoparticles" title="Nanoparticles">
+       nanoparticles
+      </a>
+      and associated organic dispersion chemistry and processing techniques suitable for delivering a semiconductor of high electronic quality."
+      <sup class="reference" id="cite_ref-30">
+       <a href="#cite_note-30">
+        [30]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-31">
+       <a href="#cite_note-31">
+        [31]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Two advantages over earlier technologies is that a printing process is quick and also makes it easy to deposit a uniform layer of the ink, resulting in a layer with the correct ratio of elements everywhere on the substrate. Also, the ink is printed only where needed, so there is less waste of material. Last, the substrate material on which the ink is printed is much more conductive and less expensive than the
+      <a href="/wiki/Stainless_steel" title="Stainless steel">
+       stainless steel
+      </a>
+      substrates that are often used in thin-film solar panels.
+     </p>
+     <p>
+      These solar cells successfully blend the needs for efficiency, low cost, and longevity and will be easy to install due to their flexibility and light weight. Estimates by Nanosolar of the cost of these cells fall roughly between 1/10 and 1/5
+      <sup class="reference" id="cite_ref-32">
+       <a href="#cite_note-32">
+        [32]
+       </a>
+      </sup>
+      the industry standard per kilowatt. However, solar module prices have fallen by 60% since that prediction in 2006.
+      <sup class="reference" id="cite_ref-33">
+       <a href="#cite_note-33">
+        [33]
+       </a>
+      </sup>
+     </p>
+     <p>
+      The company implies that their solar cells can last more than 25 years by saying they "achieve a durability compatible with our 25-year warranty."
+      <sup class="reference" id="cite_ref-34">
+       <a href="#cite_note-34">
+        [34]
+       </a>
+      </sup>
+      They recently commissioned a study by Black and Veatch that finds their 25-year warranty to be compatible with their module design.
+      <sup class="reference" id="cite_ref-PVTech_focus_25-4">
+       <a href="#cite_note-PVTech_focus-25">
+        [25]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Nanosolar&amp;action=edit&amp;section=4" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a href="/wiki/List_of_CIGS_companies" title="List of CIGS companies">
+        List of CIGS companies
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Nanosolar&amp;action=edit&amp;section=5" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-Yahoo_financials-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-Yahoo_financials_1-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://biz.yahoo.com/ic/138/138321.html" rel="nofollow">
+          Nanosolar, Inc
+         </a>
+         Yahoo Finance
+        </span>
+       </li>
+       <li id="cite_note-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-2">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation news">
+          Vidal, John (December 29, 2007).
+          <a class="external text" href="http://www.guardian.co.uk/environment/2007/dec/29/solarpower.renewableenergy" rel="nofollow">
+           "Solar energy 'revolution' brings green power closer"
+          </a>
+          . London: The Guardian
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2007-12-31
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANanosolar&amp;rft.atitle=Solar+energy+%27revolution%27+brings+green+power+closer&amp;rft.aufirst=John&amp;rft.aulast=Vidal&amp;rft.date=2007-12-29&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.guardian.co.uk%2Fenvironment%2F2007%2Fdec%2F29%2Fsolarpower.renewableenergy&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-3">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation news">
+          Markoff, John (2007-12-18).
+          <a class="external text" href="http://www.nytimes.com/2007/12/18/technology/18solar.html?_r=1&amp;ref=business&amp;oref=slogin" rel="nofollow">
+           "Nanosolar"
+          </a>
+          . New York Times
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2007-12-31
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANanosolar&amp;rft.atitle=Nanosolar&amp;rft.aufirst=John&amp;rft.aulast=Markoff&amp;rft.date=2007-12-18&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nytimes.com%2F2007%2F12%2F18%2Ftechnology%2F18solar.html%3F_r%3D1%26ref%3Dbusiness%26oref%3Dslogin&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-4">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation news">
+          <a class="external text" href="http://www.ubergizmo.com/15/archives/2007/12/nanosolar_ships_its_first_1_per_watt_panel.html" rel="nofollow">
+           "Nanosolar"
+          </a>
+          . ubergizmo
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2007-12-31
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANanosolar&amp;rft.atitle=Nanosolar&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ubergizmo.com%2F15%2Farchives%2F2007%2F12%2Fnanosolar_ships_its_first_1_per_watt_panel.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-5">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.siliconbeat.com/2013/07/15/the-growing-cigs-graveyard-nanosolar-liquidation-auction/" rel="nofollow">
+          http://www.siliconbeat.com/2013/07/15/the-growing-cigs-graveyard-nanosolar-liquidation-auction/
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-6">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-6">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://gigaom.com/2013/08/13/get-yer-cheap-next-gen-solar-tech-courtesy-of-the-nanosolar-auction" rel="nofollow">
+          http://gigaom.com/2013/08/13/get-yer-cheap-next-gen-solar-tech-courtesy-of-the-nanosolar-auction
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-7">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-7">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://blog.rmartinr.com/" rel="nofollow">
+          http://blog.rmartinr.com/
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-8">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-8">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.greentechmedia.com/articles/read/Nanosolar-Thin-Film-Solar-Hype-Firm-Officially-Dead" rel="nofollow">
+          http://www.greentechmedia.com/articles/read/Nanosolar-Thin-Film-Solar-Hype-Firm-Officially-Dead
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-9">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-9">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation news">
+          <a class="external text" href="http://www.investors.com/editorial/IBDArticles.asp?artsec=17&amp;issue=20060724" rel="nofollow">
+           "Venture Capital Funding"
+          </a>
+          .
+          <a href="/wiki/Investor%27s_Business_Daily" title="Investor's Business Daily">
+           Investor's Business Daily
+          </a>
+          . 2006-07-24.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANanosolar&amp;rft.atitle=Venture+Capital+Funding&amp;rft.date=2006-07-24&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.investors.com%2Feditorial%2FIBDArticles.asp%3Fartsec%3D17%26issue%3D20060724&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-10">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-10">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation news">
+          <a class="external text" href="http://www.nanosolar.com/pr7.htm" rel="nofollow">
+           "Nanosolar Selects Manufacturing Sites"
+          </a>
+          . 2006-12-12.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANanosolar&amp;rft.atitle=Nanosolar+Selects+Manufacturing+Sites&amp;rft.date=2006-12-12&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nanosolar.com%2Fpr7.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-11">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-11">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.businessweek.com/technology/content/jun2006/tc20060626_804634.htm" rel="nofollow">
+          Bright Days for NanoSolar
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-12">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-12">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation news">
+          <a class="external text" href="http://earth2tech.com/2007/12/12/nanosolar-starts-thin-film-solar-panel-production/" rel="nofollow">
+           "Nanosolar announces start of thin-film production"
+          </a>
+          . 2007-12-12.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANanosolar&amp;rft.atitle=Nanosolar+announces+start+of+thin-film+production&amp;rft.date=2007-12-12&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fearth2tech.com%2F2007%2F12%2F12%2Fnanosolar-starts-thin-film-solar-panel-production%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-13">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-13">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.redherring.com/Home/20207" rel="nofollow">
+          http://www.redherring.com/Home/20207
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-14">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-14">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.nanosolar.com/blog3/2007/12/18/nanosolar-ships-first-panels/" rel="nofollow">
+          Nanosolar Ships First Panels
+         </a>
+         from Nanosolar Blog
+        </span>
+       </li>
+       <li id="cite_note-15">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-15">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.crunchbase.com/company/nanosolar" rel="nofollow">
+          Crunchbase: Nanosolar
+         </a>
+         Techcrunch Wiki
+        </span>
+       </li>
+       <li id="cite_note-16">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-16">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external autonumber" href="http://www.nanosolar.com/company/blog#194" rel="nofollow">
+          [1]
+         </a>
+         Nanosolar Blog
+        </span>
+       </li>
+       <li id="cite_note-17">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-17">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external autonumber" href="http://www.reuters.com/article/2012/01/19/us-nanosolar-idUSTRE80I28L20120119" rel="nofollow">
+          [2]
+         </a>
+         from Nanosolar Blog
+        </span>
+       </li>
+       <li id="cite_note-18">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-18">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.nanosolar.com/company/blog/semiconductor-veteran-geoff-tate-named-ceo-nanosolar-inc" rel="nofollow">
+          Semiconductor Veteran Geoff Tate Named CEO of Nanosolar, Inc.
+         </a>
+         from Nanosolar Blog
+        </span>
+       </li>
+       <li id="cite_note-19">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-19">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         I. Repins, M. A. Contreras, B. Egaas, C. DeHart, J. Scharf, C. L. Perkins, B. To, and R. Nouﬁ., 19.9%-efficient ZnO/CdS/CuInGaSe$_2$ solar cell with 81.2% fill factor. Progress in Photovoltaics: Research and Applications, 16(3):235–239, February 2008
+        </span>
+       </li>
+       <li id="cite_note-20">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-20">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation news">
+          <a class="external text" href="http://www.nanotechnology.com/~nanotech/news/?id=7491" rel="nofollow">
+           "Small Times Magazine announces Best of Small Tech Awards at leading nanotech business event"
+          </a>
+          . Small Times Magazine. 2005-02-11.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANanosolar&amp;rft.atitle=Small+Times+Magazine+announces+Best+of+Small+Tech+Awards+at+leading+nanotech+business+event&amp;rft.date=2005-02-11&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nanotechnology.com%2F~nanotech%2Fnews%2F%3Fid%3D7491&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-21">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-21">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6852920" rel="nofollow">
+          Nano-architected/assembled solar electricity cell
+         </a>
+         US Patent 6,852,920, Nanosolar Inc, February 8, 2005
+        </span>
+       </li>
+       <li id="cite_note-Printing_Solar_Cells_in_German-22">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-Printing_Solar_Cells_in_German_22-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-Printing_Solar_Cells_in_German_22-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation news">
+          <a class="external text" href="http://www.nanosolar.com/cache/BilddW2_07Nanosolar.pdf" rel="nofollow">
+           "Printing Solar Cells (in German)"
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          . Bild der Wissenschaft (Scientific American). 2007-01-10.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANanosolar&amp;rft.atitle=Printing+Solar+Cells+%28in+German%29&amp;rft.date=2007-01-10&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nanosolar.com%2Fcache%2FBilddW2_07Nanosolar.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-23">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-23">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation news">
+          <a class="external text" href="http://www.nanosolar.com/company/blog/nrel-certifies-153-nanosolar-foil-efficiency" rel="nofollow">
+           "NREL Certifies 15.3% Nanosolar Foil Efficiency"
+          </a>
+          . 2009-09-09.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANanosolar&amp;rft.atitle=NREL+Certifies+15.3%25+Nanosolar+Foil+Efficiency&amp;rft.date=2009-09-09&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nanosolar.com%2Fcompany%2Fblog%2Fnrel-certifies-153-nanosolar-foil-efficiency&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-24">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-24">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation news">
+          <a class="external text" href="http://www.nanosolar.com/company/blog/nanosolar-achieves-171-aperture-efficiency-through-printed-cigs-process" rel="nofollow">
+           "Nanosolar Achieves 17.1% Aperture Efficiency Through Printed CIGS Process"
+          </a>
+          . 2011-10-05.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANanosolar&amp;rft.atitle=Nanosolar+Achieves+17.1%25+Aperture+Efficiency+Through+Printed+CIGS+Process&amp;rft.date=2011-10-05&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nanosolar.com%2Fcompany%2Fblog%2Fnanosolar-achieves-171-aperture-efficiency-through-printed-cigs-process&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-PVTech_focus-25">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-PVTech_focus_25-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-PVTech_focus_25-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-PVTech_focus_25-2">
+          <sup>
+           <i>
+            <b>
+             c
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-PVTech_focus_25-3">
+          <sup>
+           <i>
+            <b>
+             d
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-PVTech_focus_25-4">
+          <sup>
+           <i>
+            <b>
+             e
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation news">
+          Tom Cheyney (August 3, 2010).
+          <a class="external text" href="http://www.pv-tech.org/chip_shots/_a/exclusive_nanosolar_rising_part_i--one-time_thin-film_pv_lightning_rod_gets" rel="nofollow">
+           "Exclusive: Nanosolar rising, Part I—One-time thin-film PV lightning rod gets its focus on"
+          </a>
+          . PV-Tech.org.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANanosolar&amp;rft.atitle=Exclusive%3A+Nanosolar+rising%2C+Part+I%94One-time+thin-film+PV+lightning+rod+gets+its+focus+on&amp;rft.au=Tom+Cheyney&amp;rft.date=2010-08-03&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.pv-tech.org%2Fchip_shots%2F_a%2Fexclusive_nanosolar_rising_part_i--one-time_thin-film_pv_lightning_rod_gets&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-26">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-26">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.nanosolar.com/company/blog/nanosolar-completes-panel-factory-commences-serial-production" rel="nofollow">
+          Nanosolar Completes Panel Factory, Commences Serial Production
+         </a>
+         from Nanosolar Blog
+        </span>
+       </li>
+       <li id="cite_note-Photon_CIGS-27">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-Photon_CIGS_27-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-Photon_CIGS_27-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation news">
+          "Who will deliver on the promise of the leading thin-film recipe for converting sunlight into electricity?". Photon International. July 2010. pp. 134–143.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANanosolar&amp;rft.atitle=Who+will+deliver+on+the+promise+of+the+leading+thin-film+recipe+for+converting+sunlight+into+electricity%3F&amp;rft.date=2010-07&amp;rft.genre=article&amp;rft.pages=134-143&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-28">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-28">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation news">
+          Tom Cheyney (August 6, 2010).
+          <a class="external text" href="http://www.pv-tech.org/chip_shots/_a/exclusive_nanosolar_rising_part_iithe_i_in_cigs_also_stands_for_thin-film_p/" rel="nofollow">
+           "Exclusive: Nanosolar rising, Part II—The 'I' in CIGS also stands for thin-film PV innovation"
+          </a>
+          . PV-Tech.org.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANanosolar&amp;rft.atitle=Exclusive%3A+Nanosolar+rising%2C+Part+II%94The+%98I%99+in+CIGS+also+stands+for+thin-film+PV+innovation&amp;rft.au=Tom+Cheyney&amp;rft.date=2010-08-06&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.pv-tech.org%2Fchip_shots%2F_a%2Fexclusive_nanosolar_rising_part_iithe_i_in_cigs_also_stands_for_thin-film_p%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-29">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-29">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.nanosolar.com/nanostructured.htm" rel="nofollow">
+          Nanocomponents
+         </a>
+         from Nanosolar website
+        </span>
+       </li>
+       <li id="cite_note-30">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-30">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.nanosolar.com/nanoink.htm" rel="nofollow">
+          Nanoparticle Ink
+         </a>
+         from Nanosolar website
+        </span>
+       </li>
+       <li id="cite_note-31">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-31">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7306823" rel="nofollow">
+          Coated nanoparticles and quantum dots for solution-based fabrication of photovoltaic cells
+         </a>
+         US Patent 7,306,823, Nanosolar Inc, December 11, 2007
+        </span>
+       </li>
+       <li id="cite_note-32">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-32">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation news">
+          <a class="external text" href="http://www.nanosolar.com/cache/sjmnwl.htm" rel="nofollow">
+           "Manufacturing Plans"
+          </a>
+          .
+          <a href="/wiki/San_Jose_Mercury_News" title="San Jose Mercury News">
+           San Jose Mercury News
+          </a>
+          . 2006-06-21.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANanosolar&amp;rft.atitle=Manufacturing+Plans&amp;rft.date=2006-06-21&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nanosolar.com%2Fcache%2Fsjmnwl.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-33">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-33">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation news">
+          <a class="external text" href="http://www.solarbuzz.com/facts-and-figures/retail-price-environment/module-prices" rel="nofollow">
+           "Retail Price Summary"
+          </a>
+          .
+          <a class="new" href="/w/index.php?title=Solarbuzz.com&amp;action=edit&amp;redlink=1" title="Solarbuzz.com (page does not exist)">
+           solarbuzz.com
+          </a>
+          . 2012-03-01.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANanosolar&amp;rft.atitle=Retail+Price+Summary&amp;rft.date=2012-03-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.solarbuzz.com%2Ffacts-and-figures%2Fretail-price-environment%2Fmodule-prices&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-34">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-34">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.nanosolar.com/Designedtolast.htm" rel="nofollow">
+          Designed To Last
+         </a>
+         from Nanosolar website
+        </span>
+       </li>
+      </ol>
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:6239802-0!*!0!!en!4!* and timestamp 20161023170035 and revision id 727983533
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Nanosolar&amp;oldid=727983533">
+      https://en.wikipedia.org/w/index.php?title=Nanosolar&amp;oldid=727983533
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Solar_energy_companies_of_the_United_States" title="Category:Solar energy companies of the United States">
+         Solar energy companies of the United States
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Thin-film_cell_manufacturers" title="Category:Thin-film cell manufacturers">
+         Thin-film cell manufacturers
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Technology_companies_based_in_the_San_Francisco_Bay_Area" title="Category:Technology companies based in the San Francisco Bay Area">
+         Technology companies based in the San Francisco Bay Area
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Energy_companies_established_in_2002" title="Category:Energy companies established in 2002">
+         Energy companies established in 2002
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Renewable_resource_companies_established_in_2002" title="Category:Renewable resource companies established in 2002">
+         Renewable resource companies established in 2002
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Companies_disestablished_in_2013" title="Category:Companies disestablished in 2013">
+         Companies disestablished in 2013
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Companies_based_in_San_Jose,_California" title="Category:Companies based in San Jose, California">
+         Companies based in San Jose, California
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Defunct_companies_based_in_the_San_Francisco_Bay_Area" title="Category:Defunct companies based in the San Francisco Bay Area">
+         Defunct companies based in the San Francisco Bay Area
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Nanosolar" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Nanosolar" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Nanosolar" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Nanosolar" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Nanosolar">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Nanosolar&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Nanosolar&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Nanosolar" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Nanosolar" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Nanosolar&amp;oldid=727983533" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Nanosolar&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q6964149" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Nanosolar&amp;id=727983533" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Nanosolar">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Nanosolar&amp;returnto=Nanosolar&amp;oldid=727983533&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Nanosolar&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Nanosolar" hreflang="eo" lang="eo" title="Nanosolar – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q6964149#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 2 July 2016, at 10:45.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Nanosolar&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.156",
+            "walltime": "0.188",
+            "ppvisitednodes": {
+                "value": 1305,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 25352,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 698,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 8,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 0,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 1,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  157.787      1 -total",
+                " 55.29%   87.235      1 Template:Reflist",
+                " 40.34%   63.658     15 Template:Cite_news",
+                " 34.22%   53.998      1 Template:Infobox_company",
+                " 26.86%   42.378      1 Template:Infobox",
+                "  4.34%    6.855      1 Template:Comma_separated_entries",
+                "  0.85%    1.337      2 Template:Longitem",
+                "  0.82%    1.287      1 Template:Main_other",
+                "  0.70%    1.105      1 Template:Column-count"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.062",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 3723628,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1253",
+            "timestamp": "20161023170035",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":53,"wgHostname":"mw1255"});});
+  </script>
+ </body>
+</html>

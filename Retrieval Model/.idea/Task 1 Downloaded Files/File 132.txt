@@ -1,0 +1,1644 @@
+https://en.wikipedia.org/wiki/Alliance_to_Save_Energy
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Alliance to Save Energy - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Alliance_to_Save_Energy","wgTitle":"Alliance to Save Energy","wgCurRevisionId":727665580,"wgRevisionId":727665580,"wgArticleId":6264824,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Vague or ambiguous time from June 2013","Environmental organizations based in the United States","International energy organizations","Energy conservation in the United States"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Alliance_to_Save_Energy","wgRelevantArticleId":6264824,"wgRequestId":"WCEGOQpAMEcAADIFsfcAAAAX","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q4732484","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Alliance_to_Save_Energy" rel="alternate"/>
+  <link href="/w/index.php?title=Alliance_to_Save_Energy&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Alliance_to_Save_Energy&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Alliance_to_Save_Energy" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Alliance_to_Save_Energy rootpage-Alliance_to_Save_Energy skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Alliance to Save Energy
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <table class="infobox vcard" style="width:22em">
+      <caption class="fn org">
+       Alliance to Save Energy
+      </caption>
+      <tr>
+       <td colspan="2" style="text-align:center">
+        <a class="image" href="/wiki/File:AllianceLogo.png">
+         <img alt="AllianceLogo.png" data-file-height="280" data-file-width="358" height="172" src="//upload.wikimedia.org/wikipedia/en/thumb/6/60/AllianceLogo.png/220px-AllianceLogo.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/60/AllianceLogo.png/330px-AllianceLogo.png 1.5x, //upload.wikimedia.org/wikipedia/en/6/60/AllianceLogo.png 2x" width="220"/>
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        Formation
+       </th>
+       <td class="note">
+        February 10, 1977
+        <span class="noprint">
+         ; 39 years ago
+        </span>
+        <span style="display:none">
+         (
+         <span class="bday dtstart published updated">
+          1977-02-10
+         </span>
+         )
+        </span>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        Headquarters
+       </th>
+       <td>
+        <a class="mw-redirect" href="/wiki/Washington,_DC" title="Washington, DC">
+         Washington, DC
+        </a>
+        ,
+        <a href="/wiki/United_States" title="United States">
+         USA
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        <div style="padding:0.1em 0;line-height:1.2em;">
+         Honorary Chair
+        </div>
+       </th>
+       <td>
+        <a href="/wiki/Mark_Warner" title="Mark Warner">
+         Mark Warner
+        </a>
+        (D - VA)
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        <div style="padding:0.1em 0;line-height:1.2em;">
+         Co-Chair
+        </div>
+       </th>
+       <td>
+        Tom King, President,
+        <a class="mw-redirect" href="/wiki/National_Grid_USA" title="National Grid USA">
+         National Grid USA
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        <div style="padding:0.1em 0;line-height:1.2em;">
+         President
+        </div>
+       </th>
+       <td>
+        Kateri Callahan
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        <div style="padding:0.1em 0;line-height:1.2em;">
+         Key people
+        </div>
+       </th>
+       <td>
+        <a href="/wiki/Charles_H._Percy" title="Charles H. Percy">
+         Charles H. Percy
+        </a>
+        (founding chair),
+        <a href="/wiki/Hubert_Humphrey" title="Hubert Humphrey">
+         Hubert Humphrey
+        </a>
+        (co-founder)
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        Website
+       </th>
+       <td>
+        <span class="url">
+         <a class="external text" href="http://ase.org" rel="nofollow">
+          ase
+          <wbr>
+          </wbr>
+          .org
+         </a>
+        </span>
+       </td>
+      </tr>
+     </table>
+     <p>
+      The
+      <b>
+       Alliance to Save Energy
+      </b>
+      is a coalition consisting largely of industrial, technological, and energy corporations. The Alliance states that its mission is to "support
+      <a href="/wiki/Efficient_energy_use" title="Efficient energy use">
+       energy efficiency
+      </a>
+      as a cost-effective energy resource under existing market conditions and advocate energy-efficiency policies that minimize costs to society and individual consumers, and that lessen
+      <a href="/wiki/Greenhouse_gas" title="Greenhouse gas">
+       greenhouse gas
+      </a>
+      emissions and their impact on the global climate."
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+      The alliance's chief activities include
+      <a href="/wiki/Public_relations" title="Public relations">
+       public relations
+      </a>
+      , research, and
+      <a href="/wiki/Lobbying" title="Lobbying">
+       lobbying
+      </a>
+      <sup class="reference" id="cite_ref-2">
+       <a href="#cite_note-2">
+        [2]
+       </a>
+      </sup>
+      to change
+      <a href="/wiki/Energy_policy_of_the_United_States" title="Energy policy of the United States">
+       U.S. energy policy
+      </a>
+      .
+     </p>
+     <p>
+      The creation of the Alliance was announced on February 10, 1977 with the support of the then U.S. President
+      <a href="/wiki/Jimmy_Carter" title="Jimmy Carter">
+       Jimmy Carter
+      </a>
+      .
+      <sup class="reference" id="cite_ref-3">
+       <a href="#cite_note-3">
+        [3]
+       </a>
+      </sup>
+      It was the initiative of senators
+      <a href="/wiki/Charles_H._Percy" title="Charles H. Percy">
+       Charles Percy
+      </a>
+      and Hubert Humphrey.
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Member_organizations">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Member organizations
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#Support_of_Energy_Independence_and_Security_Act_of_2007">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Support of Energy Independence and Security Act of 2007
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#CarbonCount">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          CarbonCount
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-4">
+        <a href="#Legislation">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          Legislation
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-5">
+        <a href="#Board_of_directors">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          Board of directors
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-6">
+        <a href="#See_also">
+         <span class="tocnumber">
+          6
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-7">
+        <a href="#References">
+         <span class="tocnumber">
+          7
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-8">
+        <a href="#External_links">
+         <span class="tocnumber">
+          8
+         </span>
+         <span class="toctext">
+          External links
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Member_organizations">
+       Member organizations
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Alliance_to_Save_Energy&amp;action=edit&amp;section=1" title="Edit section: Member organizations">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The alliance includes over 170 organizations committed to energy efficiency as a primary way to achieve the nation's environmental, economic, energy security and affordable housing goals.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Support_of_Energy_Independence_and_Security_Act_of_2007">
+       Support of Energy Independence and Security Act of 2007
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Alliance_to_Save_Energy&amp;action=edit&amp;section=2" title="Edit section: Support of Energy Independence and Security Act of 2007">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      In 2007, Alliance to Save Energy came out in support of the
+      <a href="/wiki/Energy_Independence_and_Security_Act_of_2007" title="Energy Independence and Security Act of 2007">
+       Energy Independence and Security Act of 2007
+      </a>
+      ,
+      <sup class="reference" id="cite_ref-4">
+       <a href="#cite_note-4">
+        [4]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-5">
+       <a href="#cite_note-5">
+        [5]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-6">
+       <a href="#cite_note-6">
+        [6]
+       </a>
+      </sup>
+      which
+      <a class="mw-redirect" href="/wiki/Banning_of_incandescent_lightbulbs" title="Banning of incandescent lightbulbs">
+       phases out
+      </a>
+      the use of inefficient forms of
+      <a href="/wiki/Incandescent_light_bulb" title="Incandescent light bulb">
+       incandescent light bulbs
+      </a>
+      in favor of more energy-efficient lights, such as CFL, halogen incandescents, and LED lights. The purchase price of more efficient lights is typically higher than the purchase price of legacy incandescents. However, the low energy consumption and long life span of high-efficiency lights result in lower
+      <a class="mw-redirect" href="/wiki/Life_cycle_assessment" title="Life cycle assessment">
+       life-cycle costs
+      </a>
+      than their legacy incandescent counterparts. Several of the founding member corporations (including
+      <a href="/wiki/Philips" title="Philips">
+       Philips
+      </a>
+      ,
+      <a href="/wiki/Panasonic" title="Panasonic">
+       Panasonic
+      </a>
+      , and
+      <a href="/wiki/Osram_Sylvania" title="Osram Sylvania">
+       Sylvania
+      </a>
+      ) are manufacturers of high-efficiency bulbs. However, all of these corporations are also manufacturers of the incandescent light bulbs that will be phased out of production following passage of the Clean Energy Bill of 2007.
+     </p>
+     <h2>
+      <span class="mw-headline" id="CarbonCount">
+       CarbonCount
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Alliance_to_Save_Energy&amp;action=edit&amp;section=3" title="Edit section: CarbonCount">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      CarbonCount is a metric developed by the Alliance to Save Energy that quantifies the impact of investments in U.S.-based energy-efficiency and renewable-energy projects given the expected reduction in carbon dioxide (CO
+      <sub>
+       2
+      </sub>
+      ) emissions resulting from each $1,000 of investment.
+      <sup class="reference" id="cite_ref-7">
+       <a href="#cite_note-7">
+        [7]
+       </a>
+      </sup>
+      In 2015, Bloomberg New Energy Finance honored CarbonCount with its Finance for Resilience (FiRE) award.
+      <sup class="reference" id="cite_ref-8">
+       <a href="#cite_note-8">
+        [8]
+       </a>
+      </sup>
+      FiRE is an open and action-oriented platform that collects, develops and helps implement powerful ideas to accelerate finance for clean energy, climate, sustainability and green growth. FiRe singles out ideas that have the potential for incremental finance of at least $1bn in clean energy in the first three years of implementation, that are achievable within 1-3 years.
+      <sup class="reference" id="cite_ref-9">
+       <a href="#cite_note-9">
+        [9]
+       </a>
+      </sup>
+      Hannon Armstrong's 2015 issuance of Sustainable Yield Bonds secured by a portion of its utility scale solar and wind real estate related assets was the first investment to be certified under the CarbonCount methodology, receiving a CarbonCount score of 0.39 metric tons of CO
+      <sub>
+       2
+      </sub>
+      offset per $1000 of investment.
+      <sup class="reference" id="cite_ref-10">
+       <a href="#cite_note-10">
+        [10]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-11">
+       <a href="#cite_note-11">
+        [11]
+       </a>
+      </sup>
+      In 2016, Deutsche Bank received a CarbonCount score of 0.18 metric tons of CO
+      <sub>
+       2
+      </sub>
+      offset per $1000 of investment in a portfolio of rooftop solar PV systems.
+      <sup class="reference" id="cite_ref-12">
+       <a href="#cite_note-12">
+        [12]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Legislation">
+       Legislation
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Alliance_to_Save_Energy&amp;action=edit&amp;section=4" title="Edit section: Legislation">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The Alliance to Save Energy supported the bill
+      <a class="mw-redirect" href="/wiki/To_require_the_Secretary_of_Energy_to_prepare_a_report_on_the_impact_of_thermal_insulation_on_both_energy_and_water_use_for_potable_hot_water_(H.R._4801;_113th_Congress)" title="To require the Secretary of Energy to prepare a report on the impact of thermal insulation on both energy and water use for potable hot water (H.R. 4801; 113th Congress)">
+       To require the Secretary of Energy to prepare a report on the impact of thermal insulation on both energy and water use for potable hot water (H.R. 4801; 113th Congress)
+      </a>
+      , which would require the
+      <a href="/wiki/United_States_Secretary_of_Energy" title="United States Secretary of Energy">
+       United States Secretary of Energy
+      </a>
+      to prepare a report on the effects that
+      <a href="/wiki/Thermal_insulation" title="Thermal insulation">
+       thermal insulation
+      </a>
+      has on both energy consumption and systems for providing
+      <a class="mw-redirect" href="/wiki/Potable_water" title="Potable water">
+       potable water
+      </a>
+      in
+      <a href="/wiki/Category:Buildings_of_the_United_States_government" title="Category:Buildings of the United States government">
+       federal buildings
+      </a>
+      .
+      <sup class="reference" id="cite_ref-cbo4801_13-0">
+       <a href="#cite_note-cbo4801-13">
+        [13]
+       </a>
+      </sup>
+      They called the bill a step "in the right direction" and saying that they "are hopeful energy efficiency can once again be an area of common ground between parties."
+      <sup class="reference" id="cite_ref-ASEcommitteepass_14-0">
+       <a href="#cite_note-ASEcommitteepass-14">
+        [14]
+       </a>
+      </sup>
+     </p>
+     <p>
+      They supported the
+      <a class="mw-redirect" href="/wiki/EPS_Service_Parts_Act_of_2014_(H.R._5057;_113th_Congress)" title="EPS Service Parts Act of 2014 (H.R. 5057; 113th Congress)">
+       EPS Service Parts Act of 2014 (H.R. 5057; 113th Congress)
+      </a>
+      , a bill that would exempt certain
+      <a class="mw-redirect" href="/wiki/External_power_supply" title="External power supply">
+       external power supplies
+      </a>
+      from complying with standards set forth in a final rule published by the
+      <a href="/wiki/United_States_Department_of_Energy" title="United States Department of Energy">
+       United States Department of Energy
+      </a>
+      in February 2014.
+      <sup class="reference" id="cite_ref-cbo5057_15-0">
+       <a href="#cite_note-cbo5057-15">
+        [15]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-ITIhankin_16-0">
+       <a href="#cite_note-ITIhankin-16">
+        [16]
+       </a>
+      </sup>
+      The
+      <a href="/wiki/United_States_House_Committee_on_Energy_and_Commerce" title="United States House Committee on Energy and Commerce">
+       United States House Committee on Energy and Commerce
+      </a>
+      describes the bill as a bill that "provides regulatory relief by making a simple technical correction to the
+      <a href="/wiki/Energy_Independence_and_Security_Act_of_2007" title="Energy Independence and Security Act of 2007">
+       2007 Energy Independence and Security Act
+      </a>
+      to exempt certain power supply (EPS) service and spare parts from federal efficiency standards."
+      <sup class="reference" id="cite_ref-ECCpr_17-0">
+       <a href="#cite_note-ECCpr-17">
+        [17]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Board_of_directors">
+       Board of directors
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Alliance_to_Save_Energy&amp;action=edit&amp;section=5" title="Edit section: Board of directors">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The board includes CEOs, presidents and senior executives of companies, associations, consumer and environmental organizations, as well as officials from state government, universities and law firms.
+     </p>
+     <p>
+      The first board of directors and board of advisors were chaired by Senator Percy and
+      <a class="mw-redirect" href="/wiki/Henry_A._Kissinger" title="Henry A. Kissinger">
+       Henry A. Kissinger
+      </a>
+      , respectively. Honorary chairmen included Senators
+      <a href="/wiki/Daniel_J._Evans" title="Daniel J. Evans">
+       Daniel J. Evans
+      </a>
+      ,
+      <a href="/wiki/H._John_Heinz_III" title="H. John Heinz III">
+       H. John Heinz III
+      </a>
+      and
+      <a class="mw-redirect" href="/wiki/Timothy_E._Wirth" title="Timothy E. Wirth">
+       Timothy E. Wirth
+      </a>
+      .
+     </p>
+     <p>
+      The current
+      <sup class="noprint Inline-Template" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items" title="Wikipedia:Manual of Style/Dates and numbers">
+         <span title="The time period mentioned near this tag is ambiguous. (June 2013)">
+          when?
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+      board is chaired by Senator
+      <a href="/wiki/Mark_Warner" title="Mark Warner">
+       Mark Warner
+      </a>
+      (D-VA) and co-chaired by Tom King, President of
+      <a class="mw-redirect" href="/wiki/National_Grid_USA" title="National Grid USA">
+       National Grid USA
+      </a>
+      . Congressional vice-chairs include Senators
+      <a href="/wiki/Jeff_Bingaman" title="Jeff Bingaman">
+       Jeff Bingaman
+      </a>
+      (D-NM),
+      <a class="mw-redirect" href="/wiki/Susan_M._Collins" title="Susan M. Collins">
+       Susan M. Collins
+      </a>
+      (R-ME),
+      <a href="/wiki/Chris_Coons" title="Chris Coons">
+       Chris Coons
+      </a>
+      (D-DE),
+      <a href="/wiki/Richard_Lugar" title="Richard Lugar">
+       Richard Lugar
+      </a>
+      (R–IN),
+      <a href="/wiki/Lisa_Murkowski" title="Lisa Murkowski">
+       Lisa Murkowski
+      </a>
+      (R–AK),
+      <a href="/wiki/Rob_Portman" title="Rob Portman">
+       Rob Portman
+      </a>
+      (R-OH),
+      <a href="/wiki/Mark_Pryor" title="Mark Pryor">
+       Mark Pryor
+      </a>
+      (D-AR.),
+      <a href="/wiki/Jeanne_Shaheen" title="Jeanne Shaheen">
+       Jeanne Shaheen
+      </a>
+      (D-NH),
+      <a href="/wiki/Mark_Udall" title="Mark Udall">
+       Mark Udall
+      </a>
+      (D–CO). Congressional vice chairs also include Representatives
+      <a href="/wiki/Brian_Bilbray" title="Brian Bilbray">
+       Brian Bilbray
+      </a>
+      (R-CA),
+      <a href="/wiki/Michael_C._Burgess" title="Michael C. Burgess">
+       Michael Burgess
+      </a>
+      (R–TX),
+      <a href="/wiki/Ralph_Hall" title="Ralph Hall">
+       Ralph Hall
+      </a>
+      (R– TX),
+      <a href="/wiki/Steve_Israel" title="Steve Israel">
+       Steve Israel
+      </a>
+      (D–NY),
+      <a class="mw-redirect" href="/wiki/Edward_J._Markey" title="Edward J. Markey">
+       Edward J. Markey
+      </a>
+      (D–MA), and
+      <a href="/wiki/Paul_Tonko" title="Paul Tonko">
+       Paul Tonko
+      </a>
+      (D–NY). Alliance President
+      <a class="new" href="/w/index.php?title=Kateri_Callahan&amp;action=edit&amp;redlink=1" title="Kateri Callahan (page does not exist)">
+       Kateri Callahan
+      </a>
+      took office on January 1, 2004.
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Alliance_to_Save_Energy&amp;action=edit&amp;section=6" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a href="/wiki/Environmental_and_Energy_Study_Institute" title="Environmental and Energy Study Institute">
+        Environmental and Energy Study Institute
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Energy_conservation" title="Energy conservation">
+        Energy conservation
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Alliance_to_Save_Energy&amp;action=edit&amp;section=7" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-1">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.ase.org/section/aboutus/" rel="nofollow">
+          Alliance to Save Energy - Promoting Energy Efficiency World Wide: About Us
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-2">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.opensecrets.org/lobby/clientsum.php?lname=Alliance+to+Save+Energy&amp;year=2008" rel="nofollow">
+          Lobbying Spending Database: Agencies lobbied for by Alliance to Save Energy, 2001
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-3">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          Jimmy Carter (February 10, 1977).
+          <a class="external text" href="http://www.presidency.ucsb.edu/ws/?pid=7744" rel="nofollow">
+           "Alliance To Save Energy Statement on the Formation of the Organization"
+          </a>
+          .
+          <i>
+           The American Presidency Project
+          </i>
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            November 6,
+           </span>
+           2011
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlliance+to+Save+Energy&amp;rft.atitle=Alliance+To+Save+Energy+Statement+on+the+Formation+of+the+Organization&amp;rft.au=Jimmy+Carter&amp;rft.date=1977-02-10&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.presidency.ucsb.edu%2Fws%2F%3Fpid%3D7744&amp;rft.jtitle=The+American+Presidency+Project&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-4">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.ase.org/content/news/detail/3856" rel="nofollow">
+          Alliance to Save Energy - Promoting Energy Efficiency World Wide: News: Alliance to Save Energy Hails Efficiency-Focused Senate Energy Bill, But Laments Lack of Tax Incentives
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-5">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.greenbaypressgazette.com/apps/pbcs.dll/article?AID=/20071219/GPG03/712190540/1247/GPGbusiness" rel="nofollow">
+          Green Bay Press-Gazette - Congress' energy bill phasing out traditional light bulbs
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-6">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-6">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation news">
+          Wald, Matthew L. (14 March 2007).
+          <a class="external text" href="http://www.nytimes.com/2007/03/14/business/14light.html" rel="nofollow">
+           "A U.S. Alliance to Update the Light Bulb"
+          </a>
+          .
+          <i>
+           The New York Times
+          </i>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlliance+to+Save+Energy&amp;rft.atitle=A+U.S.+Alliance+to+Update+the+Light+Bulb&amp;rft.aufirst=Matthew+L.&amp;rft.aulast=Wald&amp;rft.date=2007-03-14&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nytimes.com%2F2007%2F03%2F14%2Fbusiness%2F14light.html&amp;rft.jtitle=The+New+York+Times&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-7">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-7">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="https://www.ase.org/resources/carboncounttm-quantitative-carbon-scoring-system-green-bonds" rel="nofollow">
+           "CarbonCount™: Quantitative Carbon Scoring System for "Green" Bonds"
+          </a>
+          . 2015-03-30
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            2016-06-24
+           </span>
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlliance+to+Save+Energy&amp;rft.btitle=CarbonCount%84%A2%3A+Quantitative+Carbon+Scoring+System+for+%22Green%22+Bonds&amp;rft.date=2015-03-30&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.ase.org%2Fresources%2Fcarboncounttm-quantitative-carbon-scoring-system-green-bonds&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-8">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-8">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.financeforresilience.com/finalists-2015/" rel="nofollow">
+          http://www.financeforresilience.com/finalists-2015/
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-9">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-9">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.financeforresilience.com/us/" rel="nofollow">
+          http://www.financeforresilience.com/us/
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-10">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-10">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="https://www.ase.org/news/alliance-issues-inaugural-carboncounttm-certification" rel="nofollow">
+          https://www.ase.org/news/alliance-issues-inaugural-carboncounttm-certification
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-11">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-11">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://investors.hannonarmstrong.com/file.aspx?IID=4376922&amp;FID=31284549" rel="nofollow">
+          http://investors.hannonarmstrong.com/file.aspx?IID=4376922&amp;FID=31284549
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-12">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-12">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="https://www.ase.org/news/alliance-save-energys-carboncounttm-scoring-tool-brings-transparency-green-bond-market" rel="nofollow">
+          https://www.ase.org/news/alliance-save-energys-carboncounttm-scoring-tool-brings-transparency-green-bond-market
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-cbo4801-13">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-cbo4801_13-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://cbo.gov/publication/45466" rel="nofollow">
+           "CBO - H.R. 4801"
+          </a>
+          . Congressional Budget Office
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            23 June
+           </span>
+           2014
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlliance+to+Save+Energy&amp;rft.btitle=CBO+-+H.R.+4801&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fcbo.gov%2Fpublication%2F45466&amp;rft.pub=Congressional+Budget+Office&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-ASEcommitteepass-14">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-ASEcommitteepass_14-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          LaFreniere, Kelsey (11 June 2014).
+          <a class="external text" href="https://www.ase.org/blog/alliance-vice-chair-rep-kinzinger-pushes-energy-efficiency" rel="nofollow">
+           "Alliance Vice-Chair Rep. Kinzinger Pushes For Energy Efficiency"
+          </a>
+          . Alliance to Save Energy
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            23 June
+           </span>
+           2014
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlliance+to+Save+Energy&amp;rft.aufirst=Kelsey&amp;rft.aulast=LaFreniere&amp;rft.btitle=Alliance+Vice-Chair+Rep.+Kinzinger+Pushes+For+Energy+Efficiency&amp;rft.date=2014-06-11&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.ase.org%2Fblog%2Falliance-vice-chair-rep-kinzinger-pushes-energy-efficiency&amp;rft.pub=Alliance+to+Save+Energy&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-cbo5057-15">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-cbo5057_15-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.cbo.gov/publication/45574" rel="nofollow">
+           "CBO - H.R. 5057"
+          </a>
+          . Congressional Budget Office
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            9 September
+           </span>
+           2014
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlliance+to+Save+Energy&amp;rft.btitle=CBO+-+H.R.+5057&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cbo.gov%2Fpublication%2F45574&amp;rft.pub=Congressional+Budget+Office&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-ITIhankin-16">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-ITIhankin_16-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          Hankin, Christopher (15 July 2014).
+          <a class="external text" href="http://blog.itic.org/blog/house-energy-commerce-committee-passes-bipartisan-regulatory-relief-for-external-power-supplies" rel="nofollow">
+           "House Energy &amp; Commerce Committee passes bipartisan regulatory relief for external power supplies"
+          </a>
+          . Information Technology Industry Council
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            10 September
+           </span>
+           2014
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlliance+to+Save+Energy&amp;rft.aufirst=Christopher&amp;rft.aulast=Hankin&amp;rft.btitle=House+Energy+%26+Commerce+Committee+passes+bipartisan+regulatory+relief+for+external+power+supplies&amp;rft.date=2014-07-15&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fblog.itic.org%2Fblog%2Fhouse-energy-commerce-committee-passes-bipartisan-regulatory-relief-for-external-power-supplies&amp;rft.pub=Information+Technology+Industry+Council&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-ECCpr-17">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-ECCpr_17-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://energycommerce.house.gov/press-release/committee-build-recordofsuccess-nine-bills-house-floor-week" rel="nofollow">
+           "Committee to Build on #RecordOfSuccess with Nine Bills On the House Floor This Week"
+          </a>
+          . House Energy and Commerce Committee. 8 September 2014
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            10 September
+           </span>
+           2014
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlliance+to+Save+Energy&amp;rft.btitle=Committee+to+Build+on+%23RecordOfSuccess+with+Nine+Bills+On+the+House+Floor+This+Week&amp;rft.date=2014-09-08&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fenergycommerce.house.gov%2Fpress-release%2Fcommittee-build-recordofsuccess-nine-bills-house-floor-week&amp;rft.pub=House+Energy+and+Commerce+Committee&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Alliance_to_Save_Energy&amp;action=edit&amp;section=8" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <span class="official-website">
+        <span class="url">
+         <a class="external text" href="http://www.ase.org" rel="nofollow">
+          Official website
+         </a>
+        </span>
+       </span>
+      </li>
+      <li>
+       <a class="external text" href="http://www.regeneration.org/2008/03/26/interview-with-kateri-callahan-president-of-the-alliance-to-save-energy/" rel="nofollow">
+        Interview with Alliance to Save Energy president, Kateri Callahan
+       </a>
+      </li>
+     </ul>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:6264824-0!*!0!!en!4!* and timestamp 20161102220645 and revision id 727665580
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Alliance_to_Save_Energy&amp;oldid=727665580">
+      https://en.wikipedia.org/w/index.php?title=Alliance_to_Save_Energy&amp;oldid=727665580
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Environmental_organizations_based_in_the_United_States" title="Category:Environmental organizations based in the United States">
+         Environmental organizations based in the United States
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:International_energy_organizations" title="Category:International energy organizations">
+         International energy organizations
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Energy_conservation_in_the_United_States" title="Category:Energy conservation in the United States">
+         Energy conservation in the United States
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Vague_or_ambiguous_time_from_June_2013" title="Category:Vague or ambiguous time from June 2013">
+         Vague or ambiguous time from June 2013
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Alliance+to+Save+Energy" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Alliance+to+Save+Energy" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Alliance_to_Save_Energy" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Alliance_to_Save_Energy" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Alliance_to_Save_Energy">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Alliance_to_Save_Energy&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Alliance_to_Save_Energy&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Alliance_to_Save_Energy" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Alliance_to_Save_Energy" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Alliance_to_Save_Energy&amp;oldid=727665580" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Alliance_to_Save_Energy&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q4732484" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Alliance_to_Save_Energy&amp;id=727665580" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Alliance+to+Save+Energy">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Alliance+to+Save+Energy&amp;returnto=Alliance+to+Save+Energy&amp;oldid=727665580&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Alliance_to_Save_Energy&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-add wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q4732484#sitelinks-wikipedia" title="Add interlanguage links">
+         Add links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 30 June 2016, at 13:25.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Alliance_to_Save_Energy&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.172",
+            "walltime": "0.238",
+            "ppvisitednodes": {
+                "value": 1554,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 20248,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 1156,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 19,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 1,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 1,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  216.896      1 -total",
+                " 40.08%   86.924      1 Template:Infobox_organisation",
+                " 33.73%   73.152      1 Template:Infobox",
+                " 28.71%   62.270      1 Template:Reflist",
+                " 20.69%   44.877      7 Template:Cite_web",
+                " 15.23%   33.027      1 Template:When",
+                " 13.58%   29.455      1 Template:Fix",
+                " 12.06%   26.164      1 Template:Official_website",
+                "  9.84%   21.344      4 Template:If_empty",
+                "  6.90%   14.972      1 Template:Category_handler"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.083",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 4047070,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1244",
+            "timestamp": "20161102220645",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":75,"wgHostname":"mw1236"});});
+  </script>
+ </body>
+</html>

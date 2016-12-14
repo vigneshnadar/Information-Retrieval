@@ -1,0 +1,2410 @@
+https://en.wikipedia.org/wiki/Wake
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Wake - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Wake","wgTitle":"Wake","wgCurRevisionId":744868764,"wgRevisionId":744868764,"wgArticleId":223993,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Commons category with local link different than on Wikidata","Fluid dynamics","Water waves","Articles containing video clips"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wake","wgRelevantArticleId":223993,"wgRequestId":"WCD8uQpAMFQAAJb6hb4AAABC","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1362362","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.page.gallery.styles":"ready","ext.tmh.thumbnail.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Wake" rel="alternate"/>
+  <link href="/w/index.php?title=Wake&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Wake&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Wake" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Wake rootpage-Wake skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Wake
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="hatnote" role="note">
+      For other uses, see
+      <a class="mw-disambig" href="/wiki/Wake_(disambiguation)" title="Wake (disambiguation)">
+       Wake (disambiguation)
+      </a>
+      .
+     </div>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:282px;">
+       <a class="image" href="/wiki/File:Fjordn_surface_wave_boat.jpg">
+        <img alt="" class="thumbimage" data-file-height="1872" data-file-width="3328" height="158" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Fjordn_surface_wave_boat.jpg/280px-Fjordn_surface_wave_boat.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Fjordn_surface_wave_boat.jpg/420px-Fjordn_surface_wave_boat.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Fjordn_surface_wave_boat.jpg/560px-Fjordn_surface_wave_boat.jpg 2x" width="280"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Fjordn_surface_wave_boat.jpg" title="Enlarge">
+         </a>
+        </div>
+        Kelvin wake pattern generated by a small boat.
+       </div>
+      </div>
+     </div>
+     <p>
+      In
+      <a href="/wiki/Fluid_dynamics" title="Fluid dynamics">
+       fluid dynamics
+      </a>
+      , a
+      <b>
+       wake
+      </b>
+      may either be:
+     </p>
+     <ul>
+      <li>
+       the region of recirculating flow immediately behind a moving or stationary blunt body, caused by
+       <a href="/wiki/Viscosity" title="Viscosity">
+        viscosity
+       </a>
+       , which may be accompanied by
+       <a href="/wiki/Flow_separation" title="Flow separation">
+        flow separation
+       </a>
+       and
+       <a href="/wiki/Turbulence" title="Turbulence">
+        turbulence
+       </a>
+       , or
+      </li>
+      <li>
+       the wave pattern on the water surface downstream of an object in a flow, or produced by a moving object (e.g. a ship), caused by
+       <a href="/wiki/Pressure" title="Pressure">
+        pressure
+       </a>
+       differences of the fluids above and below the
+       <a href="/wiki/Free_surface" title="Free surface">
+        free surface
+       </a>
+       and
+       <a href="/wiki/Gravity_of_Earth" title="Gravity of Earth">
+        gravity
+       </a>
+       (or
+       <a href="/wiki/Surface_tension" title="Surface tension">
+        surface tension
+       </a>
+       ), or both.
+      </li>
+     </ul>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Wake_effects_caused_by_viscosity">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Wake effects caused by viscosity
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#Waves_by_density_differences.2C_like_a_water_surface">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Waves by density differences, like a water surface
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-3">
+          <a href="#Kelvin_wake_pattern">
+           <span class="tocnumber">
+            2.1
+           </span>
+           <span class="toctext">
+            Kelvin wake pattern
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-4">
+        <a href="#Gallery">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          Gallery
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-5">
+        <a href="#Other_effects">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          Other effects
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-6">
+        <a href="#Recreation">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          Recreation
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-7">
+          <a href="#Image_gallery">
+           <span class="tocnumber">
+            5.1
+           </span>
+           <span class="toctext">
+            Image gallery
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-8">
+        <a href="#See_also">
+         <span class="tocnumber">
+          6
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-9">
+        <a href="#References">
+         <span class="tocnumber">
+          7
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-10">
+        <a href="#External_links">
+         <span class="tocnumber">
+          8
+         </span>
+         <span class="toctext">
+          External links
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Wake_effects_caused_by_viscosity">
+       Wake effects caused by viscosity
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Wake&amp;action=edit&amp;section=1" title="Edit section: Wake effects caused by viscosity">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:402px;">
+       <a class="image" href="/wiki/File:Karmansche_Wirbelstr_kleine_Re.JPG">
+        <img alt="" class="thumbimage" data-file-height="1153" data-file-width="4136" height="112" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Karmansche_Wirbelstr_kleine_Re.JPG/400px-Karmansche_Wirbelstr_kleine_Re.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Karmansche_Wirbelstr_kleine_Re.JPG/600px-Karmansche_Wirbelstr_kleine_Re.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Karmansche_Wirbelstr_kleine_Re.JPG/800px-Karmansche_Wirbelstr_kleine_Re.JPG 2x" width="400"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Karmansche_Wirbelstr_kleine_Re.JPG" title="Enlarge">
+         </a>
+        </div>
+        <a class="mw-redirect" href="/wiki/Flow_visualisation" title="Flow visualisation">
+         Visualisation
+        </a>
+        of the
+        <a href="/wiki/K%C3%A1rm%C3%A1n_vortex_street" title="Kármán vortex street">
+         Kármán vortex street
+        </a>
+        in the wake behind a circular cylinder in air; the flow is made visible through release of oil vapour in the air near the cylinder.
+       </div>
+      </div>
+     </div>
+     <p>
+      The wake is the region of disturbed flow (often
+      <a class="mw-redirect" href="/wiki/Turbulent" title="Turbulent">
+       turbulent
+      </a>
+      ) downstream of a solid body moving through a fluid, caused by the flow of the
+      <a href="/wiki/Fluid" title="Fluid">
+       fluid
+      </a>
+      around the body.
+     </p>
+     <p>
+      For a blunt body in
+      <a class="mw-redirect" href="/wiki/Subsonic_flight" title="Subsonic flight">
+       subsonic
+      </a>
+      external flow, for example the
+      <a href="/wiki/Apollo_program" title="Apollo program">
+       Apollo
+      </a>
+      or
+      <a class="mw-redirect" href="/wiki/Orion_Multi-Purpose_Crew_Vehicle" title="Orion Multi-Purpose Crew Vehicle">
+       Orion
+      </a>
+      capsules during descent and landing, the wake is massively
+      <a href="/wiki/Flow_separation" title="Flow separation">
+       separated
+      </a>
+      and behind the body is a reverse flow region where the flow is moving toward the body. This phenomenon is often observed in
+      <a href="/wiki/Wind_tunnel" title="Wind tunnel">
+       wind tunnel
+      </a>
+      testing of aircraft, and is especially important when
+      <a href="/wiki/Parachute" title="Parachute">
+       parachute
+      </a>
+      systems are involved, because unless the parachute lines extend the canopy beyond the reverse flow region, the chute can fail to inflate and thus collapse. Parachutes deployed into wakes suffer
+      <a href="/wiki/Dynamic_pressure" title="Dynamic pressure">
+       dynamic pressure
+      </a>
+      deficits which reduce their expected
+      <a href="/wiki/Drag_(physics)" title="Drag (physics)">
+       drag
+      </a>
+      forces. High-fidelity
+      <a href="/wiki/Computational_fluid_dynamics" title="Computational fluid dynamics">
+       computational fluid dynamics
+      </a>
+      simulations are often undertaken to model wake flows, although such modeling has uncertainties associated with
+      <a href="/wiki/Turbulence_modeling" title="Turbulence modeling">
+       turbulence modeling
+      </a>
+      (for example
+      <a class="mw-redirect" href="/wiki/Reynolds-averaged_Navier-Stokes_equations" title="Reynolds-averaged Navier-Stokes equations">
+       RANS
+      </a>
+      versus
+      <a href="/wiki/Large_eddy_simulation" title="Large eddy simulation">
+       LES
+      </a>
+      implementations), in addition to unsteady flow effects. Example applications include rocket stage separation and aircraft store separation.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Waves_by_density_differences.2C_like_a_water_surface">
+       Waves by density differences, like a water surface
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Wake&amp;action=edit&amp;section=2" title="Edit section: Waves by density differences, like a water surface">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      In incompressible fluids (liquids) such as water, a
+      <a href="/wiki/Bow_wave" title="Bow wave">
+       bow
+      </a>
+      wake is created when a watercraft moves through the medium; as the medium cannot be compressed, it must be displaced instead, resulting in a wave. As with all
+      <a class="mw-redirect" href="/wiki/Wave_form" title="Wave form">
+       wave forms
+      </a>
+      , it spreads outward from the source until its
+      <a href="/wiki/Energy" title="Energy">
+       energy
+      </a>
+      is overcome or lost, usually by
+      <a href="/wiki/Friction" title="Friction">
+       friction
+      </a>
+      or
+      <a href="/wiki/Dispersion_(water_waves)" title="Dispersion (water waves)">
+       dispersion
+      </a>
+      .
+     </p>
+     <p>
+      The non-dimensional parameter of interest is the
+      <a href="/wiki/Froude_number" title="Froude number">
+       Froude number
+      </a>
+      .
+     </p>
+     <div class="thumb tmulti tnone center">
+      <div class="thumbinner" style="width:982px;max-width:982px">
+       <div class="tsingle" style="float:left;margin:1px;width:346px;max-width:346px">
+        <div class="thumbimage" style="height:217px;overflow:hidden">
+         <a class="image" href="/wiki/File:Wave_cloud.jpg">
+          <img alt="" data-file-height="1215" data-file-width="1919" height="218" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Wave_cloud.jpg/344px-Wave_cloud.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Wave_cloud.jpg/516px-Wave_cloud.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Wave_cloud.jpg/688px-Wave_cloud.jpg 2x" width="344"/>
+         </a>
+        </div>
+        <div class="thumbcaption" style="clear:left">
+         <center>
+          Wave cloud pattern in the wake of the
+          <a href="/wiki/%C3%8Ele_Amsterdam" title="Île Amsterdam">
+           Île Amsterdam
+          </a>
+          (lower left, at the "tip" of the triangular formation of clouds) in the southern
+          <a href="/wiki/Indian_Ocean" title="Indian Ocean">
+           Indian Ocean
+          </a>
+         </center>
+        </div>
+       </div>
+       <div class="tsingle" style="float:left;margin:1px;width:301px;max-width:301px">
+        <div class="thumbimage" style="height:217px;overflow:hidden">
+         <a class="image" href="/wiki/File:Cloud_Wakes_from_Juan_Fernandez_Islands.jpg">
+          <img alt="" data-file-height="1600" data-file-width="2200" height="217" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Cloud_Wakes_from_Juan_Fernandez_Islands.jpg/299px-Cloud_Wakes_from_Juan_Fernandez_Islands.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Cloud_Wakes_from_Juan_Fernandez_Islands.jpg/449px-Cloud_Wakes_from_Juan_Fernandez_Islands.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Cloud_Wakes_from_Juan_Fernandez_Islands.jpg/598px-Cloud_Wakes_from_Juan_Fernandez_Islands.jpg 2x" width="299"/>
+         </a>
+        </div>
+        <div class="thumbcaption" style="clear:left">
+         <center>
+          Cloud wakes from the
+          <a href="/wiki/Juan_Fern%C3%A1ndez_Islands" title="Juan Fernández Islands">
+           Juan Fernández Islands
+          </a>
+         </center>
+        </div>
+       </div>
+       <div class="tsingle" style="float:left;margin:1px;width:329px;max-width:329px">
+        <div class="thumbimage" style="height:217px;overflow:hidden">
+         <a class="image" href="/wiki/File:Atmospheric_bow_waves01.jpg">
+          <img alt="" data-file-height="1424" data-file-width="2144" height="217" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Atmospheric_bow_waves01.jpg/327px-Atmospheric_bow_waves01.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Atmospheric_bow_waves01.jpg/491px-Atmospheric_bow_waves01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Atmospheric_bow_waves01.jpg/654px-Atmospheric_bow_waves01.jpg 2x" width="327"/>
+         </a>
+        </div>
+        <div class="thumbcaption" style="clear:left">
+         <center>
+          Wake patterns in cloud cover over
+          <a href="/wiki/%C3%8Ele_de_la_Possession" title="Île de la Possession">
+           Possession Island
+          </a>
+          ,
+          <a href="/wiki/%C3%8Ele_de_l%27Est" title="Île de l'Est">
+           East Island
+          </a>
+          ,
+          <a class="mw-redirect" href="/wiki/Ile_aux_Cochons" title="Ile aux Cochons">
+           Ile aux Cochons
+          </a>
+          ,
+          <a href="/wiki/%C3%8Ele_des_Pingouins" title="Île des Pingouins">
+           Île des Pingouins
+          </a>
+         </center>
+        </div>
+       </div>
+       <div style="clear:left">
+       </div>
+      </div>
+     </div>
+     <h3>
+      <span class="mw-headline" id="Kelvin_wake_pattern">
+       Kelvin wake pattern
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Wake&amp;action=edit&amp;section=3" title="Edit section: Kelvin wake pattern">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Waterfowl and boats moving across the surface of water produce a wake pattern, first explained mathematically by
+      <a class="mw-redirect" href="/wiki/Lord_Kelvin" title="Lord Kelvin">
+       Lord Kelvin
+      </a>
+      and known today as the
+      <b>
+       Kelvin wake pattern
+      </b>
+      .
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+     </p>
+     <p>
+      This pattern consists of two wake lines that form the arms of a chevron, V, with the source of the wake at the vertex of the V. For sufficiently slow motion, each wake line is offset from the path of the wake source by around arcsin(1/3) = 19.47° and is made up of feathery wavelets angled at roughly 53° to the path.
+     </p>
+     <p>
+      The inside of the V (of total opening 39° as indicated above) is filled with transverse curved waves, each of which is an arc of a circle centered at a point lying on the path at a distance twice that of the arc to the wake source. This pattern is
+      <i>
+       independent of the speed and size of the wake source
+      </i>
+      over a significant range of values.
+      <sup class="reference" id="cite_ref-2">
+       <a href="#cite_note-2">
+        [2]
+       </a>
+      </sup>
+     </p>
+     <p>
+      However, the pattern changes
+      <i>
+       at high speeds
+      </i>
+      (only), viz., above a hull
+      <a href="/wiki/Froude_number" title="Froude number">
+       Froude number
+      </a>
+      of approximately 0.5. Then, as the source's speed increases, the transverse waves diminish and the points of maximum amplitude on the wavelets form a second V within the wake pattern, which grows narrower with the increased speed of the source.
+      <sup class="reference" id="cite_ref-3">
+       <a href="#cite_note-3">
+        [3]
+       </a>
+      </sup>
+     </p>
+     <p>
+      The angles in this pattern are not intrinsic properties of merely water: Any
+      <a class="mw-redirect" href="/wiki/Isentropic" title="Isentropic">
+       isentropic
+      </a>
+      and incompressible liquid with low viscosity will exhibit the
+      <i>
+       same
+      </i>
+      phenomenon. Furthermore, this phenomenon has nothing to do with turbulence. Everything discussed here is based on the linear theory of an ideal fluid, cf.
+      <a href="/wiki/Airy_wave_theory" title="Airy wave theory">
+       Airy wave theory
+      </a>
+      .
+     </p>
+     <p>
+      Parts of the pattern may be obscured by the effects of propeller wash, and tail eddies behind the boat's stern, and by the boat being a large object and not a point source. The water need not be stationary, but may be moving as in a large river, and the important consideration then is the velocity of the water relative to a boat or other object causing a wake.
+     </p>
+     <p>
+      This pattern follows from the
+      <a href="/wiki/Airy_wave_theory#Dispersion_relation" title="Airy wave theory">
+       dispersion relation of deep water waves
+      </a>
+      , which is often written as,
+     </p>
+     <dl>
+      <dd>
+       <span>
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              ω
+              <!-- ω -->
+             </mi>
+             <mo>
+              =
+             </mo>
+             <mrow class="MJX-TeXAtom-ORD">
+              <msqrt>
+               <mi>
+                g
+               </mi>
+               <mi>
+                k
+               </mi>
+              </msqrt>
+             </mrow>
+             <mo>
+              ,
+             </mo>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \omega ={\sqrt {gk}},}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\omega = \sqrt{g k}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/25f3f29c35a7aca477d0b9d71757102fbd1c6a09" style="vertical-align: -1.171ex; width:9.905ex; height:3.509ex;"/>
+       </span>
+      </dd>
+     </dl>
+     <p>
+      where
+     </p>
+     <dl>
+      <dd>
+       <span class="texhtml mvar" style="font-style:italic;">
+        g
+       </span>
+       = the strength of the
+       <a href="/wiki/Gravity" title="Gravity">
+        gravity
+       </a>
+       field
+      </dd>
+      <dd>
+       <span class="texhtml mvar" style="font-style:italic;">
+        ω
+       </span>
+       is the
+       <a href="/wiki/Angular_frequency" title="Angular frequency">
+        angular frequency
+       </a>
+       in
+       <a href="/wiki/Radian" title="Radian">
+        radians
+       </a>
+       per second
+      </dd>
+      <dd>
+       <span class="texhtml mvar" style="font-style:italic;">
+        k
+       </span>
+       =
+       <a class="mw-redirect" href="/wiki/Angular_wavenumber" title="Angular wavenumber">
+        angular wavenumber
+       </a>
+       in radians per metre
+      </dd>
+     </dl>
+     <p>
+      "Deep" means that the depth is greater than half of the wavelength. This formula implies that
+      <i>
+       the
+       <a href="/wiki/Group_velocity" title="Group velocity">
+        group velocity
+       </a>
+       of a deep water wave is half of its
+       <a href="/wiki/Phase_velocity" title="Phase velocity">
+        phase velocity
+       </a>
+      </i>
+      , which, in turn, goes as the square root of the wavelength. Two velocity parameters of importance for the wake pattern are:
+     </p>
+     <dl>
+      <dd>
+       <span class="texhtml mvar" style="font-style:italic;">
+        v
+       </span>
+       is the relative velocity of the water and the surface object that causes the wake.
+      </dd>
+      <dd>
+       <span class="texhtml mvar" style="font-style:italic;">
+        c
+       </span>
+       is the
+       <a href="/wiki/Phase_velocity" title="Phase velocity">
+        phase velocity
+       </a>
+       of a wave, varying with wave frequency.
+      </dd>
+     </dl>
+     <p>
+      As the surface object moves, it continuously generates small disturbances which are the sum of sinusoidal waves
+      <i>
+       with a wide spectrum of wavelengths
+      </i>
+      . Those waves with the longest wavelengths have
+      <a class="mw-redirect" href="/wiki/Phase_speed" title="Phase speed">
+       phase speeds
+      </a>
+      above
+      <span class="texhtml mvar" style="font-style:italic;">
+       v
+      </span>
+      and dissipate into the surrounding water and are not easily observed. Other waves with phase speeds at or below
+      <span class="texhtml mvar" style="font-style:italic;">
+       v
+      </span>
+      , however, are amplified through
+      <a class="mw-redirect" href="/wiki/Constructive_interference" title="Constructive interference">
+       constructive interference
+      </a>
+      and form visible
+      <a class="mw-redirect" href="/wiki/Shock_waves" title="Shock waves">
+       shock waves
+      </a>
+      , stationary in position w.r.t. the boat.
+     </p>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:302px;">
+       <a class="image" href="/wiki/File:Bodensee_at_Lindau_-_DSC06962.JPG">
+        <img alt="" class="thumbimage" data-file-height="3240" data-file-width="4320" height="225" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Bodensee_at_Lindau_-_DSC06962.JPG/300px-Bodensee_at_Lindau_-_DSC06962.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Bodensee_at_Lindau_-_DSC06962.JPG/450px-Bodensee_at_Lindau_-_DSC06962.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Bodensee_at_Lindau_-_DSC06962.JPG/600px-Bodensee_at_Lindau_-_DSC06962.JPG 2x" width="300"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Bodensee_at_Lindau_-_DSC06962.JPG" title="Enlarge">
+         </a>
+        </div>
+        Classic duck wake
+       </div>
+      </div>
+     </div>
+     <p>
+      The angle
+      <span class="texhtml mvar" style="font-style:italic;">
+       θ
+      </span>
+      between the phase
+      <a href="/wiki/Shock_wave" title="Shock wave">
+       shock wave
+      </a>
+      front and the path of the object is
+      <span class="texhtml mvar" style="font-style:italic;">
+       θ
+      </span>
+      =
+      <span class="texhtml">
+       arcsin(
+       <i>
+        c/v
+       </i>
+       )
+      </span>
+      . If
+      <i>
+       c/v
+      </i>
+      &gt; 1 or &lt; −1, no later waves can catch up with earlier waves and no shockwave forms.
+     </p>
+     <p>
+      In deep water,
+      <a class="mw-redirect" href="/wiki/Shock_waves" title="Shock waves">
+       shock waves
+      </a>
+      form even from slow-moving sources, because waves with short enough wavelengths move slower. These shock waves are at sharper angles than one would naively expect, because it is
+      <a href="/wiki/Group_velocity" title="Group velocity">
+       group velocity
+      </a>
+      that dictates the area of
+      <a class="mw-redirect" href="/wiki/Constructive_interference" title="Constructive interference">
+       constructive interference
+      </a>
+      and, in deep water, the
+      <a href="/wiki/Group_velocity" title="Group velocity">
+       group velocity
+      </a>
+      is half of the
+      <a href="/wiki/Phase_velocity" title="Phase velocity">
+       phase velocity
+      </a>
+      .
+     </p>
+     <p>
+      All shock waves, that each by itself would have had an angle between 33° and 72°, are compressed into a narrow band of wake with angles between 15° and 19°,
+      <i>
+       with the strongest constructive interference at the outer edge
+      </i>
+      (angle arcsin(1/3) = 19.47°), placing the two arms of the V in the celebrated
+      <b>
+       Kelvin wake pattern
+      </b>
+      .
+     </p>
+     <p>
+      A concise geometric construction
+      <sup class="reference" id="cite_ref-4">
+       <a href="#cite_note-4">
+        [4]
+       </a>
+      </sup>
+      demonstrates that, strikingly, this group shock angle w.r.t. the path of the boat, 19.47°,
+      <i>
+       for any and all of the above
+      </i>
+      <span class="texhtml mvar" style="font-style:italic;">
+       θ
+      </span>
+      , is actually
+      <i>
+       independent of
+      </i>
+      <span class="texhtml mvar" style="font-style:italic;">
+       v
+      </span>
+      ,
+      <span class="texhtml mvar" style="font-style:italic;">
+       c
+      </span>
+      , and
+      <span class="texhtml mvar" style="font-style:italic;">
+       g
+      </span>
+      ; it merely relies on the fact that the
+      <a href="/wiki/Group_velocity" title="Group velocity">
+       group velocity
+      </a>
+      is half of the
+      <a href="/wiki/Phase_velocity" title="Phase velocity">
+       phase velocity
+      </a>
+      <span class="texhtml mvar" style="font-style:italic;">
+       c
+      </span>
+      . On any planet, slow-swimming objects have "effective
+      <a href="/wiki/Mach_number" title="Mach number">
+       Mach number
+      </a>
+      " 3!
+     </p>
+     <div class="NavFrame collapsed" style="border:none;">
+      <div class="NavHead" style="background:transparent;text-align:left;background:aqua;">
+       Concise argument for the universal opening of 39° of the slow-swimmers' Kelvin wake
+      </div>
+      <div class="NavContent" style="background:transparent;text-align:left;">
+       <div class="thumb tright">
+        <div class="thumbinner" style="width:222px;">
+         <a class="image" href="/wiki/File:Envelope_of_the_disturbance_emitted_at_successive_times.svg">
+          <img alt="" class="thumbimage" data-file-height="351" data-file-width="504" height="153" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Envelope_of_the_disturbance_emitted_at_successive_times.svg/220px-Envelope_of_the_disturbance_emitted_at_successive_times.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Envelope_of_the_disturbance_emitted_at_successive_times.svg/330px-Envelope_of_the_disturbance_emitted_at_successive_times.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Envelope_of_the_disturbance_emitted_at_successive_times.svg/440px-Envelope_of_the_disturbance_emitted_at_successive_times.svg.png 2x" width="220"/>
+         </a>
+         <div class="thumbcaption">
+          <div class="magnify">
+           <a class="internal" href="/wiki/File:Envelope_of_the_disturbance_emitted_at_successive_times.svg" title="Enlarge">
+           </a>
+          </div>
+          Envelope of the disturbance emitted at successive times, fig 12.3 p.410 of G.B. Whitham (1974) Linear and Nonlinear Waves. The circles represent wavefronts.
+         </div>
+        </div>
+       </div>
+       <p>
+        For slow swimmers, low Froude number, the Lighthill−Whitham geometric argument that the opening of the Kelvin chevron (wedge, V pattern) is universal goes as follows. Consider a boat moving from right to left with constant speed
+        <i>
+         v
+        </i>
+        , emitting waves of varying wavelength, and thus wavenumber
+        <span class="texhtml mvar" style="font-style:italic;">
+         k
+        </span>
+        and phase velocity
+        <span class="texhtml">
+         <i>
+          c
+         </i>
+         (
+         <i>
+          k
+         </i>
+         )
+        </span>
+        , of interest when &lt;
+        <i>
+         v
+        </i>
+        for a shock wave (cf., e.g.,
+        <a href="/wiki/Sonic_boom" title="Sonic boom">
+         Sonic boom
+        </a>
+        or
+        <a href="/wiki/Cherenkov_radiation" title="Cherenkov radiation">
+         Cherenkov radiation
+        </a>
+        ). Equivalently, and more intuitively, fix the position of the boat and have the water flow in the opposite direction, like a piling in a river.
+       </p>
+       <p>
+        Focus first on a given
+        <span class="texhtml mvar" style="font-style:italic;">
+         k
+        </span>
+        , emitting (phase) wavefronts whose stationary position w.r.t. the boat assemble to the standard shock wedge tangent to all of them, cf. Fig.12.3.
+       </p>
+       <p>
+        As indicated above, the openings of these chevrons vary with wavenumber, the angle
+        <span class="texhtml mvar" style="font-style:italic;">
+         θ
+        </span>
+        between the phase shock wavefront and the path of the boat (the water) being
+        <span class="texhtml mvar" style="font-style:italic;">
+         θ
+        </span>
+        = arcsin(
+        <span class="texhtml mvar" style="font-style:italic;">
+         c
+        </span>
+        /
+        <i>
+         v
+        </i>
+        ) ≡
+        <span class="texhtml">
+         <i>
+          π
+         </i>
+         /2 −
+         <i>
+          ψ
+         </i>
+        </span>
+        . Evidently,
+        <span class="texhtml mvar" style="font-style:italic;">
+         ψ
+        </span>
+        increases with
+        <span class="texhtml mvar" style="font-style:italic;">
+         k
+        </span>
+        . However, these phase chevrons are not visible: it is their corresponding
+        <b>
+         group wave manifestations which are observed
+        </b>
+        .
+       </p>
+       <div class="thumb tright">
+        <div class="thumbinner" style="width:222px;">
+         <a class="image" href="/wiki/File:Construction_of_wave_elements_in_ship_wave_problem.svg">
+          <img alt="" class="thumbimage" data-file-height="268" data-file-width="451" height="131" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Construction_of_wave_elements_in_ship_wave_problem.svg/220px-Construction_of_wave_elements_in_ship_wave_problem.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Construction_of_wave_elements_in_ship_wave_problem.svg/330px-Construction_of_wave_elements_in_ship_wave_problem.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Construction_of_wave_elements_in_ship_wave_problem.svg/440px-Construction_of_wave_elements_in_ship_wave_problem.svg.png 2x" width="220"/>
+         </a>
+         <div class="thumbcaption">
+          <div class="magnify">
+           <a class="internal" href="/wiki/File:Construction_of_wave_elements_in_ship_wave_problem.svg" title="Enlarge">
+           </a>
+          </div>
+          Envelope of the disturbance emitted at successive times, fig 12.2 p.409 of G.B. Whitham (1974) Linear and Nonlinear Waves. Here
+          <span class="texhtml mvar" style="font-style:italic;">
+           ψ
+          </span>
+          is the angle between the path of the wave source and the direction of wave propagation (the wave vector
+          <span class="texhtml mvar" style="font-style:italic;">
+           k
+          </span>
+          ), and the circles represent wavefronts.
+         </div>
+        </div>
+       </div>
+       <p>
+        Consider one of the phase circles of Fig.12.3 for a particular
+        <span class="texhtml mvar" style="font-style:italic;">
+         k
+        </span>
+        , corresponding to the time
+        <span class="texhtml mvar" style="font-style:italic;">
+         t
+        </span>
+        in the past, Fig.12.2. Its radius is
+        <i>
+         QS
+        </i>
+        , and the phase chevron side is the tangent
+        <i>
+         PS
+        </i>
+        to it. Evidently,
+        <i>
+         PQ
+        </i>
+        =
+        <span class="texhtml">
+         <i>
+          vt
+         </i>
+        </span>
+        and
+        <i>
+         SQ
+        </i>
+        =
+        <span class="texhtml">
+         <i>
+          ct
+         </i>
+        </span>
+        =
+        <span class="texhtml">
+         <i>
+          vt
+         </i>
+         cos
+         <i>
+          ψ
+         </i>
+        </span>
+        , as the right angle
+        <i>
+         PSQ
+        </i>
+        places
+        <i>
+         S
+        </i>
+        on the semicircle of diameter
+        <i>
+         PQ
+        </i>
+        .
+       </p>
+       <p>
+        Since the group velocity is half the phase velocity for any and all
+        <span class="texhtml mvar" style="font-style:italic;">
+         k
+        </span>
+        , however, the visible (group) disturbance point corresponding to
+        <i>
+         S
+        </i>
+        will be
+        <i>
+         T
+        </i>
+        , the midpoint of
+        <i>
+         SQ
+        </i>
+        . Similarly, it lies on a semicircle now centered on
+        <i>
+         R
+        </i>
+        , where, manifestly,
+        <i>
+         RQ
+        </i>
+        =
+        <i>
+         PQ
+        </i>
+        /4, an effective group wavefront emitted from
+        <i>
+         R
+        </i>
+        , with radius
+        <i>
+         v
+        </i>
+        <span class="texhtml mvar" style="font-style:italic;">
+         t
+        </span>
+        /4 now.
+       </p>
+       <p>
+        Significantly, the resulting wavefront angle with the boat's path, the angle of the tangent from
+        <i>
+         P
+        </i>
+        to this smaller circle, obviously has a sine of
+        <i>
+         TR/PR
+        </i>
+        =1/3, for any and all
+        <span class="texhtml mvar" style="font-style:italic;">
+         k
+        </span>
+        ,
+        <span class="texhtml mvar" style="font-style:italic;">
+         c
+        </span>
+        ,
+        <span class="texhtml mvar" style="font-style:italic;">
+         ψ
+        </span>
+        ,
+        <span class="texhtml mvar" style="font-style:italic;">
+         g
+        </span>
+        , etc: Strikingly, virtually all parameters of the problem have dropped out, except for the deep-water group-to-phase-velocity relation! Note the (highly notional) effective group disturbance emitter moves slower, at 3
+        <i>
+         v
+        </i>
+        /4.
+       </p>
+       <p>
+        Thus, summing over all relevant
+        <span class="texhtml mvar" style="font-style:italic;">
+         k
+        </span>
+        and
+        <span class="texhtml mvar" style="font-style:italic;">
+         t
+        </span>
+        s to flesh out an effective Fig.12.3 shock pattern, the universal Kelvin wake pattern arises: the full visible chevron angle is twice that, 2arcsin(1/3) ≈ 39°.
+       </p>
+      </div>
+     </div>
+     <p>
+      The
+      <a class="mw-redirect" href="/wiki/Wavefronts" title="Wavefronts">
+       wavefronts
+      </a>
+      of the wavelets in the wake are at 53°, which is roughly the average of 33° and 72°. The wave components with would-be shock wave angles between 73° and 90° dominate the interior of the V. They end up half-way between the point of generation and the current location of the wake source. This explains the curvature of the arcs.
+     </p>
+     <p>
+      Those very short waves with would-be shock wave angles below 33° lack a mechanism to reinforce their amplitudes through
+      <a class="mw-redirect" href="/wiki/Constructive_interference" title="Constructive interference">
+       constructive interference
+      </a>
+      and are usually seen as small ripples on top of the interior transverse waves.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Gallery">
+       Gallery
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Wake&amp;action=edit&amp;section=4" title="Edit section: Gallery">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul class="gallery mw-gallery-traditional">
+      <li class="gallerybox" style="width: 155px">
+       <div style="width: 155px">
+        <div class="thumb" style="width: 150px;">
+         <div style="margin:30px auto;">
+          <a class="image" href="/wiki/File:070107-Konigssee-dramaticwake.jpg">
+           <img alt="" data-file-height="2304" data-file-width="3072" height="90" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/070107-Konigssee-dramaticwake.jpg/120px-070107-Konigssee-dramaticwake.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/070107-Konigssee-dramaticwake.jpg/180px-070107-Konigssee-dramaticwake.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/070107-Konigssee-dramaticwake.jpg/240px-070107-Konigssee-dramaticwake.jpg 2x" width="120"/>
+          </a>
+         </div>
+        </div>
+        <div class="gallerytext">
+         <p>
+          Wake of a boat crossing an alpine lake (Koenigsee)
+         </p>
+        </div>
+       </div>
+      </li>
+      <li class="gallerybox" style="width: 155px">
+       <div style="width: 155px">
+        <div class="thumb" style="width: 150px;">
+         <div style="margin:27.5px auto;">
+          <a class="image" href="/wiki/File:Bugwinkel39.jpg">
+           <img alt="" data-file-height="368" data-file-width="465" height="95" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bugwinkel39.jpg/120px-Bugwinkel39.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bugwinkel39.jpg/180px-Bugwinkel39.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bugwinkel39.jpg/240px-Bugwinkel39.jpg 2x" width="120"/>
+          </a>
+         </div>
+        </div>
+        <div class="gallerytext">
+         <p>
+          39° ship wake
+         </p>
+        </div>
+       </div>
+      </li>
+      <li class="gallerybox" style="width: 155px">
+       <div style="width: 155px">
+        <div class="thumb" style="width: 150px;">
+         <div style="margin:32px auto;">
+          <a class="image" href="/wiki/File:Wake.avon.gorge.2boats.arp.750pix.jpg">
+           <img alt="" data-file-height="536" data-file-width="750" height="86" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Wake.avon.gorge.2boats.arp.750pix.jpg/120px-Wake.avon.gorge.2boats.arp.750pix.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Wake.avon.gorge.2boats.arp.750pix.jpg/180px-Wake.avon.gorge.2boats.arp.750pix.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Wake.avon.gorge.2boats.arp.750pix.jpg/240px-Wake.avon.gorge.2boats.arp.750pix.jpg 2x" width="120"/>
+          </a>
+         </div>
+        </div>
+        <div class="gallerytext">
+         <p>
+          The wakes of two slow-moving boats. The nearer boat has made a striking series of ruler-straight waves
+         </p>
+        </div>
+       </div>
+      </li>
+      <li class="gallerybox" style="width: 155px">
+       <div style="width: 155px">
+        <div class="thumb" style="width: 150px;">
+         <div style="margin:31.5px auto;">
+          <a class="image" href="/wiki/File:Powwave1908s.png">
+           <img alt="" data-file-height="276" data-file-width="379" height="87" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Powwave1908s.png/120px-Powwave1908s.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Powwave1908s.png/180px-Powwave1908s.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Powwave1908s.png/240px-Powwave1908s.png 2x" width="120"/>
+          </a>
+         </div>
+        </div>
+        <div class="gallerytext">
+         <p>
+          John Harvard Biles: "The Design and Construction of Ships, Vol. II: Stability, Resistance, Propulsion and Oscillation of Ships" (1908)
+         </p>
+        </div>
+       </div>
+      </li>
+      <li class="gallerybox" style="width: 155px">
+       <div style="width: 155px">
+        <div class="thumb" style="width: 150px;">
+         <div style="margin:37.5px auto;">
+          <a class="image" href="/wiki/File:Aktersvall1.jpg">
+           <img alt="" data-file-height="2346" data-file-width="3744" height="75" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Aktersvall1.jpg/120px-Aktersvall1.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Aktersvall1.jpg/180px-Aktersvall1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Aktersvall1.jpg/240px-Aktersvall1.jpg 2x" width="120"/>
+          </a>
+         </div>
+        </div>
+        <div class="gallerytext">
+         <p>
+          Wake from a fast, small motorboat with an
+          <a href="/wiki/Outboard_motor" title="Outboard motor">
+           outboard motor
+          </a>
+         </p>
+        </div>
+       </div>
+      </li>
+      <li class="gallerybox" style="width: 155px">
+       <div style="width: 155px">
+        <div class="thumb" style="width: 150px;">
+         <div style="margin:35.5px auto;">
+          <a class="image" href="/wiki/File:CGI_Wake_in_Pond.jpg">
+           <img alt="" data-file-height="552" data-file-width="840" height="79" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/CGI_Wake_in_Pond.jpg/120px-CGI_Wake_in_Pond.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/CGI_Wake_in_Pond.jpg/180px-CGI_Wake_in_Pond.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/CGI_Wake_in_Pond.jpg/240px-CGI_Wake_in_Pond.jpg 2x" width="120"/>
+          </a>
+         </div>
+        </div>
+        <div class="gallerytext">
+         <p>
+          Wake simulation
+         </p>
+        </div>
+       </div>
+      </li>
+      <li class="gallerybox" style="width: 155px">
+       <div style="width: 155px">
+        <div class="thumb" style="width: 150px;">
+         <div style="margin:50.5px auto;">
+          <a class="image" href="/wiki/File:Maple_density_plot_of_Kelvin_Wake.png">
+           <img alt="" data-file-height="400" data-file-width="976" height="49" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Maple_density_plot_of_Kelvin_Wake.png/120px-Maple_density_plot_of_Kelvin_Wake.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Maple_density_plot_of_Kelvin_Wake.png/180px-Maple_density_plot_of_Kelvin_Wake.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Maple_density_plot_of_Kelvin_Wake.png/240px-Maple_density_plot_of_Kelvin_Wake.png 2x" width="120"/>
+          </a>
+         </div>
+        </div>
+        <div class="gallerytext">
+         <p>
+          Density plot of Kelvin Wake integral
+         </p>
+        </div>
+       </div>
+      </li>
+      <li class="gallerybox" style="width: 155px">
+       <div style="width: 155px">
+        <div class="thumb" style="width: 150px;">
+         <div style="margin:41px auto;">
+          <div class="PopUpMediaTransform" id="mwe_player_0" style="width:120px;" videopayload='&lt;div class="mediaContainer" style="width:848px"&gt;&lt;video id="mwe_player_1" poster="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bergeshoevede_GMS_Silja_2_Decin_CZ_ENI_08451019_01.webmhd.webm/848px--Bergeshoevede_GMS_Silja_2_Decin_CZ_ENI_08451019_01.webmhd.webm.jpg" controls="" preload="none" autoplay="" style="width:848px;height:480px" class="kskin" data-durationhint="94.845" data-startoffset="0" data-mwtitle="Bergeshoevede_GMS_Silja_2_Decin_CZ_ENI_08451019_01.webmhd.webm" data-mwprovider="wikimediacommons"&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/5/56/Bergeshoevede_GMS_Silja_2_Decin_CZ_ENI_08451019_01.webmhd.webm/Bergeshoevede_GMS_Silja_2_Decin_CZ_ENI_08451019_01.webmhd.webm.480p.ogv" type="video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;" data-title="SD Ogg video (480P)" data-shorttitle="Ogg 480P" data-transcodekey="480p.ogv" data-width="848" data-height="480" data-bandwidth="1092720" data-framerate="23.976"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/5/56/Bergeshoevede_GMS_Silja_2_Decin_CZ_ENI_08451019_01.webmhd.webm/Bergeshoevede_GMS_Silja_2_Decin_CZ_ENI_08451019_01.webmhd.webm.480p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="SD WebM (480P)" data-shorttitle="WebM 480P" data-transcodekey="480p.webm" data-width="848" data-height="480" data-bandwidth="1093376" data-framerate="23.976"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/5/56/Bergeshoevede_GMS_Silja_2_Decin_CZ_ENI_08451019_01.webmhd.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Original WebM file, 1,920 × 1,088 (3.52 Mbps)" data-shorttitle="WebM source" data-width="1920" data-height="1088" data-bandwidth="3516565" data-framerate="23.976"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/5/56/Bergeshoevede_GMS_Silja_2_Decin_CZ_ENI_08451019_01.webmhd.webm/Bergeshoevede_GMS_Silja_2_Decin_CZ_ENI_08451019_01.webmhd.webm.720p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="HD WebM (720P)" data-shorttitle="WebM 720P" data-transcodekey="720p.webm" data-width="1270" data-height="720" data-bandwidth="8092904" data-framerate="23.976"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/5/56/Bergeshoevede_GMS_Silja_2_Decin_CZ_ENI_08451019_01.webmhd.webm/Bergeshoevede_GMS_Silja_2_Decin_CZ_ENI_08451019_01.webmhd.webm.1080p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Full HD WebM (1080P)" data-shorttitle="WebM 1080P" data-transcodekey="1080p.webm" data-width="1906" data-height="1080" data-bandwidth="13293048" data-framerate="23.976"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/5/56/Bergeshoevede_GMS_Silja_2_Decin_CZ_ENI_08451019_01.webmhd.webm/Bergeshoevede_GMS_Silja_2_Decin_CZ_ENI_08451019_01.webmhd.webm.160p.ogv" type="video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;" data-title="Low bandwidth Ogg video (160P)" data-shorttitle="Ogg 160P" data-transcodekey="160p.ogv" data-width="282" data-height="160" data-bandwidth="200328" data-framerate="15"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/5/56/Bergeshoevede_GMS_Silja_2_Decin_CZ_ENI_08451019_01.webmhd.webm/Bergeshoevede_GMS_Silja_2_Decin_CZ_ENI_08451019_01.webmhd.webm.360p.ogv" type="video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;" data-title="Ogg video (360P)" data-shorttitle="Ogg 360P" data-transcodekey="360p.ogv" data-width="636" data-height="360" data-bandwidth="577888" data-framerate="23.976"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/5/56/Bergeshoevede_GMS_Silja_2_Decin_CZ_ENI_08451019_01.webmhd.webm/Bergeshoevede_GMS_Silja_2_Decin_CZ_ENI_08451019_01.webmhd.webm.360p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="WebM (360P)" data-shorttitle="WebM 360P" data-transcodekey="360p.webm" data-width="636" data-height="360" data-bandwidth="578864" data-framerate="23.976"/&gt;&lt;/video&gt;&lt;/div&gt;'>
+           <img alt="File:Bergeshoevede GMS Silja 2 Decin CZ ENI 08451019 01.webmhd.webm" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bergeshoevede_GMS_Silja_2_Decin_CZ_ENI_08451019_01.webmhd.webm/120px--Bergeshoevede_GMS_Silja_2_Decin_CZ_ENI_08451019_01.webmhd.webm.jpg" style="width:120px;height:68px"/>
+           <a href="//upload.wikimedia.org/wikipedia/commons/5/56/Bergeshoevede_GMS_Silja_2_Decin_CZ_ENI_08451019_01.webmhd.webm" target="new" title="Play media">
+            <span class="play-btn-large">
+             <span class="mw-tmh-playtext">
+              Play media
+             </span>
+            </span>
+           </a>
+          </div>
+         </div>
+        </div>
+        <div class="gallerytext">
+         <p>
+          Video of barge wake
+         </p>
+        </div>
+       </div>
+      </li>
+      <li class="gallerybox" style="width: 155px">
+       <div style="width: 155px">
+        <div class="thumb" style="width: 150px;">
+         <div style="margin:41px auto;">
+          <div class="PopUpMediaTransform" id="mwe_player_2" style="width:120px;" videopayload='&lt;div class="mediaContainer" style="width:854px"&gt;&lt;video id="mwe_player_3" poster="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Wake_behind_boat.gk.webm/854px--Wake_behind_boat.gk.webm.jpg" controls="" preload="none" autoplay="" style="width:854px;height:480px" class="kskin" data-durationhint="6.275" data-startoffset="0" data-mwtitle="Wake_behind_boat.gk.webm" data-mwprovider="wikimediacommons"&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/0/04/Wake_behind_boat.gk.webm/Wake_behind_boat.gk.webm.480p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="SD WebM (480P)" data-shorttitle="WebM 480P" data-transcodekey="480p.webm" data-width="854" data-height="480" data-bandwidth="1067624" data-framerate="29.851"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/0/04/Wake_behind_boat.gk.webm/Wake_behind_boat.gk.webm.480p.ogv" type="video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;" data-title="SD Ogg video (480P)" data-shorttitle="Ogg 480P" data-transcodekey="480p.ogv" data-width="854" data-height="480" data-bandwidth="2094880" data-framerate="29.851"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/0/04/Wake_behind_boat.gk.webm/Wake_behind_boat.gk.webm.720p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="HD WebM (720P)" data-shorttitle="WebM 720P" data-transcodekey="720p.webm" data-width="1280" data-height="720" data-bandwidth="2107240" data-framerate="29.851"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/0/04/Wake_behind_boat.gk.webm/Wake_behind_boat.gk.webm.1080p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Full HD WebM (1080P)" data-shorttitle="WebM 1080P" data-transcodekey="1080p.webm" data-width="1920" data-height="1080" data-bandwidth="4128816" data-framerate="29.851"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/0/04/Wake_behind_boat.gk.webm/Wake_behind_boat.gk.webm.720p.ogv" type="video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;" data-title="HD Ogg video (720P)" data-shorttitle="Ogg 720P" data-transcodekey="720p.ogv" data-width="1280" data-height="720" data-bandwidth="5340384" data-framerate="29.851"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/0/04/Wake_behind_boat.gk.webm/Wake_behind_boat.gk.webm.1080p.ogv" type="video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;" data-title="Full HD Ogg video (1080P)" data-shorttitle="Ogg 1080P" data-transcodekey="1080p.ogv" data-width="1920" data-height="1080" data-bandwidth="11803264" data-framerate="29.851"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/0/04/Wake_behind_boat.gk.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Original WebM file, 1,920 × 1,080 (15.99 Mbps)" data-shorttitle="WebM source" data-width="1920" data-height="1080" data-bandwidth="15991243" data-framerate="29.851"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/0/04/Wake_behind_boat.gk.webm/Wake_behind_boat.gk.webm.160p.ogv" type="video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;" data-title="Low bandwidth Ogg video (160P)" data-shorttitle="Ogg 160P" data-transcodekey="160p.ogv" data-width="284" data-height="160" data-bandwidth="209544" data-framerate="15"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/0/04/Wake_behind_boat.gk.webm/Wake_behind_boat.gk.webm.160p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Low bandwidth WebM (160P)" data-shorttitle="WebM 160P" data-transcodekey="160p.webm" data-width="284" data-height="160" data-bandwidth="215408" data-framerate="29.851"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/0/04/Wake_behind_boat.gk.webm/Wake_behind_boat.gk.webm.240p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Small WebM (240P)" data-shorttitle="WebM 240P" data-transcodekey="240p.webm" data-width="426" data-height="240" data-bandwidth="320048" data-framerate="29.851"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/0/04/Wake_behind_boat.gk.webm/Wake_behind_boat.gk.webm.240p.ogv" type="video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;" data-title="Small Ogg video (240P)" data-shorttitle="Ogg 240P" data-transcodekey="240p.ogv" data-width="426" data-height="240" data-bandwidth="568096" data-framerate="29.851"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/0/04/Wake_behind_boat.gk.webm/Wake_behind_boat.gk.webm.360p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="WebM (360P)" data-shorttitle="WebM 360P" data-transcodekey="360p.webm" data-width="640" data-height="360" data-bandwidth="571096" data-framerate="29.851"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/0/04/Wake_behind_boat.gk.webm/Wake_behind_boat.gk.webm.360p.ogv" type="video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;" data-title="Ogg video (360P)" data-shorttitle="Ogg 360P" data-transcodekey="360p.ogv" data-width="640" data-height="360" data-bandwidth="1082896" data-framerate="29.851"/&gt;&lt;/video&gt;&lt;/div&gt;'>
+           <img alt="File:Wake behind boat.gk.webm" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Wake_behind_boat.gk.webm/120px--Wake_behind_boat.gk.webm.jpg" style="width:120px;height:68px"/>
+           <a href="//upload.wikimedia.org/wikipedia/commons/0/04/Wake_behind_boat.gk.webm" target="new" title="Play media">
+            <span class="play-btn-large">
+             <span class="mw-tmh-playtext">
+              Play media
+             </span>
+            </span>
+           </a>
+          </div>
+         </div>
+        </div>
+        <div class="gallerytext">
+         <p>
+          Wake behind a large motorboat
+         </p>
+        </div>
+       </div>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="Other_effects">
+       Other effects
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Wake&amp;action=edit&amp;section=5" title="Edit section: Other effects">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The above describes an ideal wake, where the body's means of propulsion has no other effect on the water. In practice the wave pattern between the V-shaped wavefronts is usually mixed with the effects of propeller backwash and eddying behind the boat's (usually square-ended) stern.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Recreation">
+       Recreation
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Wake&amp;action=edit&amp;section=6" title="Edit section: Recreation">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      "No wake zones" may prohibit wakes in
+      <a class="mw-redirect" href="/wiki/Marinas" title="Marinas">
+       marinas
+      </a>
+      , near moorings and within some distance of shore
+      <sup class="reference" id="cite_ref-5">
+       <a href="#cite_note-5">
+        [5]
+       </a>
+      </sup>
+      in order to facilitate recreation by other boats and reduce the damage wakes cause. Powered
+      <a href="/wiki/Narrowboat" title="Narrowboat">
+       narrowboats
+      </a>
+      on British canals are not permitted to create a breaking wash (a wake large enough to create a breaking wave) along the banks, as this erodes them. This rule normally restricts these vessels to 4 statute miles per hour or less.
+     </p>
+     <p>
+      Wakes are occasionally used recreationally. Swimmers, people riding personal watercraft, and aquatic mammals such as dolphins can ride the leading edge of a wake. In the sport of wakeboarding the wake is used as a jump. The wake is also used to propel a surfer in the sport of wakesurfing. In the sport of
+      <a href="/wiki/Water_polo" title="Water polo">
+       water polo
+      </a>
+      , the ball carrier can swim while advancing the ball, propelled ahead with the wake created by alternating armstrokes in
+      <a class="mw-redirect" href="/wiki/Crawl_stroke" title="Crawl stroke">
+       crawl stroke
+      </a>
+      , a technique known as
+      <a href="/wiki/Dribbling" title="Dribbling">
+       dribbling
+      </a>
+      .
+     </p>
+     <h3>
+      <span class="mw-headline" id="Image_gallery">
+       Image gallery
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Wake&amp;action=edit&amp;section=7" title="Edit section: Image gallery">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <ul class="gallery mw-gallery-traditional">
+      <li class="gallerybox" style="width: 155px">
+       <div style="width: 155px">
+        <div class="thumb" style="width: 150px;">
+         <div style="margin:42px auto;">
+          <a class="image" href="/wiki/File:Surfer_about_to_catch_the_wake_from_a_ship.png">
+           <img alt="" data-file-height="657" data-file-width="1200" height="66" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Surfer_about_to_catch_the_wake_from_a_ship.png/120px-Surfer_about_to_catch_the_wake_from_a_ship.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Surfer_about_to_catch_the_wake_from_a_ship.png/180px-Surfer_about_to_catch_the_wake_from_a_ship.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Surfer_about_to_catch_the_wake_from_a_ship.png/240px-Surfer_about_to_catch_the_wake_from_a_ship.png 2x" width="120"/>
+          </a>
+         </div>
+        </div>
+        <div class="gallerytext">
+         <p>
+          Germany's only consistent surf spot is a giant wake from a ship
+         </p>
+        </div>
+       </div>
+      </li>
+      <li class="gallerybox" style="width: 155px">
+       <div style="width: 155px">
+        <div class="thumb" style="width: 150px;">
+         <div style="margin:30px auto;">
+          <a class="image" href="/wiki/File:Sunseeker_Wake.JPG">
+           <img alt="" data-file-height="1536" data-file-width="2048" height="90" src="//upload.wikimedia.org/wikipedia/en/thumb/b/bc/Sunseeker_Wake.JPG/120px-Sunseeker_Wake.JPG" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/bc/Sunseeker_Wake.JPG/180px-Sunseeker_Wake.JPG 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/bc/Sunseeker_Wake.JPG/240px-Sunseeker_Wake.JPG 2x" width="120"/>
+          </a>
+         </div>
+        </div>
+        <div class="gallerytext">
+         <p>
+          Wake from a fast motor yacht on the
+          <a href="/wiki/Indian_River_(Florida)" title="Indian River (Florida)">
+           Indian River
+          </a>
+          looking at the
+          <a class="mw-redirect" href="/wiki/17th_Street_Bridge" title="17th Street Bridge">
+           17th Street Bridge
+          </a>
+         </p>
+        </div>
+       </div>
+      </li>
+      <li class="gallerybox" style="width: 155px">
+       <div style="width: 155px">
+        <div class="thumb" style="width: 150px;">
+         <div style="margin:30px auto;">
+          <a class="image" href="/wiki/File:Wake_(Kilwater)_behind_a_ferry.jpg">
+           <img alt="" data-file-height="768" data-file-width="1024" height="90" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Wake_%28Kilwater%29_behind_a_ferry.jpg/120px-Wake_%28Kilwater%29_behind_a_ferry.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Wake_%28Kilwater%29_behind_a_ferry.jpg/180px-Wake_%28Kilwater%29_behind_a_ferry.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Wake_%28Kilwater%29_behind_a_ferry.jpg/240px-Wake_%28Kilwater%29_behind_a_ferry.jpg 2x" width="120"/>
+          </a>
+         </div>
+        </div>
+        <div class="gallerytext">
+         <p>
+          Wake behind a
+          <a href="/wiki/Ferry" title="Ferry">
+           ferry
+          </a>
+          in the
+          <a href="/wiki/Baltic_Sea" title="Baltic Sea">
+           Baltic Sea
+          </a>
+         </p>
+        </div>
+       </div>
+      </li>
+      <li class="gallerybox" style="width: 155px">
+       <div style="width: 155px">
+        <div class="thumb" style="width: 150px;">
+         <div style="margin:30px auto;">
+          <a class="image" href="/wiki/File:Starr_021108-0070_returning_from_Molokini_-_wake_(November_2002).jpg">
+           <img alt="" data-file-height="1200" data-file-width="1600" height="90" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Starr_021108-0070_returning_from_Molokini_-_wake_%28November_2002%29.jpg/120px-Starr_021108-0070_returning_from_Molokini_-_wake_%28November_2002%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Starr_021108-0070_returning_from_Molokini_-_wake_%28November_2002%29.jpg/180px-Starr_021108-0070_returning_from_Molokini_-_wake_%28November_2002%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Starr_021108-0070_returning_from_Molokini_-_wake_%28November_2002%29.jpg/240px-Starr_021108-0070_returning_from_Molokini_-_wake_%28November_2002%29.jpg 2x" width="120"/>
+          </a>
+         </div>
+        </div>
+        <div class="gallerytext">
+         <p>
+          Wake of a boat in the
+          <a href="/wiki/Hawaii" title="Hawaii">
+           Hawaiian Islands
+          </a>
+         </p>
+        </div>
+       </div>
+      </li>
+      <li class="gallerybox" style="width: 155px">
+       <div style="width: 155px">
+        <div class="thumb" style="width: 150px;">
+         <div style="margin:37.5px auto;">
+          <a class="image" href="/wiki/File:Large_engine_boat_wake.jpg">
+           <img alt="" data-file-height="1288" data-file-width="2048" height="75" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Large_engine_boat_wake.jpg/120px-Large_engine_boat_wake.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Large_engine_boat_wake.jpg/180px-Large_engine_boat_wake.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Large_engine_boat_wake.jpg/240px-Large_engine_boat_wake.jpg 2x" width="120"/>
+          </a>
+         </div>
+        </div>
+        <div class="gallerytext">
+         <p>
+          Wake of a ferryboat just off British Columbia, Canada.
+         </p>
+        </div>
+       </div>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Wake&amp;action=edit&amp;section=8" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a href="/wiki/Shock_wave" title="Shock wave">
+        Shock wave
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Wake_turbulence" title="Wake turbulence">
+        Wake turbulence
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Wakeboarding" title="Wakeboarding">
+        Wakeboarding
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Slipstream" title="Slipstream">
+        Slipstream
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Wakesurfing" title="Wakesurfing">
+        Wakesurfing
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Bow_shock_(aerodynamics)" title="Bow shock (aerodynamics)">
+        Bow shock (aerodynamics)
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Wake&amp;action=edit&amp;section=9" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-1">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         William Thomson (1887)
+         <a class="external text" href="https://books.google.com/books?id=Q84-AQAAMAAJ&amp;pg=PA409#v=onepage&amp;q&amp;f=false" rel="nofollow">
+          "On ship waves,"
+         </a>
+         <i>
+          Institution of Mechanical Engineers, Proceedings
+         </i>
+         ,
+         <b>
+          38
+         </b>
+         : 409–434 ; illustrations,
+         <a class="external text" href="https://books.google.com/books?id=Q84-AQAAMAAJ&amp;pg=PA641#v=onepage&amp;q&amp;f=false" rel="nofollow">
+          pp. 641-649.
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-2">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         The corresponding theory for the transient Kelvin wakes has further been derived for the Marangoni (
+         <cite class="citation journal">
+          Shu, Jian-Jun (2004). "Transient Marangoni waves due to impulsive motion of a submerged body".
+          <i>
+           International Applied Mechanics
+          </i>
+          .
+          <b>
+           40
+          </b>
+          (6): 709–714.
+          <a href="/wiki/ArXiv" title="ArXiv">
+           arXiv
+          </a>
+          :
+          <span class="plainlinks">
+           <a class="external text" href="//arxiv.org/abs/1402.4474" rel="nofollow">
+            1402.4474
+           </a>
+           <span style="margin-left:0.1em">
+            <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/>
+           </span>
+          </span>
+          .
+          <a href="/wiki/Bibcode" title="Bibcode">
+           Bibcode
+          </a>
+          :
+          <a class="external text" href="http://adsabs.harvard.edu/abs/2004IAM....40..709S" rel="nofollow">
+           2004IAM....40..709S
+          </a>
+          .
+          <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+           doi
+          </a>
+          :
+          <a class="external text" href="//dx.doi.org/10.1023%2FB%3AINAM.0000041400.70961.1b" rel="nofollow">
+           10.1023/B:INAM.0000041400.70961.1b
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWake&amp;rft.atitle=Transient+Marangoni+waves+due+to+impulsive+motion+of+a+submerged+body&amp;rft.aufirst=Jian-Jun&amp;rft.aulast=Shu&amp;rft.date=2004&amp;rft.genre=article&amp;rft_id=info%3Aarxiv%2F1402.4474&amp;rft_id=info%3Abibcode%2F2004IAM....40..709S&amp;rft_id=info%3Adoi%2F10.1023%2FB%3AINAM.0000041400.70961.1b&amp;rft.issue=6&amp;rft.jtitle=International+Applied+Mechanics&amp;rft.pages=709-714&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=40">
+          <span style="display:none;">
+          </span>
+         </span>
+         ) and free-surface (
+         <cite class="citation journal">
+          Shu, Jian-Jun (2006). "Transient free-surface waves due to impulsive motion of a submerged source".
+          <i>
+           Underwater Technology
+          </i>
+          .
+          <b>
+           26
+          </b>
+          (4): 133–137.
+          <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+           doi
+          </a>
+          :
+          <a class="external text" href="//dx.doi.org/10.3723%2F175605406782725023" rel="nofollow">
+           10.3723/175605406782725023
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWake&amp;rft.atitle=Transient+free-surface+waves+due+to+impulsive+motion+of+a+submerged+source&amp;rft.aufirst=Jian-Jun&amp;rft.aulast=Shu&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.3723%2F175605406782725023&amp;rft.issue=4&amp;rft.jtitle=Underwater+Technology&amp;rft.pages=133-137&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=26">
+          <span style="display:none;">
+          </span>
+         </span>
+         ) waves.
+        </span>
+       </li>
+       <li id="cite_note-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-3">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         The "hull Froude number" (
+         <span class="texhtml">
+          <i>
+           Fr
+          </i>
+         </span>
+         ) of a ship is
+         <span class="texhtml">
+          <i>
+           Fr
+          </i>
+          =
+          <i>
+           U
+          </i>
+          /
+          <span class="nowrap">
+           √
+           <span style="border-top:1px solid; padding:0 0.1em;">
+            <i>
+             gL
+            </i>
+           </span>
+          </span>
+         </span>
+         , where
+         <span class="texhtml mvar" style="font-style:italic;">
+          U
+         </span>
+         is the ship's speed,
+         <span class="texhtml mvar" style="font-style:italic;">
+          g
+         </span>
+         is the acceleration of gravity at the earth's surface, and
+         <span class="texhtml mvar" style="font-style:italic;">
+          L
+         </span>
+         is the length of the ship's hull, a characteristic wavelength. See Marc Rabaud and Frédéric Moisy (2013) "Ship wakes: Kelvin or Mach angle?,"
+         <i>
+          Physical Review Letters
+         </i>
+         ,
+         <b>
+          110
+         </b>
+         (21) : 214503. Available on-line at:
+         <a class="external text" href="http://www.fast.u-psud.fr/~moisy/papers/2013_rabaud_prl.pdf" rel="nofollow">
+          University of Paris, Sud
+         </a>
+         ; Alexandre Darmon, Michael Benzaquen, and Elie Raphaël (2014) "Kelvin wake pattern at large Froude numbers,"
+         <i>
+          Journal of Fluid Mechanics
+         </i>
+         ,
+         <b>
+          738
+         </b>
+         : R3-1 - R3-8. Available on-line at:
+         <a class="external text" href="http://www.pct.espci.fr/~elie/Publications/Kelvin_wake_pattern.pdf" rel="nofollow">
+          ESPCI ParisTech
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-4">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         G.B. Whitham (1974).
+         <i>
+          Linear and Nonlinear Waves
+         </i>
+         (John Wiley &amp; Sons Inc., 1974) pp 409-410
+         <a class="external text" href="https://archive.org/details/LinearAndNonlinearWaves" rel="nofollow">
+          Online scan
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-5">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         BoatWakes.org,
+         <a class="external text" href="http://boatwakes.homestead.com/files/wakesc.htm#distances" rel="nofollow">
+          Table of distances
+         </a>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Wake&amp;action=edit&amp;section=10" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <table class="mbox-small plainlinks sistersitebox" role="presentation" style="border:1px solid #aaa;background-color:#f9f9f9">
+      <tr>
+       <td class="mbox-image">
+        <a class="image" href="/wiki/File:Wiktionary-logo-v2.svg">
+         <img alt="" class="noviewer" data-file-height="391" data-file-width="391" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/40px-Wiktionary-logo-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/60px-Wiktionary-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/80px-Wiktionary-logo-v2.svg.png 2x" width="40"/>
+        </a>
+       </td>
+       <td class="mbox-text plainlist">
+        Look up
+        <i>
+         <b>
+          <a class="extiw" href="https://en.wiktionary.org/wiki/Special:Search/wake" title="wiktionary:Special:Search/wake">
+           wake
+          </a>
+         </b>
+        </i>
+        in Wiktionary, the free dictionary.
+       </td>
+      </tr>
+     </table>
+     <table class="mbox-small plainlinks sistersitebox" role="presentation" style="border:1px solid #aaa;background-color:#f9f9f9">
+      <tr>
+       <td class="mbox-image">
+        <a class="image" href="/wiki/File:Commons-logo.svg">
+         <img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/>
+        </a>
+       </td>
+       <td class="mbox-text plainlist">
+        Wikimedia Commons has media related to
+        <i>
+         <b>
+          <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Wakes_(fluids)" title="commons:Category:Wakes (fluids)">
+           Wakes (fluids)
+          </a>
+         </b>
+        </i>
+        .
+       </td>
+      </tr>
+     </table>
+     <ul>
+      <li>
+       <a class="external text" href="http://BoatWakes.info" rel="nofollow">
+        Erosion caused by boat wakes
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://dlmf.nist.gov/36.13#F1" rel="nofollow">
+        NIST detailed derivation
+       </a>
+      </li>
+     </ul>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:223993-0!*!0!!en!4!*!math=5 and timestamp 20161102091131 and revision id 744868764
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Wake&amp;oldid=744868764">
+      https://en.wikipedia.org/w/index.php?title=Wake&amp;oldid=744868764
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Fluid_dynamics" title="Category:Fluid dynamics">
+         Fluid dynamics
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Water_waves" title="Category:Water waves">
+         Water waves
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Commons_category_with_local_link_different_than_on_Wikidata" title="Category:Commons category with local link different than on Wikidata">
+         Commons category with local link different than on Wikidata
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_containing_video_clips" title="Category:Articles containing video clips">
+         Articles containing video clips
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Wake" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Wake" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Wake" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Wake" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Wake">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Wake&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Wake&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Wake" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Wake" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Wake&amp;oldid=744868764" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Wake&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q1362362" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Wake&amp;id=744868764" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Wake">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Wake&amp;returnto=Wake&amp;oldid=744868764&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Wake&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Wakes_(liquids)" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BB%D0%B2%D0%B0%D1%82%D0%B5%D1%80%D0%BD%D0%B0_%D1%81%D0%BB%D0%B5%D0%B4%D0%B0" hreflang="bg" lang="bg" title="Килватерна следа – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/%C3%9Aplav" hreflang="cs" lang="cs" title="Úplav – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cy">
+        <a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Hel_bwyd_cennad_y_meirw" hreflang="cy" lang="cy" title="Hel bwyd cennad y meirw – Welsh">
+         Cymraeg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Kielwasser" hreflang="de" lang="de" title="Kielwasser – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Estela_(rastro)" hreflang="es" lang="es" title="Estela (rastro) – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Sillage_(ph%C3%A9nom%C3%A8ne_physique)" hreflang="fr" lang="fr" title="Sillage (phénomène physique) – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-is">
+        <a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Kj%C3%B6lfar" hreflang="is" lang="is" title="Kjölfar – Icelandic">
+         Íslenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Scia" hreflang="it" lang="it" title="Scia – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%92%D7%9C%D7%99_%D7%94%D7%A1%D7%99%D7%A8%D7%94_%D7%A9%D7%9C_%D7%A7%D7%9C%D7%95%D7%95%D7%99%D7%9F" hreflang="he" lang="he" title="גלי הסירה של קלווין – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Kielzog" hreflang="nl" lang="nl" title="Kielzog – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Kj%C3%B8lvatn" hreflang="nn" lang="nn" title="Kjølvatn – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/%C5%9Alad_torowy" hreflang="pl" lang="pl" title="Ślad torowy – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%B0%D0%B1%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%B2%D0%BE%D0%BB%D0%BD%D1%8B" hreflang="ru" lang="ru" title="Корабельные волны – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Svallv%C3%A5g" hreflang="sv" lang="sv" title="Svallvåg – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%BC%80%E5%B0%94%E6%96%87%E8%88%B9%E6%B3%A2" hreflang="zh" lang="zh" title="开尔文船波 – Chinese">
+         中文
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q1362362#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 17 October 2016, at 22:49.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Wake&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","ext.math.scripts","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.196",
+            "walltime": "0.289",
+            "ppvisitednodes": {
+                "value": 906,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 14515,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 689,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 9,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 0,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 1,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  186.482      1 -total",
+                " 36.06%   67.239      1 Template:Reflist",
+                " 25.46%   47.472      2 Template:Cite_journal",
+                " 13.04%   24.312      1 Template:Commons_category",
+                " 11.81%   22.025      1 Template:Other_uses",
+                "  7.00%   13.059      1 Template:Wiktionary",
+                "  6.92%   12.913      2 Template:Sister_project",
+                "  5.08%    9.464      2 Template:Side_box",
+                "  3.42%    6.375      8 Template:Math",
+                "  2.31%    4.308      1 Template:Multiple_image"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.044",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 1827970,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1187",
+            "timestamp": "20161102091131",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":85,"wgHostname":"mw1249"});});
+  </script>
+ </body>
+</html>

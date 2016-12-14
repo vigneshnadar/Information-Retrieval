@@ -1,0 +1,2531 @@
+https://en.wikipedia.org/wiki/Turbine
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Turbine - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Turbine","wgTitle":"Turbine","wgCurRevisionId":746626484,"wgRevisionId":746626484,"wgArticleId":30848,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Ancient Greek-language text","Wikipedia pending changes protected pages (level 1)","Commons category with local link same as on Wikidata","Wikipedia articles with LCCN identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Turbines","Jet engines","Power engineering","Gas technologies"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Turbine","wgRelevantArticleId":30848,"wgRequestId":"WCDMDgpAMCUAACKdHUkAAAAN","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":746626484,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q130760","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","ext.tmh.thumbnail.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.flaggedRevs.basic":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%7Cext.math.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Turbine" rel="alternate"/>
+  <link href="/w/index.php?title=Turbine&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Turbine&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Turbine" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Turbine rootpage-Turbine skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+    <div class="mw-indicator" id="mw-indicator-pp-autoreview">
+     <a href="/wiki/Wikipedia:Protection_policy#pc1" title="All edits by unregistered and new users are subject to review">
+      <img alt="Page protected with pending changes level 1" data-file-height="128" data-file-width="128" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Padlock-silver-light.svg/20px-Padlock-silver-light.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Padlock-silver-light.svg/30px-Padlock-silver-light.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Padlock-silver-light.svg/40px-Padlock-silver-light.svg.png 2x" width="20"/>
+     </a>
+    </div>
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Turbine
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+     <div class="flaggedrevs_short flaggedrevs_stable_synced plainlinks noprint nomobile" id="mw-fr-revisiontag">
+      <div class="flaggedrevs_short_basic">
+       <img alt="Changes must be reviewed before being displayed on this page." class="flaggedrevs-icon" src="/w/extensions/FlaggedRevs/frontend/modules/img/doc-magnify.png" title="Changes must be reviewed before being displayed on this page."/>
+       <img alt="show/hide details" class="fr-toggle-arrow" id="mw-fr-revisiontoggle" src="/w/extensions/FlaggedRevs/frontend/modules/img/arrow-down.png" style="display:none;"/>
+      </div>
+      <div id="mw-fr-revisiondetails-wrapper" style="position:relative;">
+       <div class="flaggedrevs_short_details" id="mw-fr-revisiondetails" style="display:none">
+        This is the
+        <a href="/wiki/Wikipedia:Pending_changes" title="Wikipedia:Pending changes">
+         latest accepted revision
+        </a>
+        ,
+        <a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:Log&amp;type=review&amp;page=Turbine">
+         reviewed
+        </a>
+        on
+        <i>
+         28 October 2016
+        </i>
+        .
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="hatnote" role="note">
+      For other uses, see
+      <a class="mw-disambig" href="/wiki/Turbine_(disambiguation)" title="Turbine (disambiguation)">
+       Turbine (disambiguation)
+      </a>
+      .
+     </div>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:302px;">
+       <a class="image" href="/wiki/File:Dampfturbine_Montage01.jpg">
+        <img alt="" class="thumbimage" data-file-height="2126" data-file-width="1779" height="359" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dampfturbine_Montage01.jpg/300px-Dampfturbine_Montage01.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dampfturbine_Montage01.jpg/450px-Dampfturbine_Montage01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dampfturbine_Montage01.jpg/600px-Dampfturbine_Montage01.jpg 2x" width="300"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Dampfturbine_Montage01.jpg" title="Enlarge">
+         </a>
+        </div>
+        A
+        <a href="/wiki/Steam_turbine" title="Steam turbine">
+         steam turbine
+        </a>
+        with the case opened.
+       </div>
+      </div>
+     </div>
+     <p>
+      A
+      <b>
+       turbine
+      </b>
+      (from the
+      <a href="/wiki/Latin" title="Latin">
+       Latin
+      </a>
+      <i>
+       turbo
+      </i>
+      , a
+      <a href="/wiki/Vortex" title="Vortex">
+       vortex
+      </a>
+      , related to the Greek
+      <span lang="grc">
+       τύρβη
+      </span>
+      ,
+      <i>
+       tyrbē
+      </i>
+      , meaning "
+      <a href="/wiki/Turbulence" title="Turbulence">
+       turbulence
+      </a>
+      ")
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-2">
+       <a href="#cite_note-2">
+        [2]
+       </a>
+      </sup>
+      is a rotary mechanical device that extracts
+      <a href="/wiki/Energy" title="Energy">
+       energy
+      </a>
+      from a
+      <a href="/wiki/Fluid" title="Fluid">
+       fluid
+      </a>
+      flow and converts it into useful
+      <a href="/wiki/Work_(physics)" title="Work (physics)">
+       work
+      </a>
+      . The work produced by a turbine can be used for generating electrical power when combined with a
+      <a href="/wiki/Electric_generator" title="Electric generator">
+       generator
+      </a>
+      or producing thrust, as in the case of
+      <a class="mw-redirect" href="/wiki/Jet_engines" title="Jet engines">
+       jet engines
+      </a>
+      .
+      <sup class="reference" id="cite_ref-Munson_3-0">
+       <a href="#cite_note-Munson-3">
+        [3]
+       </a>
+      </sup>
+      A turbine is a
+      <a href="/wiki/Turbomachinery" title="Turbomachinery">
+       turbomachine
+      </a>
+      with at least one moving part called a rotor assembly, which is a shaft or drum with
+      <a href="/wiki/Turbine_blade" title="Turbine blade">
+       blades
+      </a>
+      attached. Moving fluid acts on the blades so that they move and impart rotational energy to the rotor. Early turbine examples are
+      <a href="/wiki/Windmill" title="Windmill">
+       windmills
+      </a>
+      and
+      <a class="mw-redirect" href="/wiki/Waterwheel" title="Waterwheel">
+       waterwheels
+      </a>
+      .
+     </p>
+     <p>
+      <a href="/wiki/Gas_turbine" title="Gas turbine">
+       Gas
+      </a>
+      ,
+      <a href="/wiki/Steam_turbine" title="Steam turbine">
+       steam
+      </a>
+      , and
+      <a href="/wiki/Water_turbine" title="Water turbine">
+       water
+      </a>
+      turbines have a casing around the blades that contains and controls the working fluid. Credit for invention of the steam turbine is given both to British engineer
+      <a href="/wiki/Charles_Algernon_Parsons" title="Charles Algernon Parsons">
+       Sir Charles Parsons
+      </a>
+      (1854–1931) for invention of the
+      <a class="mw-redirect" href="/wiki/Reaction_turbine" title="Reaction turbine">
+       reaction turbine
+      </a>
+      , and to Swedish engineer
+      <a href="/wiki/Gustaf_de_Laval" title="Gustaf de Laval">
+       Gustaf de Laval
+      </a>
+      (1845–1913) for invention of the
+      <a class="mw-redirect" href="/wiki/Impulse_turbine" title="Impulse turbine">
+       impulse turbine
+      </a>
+      . Modern steam turbines frequently employ both reaction and impulse in the same unit, typically varying the
+      <a href="/wiki/Degree_of_reaction" title="Degree of reaction">
+       degree of reaction
+      </a>
+      and impulse from the blade root to its periphery.
+     </p>
+     <p>
+      The word "turbine" was coined in 1822 by the French mining engineer
+      <a href="/wiki/Claude_Burdin" title="Claude Burdin">
+       Claude Burdin
+      </a>
+      from the
+      <a href="/wiki/Latin" title="Latin">
+       Latin
+      </a>
+      <i>
+       turbo
+      </i>
+      , or
+      <a href="/wiki/Vortex" title="Vortex">
+       vortex
+      </a>
+      , in a memo, "Des turbines hydrauliques ou machines rotatoires à grande vitesse", which he submitted to the
+      <a href="/wiki/French_Academy_of_Sciences" title="French Academy of Sciences">
+       Académie royale des sciences
+      </a>
+      in Paris.
+      <sup class="reference" id="cite_ref-4">
+       <a href="#cite_note-4">
+        [4]
+       </a>
+      </sup>
+      <a class="mw-redirect" href="/wiki/Benoit_Fourneyron" title="Benoit Fourneyron">
+       Benoit Fourneyron
+      </a>
+      , a former student of Claude Burdin, built the first practical water turbine.
+     </p>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <div class="mediaContainer" style="width:220px">
+        <audio class="kskin" controls="" data-durationhint="82.301678004535" data-mwprovider="wikimediacommons" data-mwtitle="WWS_Pneumaticlamp.ogg" data-startoffset="0" id="mwe_player_0" preload="none" style="width:220px">
+         <source data-bandwidth="106980" data-height="0" data-shorttitle="Ogg source" data-title="Original Ogg file (107 kbps)" data-width="0" src="//upload.wikimedia.org/wikipedia/commons/f/f9/WWS_Pneumaticlamp.ogg" type='audio/ogg; codecs="vorbis"'>
+         </source>
+        </audio>
+       </div>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:WWS_Pneumaticlamp.ogg" title="Enlarge">
+         </a>
+        </div>
+        Humming of a small pneumatic turbine used in a German 1940s-vintage
+        <a href="/wiki/Safety_lamp" title="Safety lamp">
+         safety lamp
+        </a>
+       </div>
+      </div>
+     </div>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Operation_theory">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Operation theory
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#Types">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Types
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#Uses">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          Uses
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-4">
+        <a href="#See_also">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-5">
+        <a href="#Notes">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          Notes
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-6">
+        <a href="#Further_reading">
+         <span class="tocnumber">
+          6
+         </span>
+         <span class="toctext">
+          Further reading
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-7">
+        <a href="#External_links">
+         <span class="tocnumber">
+          7
+         </span>
+         <span class="toctext">
+          External links
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Operation_theory">
+       <span id="Theory_of_operation">
+       </span>
+       Operation theory
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Turbine&amp;action=edit&amp;section=1" title="Edit section: Operation theory">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:352px;">
+       <a class="image" href="/wiki/File:Turbines_impulse_v_reaction.png">
+        <img alt="" class="thumbimage" data-file-height="684" data-file-width="572" height="419" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Turbines_impulse_v_reaction.png/350px-Turbines_impulse_v_reaction.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Turbines_impulse_v_reaction.png/525px-Turbines_impulse_v_reaction.png 1.5x, //upload.wikimedia.org/wikipedia/commons/b/b5/Turbines_impulse_v_reaction.png 2x" width="350"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Turbines_impulse_v_reaction.png" title="Enlarge">
+         </a>
+        </div>
+        Schematic of
+        <a class="mw-redirect" href="/wiki/Impulse_turbine" title="Impulse turbine">
+         impulse
+        </a>
+        and
+        <a class="mw-redirect" href="/wiki/Reaction_turbine" title="Reaction turbine">
+         reaction turbines
+        </a>
+        , where the rotor is the rotating part, and the
+        <a href="/wiki/Stator" title="Stator">
+         stator
+        </a>
+        is the stationary part of the machine.
+       </div>
+      </div>
+     </div>
+     <p>
+      A working fluid contains
+      <a href="/wiki/Potential_energy" title="Potential energy">
+       potential energy
+      </a>
+      (pressure
+      <a class="mw-redirect" href="/wiki/Head_(hydraulic)" title="Head (hydraulic)">
+       head
+      </a>
+      ) and
+      <a href="/wiki/Kinetic_energy" title="Kinetic energy">
+       kinetic energy
+      </a>
+      (velocity head). The fluid may be
+      <a href="/wiki/Compressibility" title="Compressibility">
+       compressible
+      </a>
+      or
+      <a class="mw-redirect" href="/wiki/Incompressible_fluid" title="Incompressible fluid">
+       incompressible
+      </a>
+      . Several physical principles are employed by turbines to collect this energy:
+     </p>
+     <p>
+      <a href="/wiki/Impulse_(physics)" title="Impulse (physics)">
+       Impulse
+      </a>
+      turbines change the direction of flow of a high velocity fluid or gas jet. The resulting impulse spins the turbine and leaves the fluid flow with diminished kinetic energy. There is no pressure change of the fluid or gas in the
+      <a href="/wiki/Turbine_blade" title="Turbine blade">
+       turbine blades
+      </a>
+      (the moving blades), as in the case of a steam or gas turbine, all the pressure drop takes place in the stationary blades (the nozzles). Before reaching the turbine, the fluid's
+      <i>
+       pressure head
+      </i>
+      is changed to
+      <i>
+       velocity head
+      </i>
+      by accelerating the fluid with a
+      <a href="/wiki/Nozzle" title="Nozzle">
+       nozzle
+      </a>
+      .
+      <a href="/wiki/Pelton_wheel" title="Pelton wheel">
+       Pelton wheels
+      </a>
+      and
+      <a href="/wiki/Steam_turbine" title="Steam turbine">
+       de Laval turbines
+      </a>
+      use this process exclusively. Impulse turbines do not require a pressure casement around the rotor since the fluid jet is created by the nozzle prior to reaching the blades on the rotor.
+      <a href="/wiki/Newton%27s_laws_of_motion#Newton.27s_second_law" title="Newton's laws of motion">
+       Newton's second law
+      </a>
+      describes the transfer of energy for impulse turbines. Impulse turbines are most efficient for use in cases where the flow is low and the inlet pressure is high.
+      <sup class="reference" id="cite_ref-Munson_3-1">
+       <a href="#cite_note-Munson-3">
+        [3]
+       </a>
+      </sup>
+     </p>
+     <p>
+      <a href="/wiki/Reaction_(physics)" title="Reaction (physics)">
+       Reaction
+      </a>
+      turbines develop
+      <a href="/wiki/Torque" title="Torque">
+       torque
+      </a>
+      by reacting to the gas or fluid's pressure or mass. The pressure of the gas or fluid changes as it passes through the turbine rotor blades.
+      <sup class="reference" id="cite_ref-Munson_3-2">
+       <a href="#cite_note-Munson-3">
+        [3]
+       </a>
+      </sup>
+      A pressure casement is needed to contain the working fluid as it acts on the turbine stage(s) or the turbine must be fully immersed in the fluid flow (such as with wind turbines). The casing contains and directs the working fluid and, for water turbines, maintains the suction imparted by the
+      <a href="/wiki/Draft_tube" title="Draft tube">
+       draft tube
+      </a>
+      .
+      <a href="/wiki/Francis_turbine" title="Francis turbine">
+       Francis turbines
+      </a>
+      and most
+      <a href="/wiki/Steam_turbine" title="Steam turbine">
+       steam turbines
+      </a>
+      use this concept. For compressible working fluids, multiple turbine stages are usually used to harness the expanding gas efficiently.
+      <a href="/wiki/Newton%27s_laws_of_motion#Newton.27s_third_law" title="Newton's laws of motion">
+       Newton's third law
+      </a>
+      describes the transfer of energy for reaction turbines. Reaction turbines are better suited to higher flow velocities or applications where the fluid head (upstream pressure) is low.
+      <sup class="reference" id="cite_ref-Munson_3-3">
+       <a href="#cite_note-Munson-3">
+        [3]
+       </a>
+      </sup>
+     </p>
+     <p>
+      In the case of steam turbines, such as would be used for marine applications or for land-based electricity generation, a Parsons type reaction turbine would require approximately double the number of blade rows as a de Laval type impulse turbine, for the same degree of thermal energy conversion. Whilst this makes the Parsons turbine much longer and heavier, the overall efficiency of a reaction turbine is slightly higher than the equivalent impulse turbine for the same thermal energy conversion.
+     </p>
+     <p>
+      In practice, modern turbine designs use both reaction and impulse concepts to varying degrees whenever possible.
+      <a href="/wiki/Wind_turbine" title="Wind turbine">
+       Wind turbines
+      </a>
+      use an
+      <a href="/wiki/Airfoil" title="Airfoil">
+       airfoil
+      </a>
+      to generate a reaction
+      <a href="/wiki/Lift_(force)" title="Lift (force)">
+       lift
+      </a>
+      from the moving fluid and impart it to the rotor. Wind turbines also gain some energy from the impulse of the wind, by deflecting it at an angle. Turbines with multiple stages may utilize either reaction or impulse blading at high pressure. Steam turbines were traditionally more impulse but continue to move towards reaction designs similar to those used in gas turbines. At low pressure the operating fluid medium expands in volume for small reductions in pressure. Under these conditions, blading becomes strictly a reaction type design with the base of the blade solely impulse. The reason is due to the effect of the rotation speed for each blade. As the volume increases, the blade height increases, and the base of the blade spins at a slower speed relative to the tip. This change in speed forces a designer to change from impulse at the base, to a high reaction style tip.
+     </p>
+     <p>
+      Classical turbine design methods were developed in the mid 19th century. Vector analysis related the fluid flow with turbine shape and rotation. Graphical calculation methods were used at first. Formulae for the basic dimensions of turbine parts are well documented and a highly efficient machine can be reliably designed for any fluid
+      <a href="/wiki/Flow_conditioning" title="Flow conditioning">
+       flow condition
+      </a>
+      . Some of the calculations are empirical or 'rule of thumb' formulae, and others are based on
+      <a href="/wiki/Classical_mechanics" title="Classical mechanics">
+       classical mechanics
+      </a>
+      . As with most engineering calculations, simplifying assumptions were made.
+     </p>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Turbine_inlet_guide_vanes_of_Atar_turbojet.jpg">
+        <img alt="" class="thumbimage" data-file-height="2432" data-file-width="3648" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Turbine_inlet_guide_vanes_of_Atar_turbojet.jpg/220px-Turbine_inlet_guide_vanes_of_Atar_turbojet.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Turbine_inlet_guide_vanes_of_Atar_turbojet.jpg/330px-Turbine_inlet_guide_vanes_of_Atar_turbojet.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Turbine_inlet_guide_vanes_of_Atar_turbojet.jpg/440px-Turbine_inlet_guide_vanes_of_Atar_turbojet.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Turbine_inlet_guide_vanes_of_Atar_turbojet.jpg" title="Enlarge">
+         </a>
+        </div>
+        Turbine inlet guide vanes of a turbojet
+       </div>
+      </div>
+     </div>
+     <p>
+      <a href="/wiki/Velocity_triangle" title="Velocity triangle">
+       Velocity triangles
+      </a>
+      can be used to calculate the basic performance of a turbine stage. Gas exits the stationary turbine nozzle guide vanes at absolute velocity
+      <i>
+       V
+      </i>
+      <sub>
+       a1
+      </sub>
+      . The rotor rotates at velocity
+      <i>
+       U
+      </i>
+      . Relative to the rotor, the velocity of the gas as it impinges on the rotor entrance is
+      <i>
+       V
+      </i>
+      <sub>
+       r1
+      </sub>
+      . The gas is turned by the rotor and exits, relative to the rotor, at velocity
+      <i>
+       V
+      </i>
+      <sub>
+       r2
+      </sub>
+      . However, in absolute terms the rotor exit velocity is
+      <i>
+       V
+      </i>
+      <sub>
+       a2
+      </sub>
+      . The velocity triangles are constructed using these various velocity vectors. Velocity triangles can be constructed at any section through the blading (for example: hub, tip, midsection and so on) but are usually shown at the mean stage radius. Mean performance for the stage can be calculated from the velocity triangles, at this radius, using the Euler equation:
+     </p>
+     <dl>
+      <dd>
+       <span>
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi mathvariant="normal">
+              Δ
+              <!-- Δ -->
+             </mi>
+             <mi>
+              h
+             </mi>
+             <mo>
+              =
+             </mo>
+             <mi>
+              u
+             </mi>
+             <mo>
+              ⋅
+              <!-- ⋅ -->
+             </mo>
+             <mi mathvariant="normal">
+              Δ
+              <!-- Δ -->
+             </mi>
+             <msub>
+              <mi>
+               v
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                w
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \Delta h=u\cdot \Delta v_{w}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="{\displaystyle \Delta h=u\cdot \Delta v_{w}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/57b5918ee605b98aa96548709e32219d218b25be" style="vertical-align: -0.671ex; width:13.935ex; height:2.676ex;"/>
+       </span>
+      </dd>
+     </dl>
+     <p>
+      Hence:
+     </p>
+     <dl>
+      <dd>
+       <span>
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mrow class="MJX-TeXAtom-ORD">
+              <mfrac>
+               <mrow>
+                <mi mathvariant="normal">
+                 Δ
+                 <!-- Δ -->
+                </mi>
+                <mi>
+                 h
+                </mi>
+               </mrow>
+               <mi>
+                T
+               </mi>
+              </mfrac>
+             </mrow>
+             <mo>
+              =
+             </mo>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mfrac>
+               <mrow>
+                <mi>
+                 u
+                </mi>
+                <mo>
+                 ⋅
+                 <!-- ⋅ -->
+                </mo>
+                <mi mathvariant="normal">
+                 Δ
+                 <!-- Δ -->
+                </mi>
+                <msub>
+                 <mi>
+                  v
+                 </mi>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mi>
+                   w
+                  </mi>
+                 </mrow>
+                </msub>
+               </mrow>
+               <mi>
+                T
+               </mi>
+              </mfrac>
+             </mrow>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle {\frac {\Delta h}{T}}={\frac {u\cdot \Delta v_{w}}{T}}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="{\displaystyle {\frac {\Delta h}{T}}={\frac {u\cdot \Delta v_{w}}{T}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ead5a110beb970cbefe1023242ab43e6a631e195" style="vertical-align: -1.838ex; width:15.607ex; height:5.343ex;"/>
+       </span>
+      </dd>
+     </dl>
+     <p>
+      where:
+     </p>
+     <dl>
+      <dd>
+       <span>
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi mathvariant="normal">
+              Δ
+              <!-- Δ -->
+             </mi>
+             <mi>
+              h
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \Delta h}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="\Delta h" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/af7b7e75abcd97007405341555a3958cc020265e" style="vertical-align: -0.338ex; width:3.296ex; height:2.343ex;"/>
+       </span>
+       is the specific enthalpy drop across stage
+      </dd>
+      <dd>
+       <span>
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              T
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle T}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="T" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ec7200acd984a1d3a3d7dc455e262fbe54f7f6e0" style="vertical-align: -0.338ex; width:1.647ex; height:2.176ex;"/>
+       </span>
+       is the turbine entry total (or stagnation) temperature
+      </dd>
+      <dd>
+       <span>
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              u
+             </mi>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle u}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="u" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c3e6bb763d22c20916ed4f0bb6bd49d7470cffd8" style="vertical-align: -0.338ex; width:1.34ex; height:1.676ex;"/>
+       </span>
+       is the turbine rotor peripheral velocity
+      </dd>
+      <dd>
+       <span>
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi mathvariant="normal">
+              Δ
+              <!-- Δ -->
+             </mi>
+             <msub>
+              <mi>
+               v
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mi>
+                w
+               </mi>
+              </mrow>
+             </msub>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle \Delta v_{w}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="{\displaystyle \Delta v_{w}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4c475ef26ee16771a229e7256be472cfd8a4c709" style="vertical-align: -0.671ex; width:4.501ex; height:2.676ex;"/>
+       </span>
+       is the change in whirl velocity
+      </dd>
+     </dl>
+     <p>
+      The turbine pressure ratio is a function of
+      <span>
+       <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <semantics>
+          <mrow class="MJX-TeXAtom-ORD">
+           <mstyle displaystyle="true" scriptlevel="0">
+            <mrow class="MJX-TeXAtom-ORD">
+             <mfrac>
+              <mrow>
+               <mi mathvariant="normal">
+                Δ
+                <!-- Δ -->
+               </mi>
+               <mi>
+                h
+               </mi>
+              </mrow>
+              <mi>
+               T
+              </mi>
+             </mfrac>
+            </mrow>
+           </mstyle>
+          </mrow>
+          <annotation encoding="application/x-tex">
+           {\displaystyle {\frac {\Delta h}{T}}}
+          </annotation>
+         </semantics>
+        </math>
+       </span>
+       <img alt="{\displaystyle {\frac {\Delta h}{T}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/88ba3deba74176c1a50108a50c60d02514a1ecc5" style="vertical-align: -1.838ex; width:4.132ex; height:5.343ex;"/>
+      </span>
+      and the turbine efficiency.
+     </p>
+     <p>
+      Modern turbine design carries the calculations further.
+      <a href="/wiki/Computational_fluid_dynamics" title="Computational fluid dynamics">
+       Computational fluid dynamics
+      </a>
+      dispenses with many of the simplifying assumptions used to derive classical formulas and computer software facilitates optimization. These tools have led to steady improvements in turbine design over the last forty years.
+     </p>
+     <p>
+      The primary numerical classification of a turbine is its
+      <i>
+       <b>
+        <a href="/wiki/Specific_speed" title="Specific speed">
+         specific speed
+        </a>
+       </b>
+      </i>
+      . This number describes the speed of the turbine at its maximum efficiency with respect to the power and flow rate. The specific speed is derived to be independent of turbine size. Given the fluid flow conditions and the desired shaft output speed, the specific speed can be calculated and an appropriate turbine design selected.
+     </p>
+     <p>
+      The specific speed, along with some fundamental formulas can be used to reliably scale an existing design of known performance to a new size with corresponding performance.
+     </p>
+     <p>
+      Off-design performance is normally displayed as a
+      <a href="/wiki/Turbine_map" title="Turbine map">
+       turbine map
+      </a>
+      or characteristic.
+     </p>
+     <h2>
+      <span class="mw-headline" id="Types">
+       Types
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Turbine&amp;action=edit&amp;section=2" title="Edit section: Types">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a href="/wiki/Steam_turbine" title="Steam turbine">
+        Steam turbines
+       </a>
+       are used for the generation of electricity in thermal power plants, such as plants using
+       <a href="/wiki/Coal" title="Coal">
+        coal
+       </a>
+       ,
+       <a href="/wiki/Fuel_oil" title="Fuel oil">
+        fuel oil
+       </a>
+       or
+       <a href="/wiki/Nuclear_fuel" title="Nuclear fuel">
+        nuclear fuel
+       </a>
+       . They were once used to directly drive mechanical devices such as ships'
+       <a href="/wiki/Propeller" title="Propeller">
+        propellers
+       </a>
+       (for example the
+       <i>
+        <a href="/wiki/Turbinia" title="Turbinia">
+         Turbinia
+        </a>
+       </i>
+       , the first turbine-powered
+       <a class="mw-redirect" href="/wiki/Steam_launch" title="Steam launch">
+        steam launch
+       </a>
+       ,
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+       ) but most such applications now use reduction gears or an intermediate electrical step, where the turbine is used to generate electricity, which then powers an
+       <a href="/wiki/Electric_motor" title="Electric motor">
+        electric motor
+       </a>
+       connected to the mechanical load. Turbo electric ship machinery was particularly popular in the period immediately before and during
+       <a href="/wiki/World_War_II" title="World War II">
+        World War II
+       </a>
+       , primarily due to a lack of sufficient gear-cutting facilities in US and UK shipyards.
+      </li>
+      <li>
+       <a href="/wiki/Gas_turbine" title="Gas turbine">
+        Gas turbines
+       </a>
+       are sometimes referred to as turbine engines. Such engines usually feature an inlet, fan, compressor, combustor and nozzle (possibly other assemblies) in addition to one or more turbines.
+      </li>
+      <li>
+       <a href="/wiki/Transonic" title="Transonic">
+        Transonic
+       </a>
+       turbine. The gas flow in most turbines employed in gas turbine engines remains subsonic throughout the expansion process. In a transonic turbine the gas flow becomes supersonic as it exits the nozzle guide vanes, although the downstream velocities normally become subsonic. Transonic turbines operate at a higher pressure ratio than normal but are usually less efficient and uncommon.
+      </li>
+      <li>
+       <a href="/wiki/Contra-rotating" title="Contra-rotating">
+        Contra-rotating
+       </a>
+       turbines. With
+       <a href="/wiki/Axial_turbine" title="Axial turbine">
+        axial turbines
+       </a>
+       , some efficiency advantage can be obtained if a downstream turbine rotates in the opposite direction to an upstream unit. However, the complication can be counter-productive. A contra-rotating steam turbine, usually known as the Ljungström turbine, was originally invented by Swedish Engineer
+       <a href="/wiki/Fredrik_Ljungstr%C3%B6m" title="Fredrik Ljungström">
+        Fredrik Ljungström
+       </a>
+       (1875–1964) in Stockholm, and in partnership with his brother Birger Ljungström he obtained a patent in 1894. The design is essentially a multi-stage
+       <a href="/wiki/Radial_turbine" title="Radial turbine">
+        radial turbine
+       </a>
+       (or pair of 'nested' turbine rotors) offering great efficiency, four times as large heat drop per stage as in the reaction (Parsons) turbine, extremely compact design and the type met particular success in back pressure power plants. However, contrary to other designs, large steam volumes are handled with difficulty and only a combination with axial flow turbines (DUREX) admits the turbine to be built for power greater than ca 50 MW. In marine applications only about 50 turbo-electric units were ordered (of which a considerable amount were finally sold to land plants) during 1917-19, and during 1920-22 a few turbo-mechanic not very successful units were sold.
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+       Only a few turbo-electric marine plants were still in use in the late 1960s (ss Ragne, ss Regin) while most land plants remain in use 2010.
+      </li>
+      <li>
+       <a href="/wiki/Stator" title="Stator">
+        Statorless
+       </a>
+       turbine. Multi-stage turbines have a set of static (meaning stationary) inlet guide vanes that direct the gas flow onto the rotating rotor blades. In a stator-less turbine the gas flow exiting an upstream rotor impinges onto a downstream rotor without an intermediate set of stator vanes (that rearrange the pressure/velocity energy levels of the flow) being encountered.
+      </li>
+      <li>
+       <a href="/wiki/Ceramic" title="Ceramic">
+        Ceramic
+       </a>
+       turbine. Conventional high-pressure turbine blades (and vanes) are made from nickel based alloys and often utilise intricate internal air-cooling passages to prevent the metal from overheating. In recent years, experimental ceramic blades have been manufactured and tested in gas turbines, with a view to increasing rotor inlet temperatures and/or, possibly, eliminating air cooling. Ceramic blades are more brittle than their metallic counterparts, and carry a greater risk of catastrophic blade failure. This has tended to limit their use in jet engines and gas turbines to the stator (stationary) blades.
+      </li>
+      <li>
+       <a href="/wiki/Ducted_fan" title="Ducted fan">
+        Shrouded
+       </a>
+       turbine. Many turbine rotor blades have shrouding at the top, which interlocks with that of adjacent blades, to increase damping and thereby reduce blade flutter. In large land-based electricity generation steam turbines, the shrouding is often complemented, especially in the long blades of a low-pressure turbine, with lacing wires. These wires pass through holes drilled in the blades at suitable distances from the blade root and are usually brazed to the blades at the point where they pass through. Lacing wires reduce blade flutter in the central part of the blades. The introduction of lacing wires substantially reduces the instances of blade failure in large or low-pressure turbines.
+      </li>
+      <li>
+       <a href="/wiki/Ducted_fan" title="Ducted fan">
+        Shroudless turbine
+       </a>
+       . Modern practice is, wherever possible, to eliminate the rotor shrouding, thus reducing the
+       <a href="/wiki/Centrifugal_force" title="Centrifugal force">
+        centrifugal
+       </a>
+       load on the blade and the cooling requirements.
+      </li>
+      <li>
+       <a href="/wiki/Tesla_turbine" title="Tesla turbine">
+        Bladeless turbine
+       </a>
+       uses the boundary layer effect and not a fluid impinging upon the blades as in a conventional turbine.
+      </li>
+      <li>
+       <a href="/wiki/Water_turbine" title="Water turbine">
+        Water turbines
+       </a>
+       <ul>
+        <li>
+         <a href="/wiki/Pelton_wheel" title="Pelton wheel">
+          Pelton turbine
+         </a>
+         , a type of impulse water turbine.
+        </li>
+        <li>
+         <a href="/wiki/Francis_turbine" title="Francis turbine">
+          Francis turbine
+         </a>
+         , a type of widely used water turbine.
+        </li>
+        <li>
+         <a href="/wiki/Kaplan_turbine" title="Kaplan turbine">
+          Kaplan turbine
+         </a>
+         , a variation of the Francis Turbine.
+        </li>
+        <li>
+         <a href="/wiki/Turgo_turbine" title="Turgo turbine">
+          Turgo turbine
+         </a>
+         , a modified form of the Pelton wheel.
+        </li>
+        <li>
+         <a href="/wiki/Cross-flow_turbine" title="Cross-flow turbine">
+          Cross-flow turbine
+         </a>
+         , also known as Banki-Michell turbine, or Ossberger turbine.
+        </li>
+       </ul>
+      </li>
+      <li>
+       <a href="/wiki/Wind_turbine" title="Wind turbine">
+        Wind turbine
+       </a>
+       . These normally operate as a single stage without nozzle and interstage guide vanes. An exception is the
+       <a href="/wiki/%C3%89olienne_Boll%C3%A9e" title="Éolienne Bollée">
+        Éolienne Bollée
+       </a>
+       , which has a stator and a rotor.
+      </li>
+      <li>
+       Velocity compound "Curtis". Curtis combined the de Laval and Parsons turbine by using a set of fixed nozzles on the first stage or stator and then a rank of fixed and rotating blade rows, as in the Parsons or de Laval, typically up to ten compared with up to a hundred stages of a Parsons design. The overall efficiency of a Curtis design is less than that of either the Parsons or de Laval designs, but it can be satisfactorily operated through a much wider range of speeds, including successful operation at low speeds and at lower pressures, which made it ideal for use in ships' powerplant. In a Curtis arrangement, the entire heat drop in the steam takes place in the initial nozzle row and both the subsequent moving blade rows and stationary blade rows merely change the direction of the steam. Use of a small section of a Curtis arrangement, typically one nozzle section and two or three rows of moving blades, is usually termed a Curtis 'Wheel' and in this form, the Curtis found widespread use at sea as a 'governing stage' on many reaction and impulse turbines and turbine sets. This practice is still commonplace today in marine steam plant.
+      </li>
+      <li>
+       <a href="/wiki/Pressure_compounding_in_turbines" title="Pressure compounding in turbines">
+        Pressure compound
+       </a>
+       multi-stage impulse, or "Rateau", after its French inventor,
+       <a class="extiw" href="https://fr.wikipedia.org/wiki/Auguste_Rateau" title="fr:Auguste Rateau">
+        fr:Auguste Rateau
+       </a>
+       . The Rateau employs simple impulse rotors separated by a nozzle diaphragm. The diaphragm is essentially a partition wall in the turbine with a series of tunnels cut into it, funnel shaped with the broad end facing the previous stage and the narrow the next they are also angled to direct the steam jets onto the impulse rotor.
+      </li>
+      <li>
+       <a href="/wiki/Mercury_vapour_turbine" title="Mercury vapour turbine">
+        Mercury vapour turbines
+       </a>
+       used
+       <a href="/wiki/Mercury_(element)" title="Mercury (element)">
+        mercury
+       </a>
+       as the working fluid, to improve the efficiency of fossil-fuelled generating stations. Although a few power plants were built with combined mercury vapour and conventional steam turbines, the toxicity of the metal mercury was quickly apparent.
+      </li>
+      <li>
+       <a href="/wiki/Screw_turbine" title="Screw turbine">
+        Screw turbine
+       </a>
+       is a
+       <a href="/wiki/Water_turbine" title="Water turbine">
+        water turbine
+       </a>
+       which uses the principle of the
+       <a class="mw-redirect" href="/wiki/Archimedean_screw" title="Archimedean screw">
+        Archimedean screw
+       </a>
+       to convert the
+       <a href="/wiki/Potential_energy" title="Potential energy">
+        potential energy
+       </a>
+       of water on an upstream level into
+       <a href="/wiki/Kinetic_energy" title="Kinetic energy">
+        kinetic energy
+       </a>
+       .
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="Uses">
+       Uses
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Turbine&amp;action=edit&amp;section=3" title="Edit section: Uses">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      Almost all
+      <a class="mw-redirect" href="/wiki/Electrical_power" title="Electrical power">
+       electrical power
+      </a>
+      on Earth is generated with a turbine of some type. Very high efficiency steam turbines harness around 40% of the thermal energy, with the rest exhausted as waste heat.
+     </p>
+     <p>
+      Most
+      <a href="/wiki/Jet_engine" title="Jet engine">
+       jet engines
+      </a>
+      rely on turbines to supply mechanical work from their working fluid and fuel as do all nuclear ships and power plants.
+     </p>
+     <p>
+      Turbines are often part of a larger machine. A
+      <a href="/wiki/Gas_turbine" title="Gas turbine">
+       gas turbine
+      </a>
+      , for example, may refer to an internal combustion machine that contains a turbine, ducts, compressor, combustor, heat-exchanger, fan and (in the case of one designed to produce electricity) an alternator. Combustion turbines and steam turbines may be connected to machinery such as pumps and compressors, or may be used for propulsion of ships, usually through an intermediate gearbox to reduce rotary speed.
+     </p>
+     <p>
+      Reciprocating piston engines such as
+      <a href="/wiki/Aircraft_engine" title="Aircraft engine">
+       aircraft engines
+      </a>
+      can use a turbine powered by their exhaust to drive an intake-air compressor, a configuration known as a
+      <a href="/wiki/Turbocharger" title="Turbocharger">
+       turbocharger
+      </a>
+      (turbine
+      <a href="/wiki/Supercharger" title="Supercharger">
+       supercharger
+      </a>
+      ) or, colloquially, a "turbo".
+     </p>
+     <p>
+      Turbines can have very high power density (i.e. the ratio of power to weight, or power to volume). This is because of their ability to operate at very high speeds. The
+      <a href="/wiki/Space_Shuttle_main_engine" title="Space Shuttle main engine">
+       Space Shuttle main engines
+      </a>
+      used
+      <a href="/wiki/Turbopump" title="Turbopump">
+       turbopumps
+      </a>
+      (machines consisting of a pump driven by a turbine engine) to feed the propellants (liquid oxygen and liquid hydrogen) into the engine's combustion chamber. The liquid hydrogen turbopump is slightly larger than an automobile engine (weighing approximately 700 lb) and produces nearly 70,000
+      <a href="/wiki/Horsepower" title="Horsepower">
+       hp
+      </a>
+      (52.2
+      <a class="mw-redirect" href="/wiki/Megawatt" title="Megawatt">
+       MW
+      </a>
+      ).
+     </p>
+     <p>
+      <a href="/wiki/Turboexpander" title="Turboexpander">
+       Turboexpanders
+      </a>
+      are widely used as sources of refrigeration in industrial processes.
+     </p>
+     <p>
+      Military jet engines, as a branch of gas turbines, have recently been used as primary flight controller in post-stall flight using jet deflections that are also called thrust vectoring.
+      <sup class="reference" id="cite_ref-7">
+       <a href="#cite_note-7">
+        [7]
+       </a>
+      </sup>
+      The U.S.
+      <a href="/wiki/Federal_Aviation_Administration" title="Federal Aviation Administration">
+       Federal Aviation Administration
+      </a>
+      has also conducted a study about civilizing such thrust vectoring systems to recover jetliners from catastrophes.
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Turbine&amp;action=edit&amp;section=4" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a href="/wiki/Archimedes%27_screw" title="Archimedes' screw">
+        Archimedes' screw
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Balancing_machine" title="Balancing machine">
+        Balancing machine
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Euler%27s_pump_and_turbine_equation" title="Euler's pump and turbine equation">
+        Euler's pump and turbine equation
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Rotordynamics" title="Rotordynamics">
+        Rotordynamics
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Screw_turbine" title="Screw turbine">
+        Screw turbine
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Secondary_flow" title="Secondary flow">
+        Secondary flow
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Segner_wheel" title="Segner wheel">
+        Segner wheel
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Tesla_turbine" title="Tesla turbine">
+        Tesla turbine
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Turbo-alternator" title="Turbo-alternator">
+        Turbo-alternator
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Turbodrill" title="Turbodrill">
+        Turbodrill
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Turbofan" title="Turbofan">
+        Turbofan
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Turbojet" title="Turbojet">
+        Turbojet
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Turboshaft" title="Turboshaft">
+        Turboshaft
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Turboprop" title="Turboprop">
+        Turboprop
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Vibration_of_rotating_structures" title="Vibration of rotating structures">
+        Vibration of rotating structures
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="Notes">
+       Notes
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Turbine&amp;action=edit&amp;section=5" title="Edit section: Notes">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist" style="list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-1">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.etymonline.com/index.php?allowed_in_frame=0&amp;search=turbine&amp;searchmode=none" rel="nofollow">
+           "turbine"
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATurbine&amp;rft.btitle=turbine&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.etymonline.com%2Findex.php%3Fallowed_in_frame%3D0%26search%3Dturbine%26searchmode%3Dnone&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+         <cite class="citation web">
+          <a class="external text" href="http://www.etymonline.com/index.php?term=turbid&amp;allowed_in_frame=0" rel="nofollow">
+           "turbid"
+          </a>
+          .
+          <a href="/wiki/Online_Etymology_Dictionary" title="Online Etymology Dictionary">
+           Online Etymology Dictionary
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATurbine&amp;rft.btitle=turbid&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.etymonline.com%2Findex.php%3Fterm%3Dturbid%26allowed_in_frame%3D0&amp;rft.pub=Online+Etymology+Dictionary&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-2">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=tu/rbh" rel="nofollow">
+          <span lang="grc">
+           τύρβη
+          </span>
+         </a>
+         .
+         <a href="/wiki/Henry_Liddell" title="Henry Liddell">
+          Liddell, Henry George
+         </a>
+         ;
+         <a href="/wiki/Robert_Scott_(philologist)" title="Robert Scott (philologist)">
+          Scott, Robert
+         </a>
+         ;
+         <i>
+          <a href="/wiki/A_Greek%E2%80%93English_Lexicon" title="A Greek–English Lexicon">
+           A Greek–English Lexicon
+          </a>
+         </i>
+         at the
+         <a href="/wiki/Perseus_Project" title="Perseus Project">
+          Perseus Project
+         </a>
+         .
+        </span>
+       </li>
+       <li id="cite_note-Munson-3">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-Munson_3-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-Munson_3-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-Munson_3-2">
+          <sup>
+           <i>
+            <b>
+             c
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-Munson_3-3">
+          <sup>
+           <i>
+            <b>
+             d
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         Munson, Bruce Roy, T. H. Okiishi, and Wade W. Huebsch. "Turbomachines." Fundamentals of Fluid Mechanics. 6th ed. Hoboken, NJ: J. Wiley &amp; Sons, 2009. Print.
+        </span>
+       </li>
+       <li id="cite_note-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-4">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         In 1822, Claude Burdin submitted his memo "Des turbines hydrauliques ou machines rotatoires à grande vitesse" (Hydraulic turbines or high-speed rotary machines) to the Académie royale des sciences in Paris. (See:
+         <i>
+          Annales de chimie et de physique
+         </i>
+         , vol. 21,
+         <a class="external text" href="https://books.google.com/books?id=rzNCAAAAcAAJ&amp;pg=PA183#v=onepage&amp;q&amp;f=false" rel="nofollow">
+          page 183
+         </a>
+         (1822).) However, it was not until 1824 that a committee of the Académie (composed of Prony, Dupin, and Girard) reported favorably on Burdin's memo. See: Prony and Girard (1824)
+         <a class="external text" href="https://books.google.com/books?id=03BRAAAAYAAJ&amp;pg=RA1-PA207#v=onepage&amp;q&amp;f=false" rel="nofollow">
+          "Rapport sur le mémoire de M. Burdin intitulé: Des turbines hydrauliques ou machines rotatoires à grande vitesse"
+         </a>
+         (Report on the memo of Mr. Burdin titled: Hydraulic turbines or high-speed rotary machines),
+         <i>
+          Annales de chimie et de physique
+         </i>
+         , vol. 26, pages 207-217.
+        </span>
+       </li>
+       <li id="cite_note-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-5">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          Adrian Osler (October 1981).
+          <a class="external text" href="http://www.webcitation.org/5xujimKGb" rel="nofollow">
+           "Turbinia"
+          </a>
+          .
+          <i>
+           (ASME-sponsored booklet to mark the designation of Turbinia as an international engineering landmark)
+          </i>
+          . Tyne And Wear County Council Museums. Archived from
+          <a class="external text" href="http://files.asme.org/ASMEORG/Communities/History/Landmarks/5652.pdf" rel="nofollow">
+           the original
+          </a>
+          <span style="font-size:85%;">
+           (PDF)
+          </span>
+          on 13 April 2011
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            13 April
+           </span>
+           2011
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATurbine&amp;rft.atitle=Turbinia&amp;rft.au=Adrian+Osler&amp;rft.date=1981-10&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Ffiles.asme.org%2FASMEORG%2FCommunities%2FHistory%2FLandmarks%2F5652.pdf&amp;rft.jtitle=%28ASME-sponsored+booklet+to+mark+the+designation+of+Turbinia+as+an+international+engineering+landmark%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-6">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-6">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Ingvar Jung, 1979, The history of the marine turbine, part 1, Royal Institute of Technology, Stockholm, dep of History of technology
+        </span>
+       </li>
+       <li id="cite_note-7">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-7">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         "Multiaxis Thrust Vectoring Flight Control Vs Catastrophic Failure Prevention," Reports to U.S. Dept. of Transportation/FAA, Technical Center, ACD-210, FAA X88/0/6FA/921000/4104/T1706D, FAA Res. Benjamin Gal-Or, Grant-Award No: 94-G-24, CFDA, No. 20.108, Dec. 26, 1994; "Vectored Propulsion, Supermanoeuvreability, and Robot Aircraft", by Benjamin Gal-Or, Springer Verlag, 1990,
+         <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0387971610">
+          ISBN 0-387-97161-0
+         </a>
+         , 3-540-97161-0.
+        </span>
+       </li>
+      </ol>
+     </div>
+     <h2>
+      <span class="mw-headline" id="Further_reading">
+       Further reading
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Turbine&amp;action=edit&amp;section=6" title="Edit section: Further reading">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       Layton, Edwin T. "From Rule of Thumb to Scientific Engineering: James B. Francis and the Invention of the Francis Turbine," NLA Monograph Series. Stony Brook, NY: Research Foundation of the State University of New York, 1992.
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Turbine&amp;action=edit&amp;section=7" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <table class="mbox-small plainlinks sistersitebox" role="presentation" style="border:1px solid #aaa;background-color:#f9f9f9">
+      <tr>
+       <td class="mbox-image">
+        <a class="image" href="/wiki/File:Commons-logo.svg">
+         <img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/>
+        </a>
+       </td>
+       <td class="mbox-text plainlist">
+        Wikimedia Commons has media related to
+        <i>
+         <b>
+          <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Turbines_(turbomachine_component)" title="commons:Category:Turbines (turbomachine component)">
+           Turbine
+          </a>
+         </b>
+        </i>
+        .
+       </td>
+      </tr>
+     </table>
+     <ul>
+      <li>
+       <a class="external text" href="http://www.du.edu/~jcalvert/tech/fluids/turbine.htm" rel="nofollow">
+        Turbine introductory math
+       </a>
+      </li>
+     </ul>
+     <div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Help:Authority_control" title="Help:Authority control">
+          Authority control
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">
+              LCCN
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="http://id.loc.gov/authorities/subjects/sh85138718" rel="nofollow">
+               sh85138718
+              </a>
+             </span>
+            </span>
+           </li>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">
+              GND
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="http://d-nb.info/gnd/4061226-0" rel="nofollow">
+               4061226-0
+              </a>
+             </span>
+            </span>
+           </li>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">
+              BNF
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb119793667" rel="nofollow">
+               cb119793667
+              </a>
+              <a class="external text" href="http://data.bnf.fr/ark:/12148/cb119793667" rel="nofollow">
+               (data)
+              </a>
+             </span>
+            </span>
+           </li>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/National_Diet_Library" title="National Diet Library">
+              NDL
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="http://id.ndl.go.jp/auth/ndlna/00572487" rel="nofollow">
+               00572487
+              </a>
+             </span>
+            </span>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <!-- Saved in parser cache with key enwiki:stable-pcache:idhash:30848-0!*!0!!en!4!*!math=5 and timestamp 20161031004646 and revision id 746626484
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Turbine&amp;oldid=746626484">
+      https://en.wikipedia.org/w/index.php?title=Turbine&amp;oldid=746626484
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Turbines" title="Category:Turbines">
+         Turbines
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Jet_engines" title="Category:Jet engines">
+         Jet engines
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Power_engineering" title="Category:Power engineering">
+         Power engineering
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Gas_technologies" title="Category:Gas technologies">
+         Gas technologies
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_containing_Ancient_Greek-language_text" title="Category:Articles containing Ancient Greek-language text">
+         Articles containing Ancient Greek-language text
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_pending_changes_protected_pages_(level_1)" title="Category:Wikipedia pending changes protected pages (level 1)">
+         Wikipedia pending changes protected pages (level 1)
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">
+         Commons category with local link same as on Wikidata
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">
+         Wikipedia articles with LCCN identifiers
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">
+         Wikipedia articles with GND identifiers
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">
+         Wikipedia articles with BNF identifiers
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Turbine" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Turbine" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Turbine" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Turbine" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Turbine">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Turbine&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Turbine&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Turbine" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Turbine" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Turbine&amp;oldid=746626484" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Turbine&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q130760" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Turbine&amp;id=746626484" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Turbine">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Turbine&amp;returnto=Turbine&amp;oldid=746626484&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Turbine&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Turbines_(turbomachine_component)" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-af">
+        <a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Turbine" hreflang="af" lang="af" title="Turbine – Afrikaans">
+         Afrikaans
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B9%D9%86%D9%81%D8%A9" hreflang="ar" lang="ar" title="عنفة – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ast">
+        <a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Turbina" hreflang="ast" lang="ast" title="Turbina – Asturian">
+         Asturianu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-az">
+        <a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Turbin" hreflang="az" lang="az" title="Turbin – Azerbaijani">
+         Azərbaycanca
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A2%D1%83%D1%80%D0%B1%D1%96%D0%BD%D0%B0" hreflang="be" lang="be" title="Турбіна – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be-x-old">
+        <a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%A2%D1%83%D1%80%D0%B1%D1%96%D0%BD%D0%B0" hreflang="be-x-old" lang="be-x-old" title="Турбіна – беларуская (тарашкевіца)‎">
+         Беларуская (тарашкевіца)‎
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A2%D1%83%D1%80%D0%B1%D0%B8%D0%BD%D0%B0" hreflang="bg" lang="bg" title="Турбина – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Turbina" hreflang="ca" lang="ca" title="Turbina – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Turb%C3%ADna" hreflang="cs" lang="cs" title="Turbína – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Turbine" hreflang="da" lang="da" title="Turbine – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Turbine" hreflang="de" lang="de" title="Turbine – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Turbiin" hreflang="et" lang="et" title="Turbiin – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A3%CF%84%CF%81%CF%8C%CE%B2%CE%B9%CE%BB%CE%BF%CF%82" hreflang="el" lang="el" title="Στρόβιλος – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Turbina" hreflang="es" lang="es" title="Turbina – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Turbino" hreflang="eo" lang="eo" title="Turbino – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Turbina" hreflang="eu" lang="eu" title="Turbina – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AA%D9%88%D8%B1%D8%A8%DB%8C%D9%86" hreflang="fa" lang="fa" title="توربین – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Turbine" hreflang="fr" lang="fr" title="Turbine – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ga">
+        <a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Tuirb%C3%ADn" hreflang="ga" lang="ga" title="Tuirbín – Irish">
+         Gaeilge
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Turbina" hreflang="gl" lang="gl" title="Turbina – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%ED%84%B0%EB%B9%88" hreflang="ko" lang="ko" title="터빈 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi">
+        <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%9F%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%87%E0%A4%A8" hreflang="hi" lang="hi" title="टर्बाइन – Hindi">
+         हिन्दी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Turbina" hreflang="hr" lang="hr" title="Turbina – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-io">
+        <a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Turbino" hreflang="io" lang="io" title="Turbino – Ido">
+         Ido
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Turbin" hreflang="id" lang="id" title="Turbin – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-is">
+        <a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Hverfill" hreflang="is" lang="is" title="Hverfill – Icelandic">
+         Íslenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Turbina" hreflang="it" lang="it" title="Turbina – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%98%D7%95%D7%A8%D7%91%D7%99%D7%A0%D7%94" hreflang="he" lang="he" title="טורבינה – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kk">
+        <a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%A2%D1%83%D1%80%D0%B1%D0%B8%D0%BD%D0%B0" hreflang="kk" lang="kk" title="Турбина – Kazakh">
+         Қазақша
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lv">
+        <a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Turb%C4%ABna" hreflang="lv" lang="lv" title="Turbīna – Latvian">
+         Latviešu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lb">
+        <a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Turbinn" hreflang="lb" lang="lb" title="Turbinn – Luxembourgish">
+         Lëtzebuergesch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-li">
+        <a class="interlanguage-link-target" href="https://li.wikipedia.org/wiki/Turbine" hreflang="li" lang="li" title="Turbine – Limburgish">
+         Limburgs
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Turbina" hreflang="hu" lang="hu" title="Turbina – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ml">
+        <a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%9F%E0%B5%BC%E0%B4%AC%E0%B5%88%E0%B5%BB" hreflang="ml" lang="ml" title="ടർബൈൻ – Malayalam">
+         മലയാളം
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-my">
+        <a class="interlanguage-link-target" href="https://my.wikipedia.org/wiki/%E1%80%90%E1%80%AC%E1%80%98%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA_%E1%80%9B%E1%80%9F%E1%80%90%E1%80%BA%E1%80%85%E1%80%80%E1%80%BA" hreflang="my" lang="my" title="တာဘိုင် ရဟတ်စက် – Burmese">
+         မြန်မာဘာသာ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Turbine" hreflang="nl" lang="nl" title="Turbine – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%BC%E3%83%93%E3%83%B3" hreflang="ja" lang="ja" title="タービン – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Turbin" hreflang="no" lang="no" title="Turbin – Norwegian">
+         Norsk bokmål
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Turbin" hreflang="nn" lang="nn" title="Turbin – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-oc">
+        <a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Turbina" hreflang="oc" lang="oc" title="Turbina – Occitan">
+         Occitan
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Turbina" hreflang="pl" lang="pl" title="Turbina – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Turbina" hreflang="pt" lang="pt" title="Turbina – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Turbin%C4%83" hreflang="ro" lang="ro" title="Turbină – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D1%80%D0%B1%D0%B8%D0%BD%D0%B0" hreflang="ru" lang="ru" title="Турбина – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sco">
+        <a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Turbine" hreflang="sco" lang="sco" title="Turbine – Scots">
+         Scots
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-si">
+        <a class="interlanguage-link-target" href="https://si.wikipedia.org/wiki/%E0%B6%AD%E0%B6%BD_%E0%B6%B6%E0%B6%B9%E0%B6%BB%E0%B6%BA" hreflang="si" lang="si" title="තල බඹරය – Sinhala">
+         සිංහල
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Turbine" hreflang="simple" lang="simple" title="Turbine – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Turb%C3%ADna" hreflang="sk" lang="sk" title="Turbína – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Turbina" hreflang="sl" lang="sl" title="Turbina – Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A2%D1%83%D1%80%D0%B1%D0%B8%D0%BD%D0%B0" hreflang="sr" lang="sr" title="Турбина – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Turbina" hreflang="sh" lang="sh" title="Turbina – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Turbiini" hreflang="fi" lang="fi" title="Turbiini – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Turbin" hreflang="sv" lang="sv" title="Turbin – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tl">
+        <a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/Turbina" hreflang="tl" lang="tl" title="Turbina – Tagalog">
+         Tagalog
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%BF%E0%AE%9A%E0%AF%88%E0%AE%AF%E0%AE%BE%E0%AE%B4%E0%AE%BF" hreflang="ta" lang="ta" title="விசையாழி – Tamil">
+         தமிழ்
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%B1%E0%B8%99" hreflang="th" lang="th" title="กังหัน – Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/T%C3%BCrbin" hreflang="tr" lang="tr" title="Türbin – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A2%D1%83%D1%80%D0%B1%D1%96%D0%BD%D0%B0" hreflang="uk" lang="uk" title="Турбіна – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ur">
+        <a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%B9%D9%86%D9%81%DB%81" hreflang="ur" lang="ur" title="عنفہ – Urdu">
+         اردو
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Tua_bin" hreflang="vi" lang="vi" title="Tua bin – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%B6%A1%E8%BD%AE%E5%8F%91%E5%8A%A8%E6%9C%BA" hreflang="zh" lang="zh" title="涡轮发动机 – Chinese">
+         中文
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q130760#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 28 October 2016, at 14:51.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Turbine&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","ext.math.scripts","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.176",
+            "walltime": "0.304",
+            "ppvisitednodes": {
+                "value": 623,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 11298,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 434,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 14,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 6,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 1,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  174.516      1 -total",
+                " 27.60%   48.166      1 Template:Reflist",
+                " 20.46%   35.707      3 Template:Cite_web",
+                " 19.69%   34.369      1 Template:Pp-pc1",
+                " 15.00%   26.180      1 Template:Commons_category",
+                " 12.03%   20.991      1 Template:Authority_control",
+                " 11.69%   20.405      1 Template:Other_uses",
+                "  9.85%   17.182      2 Template:Lang",
+                "  8.67%   15.139      2 Template:Category_handler",
+                "  4.27%    7.451      1 Template:Commons"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.064",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 3037234,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1275",
+            "timestamp": "20161031004646",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":68,"wgHostname":"mw1209"});});
+  </script>
+ </body>
+</html>

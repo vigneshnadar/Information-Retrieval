@@ -1,0 +1,1346 @@
+https://en.wikipedia.org/wiki/M/s
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Metre per second - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Metre_per_second","wgTitle":"Metre per second","wgCurRevisionId":743649908,"wgRevisionId":743649908,"wgArticleId":67231,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Units of velocity"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Metre_per_second","wgRelevantArticleId":67231,"wgRequestId":"WB-1GwpAIDcAAGP8H7oAAAAJ","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"M/s","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Metre_per_second","wgWikibaseItemId":"Q182429","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.redirect","mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Metre_per_second" rel="alternate"/>
+  <link href="/w/index.php?title=Metre_per_second&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Metre_per_second&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Metre_per_second" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Metre_per_second rootpage-Metre_per_second skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Metre per second
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+     <span class="mw-redirectedfrom">
+      (Redirected from
+      <a class="mw-redirect" href="/w/index.php?title=M/s&amp;redirect=no" title="M/s">
+       M/s
+      </a>
+      )
+     </span>
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="hatnote" role="note">
+      "m/s" redirects here. For the BDSM arrangement, see
+      <a href="/wiki/Master/slave_(BDSM)" title="Master/slave (BDSM)">
+       Master/slave (BDSM)
+      </a>
+      . For the maritime prefix designation, see
+      <a href="/wiki/Motor_ship" title="Motor ship">
+       Motor ship
+      </a>
+      .
+     </div>
+     <p>
+      <b>
+       Metre per second
+      </b>
+      (
+      <a href="/wiki/American_English" title="American English">
+       American English
+      </a>
+      :
+      <b>
+       meter per second
+      </b>
+      ) is an
+      <a href="/wiki/SI_derived_unit" title="SI derived unit">
+       SI derived unit
+      </a>
+      of both
+      <a href="/wiki/Speed" title="Speed">
+       speed
+      </a>
+      (
+      <a href="/wiki/Scalar_(physics)" title="Scalar (physics)">
+       scalar
+      </a>
+      ) and
+      <a href="/wiki/Velocity" title="Velocity">
+       velocity
+      </a>
+      (
+      <a class="mw-redirect" href="/wiki/Vector_(geometry)" title="Vector (geometry)">
+       vector quantity
+      </a>
+      which specifies both magnitude and a specific direction), defined by
+      <a href="/wiki/Distance" title="Distance">
+       distance
+      </a>
+      in
+      <a href="/wiki/Metre" title="Metre">
+       metres
+      </a>
+      divided by
+      <a href="/wiki/Time" title="Time">
+       time
+      </a>
+      in
+      <a href="/wiki/Second" title="Second">
+       seconds
+      </a>
+      .
+     </p>
+     <p>
+      The
+      <a href="/wiki/International_System_of_Units" title="International System of Units">
+       SI unit
+      </a>
+      symbols are m·s
+      <sup>
+       −1
+      </sup>
+      , m s
+      <sup>
+       −1
+      </sup>
+      , m/s, or
+      <span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;">
+       <span style="display:block; line-height:1em; margin:0 0.1em;">
+        m
+       </span>
+       <span class="visualhide">
+        /
+       </span>
+       <span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">
+        s
+       </span>
+      </span>
+      ,
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+      sometimes (unofficially) abbreviated as "mps". Where metres per second are several orders of magnitude too slow to be convenient, such as in
+      <a href="/wiki/Astronomy" title="Astronomy">
+       astronomical
+      </a>
+      measurements, velocities may be given in kilometres per second, where 1 km/s is 1000 metres per second, sometimes unofficially abbreviated as "kps".
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Conversions">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Conversions
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#Relation_to_other_measures">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Relation to other measures
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#See_also">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-4">
+        <a href="#References">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-5">
+        <a href="#External_links">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          External links
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Conversions">
+       Conversions
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Metre_per_second&amp;action=edit&amp;section=1" title="Edit section: Conversions">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      1 m/s is equivalent to:
+     </p>
+     <dl>
+      <dd>
+       = 3.6
+       <a href="/wiki/Kilometres_per_hour" title="Kilometres per hour">
+        km/h
+       </a>
+       (exactly)
+      </dd>
+      <dd>
+       ≈ 3.2808
+       <a class="mw-redirect" href="/wiki/Feet_per_second" title="Feet per second">
+        feet per second
+       </a>
+       (approximately)
+      </dd>
+      <dd>
+       ≈ 2.2369
+       <a href="/wiki/Miles_per_hour" title="Miles per hour">
+        miles per hour
+       </a>
+       (approximately)
+      </dd>
+      <dd>
+       ≈ 1.9438
+       <a href="/wiki/Knot_(unit)" title="Knot (unit)">
+        knots
+       </a>
+       (approximately)
+      </dd>
+     </dl>
+     <p>
+      1
+      <a class="mw-redirect" href="/wiki/Feet_per_second" title="Feet per second">
+       foot per second
+      </a>
+      = 0.3048 m/s (exactly)
+     </p>
+     <p>
+      1
+      <a href="/wiki/Miles_per_hour" title="Miles per hour">
+       mile per hour
+      </a>
+      = 0.44704 m/s (exactly)
+     </p>
+     <p>
+      1
+      <a href="/wiki/Kilometres_per_hour" title="Kilometres per hour">
+       km/h
+      </a>
+      = 0.2
+      <span style="text-decoration:overline;">
+       7
+      </span>
+      m/s (exactly)
+     </p>
+     <p>
+      1 kilometre per second is equivalent to:
+     </p>
+     <dl>
+      <dd>
+       ≈ 0.6213 miles per second (approximately)
+      </dd>
+      <dd>
+       ≈ 2237 miles per hour (approximately)
+      </dd>
+     </dl>
+     <h2>
+      <span class="mw-headline" id="Relation_to_other_measures">
+       Relation to other measures
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Metre_per_second&amp;action=edit&amp;section=2" title="Edit section: Relation to other measures">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The benz, named in honour of
+      <a href="/wiki/Karl_Benz" title="Karl Benz">
+       Karl Benz
+      </a>
+      , has been proposed as a name for one metre per second.
+      <sup class="reference" id="cite_ref-Klein2011_2-0">
+       <a href="#cite_note-Klein2011-2">
+        [2]
+       </a>
+      </sup>
+      Although it has seen some support as a practical unit,
+      <sup class="reference" id="cite_ref-Heijungs2005_3-0">
+       <a href="#cite_note-Heijungs2005-3">
+        [3]
+       </a>
+      </sup>
+      primarily from German sources,
+      <sup class="reference" id="cite_ref-Klein2011_2-1">
+       <a href="#cite_note-Klein2011-2">
+        [2]
+       </a>
+      </sup>
+      it was rejected as the SI unit of velocity
+      <sup class="reference" id="cite_ref-Cardarelli2004_4-0">
+       <a href="#cite_note-Cardarelli2004-4">
+        [4]
+       </a>
+      </sup>
+      and has not seen widespread use or acceptance.
+      <sup class="reference" id="cite_ref-Dresner1974_5-0">
+       <a href="#cite_note-Dresner1974-5">
+        [5]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Metre_per_second&amp;action=edit&amp;section=3" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a href="/wiki/Orders_of_magnitude_(speed)" title="Orders of magnitude (speed)">
+        Orders of magnitude (speed)
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Metre" title="Metre">
+        Metre
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Metre_per_second&amp;action=edit&amp;section=4" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-1">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.bipm.org/en/si/si_brochure/chapter5/5-1.html" rel="nofollow">
+          SI brochure, Section 5.1
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-Klein2011-2">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-Klein2011_2-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-Klein2011_2-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation book">
+          Klein HA. (2011).
+          <i>
+           The Science of Measurement: A Historical Survey
+          </i>
+          . Dover Publications. p. 695.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/978-0486258393" title="Special:BookSources/978-0486258393">
+           978-0486258393
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMetre+per+second&amp;rft.au=Klein+HA.&amp;rft.btitle=The+Science+of+Measurement%3A+A+Historical+Survey&amp;rft.date=2011&amp;rft.genre=book&amp;rft.isbn=978-0486258393&amp;rft.pages=695&amp;rft.pub=Dover+Publications&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-Heijungs2005-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-Heijungs2005_3-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation journal">
+          Heijungs R. (2005). "On the Use of Units in LCA".
+          <i>
+           The International Journal of Life Cycle Assessment
+          </i>
+          .
+          <b>
+           10
+          </b>
+          (3): 174.
+          <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+           doi
+          </a>
+          :
+          <a class="external text" href="//dx.doi.org/10.1065%2Flca2005.02.199" rel="nofollow">
+           10.1065/lca2005.02.199
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMetre+per+second&amp;rft.atitle=On+the+Use+of+Units+in+LCA&amp;rft.au=Heijungs+R.&amp;rft.date=2005&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1065%2Flca2005.02.199&amp;rft.issue=3&amp;rft.jtitle=The+International+Journal+of+Life+Cycle+Assessment&amp;rft.pages=174&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=10">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-Cardarelli2004-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-Cardarelli2004_4-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation book">
+          Cardarelli F. (2004).
+          <i>
+           Encyclopaedia of Scientific Units, Weights and Measures: Their SI Equivalences and Origins
+          </i>
+          . Transl. by MJ Shields. (3rd revised ed.). Springer. p. 217.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/978-1852336820" title="Special:BookSources/978-1852336820">
+           978-1852336820
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMetre+per+second&amp;rft.au=Cardarelli+F.&amp;rft.btitle=Encyclopaedia+of+Scientific+Units%2C+Weights+and+Measures%3A+Their+SI+Equivalences+and+Origins&amp;rft.date=2004&amp;rft.edition=3rd+revised&amp;rft.genre=book&amp;rft.isbn=978-1852336820&amp;rft.pages=217&amp;rft.pub=Springer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-Dresner1974-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-Dresner1974_5-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation book">
+          Dresner S. (1974).
+          <i>
+           Units of Measurement: An Encyclopaedic Dictionary of Units Both Scientific and Popular and the Quantities They Measure
+          </i>
+          . Harvey Miller and Medcalf. p. 13.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/978-0-85602-036-0" title="Special:BookSources/978-0-85602-036-0">
+           978-0-85602-036-0
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMetre+per+second&amp;rft.au=Dresner+S.&amp;rft.btitle=Units+of+Measurement%3A+An+Encyclopaedic+Dictionary+of+Units+Both+Scientific+and+Popular+and+the+Quantities+They+Measure&amp;rft.date=1974&amp;rft.genre=book&amp;rft.isbn=978-0-85602-036-0&amp;rft.pages=13&amp;rft.pub=Harvey+Miller+and+Medcalf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Metre_per_second&amp;action=edit&amp;section=5" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a class="external text" href="http://www.bipm.org/en/si/si_brochure/chapter2/2-1/metre.html" rel="nofollow">
+        Official BIPM definition of the metre
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.bipm.org/en/si/si_brochure/chapter2/2-1/second.html" rel="nofollow">
+        Official BIPM definition of the second
+       </a>
+      </li>
+     </ul>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:67231-0!*!0!!en!*!* and timestamp 20161031033325 and revision id 743649908
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Metre_per_second&amp;oldid=743649908">
+      https://en.wikipedia.org/w/index.php?title=Metre_per_second&amp;oldid=743649908
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Units_of_velocity" title="Category:Units of velocity">
+         Units of velocity
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Metre+per+second" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Metre+per+second" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Metre_per_second" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Metre_per_second" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Metre_per_second">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Metre_per_second&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Metre_per_second&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Metre_per_second" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Metre_per_second" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Metre_per_second&amp;oldid=743649908" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Metre_per_second&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q182429" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Metre_per_second&amp;id=743649908" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Metre+per+second">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Metre+per+second&amp;returnto=Metre+per+second&amp;oldid=743649908&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Metre_per_second&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-af">
+        <a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Meter_per_sekonde" hreflang="af" lang="af" title="Meter per sekonde – Afrikaans">
+         Afrikaans
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%B1_%D9%81%D9%8A_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9" hreflang="ar" lang="ar" title="متر في الثانية – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-an">
+        <a class="interlanguage-link-target" href="https://an.wikipedia.org/wiki/Metro_por_segundo" hreflang="an" lang="an" title="Metro por segundo – Aragonese">
+         Aragonés
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ast">
+        <a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Metru_per_segundu" hreflang="ast" lang="ast" title="Metru per segundu – Asturian">
+         Asturianu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-min-nan">
+        <a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/B%C3%AD_ta%CC%8Dk_bi%C3%B3" hreflang="zh-min-nan" lang="zh-min-nan" title="Bí ta̍k bió – Chinese (Min Nan)">
+         Bân-lâm-gú
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D1%80_%D1%83_%D1%81%D0%B5%D0%BA%D1%83%D0%BD%D0%B4%D1%83" hreflang="be" lang="be" title="Метр у секунду – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be-x-old">
+        <a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%9C%D1%8D%D1%82%D0%B0%D1%80_%D0%B7%D0%B0_%D1%81%D1%8D%D0%BA%D1%83%D0%BD%D0%B4%D1%83" hreflang="be-x-old" lang="be-x-old" title="Мэтар за сэкунду – беларуская (тарашкевіца)‎">
+         Беларуская (тарашкевіца)‎
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D1%8A%D1%80_%D0%B2_%D1%81%D0%B5%D0%BA%D1%83%D0%BD%D0%B4%D0%B0" hreflang="bg" lang="bg" title="Метър в секунда – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bar">
+        <a class="interlanguage-link-target" href="https://bar.wikipedia.org/wiki/Meta_pro_Sekunde" hreflang="bar" lang="bar" title="Meta pro Sekunde – Bavarian">
+         Boarisch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bs">
+        <a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Metar_u_sekundi" hreflang="bs" lang="bs" title="Metar u sekundi – Bosnian">
+         Bosanski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Metre_per_segon" hreflang="ca" lang="ca" title="Metre per segon – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Metr_za_sekundu" hreflang="cs" lang="cs" title="Metr za sekundu – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Meter_pro_Sekunde" hreflang="de" lang="de" title="Meter pro Sekunde – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Meeter_sekundis" hreflang="et" lang="et" title="Meeter sekundis – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Metro_por_segundo" hreflang="es" lang="es" title="Metro por segundo – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Metro_en_sekundo" hreflang="eo" lang="eo" title="Metro en sekundo – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Metro_segundoko" hreflang="eu" lang="eu" title="Metro segundoko – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%85%D8%AA%D8%B1_%D8%A8%D8%B1_%D8%AB%D8%A7%D9%86%DB%8C%D9%87" hreflang="fa" lang="fa" title="متر بر ثانیه – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/M%C3%A8tre_par_seconde" hreflang="fr" lang="fr" title="Mètre par seconde – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Metro_por_segundo" hreflang="gl" lang="gl" title="Metro por segundo – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%AF%B8%ED%84%B0_%EB%A7%A4_%EC%B4%88" hreflang="ko" lang="ko" title="미터 매 초 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Metar_u_sekundi" hreflang="hr" lang="hr" title="Metar u sekundi – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Meter_per_detik" hreflang="id" lang="id" title="Meter per detik – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Metro_al_secondo" hreflang="it" lang="it" title="Metro al secondo – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sw">
+        <a class="interlanguage-link-target" href="https://sw.wikipedia.org/wiki/M/s" hreflang="sw" lang="sw" title="M/s – Swahili">
+         Kiswahili
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Metras_per_sekund%C4%99" hreflang="lt" lang="lt" title="Metras per sekundę – Lithuanian">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mk">
+        <a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%B0%D1%80_%D0%B2%D0%BE_%D1%81%D0%B5%D0%BA%D1%83%D0%BD%D0%B4%D0%B0" hreflang="mk" lang="mk" title="Метар во секунда – Macedonian">
+         Македонски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ms">
+        <a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Meter_per_saat" hreflang="ms" lang="ms" title="Meter per saat – Malay">
+         Bahasa Melayu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Meter_per_seconde" hreflang="nl" lang="nl" title="Meter per seconde – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%BC%E3%83%88%E3%83%AB%E6%AF%8E%E7%A7%92" hreflang="ja" lang="ja" title="メートル毎秒 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Meter_per_sekund" hreflang="no" lang="no" title="Meter per sekund – Norwegian">
+         Norsk bokmål
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Meter_per_sekund" hreflang="nn" lang="nn" title="Meter per sekund – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pa">
+        <a class="interlanguage-link-target" href="https://pa.wikipedia.org/wiki/%E0%A8%AE%E0%A9%80%E0%A8%9F%E0%A8%B0_%E0%A8%AA%E0%A9%8D%E0%A8%B0%E0%A8%A4%E0%A9%80_%E0%A8%B8%E0%A9%88%E0%A8%95%E0%A9%B0%E0%A8%A1" hreflang="pa" lang="pa" title="ਮੀਟਰ ਪ੍ਰਤੀ ਸੈਕੰਡ – Punjabi">
+         ਪੰਜਾਬੀ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-km">
+        <a class="interlanguage-link-target" href="https://km.wikipedia.org/wiki/%E1%9E%98%E1%9F%89%E1%9F%82%E1%9E%8F%E1%9F%92%E1%9E%9A%E1%9E%80%E1%9F%92%E1%9E%93%E1%9E%BB%E1%9E%84%E1%9E%98%E1%9E%BD%E1%9E%99%E1%9E%9C%E1%9E%B7%E1%9E%93%E1%9E%B6%E1%9E%91%E1%9E%B8" hreflang="km" lang="km" title="ម៉ែត្រក្នុងមួយវិនាទី – Khmer">
+         ភាសាខ្មែរ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Metr_na_sekund%C4%99" hreflang="pl" lang="pl" title="Metr na sekundę – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Metro_por_segundo" hreflang="pt" lang="pt" title="Metro por segundo – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D1%80_%D0%B2_%D1%81%D0%B5%D0%BA%D1%83%D0%BD%D0%B4%D1%83" hreflang="ru" lang="ru" title="Метр в секунду – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sco">
+        <a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Metre_per_seicont" hreflang="sco" lang="sco" title="Metre per seicont – Scots">
+         Scots
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Metre_per_second" hreflang="simple" lang="simple" title="Metre per second – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Meter_za_sekundu" hreflang="sk" lang="sk" title="Meter za sekundu – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Meter_na_sekundo" hreflang="sl" lang="sl" title="Meter na sekundo – Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%B0%D1%80_%D1%83_%D1%81%D0%B5%D0%BA%D1%83%D0%BD%D0%B4%D0%B8" hreflang="sr" lang="sr" title="Метар у секунди – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Metar_u_sekundi" hreflang="sh" lang="sh" title="Metar u sekundi – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Metri_sekunnissa" hreflang="fi" lang="fi" title="Metri sekunnissa – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Meter_per_sekund" hreflang="sv" lang="sv" title="Meter per sekund – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%A1%E0%B8%95%E0%B8%A3%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%97%E0%B8%B5" hreflang="th" lang="th" title="เมตรต่อวินาที – Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Metre_b%C3%B6l%C3%BC_saniye" hreflang="tr" lang="tr" title="Metre bölü saniye – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D1%80_%D0%BD%D0%B0_%D1%81%D0%B5%D0%BA%D1%83%D0%BD%D0%B4%D1%83" hreflang="uk" lang="uk" title="Метр на секунду – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ur">
+        <a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D9%85%DB%8C%D9%B9%D8%B1_%D9%81%DB%8C_%D8%B3%DB%8C%DA%A9%D9%86%DA%88" hreflang="ur" lang="ur" title="میٹر فی سیکنڈ – Urdu">
+         اردو
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/M%C3%A9t_tr%C3%AAn_gi%C3%A2y" hreflang="vi" lang="vi" title="Mét trên giây – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%B1%B3%E6%AF%8F%E7%A7%92" hreflang="zh" lang="zh" title="米每秒 – Chinese">
+         中文
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q182429#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 10 October 2016, at 15:25.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Metre_per_second&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.100",
+            "walltime": "0.125",
+            "ppvisitednodes": {
+                "value": 296,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 7232,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 158,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 6,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 1,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  111.748      1 -total",
+                " 63.87%   71.377      1 Template:Reflist",
+                " 44.51%   49.742      3 Template:Cite_book",
+                " 26.15%   29.223      1 Template:Redirect",
+                "  5.42%    6.056      1 Template:Cite_journal",
+                "  4.14%    4.631      1 Template:Sfrac",
+                "  1.09%    1.221      1 Template:Overline",
+                "  0.95%    1.060      1 Template:Column-width"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.047",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 2087860,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1272",
+            "timestamp": "20161031033325",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":72,"wgHostname":"mw1185"});});
+  </script>
+ </body>
+</html>

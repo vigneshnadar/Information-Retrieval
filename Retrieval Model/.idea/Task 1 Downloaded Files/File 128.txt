@@ -1,0 +1,4343 @@
+https://en.wikipedia.org/wiki/Latent_energy
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Latent heat - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Latent_heat","wgTitle":"Latent heat","wgCurRevisionId":740168511,"wgRevisionId":740168511,"wgArticleId":164610,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Multiple names: authors list","All articles with unsourced statements","Articles with unsourced statements from June 2012","Thermochemistry","Atmospheric thermodynamics","Thermodynamics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Latent_heat","wgRelevantArticleId":164610,"wgRequestId":"WCAAzQpAIC0AACtJikUAAAAB","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Latent_energy","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Latent_heat","wgWikibaseItemId":"Q207721","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.redirect","mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Latent_heat" rel="alternate"/>
+  <link href="/w/index.php?title=Latent_heat&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Latent_heat&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Latent_heat" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Latent_heat rootpage-Latent_heat skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Latent heat
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+     <span class="mw-redirectedfrom">
+      (Redirected from
+      <a class="mw-redirect" href="/w/index.php?title=Latent_energy&amp;redirect=no" title="Latent energy">
+       Latent energy
+      </a>
+      )
+     </span>
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <p>
+      <b>
+       Latent heat
+      </b>
+      is energy released or absorbed, by a body or a
+      <a href="/wiki/Thermodynamic_system" title="Thermodynamic system">
+       thermodynamic system
+      </a>
+      , during a constant-temperature process. An example is
+      <a class="mw-redirect" href="/wiki/Latent_heat_of_fusion" title="Latent heat of fusion">
+       latent heat of fusion
+      </a>
+      for a
+      <a href="/wiki/Phase_transition" title="Phase transition">
+       phase change
+      </a>
+      , melting, at a specified temperature and pressure.
+      <sup class="reference" id="cite_ref-Perrot_1-0">
+       <a href="#cite_note-Perrot-1">
+        [1]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-:0_2-0">
+       <a href="#cite_note-:0-2">
+        [2]
+       </a>
+      </sup>
+      The term was introduced around 1762 by
+      <a href="/wiki/Scotland" title="Scotland">
+       Scottish
+      </a>
+      <a href="/wiki/Chemist" title="Chemist">
+       chemist
+      </a>
+      <a href="/wiki/Joseph_Black" title="Joseph Black">
+       Joseph Black
+      </a>
+      . It is derived from the Latin
+      <i>
+       latere
+      </i>
+      (
+      <i>
+       to lie hidden
+      </i>
+      ). Black used the term in the context of
+      <a href="/wiki/Calorimetry" title="Calorimetry">
+       calorimetry
+      </a>
+      where a heat transfer caused a volume change while the thermodynamic system's temperature was constant.
+     </p>
+     <p>
+      In contrast to latent heat,
+      <a href="/wiki/Sensible_heat" title="Sensible heat">
+       sensible heat
+      </a>
+      involves an energy transfer that results in a temperature change of the system.
+     </p>
+     <table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+      <tr>
+       <th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;padding-bottom:0.3em;border-bottom:1px solid #aaa;">
+        <a href="/wiki/Thermodynamics" title="Thermodynamics">
+         Thermodynamics
+        </a>
+       </th>
+      </tr>
+      <tr>
+       <td style="padding:0.2em 0 0.4em;display:block;margin:0.3em 0 0.4em;">
+        <a href="/wiki/Carnot_heat_engine" title="Carnot heat engine">
+         <img alt="Carnot heat engine 2.svg" data-file-height="370" data-file-width="840" height="97" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Carnot_heat_engine_2.svg/220px-Carnot_heat_engine_2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Carnot_heat_engine_2.svg/330px-Carnot_heat_engine_2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Carnot_heat_engine_2.svg/440px-Carnot_heat_engine_2.svg.png 2x" width="220"/>
+        </a>
+        <div style="padding-top:0.2em;line-height:1.2em">
+         The classical
+         <a href="/wiki/Carnot_heat_engine" title="Carnot heat engine">
+          Carnot heat engine
+         </a>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <td style="padding:0 0.1em 0.4em">
+        <div class="NavFrame collapsed" style="border:none;padding:0">
+         <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">
+          Branches
+         </div>
+         <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+          <div class="hlist">
+           <ul>
+            <li>
+             <a href="/wiki/Thermodynamics" title="Thermodynamics">
+              Classical
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Statistical_mechanics" title="Statistical mechanics">
+              Statistical
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Chemical_thermodynamics" title="Chemical thermodynamics">
+              Chemical
+             </a>
+            </li>
+           </ul>
+          </div>
+          <ul>
+           <li>
+            <a href="/wiki/Equilibrium_thermodynamics" title="Equilibrium thermodynamics">
+             Equilibrium
+            </a>
+            /
+            <a href="/wiki/Non-equilibrium_thermodynamics" title="Non-equilibrium thermodynamics">
+             Non-equilibrium
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <td style="padding:0 0.1em 0.4em">
+        <div class="NavFrame collapsed" style="border:none;padding:0">
+         <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">
+          <a href="/wiki/Laws_of_thermodynamics" title="Laws of thermodynamics">
+           Laws
+          </a>
+         </div>
+         <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+          <div class="hlist">
+           <ul>
+            <li>
+             <a href="/wiki/Zeroth_law_of_thermodynamics" title="Zeroth law of thermodynamics">
+              Zeroth
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/First_law_of_thermodynamics" title="First law of thermodynamics">
+              First
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Second_law_of_thermodynamics" title="Second law of thermodynamics">
+              Second
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Third_law_of_thermodynamics" title="Third law of thermodynamics">
+              Third
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <td style="padding:0 0.1em 0.4em">
+        <div class="NavFrame collapsed" style="border:none;padding:0">
+         <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">
+          <a href="/wiki/Thermodynamic_system" title="Thermodynamic system">
+           Systems
+          </a>
+         </div>
+         <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+          <table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none">
+           <tr>
+            <th style="padding:0.1em;background:#eaeaff;font-style:italic;">
+             <a href="/wiki/Thermodynamic_state" title="Thermodynamic state">
+              State
+             </a>
+            </th>
+           </tr>
+           <tr>
+            <td class="hlist" style="padding:0 0.1em 0.4em">
+             <ul>
+              <li>
+               <a href="/wiki/Equation_of_state" title="Equation of state">
+                Equation of state
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Ideal_gas" title="Ideal gas">
+                Ideal gas
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Real_gas" title="Real gas">
+                Real gas
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/State_of_matter" title="State of matter">
+                State of matter
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Thermodynamic_equilibrium" title="Thermodynamic equilibrium">
+                Equilibrium
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Control_volume" title="Control volume">
+                Control volume
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Thermodynamic_instruments" title="Thermodynamic instruments">
+                Instruments
+               </a>
+              </li>
+             </ul>
+            </td>
+           </tr>
+           <tr>
+            <th style="padding:0.1em;background:#eaeaff;font-style:italic;">
+             <a href="/wiki/Thermodynamic_process" title="Thermodynamic process">
+              Processes
+             </a>
+            </th>
+           </tr>
+           <tr>
+            <td class="hlist" style="padding:0 0.1em 0.4em">
+             <ul>
+              <li>
+               <a href="/wiki/Isobaric_process" title="Isobaric process">
+                Isobaric
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Isochoric_process" title="Isochoric process">
+                Isochoric
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Isothermal_process" title="Isothermal process">
+                Isothermal
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Adiabatic_process" title="Adiabatic process">
+                Adiabatic
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Isentropic_process" title="Isentropic process">
+                Isentropic
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Isenthalpic_process" title="Isenthalpic process">
+                Isenthalpic
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Quasistatic_process" title="Quasistatic process">
+                Quasistatic
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Polytropic_process" title="Polytropic process">
+                Polytropic
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Free_expansion" title="Free expansion">
+                Free expansion
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Reversible_process_(thermodynamics)" title="Reversible process (thermodynamics)">
+                Reversibility
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Irreversible_process" title="Irreversible process">
+                Irreversibility
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Endoreversible_thermodynamics" title="Endoreversible thermodynamics">
+                Endoreversibility
+               </a>
+              </li>
+             </ul>
+            </td>
+           </tr>
+           <tr>
+            <th style="padding:0.1em;background:#eaeaff;font-style:italic;">
+             <a href="/wiki/Thermodynamic_cycle" title="Thermodynamic cycle">
+              Cycles
+             </a>
+            </th>
+           </tr>
+           <tr>
+            <td class="hlist" style="padding:0 0.1em 0.4em">
+             <ul>
+              <li>
+               <a href="/wiki/Heat_engine" title="Heat engine">
+                Heat engines
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Heat_pump_and_refrigeration_cycle" title="Heat pump and refrigeration cycle">
+                Heat pumps
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Thermal_efficiency" title="Thermal efficiency">
+                Thermal efficiency
+               </a>
+              </li>
+             </ul>
+            </td>
+           </tr>
+          </table>
+         </div>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <td style="padding:0 0.1em 0.4em">
+        <div class="NavFrame collapsed" style="border:none;padding:0">
+         <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">
+          <a href="/wiki/List_of_thermodynamic_properties" title="List of thermodynamic properties">
+           System properties
+          </a>
+         </div>
+         <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+          <div style="font-size:90%;padding-bottom:0.2em;border-bottom:1px solid #aaa;">
+           Note:
+           <a href="/wiki/Conjugate_variables_(thermodynamics)" title="Conjugate variables (thermodynamics)">
+            Conjugate variables
+           </a>
+           in
+           <i>
+            italics
+           </i>
+          </div>
+          <table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none;margin-top:0.4em;">
+           <tr>
+            <td style="padding:0 0.1em 0.4em;padding-bottom:0.7em;">
+             <ul>
+              <li>
+               <a href="/wiki/Thermodynamic_diagrams" title="Thermodynamic diagrams">
+                Property diagrams
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Intensive_and_extensive_properties" title="Intensive and extensive properties">
+                Intensive and extensive properties
+               </a>
+              </li>
+             </ul>
+            </td>
+           </tr>
+           <tr>
+            <th style="padding:0.1em;background:#eaeaff;font-style:italic;">
+             <a href="/wiki/State_function" title="State function">
+              Functions of state
+             </a>
+            </th>
+           </tr>
+           <tr>
+            <td style="padding:0 0.1em 0.4em;padding-bottom:0.7em;">
+             <ul>
+              <li>
+               <a href="/wiki/Thermodynamic_temperature" title="Thermodynamic temperature">
+                Temperature
+               </a>
+               /
+               <i>
+                <a href="/wiki/Entropy" title="Entropy">
+                 Entropy
+                </a>
+               </i>
+               (
+               <a href="/wiki/Introduction_to_entropy" title="Introduction to entropy">
+                introduction
+               </a>
+               )
+              </li>
+              <li>
+               <a href="/wiki/Pressure" title="Pressure">
+                Pressure
+               </a>
+               /
+               <i>
+                <a href="/wiki/Volume_(thermodynamics)" title="Volume (thermodynamics)">
+                 Volume
+                </a>
+               </i>
+              </li>
+              <li>
+               <a href="/wiki/Chemical_potential" title="Chemical potential">
+                Chemical potential
+               </a>
+               /
+               <i>
+                <a href="/wiki/Particle_number" title="Particle number">
+                 Particle number
+                </a>
+               </i>
+              </li>
+              <li>
+               <a href="/wiki/Vapor_quality" title="Vapor quality">
+                Vapor quality
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Reduced_properties" title="Reduced properties">
+                Reduced properties
+               </a>
+              </li>
+             </ul>
+            </td>
+           </tr>
+           <tr>
+            <th style="padding:0.1em;background:#eaeaff;font-style:italic;">
+             <a href="/wiki/Process_function" title="Process function">
+              Process functions
+             </a>
+            </th>
+           </tr>
+           <tr>
+            <td style="padding:0 0.1em 0.4em;padding-bottom:0.7em;;padding-bottom:0.4em;">
+             <div class="hlist">
+              <ul>
+               <li>
+                <a href="/wiki/Work_(thermodynamics)" title="Work (thermodynamics)">
+                 Work
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Heat" title="Heat">
+                 Heat
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+          </table>
+         </div>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <td style="padding:0 0.1em 0.4em">
+        <div class="NavFrame collapsed" style="border:none;padding:0">
+         <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">
+          <a href="/wiki/Material_properties_(thermodynamics)" title="Material properties (thermodynamics)">
+           Material properties
+          </a>
+         </div>
+         <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+          <ul>
+           <li>
+            <a href="/wiki/Thermodynamic_databases_for_pure_substances" title="Thermodynamic databases for pure substances">
+             Property databases
+            </a>
+           </li>
+          </ul>
+          <div style="font-size:90%;margin-top:0.4em;border-top:1px solid #aaa;text-align:center;">
+           <table>
+            <tr>
+             <td style="vertical-align:middle; text-align:right">
+              <a href="/wiki/Heat_capacity" title="Heat capacity">
+               Specific heat capacity
+              </a>
+             </td>
+             <td style="vertical-align:middle; text-align:left">
+              <span>
+               <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+                <math xmlns="http://www.w3.org/1998/Math/MathML">
+                 <semantics>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mstyle displaystyle="true" scriptlevel="0">
+                    <mi>
+                     c
+                    </mi>
+                    <mo>
+                     =
+                    </mo>
+                   </mstyle>
+                  </mrow>
+                  <annotation encoding="application/x-tex">
+                   {\displaystyle c=}
+                  </annotation>
+                 </semantics>
+                </math>
+               </span>
+               <img alt="c=" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/891d40a9b18752b04065caee655d008b3ec11428" style="vertical-align: -0.338ex; width:3.481ex; height:1.676ex;"/>
+              </span>
+             </td>
+             <td>
+              <table>
+               <tr>
+                <td>
+                 <span>
+                  <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+                   <math xmlns="http://www.w3.org/1998/Math/MathML">
+                    <semantics>
+                     <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="true" scriptlevel="0">
+                       <mi>
+                        T
+                       </mi>
+                      </mstyle>
+                     </mrow>
+                     <annotation encoding="application/x-tex">
+                      {\displaystyle T}
+                     </annotation>
+                    </semantics>
+                   </math>
+                  </span>
+                  <img alt="T" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ec7200acd984a1d3a3d7dc455e262fbe54f7f6e0" style="vertical-align: -0.338ex; width:1.647ex; height:2.176ex;"/>
+                 </span>
+                </td>
+                <td>
+                 <span>
+                  <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+                   <math xmlns="http://www.w3.org/1998/Math/MathML">
+                    <semantics>
+                     <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="true" scriptlevel="0">
+                       <mi mathvariant="normal">
+                        ∂
+                        <!-- ∂ -->
+                       </mi>
+                       <mi>
+                        S
+                       </mi>
+                      </mstyle>
+                     </mrow>
+                     <annotation encoding="application/x-tex">
+                      {\displaystyle \partial S}
+                     </annotation>
+                    </semantics>
+                   </math>
+                  </span>
+                  <img alt="\partial S" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c609f4d3c5692ea4495479ef47594dc67f9fa464" style="vertical-align: -0.338ex; width:2.838ex; height:2.343ex;"/>
+                 </span>
+                </td>
+               </tr>
+               <tr>
+                <td style="border-top:solid 1px black;">
+                 <span>
+                  <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+                   <math xmlns="http://www.w3.org/1998/Math/MathML">
+                    <semantics>
+                     <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="true" scriptlevel="0">
+                       <mi>
+                        N
+                       </mi>
+                      </mstyle>
+                     </mrow>
+                     <annotation encoding="application/x-tex">
+                      {\displaystyle N}
+                     </annotation>
+                    </semantics>
+                   </math>
+                  </span>
+                  <img alt="N" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5e3890c981ae85503089652feb48b191b57aae3" style="vertical-align: -0.338ex; width:2.074ex; height:2.176ex;"/>
+                 </span>
+                </td>
+                <td style="border-top:solid 1px black;">
+                 <span>
+                  <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+                   <math xmlns="http://www.w3.org/1998/Math/MathML">
+                    <semantics>
+                     <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="true" scriptlevel="0">
+                       <mi mathvariant="normal">
+                        ∂
+                        <!-- ∂ -->
+                       </mi>
+                       <mi>
+                        T
+                       </mi>
+                      </mstyle>
+                     </mrow>
+                     <annotation encoding="application/x-tex">
+                      {\displaystyle \partial T}
+                     </annotation>
+                    </semantics>
+                   </math>
+                  </span>
+                  <img alt="\partial T" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/504aa558fff3d00d10b03cadb1085cb0b7bdc631" style="vertical-align: -0.338ex; width:2.975ex; height:2.343ex;"/>
+                 </span>
+                </td>
+               </tr>
+              </table>
+             </td>
+            </tr>
+            <tr>
+             <td style="vertical-align:middle; text-align:right">
+              <a href="/wiki/Compressibility" title="Compressibility">
+               Compressibility
+              </a>
+             </td>
+             <td style="vertical-align:middle; text-align:left">
+              <span>
+               <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+                <math xmlns="http://www.w3.org/1998/Math/MathML">
+                 <semantics>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mstyle displaystyle="true" scriptlevel="0">
+                    <mi>
+                     β
+                     <!-- β -->
+                    </mi>
+                    <mo>
+                     =
+                    </mo>
+                    <mo>
+                     −
+                     <!-- − -->
+                    </mo>
+                   </mstyle>
+                  </mrow>
+                  <annotation encoding="application/x-tex">
+                   {\displaystyle \beta =-}
+                  </annotation>
+                 </semantics>
+                </math>
+               </span>
+               <img alt="\beta =-" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b01c042bf1456bd4d2a8caed1f4912820a7ecbb3" style="vertical-align: -0.671ex; width:6.27ex; height:2.509ex;"/>
+              </span>
+             </td>
+             <td>
+              <table>
+               <tr>
+                <td>
+                 <span>
+                  <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+                   <math xmlns="http://www.w3.org/1998/Math/MathML">
+                    <semantics>
+                     <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="true" scriptlevel="0">
+                       <mn>
+                        1
+                       </mn>
+                      </mstyle>
+                     </mrow>
+                     <annotation encoding="application/x-tex">
+                      {\displaystyle 1}
+                     </annotation>
+                    </semantics>
+                   </math>
+                  </span>
+                  <img alt="1" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/92d98b82a3778f043108d4e20960a9193df57cbf" style="vertical-align: -0.338ex; width:1.173ex; height:2.176ex;"/>
+                 </span>
+                </td>
+                <td>
+                 <span>
+                  <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+                   <math xmlns="http://www.w3.org/1998/Math/MathML">
+                    <semantics>
+                     <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="true" scriptlevel="0">
+                       <mi mathvariant="normal">
+                        ∂
+                        <!-- ∂ -->
+                       </mi>
+                       <mi>
+                        V
+                       </mi>
+                      </mstyle>
+                     </mrow>
+                     <annotation encoding="application/x-tex">
+                      {\displaystyle \partial V}
+                     </annotation>
+                    </semantics>
+                   </math>
+                  </span>
+                  <img alt="\partial V" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0cecdd9d069fa84159940068fc11a91b6b3b9ee4" style="vertical-align: -0.338ex; width:3.126ex; height:2.343ex;"/>
+                 </span>
+                </td>
+               </tr>
+               <tr>
+                <td style="border-top:solid 1px black;">
+                 <span>
+                  <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+                   <math xmlns="http://www.w3.org/1998/Math/MathML">
+                    <semantics>
+                     <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="true" scriptlevel="0">
+                       <mi>
+                        V
+                       </mi>
+                      </mstyle>
+                     </mrow>
+                     <annotation encoding="application/x-tex">
+                      {\displaystyle V}
+                     </annotation>
+                    </semantics>
+                   </math>
+                  </span>
+                  <img alt="V" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/af0f6064540e84211d0ffe4dac72098adfa52845" style="vertical-align: -0.338ex; width:1.798ex; height:2.176ex;"/>
+                 </span>
+                </td>
+                <td style="border-top:solid 1px black;">
+                 <span>
+                  <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+                   <math xmlns="http://www.w3.org/1998/Math/MathML">
+                    <semantics>
+                     <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="true" scriptlevel="0">
+                       <mi mathvariant="normal">
+                        ∂
+                        <!-- ∂ -->
+                       </mi>
+                       <mi>
+                        p
+                       </mi>
+                      </mstyle>
+                     </mrow>
+                     <annotation encoding="application/x-tex">
+                      {\displaystyle \partial p}
+                     </annotation>
+                    </semantics>
+                   </math>
+                  </span>
+                  <img alt="\partial p" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ebc4a48eb2412f08b54fe438b5139c88f9cfa372" style="vertical-align: -0.671ex; width:2.508ex; height:2.676ex;"/>
+                 </span>
+                </td>
+               </tr>
+              </table>
+             </td>
+            </tr>
+            <tr>
+             <td style="vertical-align:middle; text-align:right">
+              <a href="/wiki/Thermal_expansion" title="Thermal expansion">
+               Thermal expansion
+              </a>
+             </td>
+             <td style="vertical-align:middle; text-align:left">
+              <span>
+               <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+                <math xmlns="http://www.w3.org/1998/Math/MathML">
+                 <semantics>
+                  <mrow class="MJX-TeXAtom-ORD">
+                   <mstyle displaystyle="true" scriptlevel="0">
+                    <mi>
+                     α
+                     <!-- α -->
+                    </mi>
+                    <mo>
+                     =
+                    </mo>
+                   </mstyle>
+                  </mrow>
+                  <annotation encoding="application/x-tex">
+                   {\displaystyle \alpha =}
+                  </annotation>
+                 </semantics>
+                </math>
+               </span>
+               <img alt="\alpha =" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a92d4583d351f08c1c70985f0c843b2fff1b01e7" style="vertical-align: -0.338ex; width:3.962ex; height:1.676ex;"/>
+              </span>
+             </td>
+             <td>
+              <table>
+               <tr>
+                <td>
+                 <span>
+                  <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+                   <math xmlns="http://www.w3.org/1998/Math/MathML">
+                    <semantics>
+                     <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="true" scriptlevel="0">
+                       <mn>
+                        1
+                       </mn>
+                      </mstyle>
+                     </mrow>
+                     <annotation encoding="application/x-tex">
+                      {\displaystyle 1}
+                     </annotation>
+                    </semantics>
+                   </math>
+                  </span>
+                  <img alt="1" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/92d98b82a3778f043108d4e20960a9193df57cbf" style="vertical-align: -0.338ex; width:1.173ex; height:2.176ex;"/>
+                 </span>
+                </td>
+                <td>
+                 <span>
+                  <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+                   <math xmlns="http://www.w3.org/1998/Math/MathML">
+                    <semantics>
+                     <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="true" scriptlevel="0">
+                       <mi mathvariant="normal">
+                        ∂
+                        <!-- ∂ -->
+                       </mi>
+                       <mi>
+                        V
+                       </mi>
+                      </mstyle>
+                     </mrow>
+                     <annotation encoding="application/x-tex">
+                      {\displaystyle \partial V}
+                     </annotation>
+                    </semantics>
+                   </math>
+                  </span>
+                  <img alt="\partial V" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0cecdd9d069fa84159940068fc11a91b6b3b9ee4" style="vertical-align: -0.338ex; width:3.126ex; height:2.343ex;"/>
+                 </span>
+                </td>
+               </tr>
+               <tr>
+                <td style="border-top:solid 1px black;">
+                 <span>
+                  <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+                   <math xmlns="http://www.w3.org/1998/Math/MathML">
+                    <semantics>
+                     <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="true" scriptlevel="0">
+                       <mi>
+                        V
+                       </mi>
+                      </mstyle>
+                     </mrow>
+                     <annotation encoding="application/x-tex">
+                      {\displaystyle V}
+                     </annotation>
+                    </semantics>
+                   </math>
+                  </span>
+                  <img alt="V" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/af0f6064540e84211d0ffe4dac72098adfa52845" style="vertical-align: -0.338ex; width:1.798ex; height:2.176ex;"/>
+                 </span>
+                </td>
+                <td style="border-top:solid 1px black;">
+                 <span>
+                  <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+                   <math xmlns="http://www.w3.org/1998/Math/MathML">
+                    <semantics>
+                     <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="true" scriptlevel="0">
+                       <mi mathvariant="normal">
+                        ∂
+                        <!-- ∂ -->
+                       </mi>
+                       <mi>
+                        T
+                       </mi>
+                      </mstyle>
+                     </mrow>
+                     <annotation encoding="application/x-tex">
+                      {\displaystyle \partial T}
+                     </annotation>
+                    </semantics>
+                   </math>
+                  </span>
+                  <img alt="\partial T" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/504aa558fff3d00d10b03cadb1085cb0b7bdc631" style="vertical-align: -0.338ex; width:2.975ex; height:2.343ex;"/>
+                 </span>
+                </td>
+               </tr>
+              </table>
+             </td>
+            </tr>
+           </table>
+          </div>
+         </div>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <td style="padding:0 0.1em 0.4em">
+        <div class="NavFrame collapsed" style="border:none;padding:0">
+         <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">
+          <a href="/wiki/Thermodynamic_equations" title="Thermodynamic equations">
+           Equations
+          </a>
+         </div>
+         <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+          <div class="hlist">
+           <ul>
+            <li>
+             <a href="/wiki/Carnot%27s_theorem_(thermodynamics)" title="Carnot's theorem (thermodynamics)">
+              Carnot's theorem
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Clausius_theorem" title="Clausius theorem">
+              Clausius theorem
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Fundamental_thermodynamic_relation" title="Fundamental thermodynamic relation">
+              Fundamental relation
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Ideal_gas_law" title="Ideal gas law">
+              Ideal gas law
+             </a>
+            </li>
+           </ul>
+          </div>
+          <ul>
+           <li>
+            <a href="/wiki/Maxwell_relations" title="Maxwell relations">
+             Maxwell relations
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Onsager_reciprocal_relations" title="Onsager reciprocal relations">
+             Onsager reciprocal relations
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Bridgman%27s_thermodynamic_equations" title="Bridgman's thermodynamic equations">
+             Bridgman's equations
+            </a>
+           </li>
+           <li>
+            <i>
+             <a href="/wiki/Table_of_thermodynamic_equations" title="Table of thermodynamic equations">
+              Table of thermodynamic equations
+             </a>
+            </i>
+           </li>
+          </ul>
+         </div>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <td style="padding:0 0.1em 0.4em">
+        <div class="NavFrame collapsed" style="border:none;padding:0">
+         <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">
+          <a href="/wiki/Thermodynamic_potential" title="Thermodynamic potential">
+           Potentials
+          </a>
+         </div>
+         <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+          <div class="hlist">
+           <ul>
+            <li>
+             <a href="/wiki/Thermodynamic_free_energy" title="Thermodynamic free energy">
+              Free energy
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Free_entropy" title="Free entropy">
+              Free entropy
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div class="plainlist">
+           <ul>
+            <li style="font-size:110%;line-height:1.6em;padding-bottom:0.5em;">
+             <a href="/wiki/Internal_energy" title="Internal energy">
+              Internal energy
+             </a>
+             <br/>
+             <span>
+              <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+               <math xmlns="http://www.w3.org/1998/Math/MathML">
+                <semantics>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mstyle displaystyle="true" scriptlevel="0">
+                   <mi>
+                    U
+                   </mi>
+                   <mo stretchy="false">
+                    (
+                   </mo>
+                   <mi>
+                    S
+                   </mi>
+                   <mo>
+                    ,
+                   </mo>
+                   <mi>
+                    V
+                   </mi>
+                   <mo stretchy="false">
+                    )
+                   </mo>
+                  </mstyle>
+                 </mrow>
+                 <annotation encoding="application/x-tex">
+                  {\displaystyle U(S,V)}
+                 </annotation>
+                </semantics>
+               </math>
+              </span>
+              <img alt="U(S,V)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/921f33f9c6551562ec836007b035c2de6323d2d6" style="vertical-align: -0.838ex; width:7.975ex; height:2.843ex;"/>
+             </span>
+            </li>
+            <li style="font-size:110%;line-height:1.6em;padding-bottom:0.5em;">
+             <a href="/wiki/Enthalpy" title="Enthalpy">
+              Enthalpy
+             </a>
+             <br/>
+             <span>
+              <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+               <math xmlns="http://www.w3.org/1998/Math/MathML">
+                <semantics>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mstyle displaystyle="true" scriptlevel="0">
+                   <mi>
+                    H
+                   </mi>
+                   <mo stretchy="false">
+                    (
+                   </mo>
+                   <mi>
+                    S
+                   </mi>
+                   <mo>
+                    ,
+                   </mo>
+                   <mi>
+                    p
+                   </mi>
+                   <mo stretchy="false">
+                    )
+                   </mo>
+                   <mo>
+                    =
+                   </mo>
+                   <mi>
+                    U
+                   </mi>
+                   <mo>
+                    +
+                   </mo>
+                   <mi>
+                    p
+                   </mi>
+                   <mi>
+                    V
+                   </mi>
+                  </mstyle>
+                 </mrow>
+                 <annotation encoding="application/x-tex">
+                  {\displaystyle H(S,p)=U+pV}
+                 </annotation>
+                </semantics>
+               </math>
+              </span>
+              <img alt="H(S,p)=U+pV" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6407d78e5f39d07f70e2414a92e08e2e068519f3" style="vertical-align: -0.838ex; width:18.369ex; height:2.843ex;"/>
+             </span>
+            </li>
+            <li style="font-size:110%;line-height:1.6em;padding-bottom:0.5em;">
+             <a href="/wiki/Helmholtz_free_energy" title="Helmholtz free energy">
+              Helmholtz free energy
+             </a>
+             <br/>
+             <span>
+              <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+               <math xmlns="http://www.w3.org/1998/Math/MathML">
+                <semantics>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mstyle displaystyle="true" scriptlevel="0">
+                   <mi>
+                    A
+                   </mi>
+                   <mo stretchy="false">
+                    (
+                   </mo>
+                   <mi>
+                    T
+                   </mi>
+                   <mo>
+                    ,
+                   </mo>
+                   <mi>
+                    V
+                   </mi>
+                   <mo stretchy="false">
+                    )
+                   </mo>
+                   <mo>
+                    =
+                   </mo>
+                   <mi>
+                    U
+                   </mi>
+                   <mo>
+                    −
+                    <!-- − -->
+                   </mo>
+                   <mi>
+                    T
+                   </mi>
+                   <mi>
+                    S
+                   </mi>
+                  </mstyle>
+                 </mrow>
+                 <annotation encoding="application/x-tex">
+                  {\displaystyle A(T,V)=U-TS}
+                 </annotation>
+                </semantics>
+               </math>
+              </span>
+              <img alt="A(T,V)=U-TS" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5e93692f031ba6484d82731c54db83a69daed3f0" style="vertical-align: -0.838ex; width:18.982ex; height:2.843ex;"/>
+             </span>
+            </li>
+            <li style="font-size:110%;line-height:1.6em;padding-bottom:0.5em;">
+             <a href="/wiki/Gibbs_free_energy" title="Gibbs free energy">
+              Gibbs free energy
+             </a>
+             <br/>
+             <span>
+              <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+               <math xmlns="http://www.w3.org/1998/Math/MathML">
+                <semantics>
+                 <mrow class="MJX-TeXAtom-ORD">
+                  <mstyle displaystyle="true" scriptlevel="0">
+                   <mi>
+                    G
+                   </mi>
+                   <mo stretchy="false">
+                    (
+                   </mo>
+                   <mi>
+                    T
+                   </mi>
+                   <mo>
+                    ,
+                   </mo>
+                   <mi>
+                    p
+                   </mi>
+                   <mo stretchy="false">
+                    )
+                   </mo>
+                   <mo>
+                    =
+                   </mo>
+                   <mi>
+                    H
+                   </mi>
+                   <mo>
+                    −
+                    <!-- − -->
+                   </mo>
+                   <mi>
+                    T
+                   </mi>
+                   <mi>
+                    S
+                   </mi>
+                  </mstyle>
+                 </mrow>
+                 <annotation encoding="application/x-tex">
+                  {\displaystyle G(T,p)=H-TS}
+                 </annotation>
+                </semantics>
+               </math>
+              </span>
+              <img alt="G(T,p)=H-TS" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8dd7a8f0b8ae04963da133e3b202432e1b6caed4" style="vertical-align: -0.838ex; width:18.729ex; height:2.843ex;"/>
+             </span>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <td style="padding:0 0.1em 0.4em">
+        <div class="NavFrame collapsed" style="border:none;padding:0">
+         <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">
+          <div class="hlist">
+           <ul>
+            <li>
+             History
+            </li>
+            <li>
+             Culture
+            </li>
+           </ul>
+          </div>
+         </div>
+         <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+          <table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none">
+           <tr>
+            <th style="padding:0.1em;background:#eaeaff;font-style:italic;">
+             History
+            </th>
+           </tr>
+           <tr>
+            <td style="padding:0 0.1em 0.4em">
+             <div class="hlist">
+              <ul>
+               <li>
+                <a href="/wiki/History_of_thermodynamics" title="History of thermodynamics">
+                 General
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/History_of_heat" title="History of heat">
+                 Heat
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/History_of_entropy" title="History of entropy">
+                 Entropy
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Gas_laws" title="Gas laws">
+                 Gas laws
+                </a>
+               </li>
+              </ul>
+             </div>
+             <ul>
+              <li>
+               <a href="/wiki/History_of_perpetual_motion_machines" title="History of perpetual motion machines">
+                "Perpetual motion" machines
+               </a>
+              </li>
+             </ul>
+            </td>
+           </tr>
+           <tr>
+            <th style="padding:0.1em;background:#eaeaff;font-style:italic;">
+             <a href="/wiki/Philosophy_of_thermal_and_statistical_physics" title="Philosophy of thermal and statistical physics">
+              Philosophy
+             </a>
+            </th>
+           </tr>
+           <tr>
+            <td style="padding:0 0.1em 0.4em">
+             <div class="hlist">
+              <ul>
+               <li>
+                <a href="/wiki/Entropy_(arrow_of_time)" title="Entropy (arrow of time)">
+                 Entropy and time
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Entropy_and_life" title="Entropy and life">
+                 Entropy and life
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Brownian_ratchet" title="Brownian ratchet">
+                 Brownian ratchet
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Maxwell%27s_demon" title="Maxwell's demon">
+                 Maxwell's demon
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Heat_death_paradox" title="Heat death paradox">
+                 Heat death paradox
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Loschmidt%27s_paradox" title="Loschmidt's paradox">
+                 Loschmidt's paradox
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Synergetics_(Haken)" title="Synergetics (Haken)">
+                 Synergetics
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th style="padding:0.1em;background:#eaeaff;font-style:italic;">
+             Theories
+            </th>
+           </tr>
+           <tr>
+            <td style="padding:0 0.1em 0.4em">
+             <div class="hlist">
+              <ul>
+               <li>
+                <a href="/wiki/Caloric_theory" title="Caloric theory">
+                 Caloric theory
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Theory_of_heat" title="Theory of heat">
+                 Theory of heat
+                </a>
+               </li>
+              </ul>
+             </div>
+             <ul>
+              <li>
+               <a href="/wiki/Vis_viva" title="Vis viva">
+                <i>
+                 Vis viva
+                </i>
+                <span style="font-size:90%;">
+                 ("living force")
+                </span>
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Mechanical_equivalent_of_heat" title="Mechanical equivalent of heat">
+                Mechanical equivalent of heat
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Motive_power" title="Motive power">
+                Motive power
+               </a>
+              </li>
+             </ul>
+            </td>
+           </tr>
+           <tr>
+            <th style="padding:0.1em;background:#eaeaff;font-style:italic;">
+             <a href="/wiki/List_of_important_publications_in_physics" title="List of important publications in physics">
+              Key publications
+             </a>
+            </th>
+           </tr>
+           <tr>
+            <td style="padding:0 0.1em 0.4em">
+             <ul>
+              <li>
+               <div style="padding:0.2em 0.4em; line-height:1.2em;">
+                "
+                <a href="/wiki/An_Experimental_Enquiry_Concerning_the_Source_of_the_Heat_which_is_Excited_by_Friction" title="An Experimental Enquiry Concerning the Source of the Heat which is Excited by Friction">
+                 An Experimental Enquiry
+                 <br/>
+                 Concerning ... Heat
+                </a>
+                "
+               </div>
+              </li>
+              <li>
+               <div style="padding:0.2em 0.4em; line-height:1.2em;">
+                "
+                <a href="/wiki/On_the_Equilibrium_of_Heterogeneous_Substances" title="On the Equilibrium of Heterogeneous Substances">
+                 On the Equilibrium of
+                 <br/>
+                 Heterogeneous Substances
+                </a>
+                "
+               </div>
+              </li>
+              <li>
+               <div style="padding:0.2em 0.4em; line-height:1.2em;">
+                "
+                <a href="/wiki/Reflections_on_the_Motive_Power_of_Fire" title="Reflections on the Motive Power of Fire">
+                 Reflections on the
+                 <br/>
+                 Motive Power of Fire
+                </a>
+                "
+               </div>
+              </li>
+             </ul>
+            </td>
+           </tr>
+           <tr>
+            <th style="padding:0.1em;background:#eaeaff;font-style:italic;">
+             Timelines
+            </th>
+           </tr>
+           <tr>
+            <td style="padding:0 0.1em 0.4em">
+             <div class="hlist">
+              <ul>
+               <li>
+                <a href="/wiki/Timeline_of_thermodynamics" title="Timeline of thermodynamics">
+                 Thermodynamics
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Timeline_of_heat_engine_technology" title="Timeline of heat engine technology">
+                 Heat engines
+                </a>
+               </li>
+              </ul>
+             </div>
+            </td>
+           </tr>
+           <tr>
+            <th style="padding:0.1em;background:#eaeaff;font-style:italic;">
+             <div class="hlist">
+              <ul>
+               <li>
+                Art
+               </li>
+               <li>
+                Education
+               </li>
+              </ul>
+             </div>
+            </th>
+           </tr>
+           <tr>
+            <td style="padding:0 0.1em 0.4em">
+             <ul>
+              <li>
+               <a href="/wiki/Maxwell%27s_thermodynamic_surface" title="Maxwell's thermodynamic surface">
+                Maxwell's thermodynamic surface
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Entropy_(energy_dispersal)" title="Entropy (energy dispersal)">
+                Entropy as energy dispersal
+               </a>
+              </li>
+             </ul>
+            </td>
+           </tr>
+          </table>
+         </div>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <td style="padding:0 0.1em 0.4em">
+        <div class="NavFrame collapsed" style="border:none;padding:0">
+         <div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">
+          Scientists
+         </div>
+         <div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+          <div class="hlist">
+           <ul>
+            <li>
+             <a href="/wiki/Daniel_Bernoulli" title="Daniel Bernoulli">
+              Bernoulli
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Nicolas_L%C3%A9onard_Sadi_Carnot" title="Nicolas Léonard Sadi Carnot">
+              Carnot
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Beno%C3%AEt_Paul_%C3%89mile_Clapeyron" title="Benoît Paul Émile Clapeyron">
+              Clapeyron
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Rudolf_Clausius" title="Rudolf Clausius">
+              Clausius
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Constantin_Carath%C3%A9odory" title="Constantin Carathéodory">
+              Carathéodory
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Pierre_Duhem" title="Pierre Duhem">
+              Duhem
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Josiah_Willard_Gibbs" title="Josiah Willard Gibbs">
+              Gibbs
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Hermann_von_Helmholtz" title="Hermann von Helmholtz">
+              von Helmholtz
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/James_Prescott_Joule" title="James Prescott Joule">
+              Joule
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/James_Clerk_Maxwell" title="James Clerk Maxwell">
+              Maxwell
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Julius_von_Mayer" title="Julius von Mayer">
+              von Mayer
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Lars_Onsager" title="Lars Onsager">
+              Onsager
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/William_John_Macquorn_Rankine" title="William John Macquorn Rankine">
+              Rankine
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/John_Smeaton" title="John Smeaton">
+              Smeaton
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Georg_Ernst_Stahl" title="Georg Ernst Stahl">
+              Stahl
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Benjamin_Thompson" title="Benjamin Thompson">
+              Thompson
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/William_Thomson,_1st_Baron_Kelvin" title="William Thomson, 1st Baron Kelvin">
+              Thomson
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/John_James_Waterston" title="John James Waterston">
+              Waterston
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;">
+        <a href="/wiki/Book:Thermodynamics" title="Book:Thermodynamics">
+         Book:Thermodynamics
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+        <div class="plainlinks hlist navbar mini">
+         <ul>
+          <li class="nv-view">
+           <a href="/wiki/Template:Thermodynamics" title="Template:Thermodynamics">
+            <abbr title="View this template">
+             v
+            </abbr>
+           </a>
+          </li>
+          <li class="nv-talk">
+           <a href="/wiki/Template_talk:Thermodynamics" title="Template talk:Thermodynamics">
+            <abbr title="Discuss this template">
+             t
+            </abbr>
+           </a>
+          </li>
+          <li class="nv-edit">
+           <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Thermodynamics&amp;action=edit">
+            <abbr title="Edit this template">
+             e
+            </abbr>
+           </a>
+          </li>
+         </ul>
+        </div>
+       </td>
+      </tr>
+     </table>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Usage">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Usage
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-2">
+          <a href="#Meteorology">
+           <span class="tocnumber">
+            1.1
+           </span>
+           <span class="toctext">
+            Meteorology
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-3">
+        <a href="#History">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          History
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-4">
+        <a href="#Specific_latent_heat">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          Specific latent heat
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-5">
+        <a href="#Table_of_specific_latent_heats">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          Table of specific latent heats
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-6">
+        <a href="#Specific_latent_heat_for_condensation_of_water">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          Specific latent heat for condensation of water
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-7">
+        <a href="#See_also">
+         <span class="tocnumber">
+          6
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-8">
+        <a href="#References">
+         <span class="tocnumber">
+          7
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Usage">
+       Usage
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Latent_heat&amp;action=edit&amp;section=1" title="Edit section: Usage">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The terms ″sensible heat″ and ″latent heat″ are specific forms of energy; they are two properties of a material or in a thermodynamic system. ″Sensible heat″ is a body's
+      <a href="/wiki/Internal_energy" title="Internal energy">
+       internal energy
+      </a>
+      that may be ″sensed″ or felt. ″Latent heat″ is internal energy concerning the phase ( solid / liquid / gas ) of a material and does not affect the temperature.
+     </p>
+     <p>
+      Both sensible and latent heats are observed in many processes of transport of energy in nature. changes of Latent heat is associated with the change of phase of atmospheric water,
+      <a href="/wiki/Vaporization" title="Vaporization">
+       vaporization
+      </a>
+      and
+      <a href="/wiki/Condensation" title="Condensation">
+       condensation
+      </a>
+      , whereas sensible heat is energy that reflects the temperature of the atmosphere or ocean, or ice.
+     </p>
+     <p>
+      The original usage of the term, as introduced by Black, was applied to systems that were intentionally held at constant temperature. Such usage referred to
+      <i>
+       latent heat of expansion
+      </i>
+      and several other related latent heats. These latent heats are defined independently of the conceptual framework of thermodynamics.
+      <sup class="reference" id="cite_ref-3">
+       <a href="#cite_note-3">
+        [3]
+       </a>
+      </sup>
+     </p>
+     <p>
+      When a body is heated at constant temperature by thermal radiation in a microwave field for example, it may expand by an amount described by its
+      <i>
+       latent heat with respect to volume
+      </i>
+      or
+      <i>
+       latent heat of expansion
+      </i>
+      , or increase its pressure by an amount described by its
+      <i>
+       latent heat with respect to pressure
+      </i>
+      .
+      <sup class="reference" id="cite_ref-4">
+       <a href="#cite_note-4">
+        [4]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Two common forms of latent heat are
+      <a href="/wiki/Enthalpy_of_fusion" title="Enthalpy of fusion">
+       latent heat of fusion
+      </a>
+      (
+      <a href="/wiki/Melting" title="Melting">
+       melting
+      </a>
+      ) and
+      <a href="/wiki/Enthalpy_of_vaporization" title="Enthalpy of vaporization">
+       latent heat of vaporization
+      </a>
+      (
+      <a href="/wiki/Boiling" title="Boiling">
+       boiling
+      </a>
+      ). These names describe the direction of energy flow when changing from one phase to the next: from solid to liquid, and liquid to gas.
+     </p>
+     <p>
+      In both cases the change is
+      <a class="mw-redirect" href="/wiki/Endothermic" title="Endothermic">
+       endothermic
+      </a>
+      , meaning that the system absorbs energy. For example, when water evaporates, energy is required for the water molecules to overcome the forces of attraction between them, the transition from water to vapor requires an input of energy.
+     </p>
+     <p>
+      If the vapor then condenses to a liquid on a surface, then the vapor's latent energy absorbed during evaporation is released as the liquid's
+      <a href="/wiki/Sensible_heat" title="Sensible heat">
+       sensible heat
+      </a>
+      onto the surface.
+     </p>
+     <p>
+      The large value of the
+      <a href="/wiki/Enthalpy" title="Enthalpy">
+       enthalpy
+      </a>
+      of condensation of water vapor is the reason that steam is a far more effective heating medium than boiling water, and is more hazardous.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Meteorology">
+       Meteorology
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Latent_heat&amp;action=edit&amp;section=2" title="Edit section: Meteorology">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      In
+      <a href="/wiki/Meteorology" title="Meteorology">
+       meteorology
+      </a>
+      , latent heat flux is the
+      <a href="/wiki/Flux" title="Flux">
+       flux
+      </a>
+      of heat from the Earth's surface to the
+      <a class="mw-redirect" href="/wiki/Earth%27s_atmosphere" title="Earth's atmosphere">
+       atmosphere
+      </a>
+      that is associated with
+      <a href="/wiki/Evaporation" title="Evaporation">
+       evaporation
+      </a>
+      or
+      <a href="/wiki/Transpiration" title="Transpiration">
+       transpiration
+      </a>
+      of water at the surface and subsequent
+      <a href="/wiki/Condensation" title="Condensation">
+       condensation
+      </a>
+      of
+      <a href="/wiki/Water_vapor" title="Water vapor">
+       water vapor
+      </a>
+      in the
+      <a href="/wiki/Troposphere" title="Troposphere">
+       troposphere
+      </a>
+      . It is an important component of Earth's surface energy budget. Latent heat flux has been commonly measured with the
+      <a href="/wiki/Bowen_ratio" title="Bowen ratio">
+       Bowen ratio
+      </a>
+      technique, or more recently since the mid-1900s by the
+      <a href="/wiki/Eddy_covariance" title="Eddy covariance">
+       eddy covariance
+      </a>
+      method.
+     </p>
+     <h2>
+      <span class="mw-headline" id="History">
+       History
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Latent_heat&amp;action=edit&amp;section=3" title="Edit section: History">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The English word
+      <i>
+       <a class="extiw" href="https://en.wiktionary.org/wiki/latent#English" title="wikt:latent">
+        latent
+       </a>
+      </i>
+      comes from Latin
+      <i>
+       <a class="extiw" href="https://en.wiktionary.org/wiki/latens#Latin" title="wikt:latens">
+        latēns
+       </a>
+      </i>
+      , meaning
+      <i>
+       lying hidden
+      </i>
+      .
+      <sup class="reference" id="cite_ref-5">
+       <a href="#cite_note-5">
+        [5]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-6">
+       <a href="#cite_note-6">
+        [6]
+       </a>
+      </sup>
+      The term
+      <i>
+       latent heat
+      </i>
+      was introduced into calorimetry around 1750 when
+      <a href="/wiki/Joseph_Black" title="Joseph Black">
+       Joseph Black
+      </a>
+      , commissioned by producers of
+      <a href="/wiki/Scotch_whisky" title="Scotch whisky">
+       Scotch whisky
+      </a>
+      in search of ideal quantities of fuel and water for their distilling process,
+      <sup class="reference" id="cite_ref-7">
+       <a href="#cite_note-7">
+        [7]
+       </a>
+      </sup>
+      to studying system changes, such as of volume and pressure, when the thermodynamic system was held at constant temperature in a thermal bath.
+      <a href="/wiki/James_Prescott_Joule" title="James Prescott Joule">
+       James Prescott Joule
+      </a>
+      characterised latent energy as the energy of interaction in a given configuration of particles, i.e. a form of
+      <a href="/wiki/Potential_energy" title="Potential energy">
+       potential energy
+      </a>
+      , and the sensible heat as an energy that was indicated by the thermometer,
+      <sup class="reference" id="cite_ref-8">
+       <a href="#cite_note-8">
+        [8]
+       </a>
+      </sup>
+      relating the latter to
+      <a href="/wiki/Thermal_energy" title="Thermal energy">
+       thermal energy
+      </a>
+      .
+     </p>
+     <h2>
+      <span class="mw-headline" id="Specific_latent_heat">
+       Specific latent heat
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Latent_heat&amp;action=edit&amp;section=4" title="Edit section: Specific latent heat">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      A
+      <i>
+       specific
+      </i>
+      latent heat (
+      <i>
+       L
+      </i>
+      ) expresses the amount of energy in the form of heat (
+      <i>
+       Q
+      </i>
+      ) required to completely effect a phase change of a unit of mass (
+      <i>
+       m
+      </i>
+      ), usually
+      <span style="white-space:nowrap">
+       1
+       <span style="margin-left:0.25em">
+        kg
+       </span>
+      </span>
+      , of a substance as an
+      <a class="mw-redirect" href="/wiki/Intensive_property" title="Intensive property">
+       intensive property
+      </a>
+      :
+     </p>
+     <dl>
+      <dd>
+       <span>
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              L
+             </mi>
+             <mo>
+              =
+             </mo>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mfrac>
+               <mi>
+                Q
+               </mi>
+               <mi>
+                m
+               </mi>
+              </mfrac>
+             </mrow>
+             <mo>
+              .
+             </mo>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle L={\frac {Q}{m}}.}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="L = \frac {Q}{m}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c5358b7acdfaa2131a830a00e7cf10c7c6dd8e77" style="vertical-align: -1.838ex; width:8.246ex; height:5.509ex;"/>
+       </span>
+      </dd>
+     </dl>
+     <p>
+      Intensive properties are material characteristics and are not dependent on the size or extent of the sample. Commonly quoted and tabulated in the literature are the specific latent heat of fusion and the specific latent heat of vaporization for many substances.
+     </p>
+     <p>
+      From this definition, the latent heat for a given mass of a substance is calculated by
+     </p>
+     <dl>
+      <dd>
+       <span>
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <mi>
+              Q
+             </mi>
+             <mo>
+              =
+             </mo>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mi>
+               m
+              </mi>
+             </mrow>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mi>
+               L
+              </mi>
+             </mrow>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle Q={m}{L}}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="Q = {m}  {L}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0a40cac28186a5b44ab0afabc7c18f2afaf189a1" style="vertical-align: -0.671ex; width:8.602ex; height:2.509ex;"/>
+       </span>
+      </dd>
+     </dl>
+     <p>
+      where:
+     </p>
+     <dl>
+      <dd>
+       <i>
+        Q
+       </i>
+       is the amount of energy released or absorbed during the change of phase of the substance (in
+       <a class="mw-redirect" href="/wiki/Kilojoule" title="Kilojoule">
+        kJ
+       </a>
+       or in
+       <a class="mw-redirect" href="/wiki/BTU" title="BTU">
+        BTU
+       </a>
+       ),
+      </dd>
+      <dd>
+       <i>
+        m
+       </i>
+       is the mass of the substance (in
+       <a class="mw-redirect" href="/wiki/Kg" title="Kg">
+        kg
+       </a>
+       or in
+       <a href="/wiki/Pound_(mass)" title="Pound (mass)">
+        lb
+       </a>
+       ), and
+      </dd>
+      <dd>
+       <i>
+        L
+       </i>
+       is the specific latent heat for a particular substance (kJ-kg
+       <sub>
+        m
+       </sub>
+       <sup>
+        −1
+       </sup>
+       or in BTU-lb
+       <sub>
+        m
+       </sub>
+       <sup>
+        −1
+       </sup>
+       ), either
+       <i>
+        L
+       </i>
+       <sub>
+        f
+       </sub>
+       for fusion, or
+       <i>
+        L
+       </i>
+       <sub>
+        v
+       </sub>
+       for vaporization.
+      </dd>
+     </dl>
+     <h2>
+      <span class="mw-headline" id="Table_of_specific_latent_heats">
+       Table of specific latent heats
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Latent_heat&amp;action=edit&amp;section=5" title="Edit section: Table of specific latent heats">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The following table shows the specific latent heats and change of phase temperatures of some common fluids and gases.
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (June 2012)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+     </p>
+     <table class="wikitable sortable">
+      <tr>
+       <th scope="col">
+        Substance
+       </th>
+       <th scope="col">
+        S.L.H. of
+        <br/>
+        Fusion
+        <br/>
+        kJ/kg
+       </th>
+       <th scope="col">
+        Melting
+        <br/>
+        Point
+        <br/>
+        °C
+       </th>
+       <th scope="col">
+        S.L.H. of
+        <br/>
+        Vaporization
+        <br/>
+        kJ/kg
+       </th>
+       <th scope="col">
+        Boiling
+        <br/>
+        Point
+        <br/>
+        °C
+       </th>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/Ethanol" title="Ethanol">
+         Alcohol, ethyl
+        </a>
+       </td>
+       <td>
+        108
+       </td>
+       <td>
+        −114
+       </td>
+       <td>
+        855
+       </td>
+       <td>
+        78.3
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/Ammonia" title="Ammonia">
+         Ammonia
+        </a>
+       </td>
+       <td>
+        332.17
+       </td>
+       <td>
+        −77.74
+       </td>
+       <td>
+        1369
+       </td>
+       <td>
+        −33.34
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">
+         Carbon dioxide
+        </a>
+       </td>
+       <td>
+        184
+       </td>
+       <td>
+        −78
+       </td>
+       <td>
+        574
+       </td>
+       <td>
+        −57
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/Helium" title="Helium">
+         Helium
+        </a>
+       </td>
+       <td>
+       </td>
+       <td>
+       </td>
+       <td>
+        21
+       </td>
+       <td>
+        −268.93
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/Hydrogen" title="Hydrogen">
+         Hydrogen
+        </a>
+        (2)
+       </td>
+       <td>
+        58
+       </td>
+       <td>
+        −259
+       </td>
+       <td>
+        455
+       </td>
+       <td>
+        −253
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/Lead" title="Lead">
+         Lead
+        </a>
+        <sup class="reference" id="cite_ref-9">
+         <a href="#cite_note-9">
+          [9]
+         </a>
+        </sup>
+       </td>
+       <td>
+        23.0
+       </td>
+       <td>
+        327.5
+       </td>
+       <td>
+        871
+       </td>
+       <td>
+        1750
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/Nitrogen" title="Nitrogen">
+         Nitrogen
+        </a>
+       </td>
+       <td>
+        25.7
+       </td>
+       <td>
+        −210
+       </td>
+       <td>
+        200
+       </td>
+       <td>
+        −196
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/Oxygen" title="Oxygen">
+         Oxygen
+        </a>
+       </td>
+       <td>
+        13.9
+       </td>
+       <td>
+        −219
+       </td>
+       <td>
+        213
+       </td>
+       <td>
+        −183
+       </td>
+      </tr>
+      <tr>
+       <td>
+        Refrigerant
+        <a class="mw-redirect" href="/wiki/R134a" title="R134a">
+         R134a
+        </a>
+       </td>
+       <td>
+       </td>
+       <td>
+        −101
+       </td>
+       <td>
+        215.9
+       </td>
+       <td>
+        −26.6
+       </td>
+      </tr>
+      <tr>
+       <td>
+        Refrigerant
+        <a href="/wiki/1,1-Difluoroethane" title="1,1-Difluoroethane">
+         R152a
+        </a>
+       </td>
+       <td>
+       </td>
+       <td>
+        −116
+       </td>
+       <td>
+        326.5
+       </td>
+       <td>
+        -25
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/Toluene" title="Toluene">
+         Toluene
+        </a>
+       </td>
+       <td>
+        72.1
+       </td>
+       <td>
+        −93
+       </td>
+       <td>
+        351
+       </td>
+       <td>
+        110.6
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/Turpentine" title="Turpentine">
+         Turpentine
+        </a>
+       </td>
+       <td>
+       </td>
+       <td>
+       </td>
+       <td>
+        293
+       </td>
+       <td>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/wiki/Water" title="Water">
+         Water
+        </a>
+       </td>
+       <td>
+        334
+       </td>
+       <td>
+        0
+       </td>
+       <td>
+        2264.76
+       </td>
+       <td>
+        100
+       </td>
+      </tr>
+     </table>
+     <h2>
+      <span class="mw-headline" id="Specific_latent_heat_for_condensation_of_water">
+       Specific latent heat for condensation of water
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Latent_heat&amp;action=edit&amp;section=6" title="Edit section: Specific latent heat for condensation of water">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The specific latent heat of condensation of water in the temperature range from −25 °C to 40 °C is approximated by the following empirical cubic function:
+     </p>
+     <dl>
+      <dd>
+       <span>
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               L
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mtext>
+                water
+               </mtext>
+              </mrow>
+             </msub>
+             <mo stretchy="false">
+              (
+             </mo>
+             <mi>
+              T
+             </mi>
+             <mo stretchy="false">
+              )
+             </mo>
+             <mo>
+              =
+             </mo>
+             <mo stretchy="false">
+              (
+             </mo>
+             <mn>
+              2500.8
+             </mn>
+             <mo>
+              −
+              <!-- − -->
+             </mo>
+             <mn>
+              2.36
+             </mn>
+             <mi>
+              T
+             </mi>
+             <mo>
+              +
+             </mo>
+             <mn>
+              0.0016
+             </mn>
+             <msup>
+              <mi>
+               T
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                2
+               </mn>
+              </mrow>
+             </msup>
+             <mo>
+              −
+              <!-- − -->
+             </mo>
+             <mn>
+              0.00006
+             </mn>
+             <msup>
+              <mi>
+               T
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                3
+               </mn>
+              </mrow>
+             </msup>
+             <mo stretchy="false">
+              )
+             </mo>
+             <mtext>
+             </mtext>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mtext>
+               J/g
+              </mtext>
+             </mrow>
+             <mo>
+              ,
+             </mo>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle L_{\text{water}}(T)=(2500.8-2.36T+0.0016T^{2}-0.00006T^{3})~{\text{J/g}},}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="L_\text{water}(T) = (2500.8 - 2.36 T + 0.0016 T^2 - 0.00006 T^3)~\text{J/g}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1dd850de05a26e071bf594dac67686ab8150078b" style="vertical-align: -0.838ex; width:59.788ex; height:3.176ex;"/>
+       </span>
+       <sup class="reference" id="cite_ref-RYfit_10-0">
+        <a href="#cite_note-RYfit-10">
+         [10]
+        </a>
+       </sup>
+      </dd>
+     </dl>
+     <p>
+      where the temperature
+      <span>
+       <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <semantics>
+          <mrow class="MJX-TeXAtom-ORD">
+           <mstyle displaystyle="true" scriptlevel="0">
+            <mi>
+             T
+            </mi>
+           </mstyle>
+          </mrow>
+          <annotation encoding="application/x-tex">
+           {\displaystyle T}
+          </annotation>
+         </semantics>
+        </math>
+       </span>
+       <img alt="T" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ec7200acd984a1d3a3d7dc455e262fbe54f7f6e0" style="vertical-align: -0.338ex; width:1.647ex; height:2.176ex;"/>
+      </span>
+      is taken to be the numerical value in °C.
+     </p>
+     <p>
+      For
+      <a href="/wiki/Sublimation_(phase_transition)" title="Sublimation (phase transition)">
+       sublimation
+      </a>
+      and
+      <a class="mw-redirect" href="/wiki/Deposition_(physics)" title="Deposition (physics)">
+       deposition
+      </a>
+      from and into ice, the specific latent heat is almost constant in the temperature range from −40 °C to 0 °C and can be approximated by the following empirical quadratic function:
+     </p>
+     <dl>
+      <dd>
+       <span>
+        <span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;">
+         <math xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+           <mrow class="MJX-TeXAtom-ORD">
+            <mstyle displaystyle="true" scriptlevel="0">
+             <msub>
+              <mi>
+               L
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mtext>
+                ice
+               </mtext>
+              </mrow>
+             </msub>
+             <mo stretchy="false">
+              (
+             </mo>
+             <mi>
+              T
+             </mi>
+             <mo stretchy="false">
+              )
+             </mo>
+             <mo>
+              =
+             </mo>
+             <mo stretchy="false">
+              (
+             </mo>
+             <mn>
+              2834.1
+             </mn>
+             <mo>
+              −
+              <!-- − -->
+             </mo>
+             <mn>
+              0.29
+             </mn>
+             <mi>
+              T
+             </mi>
+             <mo>
+              −
+              <!-- − -->
+             </mo>
+             <mn>
+              0.004
+             </mn>
+             <msup>
+              <mi>
+               T
+              </mi>
+              <mrow class="MJX-TeXAtom-ORD">
+               <mn>
+                2
+               </mn>
+              </mrow>
+             </msup>
+             <mo stretchy="false">
+              )
+             </mo>
+             <mtext>
+             </mtext>
+             <mrow class="MJX-TeXAtom-ORD">
+              <mtext>
+               J/g
+              </mtext>
+             </mrow>
+             <mo>
+              .
+             </mo>
+            </mstyle>
+           </mrow>
+           <annotation encoding="application/x-tex">
+            {\displaystyle L_{\text{ice}}(T)=(2834.1-0.29T-0.004T^{2})~{\text{J/g}}.}
+           </annotation>
+          </semantics>
+         </math>
+        </span>
+        <img alt="L_\text{ice}(T) = (2834.1 - 0.29 T - 0.004 T^2)~\text{J/g}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d470eaabc32065ea208942580a5364f625d73aa3" style="vertical-align: -0.838ex; width:43.158ex; height:3.176ex;"/>
+       </span>
+       <sup class="reference" id="cite_ref-RYfit_10-1">
+        <a href="#cite_note-RYfit-10">
+         [10]
+        </a>
+       </sup>
+      </dd>
+     </dl>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Latent_heat&amp;action=edit&amp;section=7" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a href="/wiki/Bowen_ratio" title="Bowen ratio">
+        Bowen ratio
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Eddy_covariance" title="Eddy covariance">
+        Eddy covariance
+       </a>
+       flux (eddy correlation, eddy flux)
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Sublimation_(physics)" title="Sublimation (physics)">
+        Sublimation (physics)
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Specific_heat_capacity" title="Specific heat capacity">
+        Specific heat capacity
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Enthalpy_of_fusion" title="Enthalpy of fusion">
+        Enthalpy of fusion
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Enthalpy_of_vaporization" title="Enthalpy of vaporization">
+        Enthalpy of vaporization
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Latent_heat&amp;action=edit&amp;section=8" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-Perrot-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-Perrot_1-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation book">
+          Perrot, Pierre (1998).
+          <i>
+           A to Z of Thermodynamics
+          </i>
+          . Oxford University Press.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/0-19-856552-6" title="Special:BookSources/0-19-856552-6">
+           0-19-856552-6
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatent+heat&amp;rft.au=Perrot%2C+Pierre&amp;rft.btitle=A+to+Z+of+Thermodynamics&amp;rft.date=1998&amp;rft.genre=book&amp;rft.isbn=0-19-856552-6&amp;rft.pub=Oxford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-:0-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-:0_2-0">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation book">
+          Clark, John, O.E. (2004).
+          <i>
+           The Essential Dictionary of Science
+          </i>
+          . Barnes &amp; Noble Books.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/0-7607-4616-8" title="Special:BookSources/0-7607-4616-8">
+           0-7607-4616-8
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatent+heat&amp;rft.au=Clark%2C+John%2C+O.E.&amp;rft.btitle=The+Essential+Dictionary+of+Science&amp;rft.date=2004&amp;rft.genre=book&amp;rft.isbn=0-7607-4616-8&amp;rft.pub=Barnes+%26+Noble+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+         <span class="citation-comment" style="display:none; color:#33aa33">
+          CS1 maint: Multiple names: authors list (
+          <a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">
+           link
+          </a>
+          )
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-3">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Bryan, G.H. (1907).
+         <i>
+          Thermodynamics. An Introductory Treatise dealing mainly with First Principles and their Direct Applications
+         </i>
+         , B.G. Tuebner, Leipzig, pages 9, 20–22.
+        </span>
+       </li>
+       <li id="cite_note-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-4">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Maxwell, J.C. (1872).
+         <i>
+          Theory of Heat
+         </i>
+         , third edition, Longmans, Green, and Co., London, page 73.
+        </span>
+       </li>
+       <li id="cite_note-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-5">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          Harper, Douglas.
+          <a class="external text" href="http://www.etymonline.com/?term=latent" rel="nofollow">
+           "latent"
+          </a>
+          .
+          <i>
+           <a href="/wiki/Online_Etymology_Dictionary" title="Online Etymology Dictionary">
+            Online Etymology Dictionary
+           </a>
+          </i>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatent+heat&amp;rft.atitle=latent&amp;rft.au=Harper%2C+Douglas&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.etymonline.com%2F%3Fterm%3Dlatent&amp;rft.jtitle=Online+Etymology+Dictionary&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-6">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-6">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Lewis, Charlton T. (1890).
+         <i>
+          An Elementary Latin Dictionary
+         </i>
+         . Entry for
+         <a class="external text" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0060%3Aentry%3Dlatens" rel="nofollow">
+          latens
+         </a>
+         .
+        </span>
+       </li>
+       <li id="cite_note-7">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-7">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation episode">
+          <a href="/wiki/James_Burke_(science_historian)" title="James Burke (science historian)">
+           James Burke
+          </a>
+          (1979). "Credit Where It's Due".
+          <i>
+           <a href="/wiki/The_Day_the_Universe_Changed" title="The Day the Universe Changed">
+            The Day the Universe Changed
+           </a>
+          </i>
+          . Episode 6. Event occurs at 50 (34 minutes). BBC.
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatent+heat&amp;rft.btitle=The+Day+the+Universe+Changed&amp;rft.date=1979&amp;rft.genre=unknown&amp;rft.series=Episode+6&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-8">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-8">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation" id="CITEREFJ._P._Joule1884">
+          J. P. Joule (1884),
+          <i>
+           The Scientific Paper of James Prescott Joule
+          </i>
+          , The Physical Society of London, p. 274,
+          <q>
+           I am inclined to believe that both of these hypotheses will be found to hold good,—that in some instances, particularly in the case of sensible heat, or such as is indicated by the thermometer, heat will be found to consist in the living force of the particles of the bodies in which it is induced; whilst in others, particularly in the case of latent heat, the phenomena are produced by the separation of particle from particle, so as to cause them to attract one another through a greater space.
+          </q>
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatent+heat&amp;rft.au=J.+P.+Joule&amp;rft.btitle=The+Scientific+Paper+of+James+Prescott+Joule&amp;rft.date=1884&amp;rft.genre=book&amp;rft.pages=274&amp;rft.pub=The+Physical+Society+of+London&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+         , Lecture on Matter, Living Force, and Heat. May 5 and 12, 1847
+        </span>
+       </li>
+       <li id="cite_note-9">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-9">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Yaws' Handbook of Properties of the Chemical Elements 2011 Knovel
+        </span>
+       </li>
+       <li id="cite_note-RYfit-10">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-RYfit_10-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-RYfit_10-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <a href="/wiki/Curve_fitting#Fitting_lines_and_polynomial_curves_to_data_points" title="Curve fitting">
+          Polynomial curve fits
+         </a>
+         to Table 2.1.
+         <cite class="citation book">
+          R. R. Rogers; M. K. Yau (1989).
+          <i>
+           A Short Course in Cloud Physics
+          </i>
+          (3rd ed.). Pergamon Press. p. 16.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/0-7506-3215-1" title="Special:BookSources/0-7506-3215-1">
+           0-7506-3215-1
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALatent+heat&amp;rft.au=M.+K.+Yau&amp;rft.au=R.+R.+Rogers&amp;rft.btitle=A+Short+Course+in+Cloud+Physics&amp;rft.date=1989&amp;rft.edition=3rd&amp;rft.genre=book&amp;rft.isbn=0-7506-3215-1&amp;rft.pages=16&amp;rft.pub=Pergamon+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <div aria-labelledby="States_of_matter" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="3" scope="col">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:States_of_matter" title="Template:States of matter">
+             <abbr style=";;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:States_of_matter" title="Template talk:States of matter">
+             <abbr style=";;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:States_of_matter&amp;action=edit">
+             <abbr style=";;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="States_of_matter" style="font-size:114%">
+          <a href="/wiki/State_of_matter" title="State of matter">
+           States of matter
+          </a>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         State
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Solid" title="Solid">
+             Solid
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Liquid" title="Liquid">
+             Liquid
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Gas" title="Gas">
+             Gas
+            </a>
+            /
+            <a href="/wiki/Vapor" title="Vapor">
+             Vapor
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Plasma_(physics)" title="Plasma (physics)">
+             Plasma
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+        <td class="navbox-image" rowspan="15" style="width:0%;padding:0px 0px 0px 2px">
+         <div>
+          <a class="image" href="/wiki/File:Phase_change_-_en.svg">
+           <img alt="Phase change - en.svg" data-file-height="524" data-file-width="493" height="266" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Phase_change_-_en.svg/250px-Phase_change_-_en.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Phase_change_-_en.svg/375px-Phase_change_-_en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Phase_change_-_en.svg/500px-Phase_change_-_en.svg.png 2x" width="250"/>
+          </a>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Low energy
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Bose%E2%80%93Einstein_condensate" title="Bose–Einstein condensate">
+             Bose–Einstein condensate
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Fermionic_condensate" title="Fermionic condensate">
+             Fermionic condensate
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Degenerate_matter" title="Degenerate matter">
+             Degenerate matter
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Quantum_Hall_effect" title="Quantum Hall effect">
+             Quantum Hall
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Rydberg_matter" title="Rydberg matter">
+             Rydberg matter
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Strange_matter" title="Strange matter">
+             Strange matter
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Superfluidity" title="Superfluidity">
+             Superfluid
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Supersolid" title="Supersolid">
+             Supersolid
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Photonic_matter" title="Photonic matter">
+             Photonic matter
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         High energy
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/QCD_matter" title="QCD matter">
+             QCD matter
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Lattice_QCD" title="Lattice QCD">
+             Lattice QCD
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Quark%E2%80%93gluon_plasma" title="Quark–gluon plasma">
+             Quark–gluon plasma
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Supercritical_fluid" title="Supercritical fluid">
+             Supercritical fluid
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Other states
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Colloid" title="Colloid">
+             Colloid
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Glass" title="Glass">
+             Glass
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Liquid_crystal" title="Liquid crystal">
+             Liquid crystal
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Quantum_spin_liquid" title="Quantum spin liquid">
+             Quantum spin liquid
+            </a>
+           </li>
+           <li>
+            Magnetically ordered
+            <ul>
+             <li>
+              <a href="/wiki/Antiferromagnetism" title="Antiferromagnetism">
+               Antiferromagnet
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Ferrimagnetism" title="Ferrimagnetism">
+               Ferrimagnet
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Ferromagnetism" title="Ferromagnetism">
+               Ferromagnet
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/String-net_liquid" title="String-net liquid">
+             String-net liquid
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Superglass" title="Superglass">
+             Superglass
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Phase_transition" title="Phase transition">
+          Transitions
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Boiling" title="Boiling">
+             Boiling
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Boiling_point" title="Boiling point">
+             Boiling point
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Condensation" title="Condensation">
+             Condensation
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Critical_line_(thermodynamics)" title="Critical line (thermodynamics)">
+             Critical line
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Critical_point_(thermodynamics)" title="Critical point (thermodynamics)">
+             Critical point
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Crystallization" title="Crystallization">
+             Crystallization
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Deposition_(phase_transition)" title="Deposition (phase transition)">
+             Deposition
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Evaporation" title="Evaporation">
+             Evaporation
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Flash_evaporation" title="Flash evaporation">
+             Flash evaporation
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Freezing" title="Freezing">
+             Freezing
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Chemical_ionization" title="Chemical ionization">
+             Chemical ionization
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ionization" title="Ionization">
+             Ionization
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Lambda_point" title="Lambda point">
+             Lambda point
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Melting" title="Melting">
+             Melting
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Melting_point" title="Melting point">
+             Melting point
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Plasma_recombination" title="Plasma recombination">
+             Recombination
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Regelation" title="Regelation">
+             Regelation
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Vapor%E2%80%93liquid_equilibrium" title="Vapor–liquid equilibrium">
+             Saturated fluid
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sublimation_(phase_transition)" title="Sublimation (phase transition)">
+             Sublimation
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Supercooling" title="Supercooling">
+             Supercooling
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Triple_point" title="Triple point">
+             Triple point
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Vaporization" title="Vaporization">
+             Vaporization
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Vitrification" title="Vitrification">
+             Vitrification
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Quantities
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Enthalpy_of_fusion" title="Enthalpy of fusion">
+             Enthalpy of fusion
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Enthalpy_of_sublimation" title="Enthalpy of sublimation">
+             Enthalpy of sublimation
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Enthalpy_of_vaporization" title="Enthalpy of vaporization">
+             Enthalpy of vaporization
+            </a>
+           </li>
+           <li>
+            <strong class="selflink">
+             Latent heat
+            </strong>
+           </li>
+           <li>
+            <a href="/wiki/Latent_internal_energy" title="Latent internal energy">
+             Latent internal energy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Trouton%27s_ratio" title="Trouton's ratio">
+             Trouton's ratio
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Volatility_(chemistry)" title="Volatility (chemistry)">
+             Volatility
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Concepts
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Binodal" title="Binodal">
+             Binodal
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Compressed_fluid" title="Compressed fluid">
+             Compressed fluid
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cooling_curve" title="Cooling curve">
+             Cooling curve
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Equation_of_state" title="Equation of state">
+             Equation of state
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Leidenfrost_effect" title="Leidenfrost effect">
+             Leidenfrost effect
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Macroscopic_quantum_phenomena" title="Macroscopic quantum phenomena">
+             macroscopic quantum phenomena
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Mpemba_effect" title="Mpemba effect">
+             Mpemba effect
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Order_and_disorder_(physics)" title="Order and disorder (physics)">
+             Order and disorder (physics)
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Spinodal" title="Spinodal">
+             Spinodal
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Superconductivity" title="Superconductivity">
+             Superconductivity
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Superheated_water" title="Superheated water">
+             Superheated vapor
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Superheating" title="Superheating">
+             Superheating
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Thermo-dielectric_effect" title="Thermo-dielectric effect">
+             Thermo-dielectric effect
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Lists
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <i>
+             <b>
+              <a href="/wiki/List_of_states_of_matter" title="List of states of matter">
+               List of states of matter
+              </a>
+             </b>
+            </i>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:164610-0!*!0!!en!4!*!math=5 and timestamp 20161104214152 and revision id 740168511
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Latent_heat&amp;oldid=740168511">
+      https://en.wikipedia.org/w/index.php?title=Latent_heat&amp;oldid=740168511
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Thermochemistry" title="Category:Thermochemistry">
+         Thermochemistry
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Atmospheric_thermodynamics" title="Category:Atmospheric thermodynamics">
+         Atmospheric thermodynamics
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Thermodynamics" title="Category:Thermodynamics">
+         Thermodynamics
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">
+         CS1 maint: Multiple names: authors list
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+         All articles with unsourced statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2012" title="Category:Articles with unsourced statements from June 2012">
+         Articles with unsourced statements from June 2012
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Latent+heat" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Latent+heat" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Latent_heat" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Latent_heat" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Latent_heat">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Latent_heat&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Latent_heat&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Latent_heat" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Latent_heat" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Latent_heat&amp;oldid=740168511" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Latent_heat&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q207721" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Latent_heat&amp;id=740168511" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Latent+heat">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Latent+heat&amp;returnto=Latent+heat&amp;oldid=740168511&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Latent_heat&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9_%D9%83%D8%A7%D9%85%D9%86%D8%A9" hreflang="ar" lang="ar" title="حرارة كامنة – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-min-nan">
+        <a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/Chi%C3%A2m-jia%CC%8Dt" hreflang="zh-min-nan" lang="zh-min-nan" title="Chiâm-jia̍t – Chinese (Min Nan)">
+         Bân-lâm-gú
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D0%B5%D0%BD%D1%82%D0%BD%D0%B0_%D1%82%D0%BE%D0%BF%D0%BB%D0%B8%D0%BD%D0%B0" hreflang="bg" lang="bg" title="Латентна топлина – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Calor_latent" hreflang="ca" lang="ca" title="Calor latent – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Skupensk%C3%A9_teplo" hreflang="cs" lang="cs" title="Skupenské teplo – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Latente_W%C3%A4rme" hreflang="de" lang="de" title="Latente Wärme – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Calor_latente" hreflang="es" lang="es" title="Calor latente – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Latenta_varmo" hreflang="eo" lang="eo" title="Latenta varmo – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D9%85%D8%A7%DB%8C_%D9%86%D9%87%D8%A7%D9%86" hreflang="fa" lang="fa" title="گرمای نهان – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Enthalpie_de_changement_d%27%C3%A9tat" hreflang="fr" lang="fr" title="Enthalpie de changement d'état – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ga">
+        <a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Teas_folaigh" hreflang="ga" lang="ga" title="Teas folaigh – Irish">
+         Gaeilge
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Calor_latente" hreflang="gl" lang="gl" title="Calor latente – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%9E%A0%EC%97%B4" hreflang="ko" lang="ko" title="잠열 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi">
+        <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%81%E0%A4%AA%E0%A5%8D%E0%A4%A4_%E0%A4%8A%E0%A4%B7%E0%A5%8D%E0%A4%AE%E0%A4%BE" hreflang="hi" lang="hi" title="गुप्त ऊष्मा – Hindi">
+         हिन्दी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Latentna_toplina" hreflang="hr" lang="hr" title="Latentna toplina – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-io">
+        <a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Latenta_kaloro" hreflang="io" lang="io" title="Latenta kaloro – Ido">
+         Ido
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Kalor_laten" hreflang="id" lang="id" title="Kalor laten – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Calore_latente" hreflang="it" lang="it" title="Calore latente – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%9D_%D7%9B%D7%9E%D7%95%D7%A1" hreflang="he" lang="he" title="חום כמוס – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-jv">
+        <a class="interlanguage-link-target" href="https://jv.wikipedia.org/wiki/Kalor_laten" hreflang="jv" lang="jv" title="Kalor laten – Javanese">
+         Basa Jawa
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ht">
+        <a class="interlanguage-link-target" href="https://ht.wikipedia.org/wiki/Chal%C3%A8_latan" hreflang="ht" lang="ht" title="Chalè latan – Haitian Creole">
+         Kreyòl ayisyen
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ml">
+        <a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%B2%E0%B5%80%E0%B4%A8%E0%B4%A4%E0%B4%BE%E0%B4%AA%E0%B4%82" hreflang="ml" lang="ml" title="ലീനതാപം – Malayalam">
+         മലയാളം
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ms">
+        <a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Haba_pendam" hreflang="ms" lang="ms" title="Haba pendam – Malay">
+         Bahasa Melayu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Latente_warmte" hreflang="nl" lang="nl" title="Latente warmte – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E6%BD%9C%E7%86%B1" hreflang="ja" lang="ja" title="潜熱 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Latent_varme" hreflang="no" lang="no" title="Latent varme – Norwegian">
+         Norsk bokmål
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Latent_varme" hreflang="nn" lang="nn" title="Latent varme – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Ciep%C5%82o_utajone" hreflang="pl" lang="pl" title="Ciepło utajone – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Calor_latente" hreflang="pt" lang="pt" title="Calor latente – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/C%C4%83ldur%C4%83_latent%C4%83" hreflang="ro" lang="ro" title="Căldură latentă – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D1%80%D1%8B%D1%82%D0%B0%D1%8F_%D1%82%D0%B5%D0%BF%D0%BB%D0%BE%D1%82%D0%B0" hreflang="ru" lang="ru" title="Скрытая теплота – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Latent_heat" hreflang="simple" lang="simple" title="Latent heat – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Skupensk%C3%A9_teplo" hreflang="sk" lang="sk" title="Skupenské teplo – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ckb">
+        <a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%D9%85%D8%A7%D8%AA%DB%95%DA%AF%DB%95%D8%B1%D9%85%DB%8C" hreflang="ckb" lang="ckb" title="ماتەگەرمی – Central Kurdish">
+         کوردیی ناوەندی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D0%B5%D0%BD%D1%82%D0%BD%D0%B0_%D1%82%D0%BE%D0%BF%D0%BB%D0%BE%D1%82%D0%B0" hreflang="sr" lang="sr" title="Латентна топлота – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Latentna_toplota" hreflang="sh" lang="sh" title="Latentna toplota – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Latenttil%C3%A4mp%C3%B6" hreflang="fi" lang="fi" title="Latenttilämpö – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Latent_v%C3%A4rme" hreflang="sv" lang="sv" title="Latent värme – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AE%B1%E0%AF%88_%E0%AE%B5%E0%AF%86%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%AE%E0%AF%8D" hreflang="ta" lang="ta" title="மறை வெப்பம் – Tamil">
+         தமிழ்
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%9D%E0%B8%87%E0%B8%88%E0%B8%B3%E0%B9%80%E0%B8%9E%E0%B8%B2%E0%B8%B0" hreflang="th" lang="th" title="ความร้อนแฝงจำเพาะ – Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D1%85%D0%BE%D0%B2%D0%B0%D0%BD%D0%B0_%D1%82%D0%B5%D0%BF%D0%BB%D0%BE%D1%82%D0%B0" hreflang="uk" lang="uk" title="Прихована теплота – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-yue">
+        <a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E6%BD%9B%E7%86%B1" hreflang="zh-yue" lang="zh-yue" title="潛熱 – Cantonese">
+         粵語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%BD%9B%E7%86%B1" hreflang="zh" lang="zh" title="潛熱 – Chinese">
+         中文
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q207721#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 19 September 2016, at 13:35.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Latent_heat&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","ext.math.scripts","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.216",
+            "walltime": "0.489",
+            "ppvisitednodes": {
+                "value": 1072,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 71732,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 866,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 11,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 1,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  173.495      1 -total",
+                " 36.38%   63.125      1 Template:Thermodynamics",
+                " 34.19%   59.321      1 Template:Reflist",
+                " 19.93%   34.583      1 Template:Citation_needed",
+                " 19.38%   33.630      3 Template:Cite_book",
+                " 17.88%   31.027      1 Template:Fix",
+                " 11.99%   20.804      2 Template:Category_handler",
+                "  8.31%   14.425      3 Template:Sidebar",
+                "  4.50%    7.800      1 Template:States_of_matter",
+                "  4.34%    7.530      1 Template:Delink"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.062",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 3347434,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1266",
+            "timestamp": "20161104214152",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":68,"wgHostname":"mw1175"});});
+  </script>
+ </body>
+</html>

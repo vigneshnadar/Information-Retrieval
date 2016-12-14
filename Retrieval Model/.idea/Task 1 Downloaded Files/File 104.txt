@@ -1,0 +1,3717 @@
+https://en.wikipedia.org/wiki/Strangford_Lough
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Strangford Lough - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Strangford_Lough","wgTitle":"Strangford Lough","wgCurRevisionId":747256134,"wgRevisionId":747256134,"wgArticleId":316019,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Commons category with local link same as on Wikidata","Coordinates on Wikidata","Areas of Outstanding Natural Beauty in County Down","Important Bird Areas of Northern Ireland","Special Protection Areas in Northern Ireland","Special Areas of Conservation in County Down","Portaferry","Sea loughs of Northern Ireland","Newtownards","Marine reserves of Northern Ireland","Ramsar sites in Northern Ireland","Landforms of County Down","Inlets of Northern Ireland"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Strangford_Lough","wgRelevantArticleId":316019,"wgRequestId":"WCAmvgpAIC8AACaCDA4AAACG","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":54.483,"lon":-5.583},"wgWikibaseItemId":"Q937070","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Strangford_Lough" rel="alternate"/>
+  <link href="/w/index.php?title=Strangford_Lough&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Strangford_Lough&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Strangford_Lough" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Strangford_Lough rootpage-Strangford_Lough skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Strangford Lough
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Early_Scandinavian_Dublin_-_Strangford.svg">
+        <img alt="" class="thumbimage" data-file-height="804" data-file-width="671" height="264" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Early_Scandinavian_Dublin_-_Strangford.svg/220px-Early_Scandinavian_Dublin_-_Strangford.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Early_Scandinavian_Dublin_-_Strangford.svg/330px-Early_Scandinavian_Dublin_-_Strangford.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Early_Scandinavian_Dublin_-_Strangford.svg/440px-Early_Scandinavian_Dublin_-_Strangford.svg.png 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Early_Scandinavian_Dublin_-_Strangford.svg" title="Enlarge">
+         </a>
+        </div>
+        A map of Strangford Lough
+       </div>
+      </div>
+     </div>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Strangford_Lough_from_Portaferry,_looking_towards_the_narrows.JPG">
+        <img alt="" class="thumbimage" data-file-height="1944" data-file-width="2592" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Strangford_Lough_from_Portaferry%2C_looking_towards_the_narrows.JPG/220px-Strangford_Lough_from_Portaferry%2C_looking_towards_the_narrows.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Strangford_Lough_from_Portaferry%2C_looking_towards_the_narrows.JPG/330px-Strangford_Lough_from_Portaferry%2C_looking_towards_the_narrows.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Strangford_Lough_from_Portaferry%2C_looking_towards_the_narrows.JPG/440px-Strangford_Lough_from_Portaferry%2C_looking_towards_the_narrows.JPG 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Strangford_Lough_from_Portaferry,_looking_towards_the_narrows.JPG" title="Enlarge">
+         </a>
+        </div>
+        Strangford Lough from
+        <a href="/wiki/Portaferry" title="Portaferry">
+         Portaferry
+        </a>
+        , looking towards the
+        <a href="/wiki/Narrows" title="Narrows">
+         narrows
+        </a>
+        .
+       </div>
+      </div>
+     </div>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Strangford_Lough.JPG">
+        <img alt="" class="thumbimage" data-file-height="1944" data-file-width="2592" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Strangford_Lough.JPG/220px-Strangford_Lough.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Strangford_Lough.JPG/330px-Strangford_Lough.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Strangford_Lough.JPG/440px-Strangford_Lough.JPG 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Strangford_Lough.JPG" title="Enlarge">
+         </a>
+        </div>
+        Strangford Lough from Portaferry.
+       </div>
+      </div>
+     </div>
+     <p>
+      <b>
+       Strangford Lough
+      </b>
+      (from
+      <a href="/wiki/Old_Norse" title="Old Norse">
+       Old Norse
+      </a>
+      <i>
+       Strangr Fjörðr
+      </i>
+      , meaning "strong sea-inlet"
+      <sup class="reference" id="cite_ref-PlaceNames_1-0">
+       <a href="#cite_note-PlaceNames-1">
+        [1]
+       </a>
+      </sup>
+      ) is a large sea
+      <a href="/wiki/Loch" title="Loch">
+       loch
+      </a>
+      or
+      <a href="/wiki/Inlet" title="Inlet">
+       inlet
+      </a>
+      in
+      <a href="/wiki/County_Down" title="County Down">
+       County Down
+      </a>
+      , in the east of
+      <a href="/wiki/Northern_Ireland" title="Northern Ireland">
+       Northern Ireland
+      </a>
+      . It is the largest inlet in the
+      <a href="/wiki/British_Isles" title="British Isles">
+       British Isles
+      </a>
+      , covering 150 km
+      <sup>
+       2
+      </sup>
+      . The loch is almost totally enclosed by the
+      <a href="/wiki/Ards_Peninsula" title="Ards Peninsula">
+       Ards Peninsula
+      </a>
+      and is linked to the
+      <a href="/wiki/Irish_Sea" title="Irish Sea">
+       Irish Sea
+      </a>
+      by a long narrow channel or strait. The main body of the loch has at least seventy islands along with many islets (pladdies), bays, coves, headlands and mudflats. Strangford Lough was designated as Northern Ireland's first
+      <a href="/wiki/Marine_Conservation_Zone" title="Marine Conservation Zone">
+       Marine Conservation Zone
+      </a>
+      (MCZ) under the introduction of the Marine Act (Northern Ireland) 2013. It has also been designated a
+      <a href="/wiki/Special_Area_of_Conservation" title="Special Area of Conservation">
+       Special Area of Conservation
+      </a>
+      under the EU
+      <a href="/wiki/Habitats_Directive" title="Habitats Directive">
+       Habitats Directive
+      </a>
+      , and its abundant wildlife is recognised internationally for its importance.
+     </p>
+     <p>
+      In the medieval and early modern period Strangford Lough was known in Irish as
+      <b>
+       Loch Cuan
+      </b>
+      , meaning "sea-inlet of bays/havens".
+      <sup class="reference" id="cite_ref-PlaceNames_1-1">
+       <a href="#cite_note-PlaceNames-1">
+        [1]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Strangford Lough is a popular tourist destination noted for its fishing and scenery. Towns and villages around the loch include
+      <a href="/wiki/Killyleagh" title="Killyleagh">
+       Killyleagh
+      </a>
+      ,
+      <a href="/wiki/Comber" title="Comber">
+       Comber
+      </a>
+      ,
+      <a href="/wiki/Newtownards" title="Newtownards">
+       Newtownards
+      </a>
+      ,
+      <a href="/wiki/Portaferry" title="Portaferry">
+       Portaferry
+      </a>
+      and
+      <a href="/wiki/Strangford" title="Strangford">
+       Strangford
+      </a>
+      . The latter two are connected by a
+      <a class="mw-redirect" href="/wiki/RORO" title="RORO">
+       car ferry
+      </a>
+      .
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Name">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Name
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#Flora_and_fauna">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Flora and fauna
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-3">
+          <a href="#Flora">
+           <span class="tocnumber">
+            2.1
+           </span>
+           <span class="toctext">
+            Flora
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-4">
+          <a href="#Fauna">
+           <span class="tocnumber">
+            2.2
+           </span>
+           <span class="toctext">
+            Fauna
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-5">
+        <a href="#Tidal_electricity">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          Tidal electricity
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-6">
+        <a href="#Activity_on_Strangford_Lough">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          Activity on Strangford Lough
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-7">
+        <a href="#Ferry">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          Ferry
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-8">
+        <a href="#Archaeology">
+         <span class="tocnumber">
+          6
+         </span>
+         <span class="toctext">
+          Archaeology
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-9">
+        <a href="#See_also">
+         <span class="tocnumber">
+          7
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-10">
+        <a href="#References">
+         <span class="tocnumber">
+          8
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-11">
+        <a href="#Further_reading">
+         <span class="tocnumber">
+          9
+         </span>
+         <span class="toctext">
+          Further reading
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-12">
+        <a href="#External_links">
+         <span class="tocnumber">
+          10
+         </span>
+         <span class="toctext">
+          External links
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Name">
+       Name
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Strangford_Lough&amp;action=edit&amp;section=1" title="Edit section: Name">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The name
+      <i>
+       Strangford
+      </i>
+      comes from
+      <a class="mw-redirect" href="/wiki/Old_Norse_language" title="Old Norse language">
+       Old Norse
+      </a>
+      <i>
+       Strangr-fjörðr
+      </i>
+      , meaning "strong sea-inlet".
+      <sup class="reference" id="cite_ref-pni_2-0">
+       <a href="#cite_note-pni-2">
+        [2]
+       </a>
+      </sup>
+      The
+      <a href="/wiki/Vikings" title="Vikings">
+       Vikings
+      </a>
+      were active in the area during the Middle Ages. Originally, this name referred only to the narrow channel linking the loch to the sea (between the villages of
+      <a href="/wiki/Strangford" title="Strangford">
+       Strangford
+      </a>
+      and
+      <a href="/wiki/Portaferry" title="Portaferry">
+       Portaferry
+      </a>
+      ).
+      <sup class="reference" id="cite_ref-pni_2-1">
+       <a href="#cite_note-pni-2">
+        [2]
+       </a>
+      </sup>
+      Up until about the 18th century, the main body of the loch was better known by the (older)
+      <a href="/wiki/Irish_language" title="Irish language">
+       Irish
+      </a>
+      name
+      <i>
+       Loch Cuan
+      </i>
+      , meaning "loch of the bays/havens".
+      <sup class="reference" id="cite_ref-pni_2-2">
+       <a href="#cite_note-pni-2">
+        [2]
+       </a>
+      </sup>
+      This name was anglicized as
+      <i>
+       Lough Coan
+      </i>
+      ,
+      <i>
+       Lough Cone
+      </i>
+      ,
+      <i>
+       Lough Coyn
+      </i>
+      ,
+      <i>
+       Lough Coin
+      </i>
+      , or similar.
+      <sup class="reference" id="cite_ref-pni_2-3">
+       <a href="#cite_note-pni-2">
+        [2]
+       </a>
+      </sup>
+     </p>
+     <p>
+      The narrow channel may have been known in Latin as the
+      <i>
+       fretum Brene
+      </i>
+      .
+      <sup class="reference" id="cite_ref-3">
+       <a href="#cite_note-3">
+        [3]
+       </a>
+      </sup>
+      In
+      <a href="/wiki/Ulster_Scots_dialects" title="Ulster Scots dialects">
+       Ulster-Scots
+      </a>
+      the loch's name is spelt
+      <i>
+       Strangfurd
+      </i>
+      or
+      <i>
+       Strangﬁrt Loch
+      </i>
+      .
+      <sup class="reference" id="cite_ref-4">
+       <a href="#cite_note-4">
+        [4]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-5">
+       <a href="#cite_note-5">
+        [5]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Flora_and_fauna">
+       Flora and fauna
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Strangford_Lough&amp;action=edit&amp;section=2" title="Edit section: Flora and fauna">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <h3>
+      <span class="mw-headline" id="Flora">
+       Flora
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Strangford_Lough&amp;action=edit&amp;section=3" title="Edit section: Flora">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Common cord-grass (
+      <i>
+       <a href="/wiki/Spartina_anglica" title="Spartina anglica">
+        Spartina anglica
+       </a>
+      </i>
+      ) C.E. Hubbard was introduced in the mid-1940s is now abundant.
+      <sup class="reference" id="cite_ref-6">
+       <a href="#cite_note-6">
+        [6]
+       </a>
+      </sup>
+      <a href="/wiki/Maerl" title="Maerl">
+       Maerl
+      </a>
+      is a calcareous deposit, in the main, of two species, of
+      <a href="/wiki/Calcareous" title="Calcareous">
+       calcareous
+      </a>
+      <a href="/wiki/Algae" title="Algae">
+       algae
+      </a>
+      <i>
+       Phymatolithon calcareum
+      </i>
+      and
+      <i>
+       Lithothamnion glaciale
+      </i>
+      which form free-living beds of unattached, branched
+      <a href="/wiki/Coralline_algae" title="Coralline algae">
+       corallines
+      </a>
+      , living or dead, in Strangford Lough.
+      <sup class="reference" id="cite_ref-7">
+       <a href="#cite_note-7">
+        [7]
+       </a>
+      </sup>
+     </p>
+     <p>
+      The rocky and boulder shores toward the south of the lough are dominated by the seaweed knotted wrack
+      <i>
+       Ascophyllum nodosum
+      </i>
+      . The usual zonation of weeds on these shore is, at the top channel wrack (
+      <i>
+       <a href="/wiki/Pelvetia" title="Pelvetia">
+        Pelvetia
+       </a>
+       canaliculata
+      </i>
+      (L.) Dcne. et Rhur.), followed by spiral wrack (
+      <i>
+       <a href="/wiki/Fucus_spiralis" title="Fucus spiralis">
+        Fucus spiralis
+       </a>
+      </i>
+      L.), then knotted wrack (
+      <i>
+       Ascophyllum nodosum
+      </i>
+      (L.) Le Jol) with some admixture of bladder wrack (
+      <i>
+       <a href="/wiki/Fucus_vesiculosus" title="Fucus vesiculosus">
+        Fucus vesiculosus
+       </a>
+      </i>
+      ) L. and then serrated wrack (
+      <i>
+       <a href="/wiki/Fucus_serratus" title="Fucus serratus">
+        Fucus serratus
+       </a>
+      </i>
+      L.) before coming to the low water kelps.
+      <sup class="reference" id="cite_ref-8">
+       <a href="#cite_note-8">
+        [8]
+       </a>
+      </sup>
+     </p>
+     <p>
+      A brown
+      <a href="/wiki/Seaweed" title="Seaweed">
+       seaweed
+      </a>
+      named
+      <i>
+       <a href="/wiki/Sargassum" title="Sargassum">
+        Sargassum
+       </a>
+       muticum
+      </i>
+      , originally from the
+      <a class="mw-redirect" href="/wiki/Pacific" title="Pacific">
+       Pacific
+      </a>
+      (
+      <a href="/wiki/Japan" title="Japan">
+       Japan
+      </a>
+      ) was discovered on 15 March 1995 in Strangford Lough at Paddy's Point. The plants were well established on mesh bags containing oysters. The bags had been put out in 1987 containing Pacific oysters (
+      <i>
+       Crassostrea gigas
+      </i>
+      ) imported from
+      <a href="/wiki/Guernsey" title="Guernsey">
+       Guernsey
+      </a>
+      . This
+      <i>
+       Sargassum
+      </i>
+      is known to be a highly invasive species.
+      <sup class="reference" id="cite_ref-9">
+       <a href="#cite_note-9">
+        [9]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-10">
+       <a href="#cite_note-10">
+        [10]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Other algae include:
+      <i>
+       Apoglossum rusciofolium
+      </i>
+      (Turn.) J. Ag.;
+      <i>
+       Spyridia filamentosa
+      </i>
+      (Wulf.) Harv.;
+      <i>
+       Sphondylothamnion multifium
+      </i>
+      (Huds.) Näg.;
+      <i>
+       Griffithsia corallinoides
+      </i>
+      (L.) Batt.;
+      <i>
+       Compsothamnion gracillimum
+      </i>
+      de Toni;
+      <i>
+       Compsothamnion thuyoides
+      </i>
+      (Sm.) Schmitz;
+      <i>
+       Calliothamnion corymbosum
+      </i>
+      (Sm.) Lyngb;
+      <i>
+       Rhodymenia delicatula
+      </i>
+      P.Dang.;
+      <i>
+       Haemescharia hennedyi
+      </i>
+      (Harv.) Vinogradova ;
+      <i>
+       Rhodophyllis divaricate
+      </i>
+      (Stackh.) Papenf.;
+      <i>
+       Calliblepharis jubata
+      </i>
+      (Good. et Woodw.) Kütz.;
+      <i>
+       Calliblepharis ciliata
+      </i>
+      (Huds.) Kütz;
+      <i>
+       Peyssonnelia dubyi
+      </i>
+      P. et H. Crouan;
+      <i>
+       Plagiospora gracilis
+      </i>
+      Kuck;
+      <i>
+       Gloiosiphonia capillaris
+      </i>
+      (Huds.) Carm.;
+      <i>
+       Dudresnaya verticillata
+      </i>
+      (With.) Le Jol.:
+      <i>
+       Scinaia pseudocrispa
+      </i>
+      (Clem.)
+      <i>
+       Cremades/S.turgida
+      </i>
+      Chemin;
+      <i>
+       Porphyropsis coccinea
+      </i>
+      (J.Ag. ex Aresch) Rosenv.;
+      <i>
+       Pelvetia canaliculata
+      </i>
+      (L.) Dcne. et Thur.;
+      <i>
+       Fucus vesiculosus
+      </i>
+      L. var
+      <i>
+       volubilis
+      </i>
+      Turn.;
+      <i>
+       Fucus cottonii
+      </i>
+      Wynne et Magne;
+      <i>
+       Colpomenia peregrine
+      </i>
+      (Sauv.) Hame;
+      <i>
+       Asperococcus compressus
+      </i>
+      Griff. ex Hook.;
+      <i>
+       Striaria attenuate
+      </i>
+      (Grev.) Grev.;
+      <i>
+       Myriotrichia clavaeformis
+      </i>
+      Harv.;
+      <i>
+       Tilopteris mertensii
+      </i>
+      (Turn.) Kütz.;
+      <i>
+       Chordaria flagelliformis
+      </i>
+      (O.F.Müll.) C.Ag.;
+      <i>
+       Spermatochnus paradoxus
+      </i>
+      (Roth) Kütz.;
+      <i>
+       Pseudolithoderma extensum
+      </i>
+      (P. et H. Crouan) Lund.;
+      <i>
+       Enteromorpha ralfsii
+      </i>
+      Harv.;
+      <i>
+       Chlorochytrium
+      </i>
+      sp.
+      <sup class="reference" id="cite_ref-11">
+       <a href="#cite_note-11">
+        [11]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Fauna">
+       Fauna
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Strangford_Lough&amp;action=edit&amp;section=4" title="Edit section: Fauna">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Strangford Lough and Islands is an
+      <a href="/wiki/Important_Bird_Area" title="Important Bird Area">
+       Important Bird Area
+      </a>
+      .
+      <sup class="reference" id="cite_ref-12">
+       <a href="#cite_note-12">
+        [12]
+       </a>
+      </sup>
+      Strangford Lough is an important winter
+      <a href="/wiki/Bird_migration" title="Bird migration">
+       migration
+      </a>
+      destination for many wading and sea
+      <a class="mw-redirect" href="/wiki/Birds" title="Birds">
+       birds
+      </a>
+      .
+      <a href="/wiki/Animal" title="Animal">
+       Animals
+      </a>
+      commonly found in the lough include
+      <a class="mw-redirect" href="/wiki/Common_seal" title="Common seal">
+       common seals
+      </a>
+      ,
+      <a href="/wiki/Basking_shark" title="Basking shark">
+       basking sharks
+      </a>
+      and
+      <a class="mw-redirect" href="/wiki/Brent_goose" title="Brent goose">
+       brent geese
+      </a>
+      . Three quarters of the world population of pale bellied brent geese spend winter in the lough area.
+      <sup class="reference" id="cite_ref-13">
+       <a href="#cite_note-13">
+        [13]
+       </a>
+      </sup>
+     </p>
+     <p>
+      The invasive carpet sea squirt,
+      <i>
+       Didemnum vexillum
+      </i>
+      , was found in the Lough in 2012.
+      <sup class="reference" id="cite_ref-14">
+       <a href="#cite_note-14">
+        [14]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Tidal_electricity">
+       Tidal electricity
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Strangford_Lough&amp;action=edit&amp;section=5" title="Edit section: Tidal electricity">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:SeaGen_installed.jpg">
+        <img alt="" class="thumbimage" data-file-height="300" data-file-width="358" height="184" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/SeaGen_installed.jpg/220px-SeaGen_installed.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/SeaGen_installed.jpg/330px-SeaGen_installed.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/7/77/SeaGen_installed.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:SeaGen_installed.jpg" title="Enlarge">
+         </a>
+        </div>
+        <a href="/wiki/SeaGen" title="SeaGen">
+         SeaGen
+        </a>
+        .
+       </div>
+      </div>
+     </div>
+     <p>
+      In 2007 Strangford Lough became home to the world's first commercial
+      <a href="/wiki/Marine_science" title="Marine science">
+       tidal stream
+      </a>
+      power station,
+      <a href="/wiki/SeaGen" title="SeaGen">
+       SeaGen
+      </a>
+      . The 1.2
+      <a class="mw-redirect" href="/wiki/Megawatt" title="Megawatt">
+       megawatt
+      </a>
+      underwater tidal electricity generator, part of Northern Ireland's
+      <a class="new" href="/w/index.php?title=Environment_and_Renewable_Energy_Fund&amp;action=edit&amp;redlink=1" title="Environment and Renewable Energy Fund (page does not exist)">
+       Environment and Renewable Energy Fund
+      </a>
+      scheme, takes advantage of the fast tidal flow in the lough which can be up to 4
+      <a class="mw-redirect" href="/wiki/M/s" title="M/s">
+       m/s
+      </a>
+      . Although the generator is powerful enough to power up to a thousand homes, the
+      <a href="/wiki/Turbine" title="Turbine">
+       turbine
+      </a>
+      has a minimal
+      <a href="/wiki/Environmental_degradation" title="Environmental degradation">
+       environmental impact
+      </a>
+      , as it is almost entirely submerged, and the rotors turn slowly enough that they pose no danger to
+      <a href="/wiki/Wildlife" title="Wildlife">
+       wildlife
+      </a>
+      .
+      <sup class="reference" id="cite_ref-15">
+       <a href="#cite_note-15">
+        [15]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-16">
+       <a href="#cite_note-16">
+        [16]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-17">
+       <a href="#cite_note-17">
+        [17]
+       </a>
+      </sup>
+     </p>
+     <p>
+      Since June 2008 a
+      <a class="mw-redirect" href="/wiki/Tidal_energy" title="Tidal energy">
+       tidal energy
+      </a>
+      device called
+      <a href="/wiki/Evopod" title="Evopod">
+       Evopod
+      </a>
+      has been tested in Strangford Lough near the Portaferry Ferry landing.
+      <sup class="reference" id="cite_ref-18">
+       <a href="#cite_note-18">
+        [18]
+       </a>
+      </sup>
+      The device is a 1/10 scale prototype and is being monitored by
+      <a href="/wiki/Queen%27s_University_Belfast" title="Queen's University Belfast">
+       Queen's University Belfast
+      </a>
+      . The device is a semi submerged floating tidal turbine and is moored to the seabed via a buoy mounted swivel so that it always maintains optimum heading into the direction of the tidal flow. The scale device is not grid connected and dissipates the small amount of power it generates as heat into the sea. Malik Priestley (executive creator of SeaGen) said "tidal power will provide sustainable amounts of green, renewable energy and pose no threats to surrounding wild life".
+     </p>
+     <h2>
+      <span class="mw-headline" id="Activity_on_Strangford_Lough">
+       Activity on Strangford Lough
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Strangford_Lough&amp;action=edit&amp;section=6" title="Edit section: Activity on Strangford Lough">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Strangford_(16),_August_2009.JPG">
+        <img alt="" class="thumbimage" data-file-height="2848" data-file-width="4272" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Strangford_%2816%29%2C_August_2009.JPG/220px-Strangford_%2816%29%2C_August_2009.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Strangford_%2816%29%2C_August_2009.JPG/330px-Strangford_%2816%29%2C_August_2009.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Strangford_%2816%29%2C_August_2009.JPG/440px-Strangford_%2816%29%2C_August_2009.JPG 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Strangford_(16),_August_2009.JPG" title="Enlarge">
+         </a>
+        </div>
+        Strangford Lough Canoe Trail, August 2009
+       </div>
+      </div>
+     </div>
+     <p>
+      Strangford Lough is a place of natural beauty that the locals put to great use. From using it as a national highway (Portaferry-Strangford ferry) to using it for activities of leisure - sailing, kayaking, bird watching, diving and much more. There are a number of companies based in the local area encouraging visitors to explore the area including: Exploris Aquarium - where you can learn more about the lough and its wildlife; Clearsky Adventure Centre - kayaking, canoeing etc. and DV diving. There are also canoe trails in place and a 'Strangford Lough Activity Map' has been launched as a part of a series of maps produced by the Ordnance Survey of Northern Ireland.
+     </p>
+     <p>
+      In July 2016 the Strangford Lough and Lecale Partnership, Scottish Coastal Rowing Association,
+      <a href="/wiki/Newry,_Mourne_and_Down_District_Council" title="Newry, Mourne and Down District Council">
+       Newry, Mourne and Down District Council
+      </a>
+      and
+      <a href="/wiki/Ards_and_North_Down_Borough_Council" title="Ards and North Down Borough Council">
+       Ards and North Down Borough Council
+      </a>
+      , together with local rowing clubs based on Strangford Lough and the
+      <a href="/wiki/Ards_Peninsula" title="Ards Peninsula">
+       Ards Peninsula
+      </a>
+      hosted the world community, coastal rowing championships “Skiffie Worlds 2016”. The event was attended by 50 clubs from Scotland, England, Northern Ireland, the Netherlands, The United States, Canada and Tasmania. Racing was held over a 2km course on Strangford Lough at
+      <a href="/wiki/Delamont_Country_Park" title="Delamont Country Park">
+       Delamont Country Park
+      </a>
+      .
+      <sup class="reference" id="cite_ref-19">
+       <a href="#cite_note-19">
+        [19]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Ferry">
+       Ferry
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Strangford_Lough&amp;action=edit&amp;section=7" title="Edit section: Ferry">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Strangford_Ferry_(10),_August_2009.JPG">
+        <img alt="" class="thumbimage" data-file-height="2848" data-file-width="4272" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Strangford_Ferry_%2810%29%2C_August_2009.JPG/220px-Strangford_Ferry_%2810%29%2C_August_2009.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Strangford_Ferry_%2810%29%2C_August_2009.JPG/330px-Strangford_Ferry_%2810%29%2C_August_2009.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Strangford_Ferry_%2810%29%2C_August_2009.JPG/440px-Strangford_Ferry_%2810%29%2C_August_2009.JPG 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Strangford_Ferry_(10),_August_2009.JPG" title="Enlarge">
+         </a>
+        </div>
+        MV
+        <i>
+         Portaferry II
+        </i>
+        , August 2009
+       </div>
+      </div>
+     </div>
+     <p>
+      There has been a ferry service between
+      <a href="/wiki/Portaferry" title="Portaferry">
+       Portaferry
+      </a>
+      and
+      <a href="/wiki/Strangford" title="Strangford">
+       Strangford
+      </a>
+      , without a break, for almost four centuries.
+      <sup class="reference" id="cite_ref-ferry_20-0">
+       <a href="#cite_note-ferry-20">
+        [20]
+       </a>
+      </sup>
+      The alternative road journey is 47 miles and takes about an hour and a half, while the ferry crosses the 0.6 nautical miles (0.69 mi) in 8 minutes.
+      <sup class="reference" id="cite_ref-21">
+       <a href="#cite_note-21">
+        [21]
+       </a>
+      </sup>
+      The subsidised public service operates at a loss of more than £1m per year but is viewed as an important transport link to the Ards Peninsula.
+      <sup class="reference" id="cite_ref-22">
+       <a href="#cite_note-22">
+        [22]
+       </a>
+      </sup>
+     </p>
+     <p>
+      MV
+      <i>
+       Portaferry
+      </i>
+      (1) (ex-
+      <i>
+       Cleddau King
+      </i>
+      ) was bought from a company in Wales in 1975 after completion of the
+      <a href="/wiki/Cleddau_Bridge" title="Cleddau Bridge">
+       Cleddau Bridge
+      </a>
+      .
+      <sup class="reference" id="cite_ref-23">
+       <a href="#cite_note-23">
+        [23]
+       </a>
+      </sup>
+      She was modified by
+      <a href="/wiki/Harland_and_Wolff" title="Harland and Wolff">
+       Harland and Wolff
+      </a>
+      of Belfast
+      <sup class="reference" id="cite_ref-ferry_20-1">
+       <a href="#cite_note-ferry-20">
+        [20]
+       </a>
+      </sup>
+      and operated until sold in May 2002.
+     </p>
+     <p>
+      MV
+      <i>
+       Strangford
+      </i>
+      was built by the Verolme Shipyard in
+      <a href="/wiki/Cork_(city)" title="Cork (city)">
+       Cork
+      </a>
+      and launched on 6 September 1969.
+     </p>
+     <p>
+      <a href="/wiki/MV_Portaferry_II" title="MV Portaferry II">
+       MV
+       <i>
+        Portaferry II
+       </i>
+      </a>
+      , a £2.7 million vessel built by
+      <a href="/wiki/Remontowa" title="Remontowa">
+       Gdańska Stocznia Remontowa
+      </a>
+      and
+      <a href="/wiki/McTay_Marine" title="McTay Marine">
+       McTay Marine
+      </a>
+      of Merseyside, came into service on 18 December 2001, relegating MV
+      <i>
+       Strangford
+      </i>
+      to a support role.
+      <sup class="reference" id="cite_ref-ferry_20-2">
+       <a href="#cite_note-ferry-20">
+        [20]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Archaeology">
+       Archaeology
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Strangford_Lough&amp;action=edit&amp;section=8" title="Edit section: Archaeology">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      Strangford Lough has a substantial archaeological heritage. Intertidal archaeological surveys in recent years have brought hundreds of sites to light, including
+      <a href="/wiki/Fish_trap" title="Fish trap">
+       fish traps
+      </a>
+      ,
+      <a href="/wiki/Tide_mill" title="Tide mill">
+       tidal mills
+      </a>
+      ,
+      <a href="/wiki/Kelp" title="Kelp">
+       kelp
+      </a>
+      walls and harbours and landing places.
+      <sup class="reference" id="cite_ref-24">
+       <a href="#cite_note-24">
+        [24]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Strangford_Lough&amp;action=edit&amp;section=9" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a class="mw-redirect" href="/wiki/List_of_loughs_in_Ireland" title="List of loughs in Ireland">
+        List of loughs in Ireland
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Nendrum_Monastery" title="Nendrum Monastery">
+        Nendrum Monastery
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Strangford_Lough&amp;action=edit&amp;section=10" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist" style="list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-PlaceNames-1">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-PlaceNames_1-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-PlaceNames_1-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.placenamesni.org/resultdetails.php?entry=12279" rel="nofollow">
+          PlaceNames NI
+         </a>
+         - Strangford Lough
+        </span>
+       </li>
+       <li id="cite_note-pni-2">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-pni_2-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-pni_2-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-pni_2-2">
+          <sup>
+           <i>
+            <b>
+             c
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-pni_2-3">
+          <sup>
+           <i>
+            <b>
+             d
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.placenamesni.org/resultdetails.php?entry=12279" rel="nofollow">
+          PlaceNames NI: Strangford Lough
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-3">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         II-Landing Places of St. Patrick, "Saint Patrick: his life and mission", Mrs. THOMAS qONCANNON, The Talbot Press Ltd., Dublin &amp; Cork, From The James D. Phelan Celtic Collection
+        </span>
+       </li>
+       <li id="cite_note-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-4">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.doeni.gov.uk/niea/jordanscastleus.pdf" rel="nofollow">
+          Jordan's Castle (Ulster-Scots translation)
+         </a>
+         Department of the Environment.
+        </span>
+       </li>
+       <li id="cite_note-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-5">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.doeni.gov.uk/niea/nendrumus.pdf" rel="nofollow">
+          Nendrum (Ulster-Scots translation)
+         </a>
+         Department of the Environment.
+        </span>
+       </li>
+       <li id="cite_note-6">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-6">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Hackney, P. (Ed) 1992.
+         <i>
+          Stewart &amp; Corry's Flora of the North-east of Ireland
+         </i>
+         . Third Edition. Institute of Irish Studies, The Queen's University of Belfast.
+         <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0853894469">
+          ISBN 0 85389 446 9
+         </a>
+         (HB)
+        </span>
+       </li>
+       <li id="cite_note-7">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-7">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Blake,C. and Maggs, C.A. 2001. A study of maerl beds in Strangford Lough, including determination of growth rates.
+         <i>
+          in
+         </i>
+         Nunn, J.D. (ed).
+         <i>
+          Marine Biodiversity in Ireland and Adjacent Waters.
+         </i>
+         <a href="/wiki/Ulster_Museum" title="Ulster Museum">
+          Ulster Museum
+         </a>
+         ,
+         <a href="/wiki/Belfast" title="Belfast">
+          Belfast
+         </a>
+         . MAGNI publication no. 008
+        </span>
+       </li>
+       <li id="cite_note-8">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-8">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Brown, R. 1990. Strangford Lough. The Wildlife of an Irish Sea Lough. The Institute of Irish Studies, The Queen's University of Belfast
+        </span>
+       </li>
+       <li id="cite_note-9">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-9">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Boaden, P.J.S. 1995. The adventive seaweed
+         <i>
+          Sargassum muticum
+         </i>
+         (Yendo) Fensholt in Strangford Lough,
+         <a href="/wiki/Northern_Ireland" title="Northern Ireland">
+          Northern Ireland
+         </a>
+         .
+         <i>
+          Ir.Nat. J.
+         </i>
+         <b>
+          25
+         </b>
+         :111 - 113
+        </span>
+       </li>
+       <li id="cite_note-10">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-10">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Davison,D.M. 1999.
+         <i>
+          Sargassum muticum
+         </i>
+         in Strangford Lough, 1995 - 1998; a review of the introduction and colonisation of Strangford Lough MNR and cSAC by the invasive brown algae
+         <i>
+          Sargassum muticum.
+         </i>
+         <i>
+          Environment and Heritage Service Research and Development Series
+         </i>
+         . No. 99/27.
+        </span>
+       </li>
+       <li id="cite_note-11">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-11">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Morton, O. 1994.
+         <i>
+          Marine Algae of Northern Ireland.
+         </i>
+         Ulster Museum, Belfast.
+         <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0900761288">
+          ISBN 0-900761-28-8
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-12">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-12">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         BirdLife International (2016) Important Bird and Biodiversity Area factsheet: Strangford Lough and islands. Downloaded from
+         <a class="external free" href="http://www.birdlife.org" rel="nofollow">
+          http://www.birdlife.org
+         </a>
+         on 17/08/2016
+        </span>
+       </li>
+       <li id="cite_note-13">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-13">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.bbc.co.uk/handsonnature/waterways/strangford_loch.shtml" rel="nofollow">
+          BBC Hands on Nature
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-14">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-14">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.google.com/hostednews/ukpress/article/ALeqM5ieCJtgjCvYON6mw6vdBsADnPP7HQ?docId=N0177811347635110834A" rel="nofollow">
+          Carpet sea squirt found in Lough
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-15">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-15">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.timesonline.co.uk/tol/news/environment/article3694859.ece" rel="nofollow">
+          Turbine technology is turning the tides into power of the future
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-16">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-16">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.renewableenergyworld.com/rea/news/story?id=52536" rel="nofollow">
+          SeaGen Turbine Installation Completed
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-17">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-17">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation news">
+          <a class="external text" href="http://news.bbc.co.uk/1/hi/northern_ireland/7790494.stm" rel="nofollow">
+           "Tidal energy system on full power"
+          </a>
+          . BBC News. 18 December 2008
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            13 September
+           </span>
+           2009
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStrangford+Lough&amp;rft.atitle=Tidal+energy+system+on+full+power&amp;rft.date=2008-12-18&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Fnorthern_ireland%2F7790494.stm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-18">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-18">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://ecoenergyproducts.info/tidal-energy/" rel="nofollow">
+           "First Testing of Evopod at Strangford Narrows"
+          </a>
+          . Ocean Flow Energy Ltd. 12 June 2008
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            15 August
+           </span>
+           2015
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStrangford+Lough&amp;rft.btitle=First+Testing+of+Evopod+at+Strangford+Narrows&amp;rft.date=2008-06-12&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fecoenergyproducts.info%2Ftidal-energy%2F&amp;rft.pub=Ocean+Flow+Energy+Ltd&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-19">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-19">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external free" href="http://www.strangfordlough.org/skiffieworlds" rel="nofollow">
+          http://www.strangfordlough.org/skiffieworlds
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-ferry-20">
+        <span class="mw-cite-backlink">
+         ^
+         <a href="#cite_ref-ferry_20-0">
+          <sup>
+           <i>
+            <b>
+             a
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-ferry_20-1">
+          <sup>
+           <i>
+            <b>
+             b
+            </b>
+           </i>
+          </sup>
+         </a>
+         <a href="#cite_ref-ferry_20-2">
+          <sup>
+           <i>
+            <b>
+             c
+            </b>
+           </i>
+          </sup>
+         </a>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.roadsni.gov.uk/index/strangfordferry/strangfordferry-history.htm" rel="nofollow">
+           "Strangford Lough Ferry - History"
+          </a>
+          . Northern Ireland Roads Department
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            13 September
+           </span>
+           2009
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStrangford+Lough&amp;rft.btitle=Strangford+Lough+Ferry+-+History&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.roadsni.gov.uk%2Findex%2Fstrangfordferry%2Fstrangfordferry-history.htm&amp;rft.pub=Northern+Ireland+Roads+Department&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-21">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-21">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.roadsni.gov.uk/index/strangfordferry/strangfordferry-about.htm" rel="nofollow">
+           "About the Ferry"
+          </a>
+          . Northern Ireland Roads Department
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            13 September
+           </span>
+           2009
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStrangford+Lough&amp;rft.btitle=About+the+Ferry&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.roadsni.gov.uk%2Findex%2Fstrangfordferry%2Fstrangfordferry-about.htm&amp;rft.pub=Northern+Ireland+Roads+Department&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-22">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-22">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.portaferry.info/public_html/strangford-ferry-operating-at-a-loss/" rel="nofollow">
+           "Strangford Ferry Operating at a loss"
+          </a>
+          . Portaferry Online
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            10 August
+           </span>
+           2013
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStrangford+Lough&amp;rft.btitle=Strangford+Ferry+Operating+at+a+loss&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.portaferry.info%2Fpublic_html%2Fstrangford-ferry-operating-at-a-loss%2F&amp;rft.pub=Portaferry+Online&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-23">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-23">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.shipspotting.com/gallery/photo.php?lid=586103" rel="nofollow">
+           "Cleddau King"
+          </a>
+          . Shipspotting
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            10 August
+           </span>
+           2013
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStrangford+Lough&amp;rft.btitle=Cleddau+King&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.shipspotting.com%2Fgallery%2Fphoto.php%3Flid%3D586103&amp;rft.pub=Shipspotting&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-24">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-24">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation book">
+          O'Sullivan, Aidan &amp; Breen, Colin (2007).
+          <i>
+           Maritime Ireland. An Archaeology of Coastal Communities
+          </i>
+          . Stroud: Tempus. p. 16.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/978-0-7524-2509-2" title="Special:BookSources/978-0-7524-2509-2">
+           978-0-7524-2509-2
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStrangford+Lough&amp;rft.au=Breen%2C+Colin&amp;rft.au=O%27Sullivan%2C+Aidan&amp;rft.btitle=Maritime+Ireland.+An+Archaeology+of+Coastal+Communities&amp;rft.date=2007&amp;rft.genre=book&amp;rft.isbn=978-0-7524-2509-2&amp;rft.pages=16&amp;rft.place=Stroud&amp;rft.pub=Tempus&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <h2>
+      <span class="mw-headline" id="Further_reading">
+       Further reading
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Strangford_Lough&amp;action=edit&amp;section=11" title="Edit section: Further reading">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       Boaden, P.J.S., O'Connor, R.J. and Seed, R. 1975. The composition and zonation of a
+       <i>
+        <a href="/wiki/Fucus_serratus" title="Fucus serratus">
+         Fucus serratus
+        </a>
+       </i>
+       community in Strangford Lough, Co. Down.
+       <i>
+        J. exp. Biol. Ecol.
+       </i>
+       <b>
+        17
+       </b>
+       : 111 - 136.
+      </li>
+      <li>
+       Walsh, B. 2009. Catching the Currents.
+       <i>
+        Time
+       </i>
+       <b>
+        173
+       </b>
+       no.4. p. 44.
+      </li>
+      <li>
+       Deane, C.Douglas. 1971. Mammals of Strangford Lough. In Anon (Editor) Strangford Lough. 22 - 23. National Trust. Belfast.
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Strangford_Lough&amp;action=edit&amp;section=12" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <table class="mbox-small plainlinks sistersitebox" role="presentation" style="border:1px solid #aaa;background-color:#f9f9f9">
+      <tr>
+       <td class="mbox-image">
+        <a class="image" href="/wiki/File:Commons-logo.svg">
+         <img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/>
+        </a>
+       </td>
+       <td class="mbox-text plainlist">
+        Wikimedia Commons has media related to
+        <i>
+         <b>
+          <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Strangford_Lough" title="commons:Category:Strangford Lough">
+           Strangford Lough
+          </a>
+         </b>
+        </i>
+        .
+       </td>
+      </tr>
+     </table>
+     <ul>
+      <li>
+       <a class="external text" href="http://www.strangfordlough.org/" rel="nofollow">
+        Strangford Lough Online
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.strangfordlough.co.uk/" rel="nofollow">
+        Strangford Lough
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.marineturbines.com/" rel="nofollow">
+        Marine Current Turbines
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.oceanflowenergy.com/" rel="nofollow">
+        Ocean Flow Energy
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.strangfordlough.co.uk/" rel="nofollow">
+        Strangford Lough Imagery
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.ni-photos.jmcwd.com/strangford-lough-lake-sea-inlet.html" rel="nofollow">
+        Strangford Lough Photos
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.clearsky-adventure.com/" rel="nofollow">
+        Clearsky Adventure Centre - provider of activities on the lough and waters edge
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://ardbrae.co.uk/" rel="nofollow">
+        Ardbrae Country House
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="https://archive.org/stream/saintpatrickhisl00concrich/saintpatrickhisl00concrich_djvu.txt/" rel="nofollow">
+        St. Patrick: his life and mission
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.jncc.gov.uk/ProtectedSites/SACselection/sac.asp?EUCode=UK0016618" rel="nofollow">
+        JNCC
+       </a>
+       <a href="/wiki/Special_Area_of_Conservation" title="Special Area of Conservation">
+        Special Area of Conservation
+       </a>
+       Selection
+      </li>
+      <li>
+       <a class="external autonumber" href="http://www.doeni.gov.uk/index/protect_the_environment/water/marine-home/marine_nature_conservation/marine_priority_habitats_and_species/marine_protected_areas/marine-conservation-zones/strangford-mcz.htm" rel="nofollow">
+        [1]
+       </a>
+      </li>
+     </ul>
+     <div aria-labelledby="Areas_of_Outstanding_Natural_Beauty_in_Northern_Ireland" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="2" scope="col" style="background-color: #9bcb65">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:AONBs_in_Northern_Ireland" title="Template:AONBs in Northern Ireland">
+             <abbr style=";background-color: #9bcb65;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:AONBs_in_Northern_Ireland" title="Template talk:AONBs in Northern Ireland">
+             <abbr style=";background-color: #9bcb65;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:AONBs_in_Northern_Ireland&amp;action=edit">
+             <abbr style=";background-color: #9bcb65;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="Areas_of_Outstanding_Natural_Beauty_in_Northern_Ireland" style="font-size:114%">
+          <a href="/wiki/Area_of_Outstanding_Natural_Beauty" title="Area of Outstanding Natural Beauty">
+           Areas of Outstanding Natural Beauty
+          </a>
+          in
+          <a href="/wiki/Northern_Ireland" title="Northern Ireland">
+           Northern Ireland
+          </a>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Antrim_Coast_and_Glens" title="Antrim Coast and Glens">
+             Antrim Coast and Glens
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Giant%27s_Causeway" title="Giant's Causeway">
+             Causeway Coast
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Lagan_Valley" title="Lagan Valley">
+             Lagan Valley
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Mourne_Mountains" title="Mourne Mountains">
+             Mourne
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Binevenagh" title="Binevenagh">
+             Binevenagh
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ring_of_Gullion_AONB" title="Ring of Gullion AONB">
+             Ring of Gullion
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sperrins" title="Sperrins">
+             Sperrin
+            </a>
+           </li>
+           <li>
+            <strong class="selflink">
+             Strangford
+            </strong>
+            and
+            <a href="/wiki/Lecale_Coast_AONB" title="Lecale Coast AONB">
+             Lecale
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Lough_Erne" title="Lough Erne">
+             Erne Lakeland
+            </a>
+            †
+           </li>
+           <li>
+            <a class="new" href="/w/index.php?title=Fermanagh_Caveland&amp;action=edit&amp;redlink=1" title="Fermanagh Caveland (page does not exist)">
+             Fermanagh Caveland
+            </a>
+            †
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td class="navbox-abovebelow" colspan="2" style="background-color: #abdb75">
+         <div>
+          <i>
+           Areas marked † are proposed
+          </i>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <div aria-labelledby="Places_in_County_Down" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="3" scope="col">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:County_Down" title="Template:County Down">
+             <abbr style=";;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:County_Down" title="Template talk:County Down">
+             <abbr style=";;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:County_Down&amp;action=edit">
+             <abbr style=";;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="Places_in_County_Down" style="font-size:114%">
+          Places in
+          <a href="/wiki/County_Down" title="County Down">
+           County Down
+          </a>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td class="navbox-abovebelow" colspan="3">
+         <div>
+          <b>
+           <a href="/wiki/List_of_places_in_County_Down" title="List of places in County Down">
+            List of places in County Down
+           </a>
+          </b>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/City_status_in_Ireland#List" title="City status in Ireland">
+          Cities
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Belfast" title="Belfast">
+             Belfast
+            </a>
+            (part)
+           </li>
+           <li>
+            <a href="/wiki/Lisburn" title="Lisburn">
+             Lisburn
+            </a>
+            (part)
+           </li>
+           <li>
+            <a href="/wiki/Newry" title="Newry">
+             Newry
+            </a>
+            (part)
+           </li>
+          </ul>
+         </div>
+        </td>
+        <td class="navbox-image" rowspan="9" style="width:0%;padding:0px 0px 0px 2px">
+         <div>
+          <div class="floatright">
+           <a class="image" href="/wiki/File:Down_arms.png">
+            <img alt="Down arms.png" data-file-height="255" data-file-width="310" height="82" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Down_arms.png/100px-Down_arms.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Down_arms.png/150px-Down_arms.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Down_arms.png/200px-Down_arms.png 2x" width="100"/>
+           </a>
+          </div>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/List_of_towns_and_villages_in_Northern_Ireland" title="List of towns and villages in Northern Ireland">
+          Towns
+         </a>
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Ballynahinch,_County_Down" title="Ballynahinch, County Down">
+             Ballynahinch
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Banbridge" title="Banbridge">
+             Banbridge
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Bangor,_County_Down" title="Bangor, County Down">
+             Bangor
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Carryduff" title="Carryduff">
+             Carryduff
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Comber" title="Comber">
+             Comber
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Donaghadee" title="Donaghadee">
+             Donaghadee
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Downpatrick" title="Downpatrick">
+             Downpatrick
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Dromore,_County_Down" title="Dromore, County Down">
+             Dromore
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Dundonald" title="Dundonald">
+             Dundonald
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Holywood" title="Holywood">
+             Holywood
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Kilkeel" title="Kilkeel">
+             Kilkeel
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Newcastle,_County_Down" title="Newcastle, County Down">
+             Newcastle
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Newtownards" title="Newtownards">
+             Newtownards
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Warrenpoint" title="Warrenpoint">
+             Warrenpoint
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Villages
+         <br/>
+         and
+         <a href="/wiki/List_of_townlands_in_County_Down" title="List of townlands in County Down">
+          townlands
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Annahilt" title="Annahilt">
+             Annahilt
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Annalong" title="Annalong">
+             Annalong
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Annsborough" title="Annsborough">
+             Annsborough
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ardglass" title="Ardglass">
+             Ardglass
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Atticall" title="Atticall">
+             Attical
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Aughnacloy,_County_Down" title="Aughnacloy, County Down">
+             Aughnacloy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ballela" title="Ballela">
+             Ballela
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Balloo,_County_Down" title="Balloo, County Down">
+             Balloo
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ballybannan" title="Ballybannan">
+             Ballybannan
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ballybeen" title="Ballybeen">
+             Ballybeen
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ballydargan" title="Ballydargan">
+             Ballydargan
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ballygowan" title="Ballygowan">
+             Ballygowan
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ballyhalbert" title="Ballyhalbert">
+             Ballyhalbert
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ballyhay" title="Ballyhay">
+             Ballyhay
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Ballyholme" title="Ballyholme">
+             Ballyholme
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ballyhornan" title="Ballyhornan">
+             Ballyhornan
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ballykinler" title="Ballykinler">
+             Ballykinler
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ballylesson" title="Ballylesson">
+             Ballylesson
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ballylough" title="Ballylough">
+             Ballylough
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ballymacmaine" title="Ballymacmaine">
+             Ballymacmaine
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ballymartin" title="Ballymartin">
+             Ballymartin
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ballynagarrick" title="Ballynagarrick">
+             Ballynagarrick
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ballynahatty,_County_Down" title="Ballynahatty, County Down">
+             Ballynahatty
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ballynoe,_County_Down" title="Ballynoe, County Down">
+             Ballynoe
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ballyskeagh" title="Ballyskeagh">
+             Ballyskeagh
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ballywalter" title="Ballywalter">
+             Ballywalter
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Benraw" title="Benraw">
+             Benraw
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Blackskull" title="Blackskull">
+             Blackskull
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Bleary" title="Bleary">
+             Bleary
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Braniel" title="Braniel">
+             Braniel
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Bryansford" title="Bryansford">
+             Bryansford
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Burren,_County_Down" title="Burren, County Down">
+             Burren
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cabra,_County_Down" title="Cabra, County Down">
+             Cabra
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Carnalea" title="Carnalea">
+             Carnalea
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Carrowdore" title="Carrowdore">
+             Carrowdore
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Castlewellan" title="Castlewellan">
+             Castlewellan
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Clandeboye" title="Clandeboye">
+             Clandeboye
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cloghy" title="Cloghy">
+             Cloghy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Clough" title="Clough">
+             Clough
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Conlig" title="Conlig">
+             Conlig
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Corbet" title="Corbet">
+             Corbet
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Gibson%27s_Hill" title="Gibson's Hill">
+             Corcreeny/Gibson's Hill
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Crawfordsburn" title="Crawfordsburn">
+             Crawfordsburn
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cregagh" title="Cregagh">
+             Cregagh
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Crossgar" title="Crossgar">
+             Crossgar
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cultra" title="Cultra">
+             Cultra
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Derryneill" title="Derryneill">
+             Derryneill
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Dollingstown" title="Dollingstown">
+             Dollingstown
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Donaghcloney" title="Donaghcloney">
+             Donaghcloney
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Dromara" title="Dromara">
+             Dromara
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Drumaness" title="Drumaness">
+             Drumaness
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Drumbeg" title="Drumbeg">
+             Drumbeg
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Drumbo" title="Drumbo">
+             Drumbo
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Drumlough,_Hillsborough" title="Drumlough, Hillsborough">
+             Drumlough, Hillsborough
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Drumlough,_Rathfriland" title="Drumlough, Rathfriland">
+             Drumlough, Rathfriland
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Dundrum,_County_Down" title="Dundrum, County Down">
+             Dundrum
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Dunnaval" title="Dunnaval">
+             Dunnaval
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Edenderry,_County_Down" title="Edenderry, County Down">
+             Edenderry
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Gamblestown" title="Gamblestown">
+             Gamblestown
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Gilford" title="Gilford">
+             Gilford
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Gilnahirk" title="Gilnahirk">
+             Gilnahirk
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Gransha" title="Gransha">
+             Gransha
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Greencastle,_County_Down" title="Greencastle, County Down">
+             Greencastle
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Greyabbey" title="Greyabbey">
+             Greyabbey
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Groomsport" title="Groomsport">
+             Groomsport
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Helen%27s_Bay" title="Helen's Bay">
+             Helen's Bay
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Hillhall" title="Hillhall">
+             Hillhall
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Hillsborough,_County_Down" title="Hillsborough, County Down">
+             Hillsborough
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Hilltown,_County_Down" title="Hilltown, County Down">
+             Hilltown
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Katesbridge" title="Katesbridge">
+             Katesbridge
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Kilcoo,_County_Down" title="Kilcoo, County Down">
+             Kilcoo
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Kilcooley_estate" title="Kilcooley estate">
+             Kilcooley
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Killinchy" title="Killinchy">
+             Killinchy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Killinure" title="Killinure">
+             Killinure
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Killough" title="Killough">
+             Killough
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Killowen" title="Killowen">
+             Killowen
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Killyleagh" title="Killyleagh">
+             Killyleagh
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Kinallen" title="Kinallen">
+             Kinallen
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Kircubbin,_County_Down" title="Kircubbin, County Down">
+             Kircubbin
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Lawrencetown,_County_Down" title="Lawrencetown, County Down">
+             Lawrencetown
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Legacurry,_County_Down" title="Legacurry, County Down">
+             Legacurry
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Legananny" title="Legananny">
+             Legananny
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Leitrim,_County_Down" title="Leitrim, County Down">
+             Leitrim
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Lenaderg" title="Lenaderg">
+             Lenaderg
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Loughbrickland" title="Loughbrickland">
+             Loughbrickland
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Loughinisland" title="Loughinisland">
+             Loughinisland
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Lurganare" title="Lurganare">
+             Lurganare
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Lurganville" title="Lurganville">
+             Lurganville
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Magheraconluce" title="Magheraconluce">
+             Magheraconluce
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Magheralin" title="Magheralin">
+             Magheralin
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Mayobridge" title="Mayobridge">
+             Mayobridge
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Mazetown" title="Mazetown">
+             Maze
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Millisle" title="Millisle">
+             Millisle
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Moira,_County_Down" title="Moira, County Down">
+             Moira
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Moneyreagh" title="Moneyreagh">
+             Moneyreagh
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Moneyslane" title="Moneyslane">
+             Moneyslane
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Monteith,_County_Down" title="Monteith, County Down">
+             Monteith
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Portaferry" title="Portaferry">
+             Portaferry
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Portavogie" title="Portavogie">
+             Portavogie
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Poyntzpass" title="Poyntzpass">
+             Poyntzpass
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Rathfriland" title="Rathfriland">
+             Rathfriland
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ravernet" title="Ravernet">
+             Ravernet
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ringhaddy" title="Ringhaddy">
+             Ringhaddy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Rostrevor" title="Rostrevor">
+             Rostrevor
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Saintfield" title="Saintfield">
+             Saintfield
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Saul,_County_Down" title="Saul, County Down">
+             Saul
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Scarva" title="Scarva">
+             Scarva
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Seaforde" title="Seaforde">
+             Seaforde
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Seahill" title="Seahill">
+             Seahill
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sheeptown" title="Sheeptown">
+             Sheeptown
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Shrigley,_County_Down" title="Shrigley, County Down">
+             Shrigley
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Spa,_County_Down" title="Spa, County Down">
+             Spa
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Strangford" title="Strangford">
+             Strangford
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Struell_Wells" title="Struell Wells">
+             Struell
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Tievenadarragh" title="Tievenadarragh">
+             Tievenadarragh
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Tullylish" title="Tullylish">
+             Tullylish
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Tullynakill" title="Tullynakill">
+             Tullynakill
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Waringsford" title="Waringsford">
+             Waringsford
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Waringstown" title="Waringstown">
+             Waringstown
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Whiterock,_County_Down" title="Whiterock, County Down">
+             Whiterock
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Landforms
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Ards_Peninsula" title="Ards Peninsula">
+             Ards Peninsula
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Burr_Point" title="Burr Point">
+             Burr Point
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Carlingford_Lough" title="Carlingford Lough">
+             Carlingford Lough
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cloughmore" title="Cloughmore">
+             Cloughmore
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Copeland_Islands" title="Copeland Islands">
+             Copeland Islands
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cranfield_Point" title="Cranfield Point">
+             Cranfield Point
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Lecale_peninsula" title="Lecale peninsula">
+             Lecale peninsula
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Lough_Island_Reavy" title="Lough Island Reavy">
+             Lough Island Reavy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Mourne_Mountains" title="Mourne Mountains">
+             Mournes
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Slieve_Croob" title="Slieve Croob">
+             Slieve Croob
+            </a>
+           </li>
+           <li>
+            <strong class="selflink">
+             Strangford Lough
+            </strong>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/List_of_baronies_of_Ireland" title="List of baronies of Ireland">
+          Baronies
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Ards_Lower" title="Ards Lower">
+             Ards Lower
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Ards_Upper" title="Ards Upper">
+             Ards Upper
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Castlereagh_Lower" title="Castlereagh Lower">
+             Castlereagh Lower
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Castlereagh_Upper" title="Castlereagh Upper">
+             Castlereagh Upper
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Dufferin_(barony)" title="Dufferin (barony)">
+             Dufferin
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Iveagh_Lower" title="Iveagh Lower">
+             Iveagh Lower
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Iveagh_Upper" title="Iveagh Upper">
+             Iveagh Upper
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Kinelarty" title="Kinelarty">
+             Kinelarty
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Lecale_Lower" title="Lecale Lower">
+             Lecale Lower
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Lecale_Upper" title="Lecale Upper">
+             Lecale Upper
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Lordship_of_Newry" title="Lordship of Newry">
+             Lordship of Newry
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Mourne_(barony)" title="Mourne (barony)">
+             Mourne
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td class="navbox-abovebelow" colspan="3">
+         <div>
+          <ul>
+           <li>
+            <a href="/wiki/Wikipedia:WikiProject_Northern_Ireland" title="Wikipedia:WikiProject Northern Ireland">
+             WikiProject Northern Ireland
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Wikipedia:WikiProject_Ireland" title="Wikipedia:WikiProject Ireland">
+             WikiProject Ireland
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Portal:Northern_Ireland" title="Portal:Northern Ireland">
+             Northern Ireland Portal
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Portal:United_Kingdom" title="Portal:United Kingdom">
+             United Kingdom Portal
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Portal:Ireland" title="Portal:Ireland">
+             Ireland Portal
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <p>
+      <span style="font-size: small;">
+       <span id="coordinates">
+        <a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">
+         Coordinates
+        </a>
+        :
+        <span class="plainlinks nourlexpansion">
+         <a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Strangford_Lough&amp;params=54.483_N_5.583_W_type:waterbody_region:GB-NIR_source:dewiki">
+          <span class="geo-nondefault">
+           <span class="geo-dms" title="Maps, aerial photos, and other data for this location">
+            <span class="latitude">
+             54°28′59″N
+            </span>
+            <span class="longitude">
+             5°34′59″W
+            </span>
+           </span>
+          </span>
+          <span class="geo-multi-punct">
+           ﻿ / ﻿
+          </span>
+          <span class="geo-default">
+           <span class="geo-dec" title="Maps, aerial photos, and other data for this location">
+            54.483°N 5.583°W
+           </span>
+           <span style="display:none">
+            ﻿ /
+            <span class="geo">
+             54.483; -5.583
+            </span>
+           </span>
+          </span>
+         </a>
+        </span>
+       </span>
+      </span>
+     </p>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:316019-0!*!0!!en!4!* and timestamp 20161103030908 and revision id 747256134
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Strangford_Lough&amp;oldid=747256134">
+      https://en.wikipedia.org/w/index.php?title=Strangford_Lough&amp;oldid=747256134
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Areas_of_Outstanding_Natural_Beauty_in_County_Down" title="Category:Areas of Outstanding Natural Beauty in County Down">
+         Areas of Outstanding Natural Beauty in County Down
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Important_Bird_Areas_of_Northern_Ireland" title="Category:Important Bird Areas of Northern Ireland">
+         Important Bird Areas of Northern Ireland
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Special_Protection_Areas_in_Northern_Ireland" title="Category:Special Protection Areas in Northern Ireland">
+         Special Protection Areas in Northern Ireland
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Special_Areas_of_Conservation_in_County_Down" title="Category:Special Areas of Conservation in County Down">
+         Special Areas of Conservation in County Down
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Portaferry" title="Category:Portaferry">
+         Portaferry
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Sea_loughs_of_Northern_Ireland" title="Category:Sea loughs of Northern Ireland">
+         Sea loughs of Northern Ireland
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Newtownards" title="Category:Newtownards">
+         Newtownards
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Marine_reserves_of_Northern_Ireland" title="Category:Marine reserves of Northern Ireland">
+         Marine reserves of Northern Ireland
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Ramsar_sites_in_Northern_Ireland" title="Category:Ramsar sites in Northern Ireland">
+         Ramsar sites in Northern Ireland
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Landforms_of_County_Down" title="Category:Landforms of County Down">
+         Landforms of County Down
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Inlets_of_Northern_Ireland" title="Category:Inlets of Northern Ireland">
+         Inlets of Northern Ireland
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">
+         Commons category with local link same as on Wikidata
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">
+         Coordinates on Wikidata
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Strangford+Lough" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Strangford+Lough" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Strangford_Lough" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Strangford_Lough" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Strangford_Lough">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Strangford_Lough&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Strangford_Lough&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Strangford_Lough" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Strangford_Lough" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Strangford_Lough&amp;oldid=747256134" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Strangford_Lough&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q937070" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Strangford_Lough&amp;id=747256134" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Strangford+Lough">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Strangford+Lough&amp;returnto=Strangford+Lough&amp;oldid=747256134&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Strangford_Lough&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Strangford_Lough" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-af">
+        <a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Strangford_Lough" hreflang="af" lang="af" title="Strangford Lough – Afrikaans">
+         Afrikaans
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-br">
+        <a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Loch_Cuan" hreflang="br" lang="br" title="Loch Cuan – Breton">
+         Brezhoneg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ceb">
+        <a class="interlanguage-link-target" href="https://ceb.wikipedia.org/wiki/Strangford_Lough" hreflang="ceb" lang="ceb" title="Strangford Lough – Cebuano">
+         Cebuano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cy">
+        <a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Loch_Cuan" hreflang="cy" lang="cy" title="Loch Cuan – Welsh">
+         Cymraeg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Strangford_Lough" hreflang="de" lang="de" title="Strangford Lough – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Strangford_aintzira" hreflang="eu" lang="eu" title="Strangford aintzira – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Strangford_Lough" hreflang="fr" lang="fr" title="Strangford Lough – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ga">
+        <a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Loch_Cuan" hreflang="ga" lang="ga" title="Loch Cuan – Irish">
+         Gaeilge
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Strangford_Lough" hreflang="it" lang="it" title="Strangford Lough – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Strangford_Lough" hreflang="no" lang="no" title="Strangford Lough – Norwegian">
+         Norsk bokmål
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Strangford_Lough" hreflang="nn" lang="nn" title="Strangford Lough – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B3%D1%84%D0%BE%D1%80%D0%B4-%D0%9B%D0%BE%D1%85" hreflang="ru" lang="ru" title="Странгфорд-Лох – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Strangford_Lough" hreflang="sv" lang="sv" title="Strangford Lough – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B5%D0%BD%D0%B3%D1%84%D0%BE%D1%80%D0%B4-%D0%9B%D0%BE%D1%85" hreflang="uk" lang="uk" title="Стренгфорд-Лох – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q937070#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 1 November 2016, at 10:36.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Strangford_Lough&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.200",
+            "walltime": "0.266",
+            "ppvisitednodes": {
+                "value": 928,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 39061,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 385,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 9,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 1,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 1,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  194.363      1 -total",
+                " 36.57%   71.085      1 Template:Reflist",
+                " 18.75%   36.442      1 Template:Cite_news",
+                " 17.70%   34.393      1 Template:Convert",
+                " 15.90%   30.901      1 Template:Commons_category",
+                "  8.15%   15.831      1 Template:Coord",
+                "  8.13%   15.800      2 Template:Navbox",
+                "  8.02%   15.590      5 Template:Cite_web",
+                "  6.30%   12.246      1 Template:AONBs_in_Northern_Ireland",
+                "  4.90%    9.527      1 Template:Commons"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.069",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 4693816,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1261",
+            "timestamp": "20161103030908",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":60,"wgHostname":"mw1177"});});
+  </script>
+ </body>
+</html>

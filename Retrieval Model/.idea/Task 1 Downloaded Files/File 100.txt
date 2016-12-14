@@ -1,0 +1,3384 @@
+https://en.wikipedia.org/wiki/Municipal_solid_waste
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Municipal solid waste - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Municipal_solid_waste","wgTitle":"Municipal solid waste","wgCurRevisionId":747815718,"wgRevisionId":747815718,"wgArticleId":2149148,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with limited geographic scope from March 2012","USA-centric","Articles needing additional references from April 2011","All articles needing additional references","Wikipedia articles with GND identifiers","Waste"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Municipal_solid_waste","wgRelevantArticleId":2149148,"wgRequestId":"WCBk6QpAIC0AABWNT4kAAAAR","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q18538","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Municipal_solid_waste" rel="alternate"/>
+  <link href="/w/index.php?title=Municipal_solid_waste&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Municipal_solid_waste&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/Municipal_solid_waste" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Municipal_solid_waste rootpage-Municipal_solid_waste skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    Municipal solid waste
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="hatnote" role="note">
+      "Garbage", "Rubbish", and "Municipal waste" redirect here. For other uses, see
+      <a class="mw-disambig" href="/wiki/Garbage_(disambiguation)" title="Garbage (disambiguation)">
+       Garbage (disambiguation)
+      </a>
+      ,
+      <a class="mw-disambig" href="/wiki/Rubbish_(disambiguation)" title="Rubbish (disambiguation)">
+       Rubbish (disambiguation)
+      </a>
+      , and
+      <a class="mw-disambig" href="/wiki/Municipal_waste_(disambiguation)" title="Municipal waste (disambiguation)">
+       Municipal waste (disambiguation)
+      </a>
+      .
+     </div>
+     <table class="plainlinks metadata ambox ambox-content ambox-globalize" role="presentation">
+      <tr>
+       <td class="mbox-image">
+        <div style="width:52px">
+         <img alt="Globe icon." data-file-height="290" data-file-width="350" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/48px-Ambox_globe_content.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/73px-Ambox_globe_content.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/97px-Ambox_globe_content.svg.png 2x" width="48"/>
+        </div>
+       </td>
+       <td class="mbox-text">
+        <span class="mbox-text-span">
+         The examples and perspective in this article
+         <b>
+          deal primarily with the United States and do not represent a
+          <a href="/wiki/Wikipedia:WikiProject_Countering_systemic_bias" title="Wikipedia:WikiProject Countering systemic bias">
+           worldwide view
+          </a>
+          of the subject
+         </b>
+         .
+         <span class="hide-when-compact">
+          You may
+          <a class="external text" href="//en.wikipedia.org/w/index.php?title=Municipal_solid_waste&amp;action=edit">
+           improve this article
+          </a>
+          , discuss the issue on the
+          <a href="/wiki/Talk:Municipal_solid_waste" title="Talk:Municipal solid waste">
+           talk page
+          </a>
+          , or
+          <a href="/wiki/Wikipedia:Article_wizard" title="Wikipedia:Article wizard">
+           create a new article
+          </a>
+          , as appropriate.
+         </span>
+         <small>
+          <i>
+           (March 2012)
+          </i>
+         </small>
+         <small class="hide-when-compact">
+          <i>
+           (
+           <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+            Learn how and when to remove this template message
+           </a>
+           )
+          </i>
+         </small>
+        </span>
+       </td>
+      </tr>
+     </table>
+     <table class="vertical-navbox nowraplinks hlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+      <tr>
+       <th class="navbox-title" style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em">
+        <a href="/wiki/Public_infrastructure" title="Public infrastructure">
+         Public infrastructure
+        </a>
+       </th>
+      </tr>
+      <tr>
+       <td style="padding:0.2em 0 0.4em">
+        <a class="image" href="/wiki/File:Grand_Coulee_Dam_spillway.jpg">
+         <img alt="Grand Coulee Dam spillway.jpg" data-file-height="2048" data-file-width="3072" height="153" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Grand_Coulee_Dam_spillway.jpg/230px-Grand_Coulee_Dam_spillway.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Grand_Coulee_Dam_spillway.jpg/345px-Grand_Coulee_Dam_spillway.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Grand_Coulee_Dam_spillway.jpg/460px-Grand_Coulee_Dam_spillway.jpg 2x" width="230"/>
+        </a>
+        <div style="padding-top:0.2em;line-height:1.2em">
+         <a href="/wiki/Grand_Coulee_Dam" title="Grand Coulee Dam">
+          Grand Coulee Dam
+         </a>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <th class="navbox-abovebelow" style="padding:0.1em;padding-bottom:0.25em;">
+        <a href="/wiki/Fixed_asset" title="Fixed asset">
+         Assets
+        </a>
+        and facilities
+       </th>
+      </tr>
+      <tr>
+       <td style="padding:0 0.1em 0.4em">
+        <ul>
+         <li>
+          <a href="/wiki/Airport" title="Airport">
+           Airports
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Bridge" title="Bridge">
+           Bridges
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Broadband" title="Broadband">
+           Broadband
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Canal" title="Canal">
+           Canals
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Critical_infrastructure" title="Critical infrastructure">
+           Critical infrastructure
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Dam" title="Dam">
+           Dams
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Electricity_generation" title="Electricity generation">
+           Electricity
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Energy_development" title="Energy development">
+           Energy
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Hazardous_waste" title="Hazardous waste">
+           Hazardous waste
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Hospital" title="Hospital">
+           Hospitals
+          </a>
+         </li>
+         <li>
+          <a class="mw-redirect" href="/wiki/Irrigation_scheme" title="Irrigation scheme">
+           Irrigation schemes
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Levee" title="Levee">
+           Levees
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Lighthouse" title="Lighthouse">
+           Lighthouses
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Park" title="Park">
+           Parks
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Port" title="Port">
+           Ports
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Public_transport" title="Public transport">
+           Mass transit
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Public_housing" title="Public housing">
+           Public housing
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/State_school" title="State school">
+           State schools
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Public_space" title="Public space">
+           Public spaces
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Rail_transport" title="Rail transport">
+           Rail
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Road" title="Road">
+           Roads
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Sewage" title="Sewage">
+           Sewage
+          </a>
+         </li>
+         <li>
+          <a class="mw-redirect" href="/wiki/Solid_waste" title="Solid waste">
+           Solid waste
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Telecommunication" title="Telecommunication">
+           Telecommunication
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Public_utility" title="Public utility">
+           Utilities
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Water_supply_network" title="Water supply network">
+           Water supply
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Wastewater" title="Wastewater">
+           Wastewater
+          </a>
+         </li>
+        </ul>
+       </td>
+      </tr>
+      <tr>
+       <th class="navbox-abovebelow" style="padding:0.1em;padding-bottom:0.25em;">
+        Concepts
+       </th>
+      </tr>
+      <tr>
+       <td style="padding:0 0.1em 0.4em">
+        <ul>
+         <li>
+          <a class="mw-redirect" href="/wiki/Infrastructure_Asset_Management" title="Infrastructure Asset Management">
+           Asset management
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Appropriation_(law)" title="Appropriation (law)">
+           Appropriation
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Lindahl_tax" title="Lindahl tax">
+           Lindahl tax
+          </a>
+         </li>
+         <li>
+          <a class="mw-redirect" href="/wiki/Build-Operate-Transfer" title="Build-Operate-Transfer">
+           Build-Operate-Transfer
+          </a>
+         </li>
+         <li>
+          <a class="mw-redirect" href="/wiki/Design-Build" title="Design-Build">
+           Design-Build
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Earmark_(politics)" title="Earmark (politics)">
+           Earmark
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Fixed_cost" title="Fixed cost">
+           Fixed cost
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Infrastructure#Engineering" title="Infrastructure">
+           Engineering contracts
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Externality" title="Externality">
+           Externality
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Government_debt" title="Government debt">
+           Government debt
+          </a>
+         </li>
+         <li>
+          <a class="mw-redirect" href="/wiki/Life_cycle_assessment" title="Life cycle assessment">
+           Life cycle assessment
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Maintenance,_repair,_and_operations" title="Maintenance, repair, and operations">
+           Maintenance
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Natural_monopoly" title="Natural monopoly">
+           Monopoly
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Property_tax" title="Property tax">
+           Property tax
+          </a>
+         </li>
+         <li>
+          <a class="mw-redirect" href="/wiki/Public-private_partnership" title="Public-private partnership">
+           Public-private partnership
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Public_capital" title="Public capital">
+           Public capital
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Public_finance" title="Public finance">
+           Public finance
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Public_good" title="Public good">
+           Public good
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Public_sector" title="Public sector">
+           Public sector
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Renovation" title="Renovation">
+           Renovation
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Upgrade" title="Upgrade">
+           Replacement (upgrade)
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Spillover_effect" title="Spillover effect">
+           Spillover effect
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Supply_chain" title="Supply chain">
+           Supply chain
+          </a>
+         </li>
+         <li>
+          <a class="mw-redirect" href="/wiki/Taxation" title="Taxation">
+           Taxation
+          </a>
+         </li>
+        </ul>
+       </td>
+      </tr>
+      <tr>
+       <th class="navbox-abovebelow" style="padding:0.1em;padding-bottom:0.25em;">
+        Issues and ideas
+       </th>
+      </tr>
+      <tr>
+       <td style="padding:0 0.1em 0.4em">
+        <ul>
+         <li>
+          <a href="/wiki/Air_traffic_control" title="Air traffic control">
+           Air traffic control
+          </a>
+         </li>
+         <li>
+          <a class="mw-redirect" href="/wiki/Brownfield" title="Brownfield">
+           Brownfield
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Carbon_footprint" title="Carbon footprint">
+           Carbon footprint
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Containerization" title="Containerization">
+           Containerization
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Congestion_pricing" title="Congestion pricing">
+           Congestion pricing
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Ecotax" title="Ecotax">
+           Ecotax
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Ethanol" title="Ethanol">
+           Ethanol fuel
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Fuel_tax" title="Fuel tax">
+           Fuel tax
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Groundwater" title="Groundwater">
+           Groundwater
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/High-speed_rail" title="High-speed rail">
+           High-speed rail
+          </a>
+         </li>
+         <li>
+          <a class="mw-redirect" href="/wiki/Hybrid_vehicles" title="Hybrid vehicles">
+           Hybrid vehicles
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Land-use_planning" title="Land-use planning">
+           Land-use planning
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Mobile_data_terminal" title="Mobile data terminal">
+           Mobile data terminal
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Pork_barrel" title="Pork barrel">
+           Pork barrel
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Bus_rapid_transit" title="Bus rapid transit">
+           Rapid bus transit
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Recycling" title="Recycling">
+           Recycling
+          </a>
+         </li>
+         <li>
+          <a class="mw-redirect" href="/wiki/Renewable" title="Renewable">
+           Renewables
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Reverse_osmosis" title="Reverse osmosis">
+           Reverse osmosis
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Smart_grid" title="Smart grid">
+           Smart grid
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Smart_growth" title="Smart growth">
+           Smart growth
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Stormwater" title="Stormwater">
+           Stormwater
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Urban_sprawl" title="Urban sprawl">
+           Urban sprawl
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Traffic_congestion" title="Traffic congestion">
+           Traffic congestion
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Transit-oriented_development" title="Transit-oriented development">
+           Transit-oriented development
+          </a>
+         </li>
+         <li>
+          <a class="mw-redirect" href="/wiki/Vehicle_efficiency" title="Vehicle efficiency">
+           Vehicle efficiency
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Waste-to-energy" title="Waste-to-energy">
+           Waste-to-energy
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Weatherization" title="Weatherization">
+           Weatherization
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Wireless" title="Wireless">
+           Wireless technology
+          </a>
+         </li>
+        </ul>
+       </td>
+      </tr>
+      <tr>
+       <th class="navbox-abovebelow" style="padding:0.1em;padding-bottom:0.25em;">
+        Fields of study
+       </th>
+      </tr>
+      <tr>
+       <td style="padding:0 0.1em 0.4em">
+        <ul>
+         <li>
+          <a href="/wiki/Architecture" title="Architecture">
+           Architecture
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Civil_engineering" title="Civil engineering">
+           Civil
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Electrical_engineering" title="Electrical engineering">
+           Electrical
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Mechanical_engineering" title="Mechanical engineering">
+           Mechanical engineering
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Public_economics" title="Public economics">
+           Public economics
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Public_policy" title="Public policy">
+           Public policy
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Urban_planning" title="Urban planning">
+           Urban planning
+          </a>
+         </li>
+        </ul>
+       </td>
+      </tr>
+      <tr>
+       <td style="padding:0 0.1em 0.4em">
+        <div class="NavFrame collapsed" style="border: none; padding: 0;">
+         <div class="NavHead" style="font-size: 105%; padding:0.2em 0; text-align:center;">
+          Examples
+         </div>
+         <ul class="NavContent" style="list-style: none none; margin-left: 0; text-align: center; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;">
+          <li style="line-height: inherit; margin: 0">
+           <a href="/wiki/Akashi_Kaiky%C5%8D_Bridge" title="Akashi Kaikyō Bridge">
+            Akashi Kaikyō Bridge
+           </a>
+          </li>
+          <li style="line-height: inherit; margin: 0">
+           <a href="/wiki/Trans-Alaska_Pipeline_System" title="Trans-Alaska Pipeline System">
+            Trans-Alaska pipeline
+           </a>
+          </li>
+          <li style="line-height: inherit; margin: 0">
+           <a href="/wiki/Autobahn" title="Autobahn">
+            Autobahn
+           </a>
+          </li>
+          <li style="line-height: inherit; margin: 0">
+           <a href="/wiki/Energy_policy_of_Brazil" title="Energy policy of Brazil">
+            Brazilian energy independence
+           </a>
+          </li>
+          <li style="line-height: inherit; margin: 0">
+           <a href="/wiki/Brooklyn_Bridge" title="Brooklyn Bridge">
+            Brooklyn Bridge
+           </a>
+          </li>
+          <li style="line-height: inherit; margin: 0">
+           <a href="/wiki/Channel_Tunnel" title="Channel Tunnel">
+            Channel Tunnel
+           </a>
+          </li>
+          <li style="line-height: inherit; margin: 0">
+           <a href="/wiki/Metropolitan_Water_Reclamation_District_of_Greater_Chicago" title="Metropolitan Water Reclamation District of Greater Chicago">
+            Chicago wastewater
+           </a>
+          </li>
+          <li style="line-height: inherit; margin: 0">
+           <a href="/wiki/High-speed_rail_in_China" title="High-speed rail in China">
+            China's high-speed rail
+           </a>
+          </li>
+          <li style="line-height: inherit; margin: 0">
+           <a href="/wiki/Rede_Integrada_de_Transporte" title="Rede Integrada de Transporte">
+            Curtiba rapid bus transit
+           </a>
+          </li>
+          <li style="line-height: inherit; margin: 0">
+           <a href="/wiki/Wind_power_in_Denmark" title="Wind power in Denmark">
+            Danish wind-power
+           </a>
+          </li>
+          <li style="line-height: inherit; margin: 0">
+           <a href="/wiki/List_of_offshore_wind_farms_in_the_United_Kingdom" title="List of offshore wind farms in the United Kingdom">
+            British offshore wind-power
+           </a>
+          </li>
+          <li style="line-height: inherit; margin: 0">
+           <a href="/wiki/Nuclear_power_in_France" title="Nuclear power in France">
+            Nuclear power in France
+           </a>
+          </li>
+          <li style="line-height: inherit; margin: 0">
+           <a href="/wiki/Solar_power_in_Germany" title="Solar power in Germany">
+            Solar power in Germany
+           </a>
+          </li>
+          <li style="line-height: inherit; margin: 0">
+           <a href="/wiki/Hoover_Dam" title="Hoover Dam">
+            Hoover Dam
+           </a>
+          </li>
+          <li style="line-height: inherit; margin: 0">
+           <a href="/wiki/Hong_Kong_International_Airport" title="Hong Kong International Airport">
+            Hong Kong Int'l Airport
+           </a>
+          </li>
+          <li style="line-height: inherit; margin: 0">
+           <a href="/wiki/Intercity-Express" title="Intercity-Express">
+            Intercity-Express
+           </a>
+          </li>
+          <li style="line-height: inherit; margin: 0">
+           <a href="/wiki/Interstate_Highway_System" title="Interstate Highway System">
+            Interstate highways
+           </a>
+          </li>
+          <li style="line-height: inherit; margin: 0">
+           <a href="/wiki/Reliance_Petroleum#Jamnagar_Refinery" title="Reliance Petroleum">
+            Jamnagar Refinery
+           </a>
+          </li>
+          <li style="line-height: inherit; margin: 0">
+           <a href="/wiki/Kansai_International_Airport" title="Kansai International Airport">
+            Kansai Int'l Airport
+           </a>
+          </li>
+          <li style="line-height: inherit; margin: 0">
+           <a href="/wiki/Panama_Canal" title="Panama Canal">
+            Panama Canal
+           </a>
+          </li>
+          <li style="line-height: inherit; margin: 0">
+           <a href="/wiki/Port_of_Shanghai" title="Port of Shanghai">
+            Port of Shanghai
+           </a>
+          </li>
+          <li style="line-height: inherit; margin: 0">
+           <a class="mw-redirect" href="/wiki/San_Francisco_Bay_Bridge" title="San Francisco Bay Bridge">
+            San Francisco Bay Bridge
+           </a>
+          </li>
+          <li style="line-height: inherit; margin: 0">
+           <a href="/wiki/Three_Gorges_Dam" title="Three Gorges Dam">
+            Three Gorges Dam
+           </a>
+          </li>
+          <li style="line-height: inherit; margin: 0">
+           <a href="/wiki/Shinkansen" title="Shinkansen">
+            Shinkansen
+           </a>
+          </li>
+          <li style="line-height: inherit; margin: 0">
+           <a class="mw-redirect" href="/wiki/High-speed_rail_in_Spain" title="High-speed rail in Spain">
+            Spanish high-speed rail
+           </a>
+          </li>
+          <li style="line-height: inherit; margin: 0">
+           <a href="/wiki/TGV" title="TGV">
+            French TGV rail
+           </a>
+          </li>
+          <li style="line-height: inherit; margin: 0">
+           <a href="/wiki/Highways_in_Spain" title="Highways in Spain">
+            Spanish autovias and autopistas
+           </a>
+          </li>
+          <li style="line-height: inherit; margin: 0">
+           <a class="mw-redirect" href="/wiki/Transcontinental_Railroad" title="Transcontinental Railroad">
+            Transcontinental Railroad
+           </a>
+          </li>
+          <li style="line-height: inherit; margin: 0">
+           <a href="/wiki/Electric_power_transmission#Overhead_transmission" title="Electric power transmission">
+            Power transmission in the USA
+           </a>
+          </li>
+         </ul>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <td class="navbox-abovebelow" style="padding:0.3em 0.4em 0.3em;font-weight:bold;padding-bottom:0.25em;">
+        <a href="/wiki/Portal:Infrastructure" title="Portal:Infrastructure">
+         Infrastructure portal
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td style="text-align:right;font-size:115%">
+        <div class="plainlinks hlist navbar mini">
+         <ul>
+          <li class="nv-view">
+           <a href="/wiki/Template:Public_Infrastructure" title="Template:Public Infrastructure">
+            <abbr title="View this template">
+             v
+            </abbr>
+           </a>
+          </li>
+          <li class="nv-talk">
+           <a href="/wiki/Template_talk:Public_Infrastructure" title="Template talk:Public Infrastructure">
+            <abbr title="Discuss this template">
+             t
+            </abbr>
+           </a>
+          </li>
+          <li class="nv-edit">
+           <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Public_Infrastructure&amp;action=edit">
+            <abbr title="Edit this template">
+             e
+            </abbr>
+           </a>
+          </li>
+         </ul>
+        </div>
+       </td>
+      </tr>
+     </table>
+     <p>
+      <b>
+       Municipal solid
+       <a href="/wiki/Waste" title="Waste">
+        waste
+       </a>
+      </b>
+      (
+      <b>
+       MSW
+      </b>
+      ), commonly known as
+      <b>
+       trash
+      </b>
+      or
+      <b>
+       garbage
+      </b>
+      in the
+      <a href="/wiki/American_English" title="American English">
+       United States
+      </a>
+      and as
+      <b>
+       refuse
+      </b>
+      or
+      <b>
+       rubbish
+      </b>
+      in
+      <a href="/wiki/British_English" title="British English">
+       Britain
+      </a>
+      , is a
+      <a href="/wiki/List_of_waste_types" title="List of waste types">
+       waste type
+      </a>
+      consisting of everyday items that are discarded by the public. "Garbage" can also refer specifically to
+      <a href="/wiki/Food_waste" title="Food waste">
+       food waste
+      </a>
+      , as in a
+      <a class="mw-redirect" href="/wiki/Garbage_disposal" title="Garbage disposal">
+       garbage disposal
+      </a>
+      ; the two are sometimes collected separately.
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#Composition">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          Composition
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#Components_of_solid_waste_management">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Components of solid waste management
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-3">
+          <a href="#Collection">
+           <span class="tocnumber">
+            2.1
+           </span>
+           <span class="toctext">
+            Collection
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-4">
+          <a href="#Waste_handling_and_separation.2C_storage_and_processing_at_the_source">
+           <span class="tocnumber">
+            2.2
+           </span>
+           <span class="toctext">
+            Waste handling and separation, storage and processing at the source
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-5">
+          <a href="#Segregation_and_processing_and_transformation_of_solid_wastes">
+           <span class="tocnumber">
+            2.3
+           </span>
+           <span class="toctext">
+            Segregation and processing and transformation of solid wastes
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-6">
+          <a href="#Transfer_and_transport">
+           <span class="tocnumber">
+            2.4
+           </span>
+           <span class="toctext">
+            Transfer and transport
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-7">
+          <a href="#Disposal">
+           <span class="tocnumber">
+            2.5
+           </span>
+           <span class="toctext">
+            Disposal
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-8">
+          <a href="#Reusing">
+           <span class="tocnumber">
+            2.6
+           </span>
+           <span class="toctext">
+            Reusing
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-9">
+          <a href="#Landfills">
+           <span class="tocnumber">
+            2.7
+           </span>
+           <span class="toctext">
+            Landfills
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-10">
+          <a href="#Energy_generation">
+           <span class="tocnumber">
+            2.8
+           </span>
+           <span class="toctext">
+            Energy generation
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-11">
+        <a href="#See_also">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-12">
+        <a href="#References">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-13">
+        <a href="#Further_reading">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          Further reading
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-14">
+        <a href="#External_links">
+         <span class="tocnumber">
+          6
+         </span>
+         <span class="toctext">
+          External links
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Composition">
+       Composition
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Municipal_solid_waste&amp;action=edit&amp;section=1" title="Edit section: Composition">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      The composition of municipal solid waste varies greatly from municipality to municipality (country to country) and changes significantly with time. In municipalities (countries) which have a well developed waste recycling system, the waste stream consists mainly of intractable wastes such as plastic film, and unrecyclable packaging materials. At the start of the 20th century, the majority of domestic waste (53%) in the UK consisted of
+      <a class="mw-redirect" href="/wiki/Coal_ash" title="Coal ash">
+       coal ash
+      </a>
+      from open fires.
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+      In developed municipalities (countries) without significant recycling activity it predominantly includes food wastes, market wastes, yard wastes, plastic containers and product packaging materials, and other miscellaneous solid wastes from residential, commercial, institutional, and industrial sources.
+      <sup class="reference" id="cite_ref-2">
+       <a href="#cite_note-2">
+        [2]
+       </a>
+      </sup>
+      Most definitions of municipal solid waste do not include
+      <a href="/wiki/Industrial_waste" title="Industrial waste">
+       industrial wastes
+      </a>
+      , agricultural wastes,
+      <a class="mw-redirect" href="/wiki/Medical_waste" title="Medical waste">
+       medical waste
+      </a>
+      , radioactive waste or
+      <a href="/wiki/Sewage_sludge" title="Sewage sludge">
+       sewage sludge
+      </a>
+      .
+      <sup class="reference" id="cite_ref-3">
+       <a href="#cite_note-3">
+        [3]
+       </a>
+      </sup>
+      Waste collection is performed by the
+      <a href="/wiki/Municipality" title="Municipality">
+       municipality
+      </a>
+      within a given area. The term
+      <i>
+       residual waste
+      </i>
+      relates to waste left from household sources containing materials that have not been separated out or sent for reprocessing.
+      <sup class="reference" id="cite_ref-4">
+       <a href="#cite_note-4">
+        [4]
+       </a>
+      </sup>
+      Waste can be classified in several ways but the following list represents a typical classification:
+     </p>
+     <ul>
+      <li>
+       <a href="/wiki/Biodegradable_waste" title="Biodegradable waste">
+        Biodegradable waste
+       </a>
+       :
+       <a href="/wiki/Food_waste" title="Food waste">
+        food and kitchen waste
+       </a>
+       ,
+       <a href="/wiki/Green_waste" title="Green waste">
+        green waste
+       </a>
+       ,
+       <a href="/wiki/Paper" title="Paper">
+        paper
+       </a>
+       (most can be recycled although some difficult to compost plant material may be excluded
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+       )
+      </li>
+      <li>
+       <a href="/wiki/Recycling" title="Recycling">
+        Recyclable
+       </a>
+       materials:
+       <a href="/wiki/Paper" title="Paper">
+        paper
+       </a>
+       ,
+       <a href="/wiki/Cardboard" title="Cardboard">
+        cardboard
+       </a>
+       ,
+       <a href="/wiki/Glass" title="Glass">
+        glass
+       </a>
+       ,
+       <a href="/wiki/Bottle" title="Bottle">
+        bottles
+       </a>
+       ,
+       <a href="/wiki/Jar" title="Jar">
+        jars
+       </a>
+       ,
+       <a href="/wiki/Tin_can" title="Tin can">
+        tin cans
+       </a>
+       ,
+       <a href="/wiki/Aluminum_can" title="Aluminum can">
+        aluminum cans
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/Aluminum_foil" title="Aluminum foil">
+        aluminum foil
+       </a>
+       ,
+       <a href="/wiki/Metal" title="Metal">
+        metals
+       </a>
+       , certain
+       <a href="/wiki/Plastic" title="Plastic">
+        plastics
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/Fabric" title="Fabric">
+        fabrics
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/Clothes" title="Clothes">
+        clothes
+       </a>
+       ,
+       <a href="/wiki/Tire" title="Tire">
+        tires
+       </a>
+       ,
+       <a href="/wiki/Battery_(electricity)" title="Battery (electricity)">
+        batteries
+       </a>
+       , etc.
+      </li>
+      <li>
+       <a href="/wiki/Inert" title="Inert">
+        Inert
+       </a>
+       waste:
+       <a class="mw-redirect" href="/wiki/Construction_and_demolition_waste" title="Construction and demolition waste">
+        construction and demolition waste
+       </a>
+       ,
+       <a href="/wiki/Soil" title="Soil">
+        dirt
+       </a>
+       ,
+       <a href="/wiki/Rock_(geology)" title="Rock (geology)">
+        rocks
+       </a>
+       ,
+       <a href="/wiki/Debris" title="Debris">
+        debris
+       </a>
+      </li>
+      <li>
+       Electrical and
+       <a href="/wiki/Electronic_waste" title="Electronic waste">
+        electronic waste
+       </a>
+       (WEEE) -
+       <a href="/wiki/Home_appliance" title="Home appliance">
+        electrical appliances
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/Lamp_(electrical_component)" title="Lamp (electrical component)">
+        light bulbs
+       </a>
+       ,
+       <a href="/wiki/Washing_machine" title="Washing machine">
+        washing machines
+       </a>
+       ,
+       <a href="/wiki/Television" title="Television">
+        TVs
+       </a>
+       ,
+       <a href="/wiki/Computer" title="Computer">
+        computers
+       </a>
+       , screens,
+       <a href="/wiki/Mobile_phone" title="Mobile phone">
+        mobile phones
+       </a>
+       ,
+       <a href="/wiki/Alarm_clock" title="Alarm clock">
+        alarm clocks
+       </a>
+       ,
+       <a href="/wiki/Watch" title="Watch">
+        watches
+       </a>
+       , etc.
+      </li>
+      <li>
+       Composite wastes: waste
+       <a href="/wiki/Clothing" title="Clothing">
+        clothing
+       </a>
+       , Tetra Packs, waste plastics such as toys
+      </li>
+      <li>
+       <a href="/wiki/Hazardous_waste" title="Hazardous waste">
+        Hazardous waste
+       </a>
+       including most
+       <a href="/wiki/Paint" title="Paint">
+        paints
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/Chemical" title="Chemical">
+        chemicals
+       </a>
+       ,
+       <a href="/wiki/Tire" title="Tire">
+        tires
+       </a>
+       ,
+       <a href="/wiki/Battery_(electricity)" title="Battery (electricity)">
+        batteries
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/Light_bulb" title="Light bulb">
+        light bulbs
+       </a>
+       , electrical appliances,
+       <a href="/wiki/Fluorescent_lamp" title="Fluorescent lamp">
+        fluorescent lamps
+       </a>
+       ,
+       <a href="/wiki/Aerosol_spray" title="Aerosol spray">
+        aerosol spray cans
+       </a>
+       , and
+       <a href="/wiki/Fertilizer" title="Fertilizer">
+        fertilizers
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Toxic_waste" title="Toxic waste">
+        Toxic waste
+       </a>
+       including
+       <a href="/wiki/Pesticide" title="Pesticide">
+        pesticides
+       </a>
+       ,
+       <a href="/wiki/Herbicide" title="Herbicide">
+        herbicides
+       </a>
+       , and
+       <a href="/wiki/Fungicide" title="Fungicide">
+        fungicides
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Biomedical_waste" title="Biomedical waste">
+        Biomedical waste
+       </a>
+       , expired
+       <a href="/wiki/Pharmaceutical_drug" title="Pharmaceutical drug">
+        pharmaceutical drugs
+       </a>
+       , etc.
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="Components_of_solid_waste_management">
+       Components of solid waste management
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Municipal_solid_waste&amp;action=edit&amp;section=2" title="Edit section: Components of solid waste management">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:222px;">
+       <a class="image" href="/wiki/File:Tri_des_d%C3%A9chets_(cropped).jpg">
+        <img alt="" class="thumbimage" data-file-height="1637" data-file-width="2313" height="156" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Tri_des_d%C3%A9chets_%28cropped%29.jpg/220px-Tri_des_d%C3%A9chets_%28cropped%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Tri_des_d%C3%A9chets_%28cropped%29.jpg/330px-Tri_des_d%C3%A9chets_%28cropped%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Tri_des_d%C3%A9chets_%28cropped%29.jpg/440px-Tri_des_d%C3%A9chets_%28cropped%29.jpg 2x" width="220"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Tri_des_d%C3%A9chets_(cropped).jpg" title="Enlarge">
+         </a>
+        </div>
+        Bins to collect
+        <a href="/wiki/Paper_recycling" title="Paper recycling">
+         paper
+        </a>
+        ,
+        <a href="/wiki/Aluminium_recycling" title="Aluminium recycling">
+         aluminium
+        </a>
+        ,
+        <a href="/wiki/Glass_recycling" title="Glass recycling">
+         glass
+        </a>
+        ,
+        <a href="/wiki/PET_bottle_recycling" title="PET bottle recycling">
+         PET bottles
+        </a>
+        and incinerable waste.
+       </div>
+      </div>
+     </div>
+     <p>
+      The municipal solid waste industry has four components:
+      <a href="/wiki/Recycling" title="Recycling">
+       recycling
+      </a>
+      ,
+      <a href="/wiki/Compost" title="Compost">
+       composting
+      </a>
+      ,
+      <a href="/wiki/Landfill" title="Landfill">
+       disposal
+      </a>
+      , and
+      <a href="/wiki/Waste-to-energy" title="Waste-to-energy">
+       waste-to-energy
+      </a>
+      via incineration.
+      <sup class="reference" id="cite_ref-6">
+       <a href="#cite_note-6">
+        [6]
+       </a>
+      </sup>
+      There is no single approach that can be applied to the management of all waste streams, therefore the
+      <a class="mw-redirect" href="/wiki/Environmental_Protection_Agency" title="Environmental Protection Agency">
+       Environmental Protection Agency
+      </a>
+      , federal agency of the
+      <a class="mw-redirect" href="/wiki/United_States_of_America" title="United States of America">
+       United States of America
+      </a>
+      , developed a hierarchy ranking strategy for municipal solid waste.
+      <sup class="reference" id="cite_ref-7">
+       <a href="#cite_note-7">
+        [7]
+       </a>
+      </sup>
+      The
+      <a href="/wiki/Waste_hierarchy" title="Waste hierarchy">
+       Waste Management Hierarchy
+      </a>
+      is made up of four levels ordered from most preferred to least preferred methods based on their environmental soundness: Source reduction and reuse; recycling or composting; energy recovery; treatment and disposal.
+      <sup class="reference" id="cite_ref-8">
+       <a href="#cite_note-8">
+        [8]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Collection">
+       Collection
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Municipal_solid_waste&amp;action=edit&amp;section=3" title="Edit section: Collection">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      The functional element of collection includes not only the gathering of solid waste and recyclable materials, but also the transport of these materials, after collection, to the location where the collection vehicle is emptied. This location may be a materials processing facility, a transfer station or a landfill disposal site.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Waste_handling_and_separation.2C_storage_and_processing_at_the_source">
+       Waste handling and separation, storage and processing at the source
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Municipal_solid_waste&amp;action=edit&amp;section=4" title="Edit section: Waste handling and separation, storage and processing at the source">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Waste handling and separation involves activities associated with waste management until the waste is placed in storage containers for collection. Handling also encompasses the movement of loaded containers to the point of collection. Separating different types of waste components is an important step in the handling and storage of solid waste at the source.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Segregation_and_processing_and_transformation_of_solid_wastes">
+       Segregation and processing and transformation of solid wastes
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Municipal_solid_waste&amp;action=edit&amp;section=5" title="Edit section: Segregation and processing and transformation of solid wastes">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      The types of means and facilities that are now used for the recovery of waste materials that have been separated at the source include curbside ('kerbside' in the UK) collection, drop-off and buy-back centers. The separation and processing of wastes that have been separated at the source and the separation of commingled wastes usually occur at a materials recovery facility, transfer stations, combustion facilities and disposal sites.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Transfer_and_transport">
+       Transfer and transport
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Municipal_solid_waste&amp;action=edit&amp;section=6" title="Edit section: Transfer and transport">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      This element involves two main steps. First, the waste is transferred from a smaller collection vehicle to larger transport equipment. The waste is then transported, usually over long distances, to a processing or disposal site.
+     </p>
+     <h3>
+      <span class="mw-headline" id="Disposal">
+       Disposal
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Municipal_solid_waste&amp;action=edit&amp;section=7" title="Edit section: Disposal">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <div class="thumb tright">
+      <div class="thumbinner" style="width:202px;">
+       <a class="image" href="/wiki/File:Mixed_municipal_waste.JPG">
+        <img alt="" class="thumbimage" data-file-height="280" data-file-width="422" height="133" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mixed_municipal_waste.JPG/200px-Mixed_municipal_waste.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mixed_municipal_waste.JPG/300px-Mixed_municipal_waste.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mixed_municipal_waste.JPG/400px-Mixed_municipal_waste.JPG 2x" width="200"/>
+       </a>
+       <div class="thumbcaption">
+        <div class="magnify">
+         <a class="internal" href="/wiki/File:Mixed_municipal_waste.JPG" title="Enlarge">
+         </a>
+        </div>
+        Mixed municipal waste,
+        <a href="/wiki/Hiriya" title="Hiriya">
+         Hiriya
+        </a>
+        ,
+        <a href="/wiki/Tel_Aviv" title="Tel Aviv">
+         Tel Aviv
+        </a>
+       </div>
+      </div>
+     </div>
+     <p>
+      Today, the disposal of wastes by land filling or land spreading is the ultimate fate of all solid wastes, whether they are residential wastes collected and transported directly to a landfill site, residual materials from
+      <a class="mw-redirect" href="/wiki/Materials_recovery_facilities" title="Materials recovery facilities">
+       materials recovery facilities
+      </a>
+      (MRFs), residue from the combustion of solid waste,
+      <a href="/wiki/Compost" title="Compost">
+       compost
+      </a>
+      , or other substances from various solid waste processing facilities. A modern sanitary landfill is not a dump; it is an engineered facility used for disposing of solid wastes on land without creating nuisances or hazards to public health or safety, such as the problems of insects and the contamination of
+      <a class="mw-redirect" href="/wiki/Ground_water" title="Ground water">
+       ground water
+      </a>
+      .
+     </p>
+     <h3>
+      <span class="mw-headline" id="Reusing">
+       Reusing
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Municipal_solid_waste&amp;action=edit&amp;section=8" title="Edit section: Reusing">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      In the recent years environmental organizations, such as
+      <a href="/wiki/Freegle" title="Freegle">
+       Freegle
+      </a>
+      or
+      <a class="mw-redirect" href="/wiki/Freecycle_Network" title="Freecycle Network">
+       Freecycle Network
+      </a>
+      , have been gaining popularity for their online reuse networks. These networks provide a worldwide online registry of unwanted items that would otherwise be thrown away, for individuals and nonprofits to reuse or recycle. Therefore, this free Internet-based service reduces landfill pollution and promotes the
+      <a href="/wiki/Gift_economy" title="Gift economy">
+       gift economy
+      </a>
+      .
+     </p>
+     <h3>
+      <span class="mw-headline" id="Landfills">
+       Landfills
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Municipal_solid_waste&amp;action=edit&amp;section=9" title="Edit section: Landfills">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Landfills are created by land dumping. Land dumping methods vary, most commonly it involves the mass dumping of waste into a designated area, usually a hole or sidehill. After the waste is dumped, it is then compacted by large machines. When the dumping cell is full, it is then "sealed" with a plastic sheet and covered in several feet of dirt. This is the primary method of dumping in the United States because of the low cost and abundance of unused land in North America. Landfills pose the threat of pollution, and can intoxicate ground water. The signs of pollution are effectively masked by disposal companies and it is often hard to see any evidence. Usually landfills are surrounded by large walls or fences hiding the mounds of debris. Large amounts of chemical odor eliminating agent are sprayed in the air surrounding landfills to hide the evidence of the rotting waste inside the plant.
+      <sup class="reference" id="cite_ref-9">
+       <a href="#cite_note-9">
+        [9]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Energy_generation">
+       Energy generation
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Municipal_solid_waste&amp;action=edit&amp;section=10" title="Edit section: Energy generation">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      Municipal solid waste can be used to generate energy. Several technologies have been developed that make the processing of MSW for energy generation cleaner and more economical than ever before, including landfill gas capture, combustion,
+      <a href="/wiki/Pyrolysis" title="Pyrolysis">
+       pyrolysis
+      </a>
+      ,
+      <a href="/wiki/Gasification" title="Gasification">
+       gasification
+      </a>
+      , and
+      <a class="mw-redirect" href="/wiki/Plasma_arc_gasification" title="Plasma arc gasification">
+       plasma arc
+       <i>
+        gasification
+       </i>
+      </a>
+      .
+      <sup class="reference" id="cite_ref-10">
+       <a href="#cite_note-10">
+        [10]
+       </a>
+      </sup>
+      While older waste incineration plants emitted high levels of pollutants, recent regulatory changes and new technologies have significantly reduced this concern.
+      <a href="/wiki/United_States_Environmental_Protection_Agency" title="United States Environmental Protection Agency">
+       United States Environmental Protection Agency
+      </a>
+      (EPA) regulations in 1995 and 2000 under the
+      <a href="/wiki/Clean_Air_Act_(United_States)" title="Clean Air Act (United States)">
+       Clean Air Act
+      </a>
+      have succeeded in reducing emissions of
+      <a class="mw-redirect" href="/wiki/Dioxins" title="Dioxins">
+       dioxins
+      </a>
+      from
+      <a href="/wiki/Waste-to-energy" title="Waste-to-energy">
+       waste-to-energy
+      </a>
+      facilities by more than 99 percent below 1990 levels, while mercury emissions have been reduced by over 90 percent.
+      <sup class="reference" id="cite_ref-11">
+       <a href="#cite_note-11">
+        [11]
+       </a>
+      </sup>
+      The EPA noted these improvements in 2003, citing waste-to-energy as a power source "with less environmental impact than almost any other source of
+      <a href="/wiki/Electricity" title="Electricity">
+       electricity
+      </a>
+      ".
+      <sup class="reference" id="cite_ref-12">
+       <a href="#cite_note-12">
+        [12]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Municipal_solid_waste&amp;action=edit&amp;section=11" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <a href="/wiki/Garbology" title="Garbology">
+        Garbology
+       </a>
+       (study of modern refuse and trash)
+      </li>
+      <li>
+       <a href="/wiki/List_of_waste_management_acronyms" title="List of waste management acronyms">
+        List of waste management acronyms
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/MSW/LFG" title="MSW/LFG">
+        MSW/LFG
+       </a>
+       (municipal solid waste and
+       <a href="/wiki/Landfill_gas" title="Landfill gas">
+        landfill gas
+       </a>
+       )
+      </li>
+      <li>
+       <a href="/wiki/Sewage" title="Sewage">
+        Sewage
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Municipal_solid_waste&amp;action=edit&amp;section=12" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+      <tr>
+       <td class="mbox-image">
+        <div style="width:52px">
+         <a class="image" href="/wiki/File:Question_book-new.svg">
+          <img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/>
+         </a>
+        </div>
+       </td>
+       <td class="mbox-text">
+        <span class="mbox-text-span">
+         This article
+         <b>
+          needs additional citations for
+          <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">
+           verification
+          </a>
+         </b>
+         .
+         <span class="hide-when-compact">
+          Please help
+          <a class="external text" href="//en.wikipedia.org/w/index.php?title=Municipal_solid_waste&amp;action=edit">
+           improve this article
+          </a>
+          by
+          <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">
+           adding citations to reliable sources
+          </a>
+          . Unsourced material may be challenged and removed.
+         </span>
+         <small>
+          <i>
+           (April 2011)
+          </i>
+         </small>
+         <small class="hide-when-compact">
+          <i>
+           (
+           <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+            Learn how and when to remove this template message
+           </a>
+           )
+          </i>
+         </small>
+        </span>
+       </td>
+      </tr>
+     </table>
+     <div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-1">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.ciwm.co.uk/web/FILES/About_CIWM/100_yrs_London_and_SE_centre.pdf" rel="nofollow">
+          Centenary history of waste and waste managers in London and south east England- Page 7
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-2">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.epa.gov/osw/nonhaz/municipal/" rel="nofollow">
+          Non-hazardous Waste
+         </a>
+         U.S. Environmental Protection Agency, Municipal Solid Waste
+        </span>
+       </li>
+       <li id="cite_note-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-3">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.eia.doe.gov/cneaf/solar.renewables/page/mswaste/msw.html" rel="nofollow">
+          Municipal Solid Waste
+         </a>
+         U.S. Energy Information Administration
+        </span>
+       </li>
+       <li id="cite_note-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-4">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.countryside.wales.gov.uk/fe/master.asp?n1=366&amp;n2=213&amp;n3=896" rel="nofollow">
+          Mechanical Biological Treatment
+         </a>
+         Welsh Assembly (2005) Mechanical Biological Treatment, Environment Countryside and Planning Website, Welsh Assembly
+        </span>
+       </li>
+       <li id="cite_note-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-5">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.ccc.govt.nz/services/rubbish-and-recycling/sorting/organics-green-bin/" rel="nofollow">
+           "Organics -Green Bin"
+          </a>
+          . Christchurch City Council
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            19 March
+           </span>
+           2016
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMunicipal+solid+waste&amp;rft.btitle=Organics+-Green+Bin&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ccc.govt.nz%2Fservices%2Frubbish-and-recycling%2Fsorting%2Forganics-green-bin%2F&amp;rft.pub=Christchurch+City+Council&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-6">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-6">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.eia.doe.gov/cneaf/solar.renewables/page/mswaste/msw.html" rel="nofollow">
+          Nonhazardous waste
+         </a>
+         U.S. Energy Information Administration
+        </span>
+       </li>
+       <li id="cite_note-7">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-7">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="https://sftool.gov/explore/green-building/section/57/solid-waste/system-overview" rel="nofollow">
+          System Overview
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-8">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-8">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.epa.gov/osw/nonhaz/municipal/hierarchy.htm" rel="nofollow">
+          Advancing Sustainable Materials Management: Facts and Figures
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-9">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-9">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation book">
+          Rogers, Heather.
+          <i>
+           Gone Tomorrow: The Hidden Life of Garbage
+          </i>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMunicipal+solid+waste&amp;rft.aufirst=Heather&amp;rft.aulast=Rogers&amp;rft.btitle=Gone+Tomorrow%3A+The+Hidden+Life+of+Garbage&amp;rft.genre=book&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-10">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-10">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.eesi.org/files/eesi_msw_issuebrief_072109.pdf" rel="nofollow">
+          Environmental and Energy Study Institute Issue Brief
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-11">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-11">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.epa.gov/ncer/publications/research_results_needs/combustionEmmissionsReport.pdf" rel="nofollow">
+          Combustion Emissions from Hazardous Waste Incinerators, Boilers and Industrial Furnaces, and Municipal Solid Waste Incinerators- Results from Five STAR Grants and Research Needs U.S. EPA
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-12">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-12">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.wte.org/userfiles/file/epaletter.pdf" rel="nofollow">
+          U.S. EPA Letter to Maria Zannes, President, Integrated Waste Services Association
+         </a>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <h2>
+      <span class="mw-headline" id="Further_reading">
+       Further reading
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Municipal_solid_waste&amp;action=edit&amp;section=13" title="Edit section: Further reading">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <cite class="citation journal">
+        Vergara, S. E.; Tchobanoglous, G. (2012). "Municipal Solid Waste and the Environment: A Global Perspective".
+        <i>
+         Annual Review of Environment and Resources
+        </i>
+        .
+        <b>
+         37
+        </b>
+        : 277.
+        <a href="/wiki/Digital_object_identifier" title="Digital object identifier">
+         doi
+        </a>
+        :
+        <a class="external text" href="//dx.doi.org/10.1146%2Fannurev-environ-050511-122532" rel="nofollow">
+         10.1146/annurev-environ-050511-122532
+        </a>
+        .
+       </cite>
+       <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMunicipal+solid+waste&amp;rft.atitle=Municipal+Solid+Waste+and+the+Environment%3A+A+Global+Perspective&amp;rft.aufirst=S.+E.&amp;rft.aulast=Vergara&amp;rft.au=Tchobanoglous%2C+G.&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1146%2Fannurev-environ-050511-122532&amp;rft.jtitle=Annual+Review+of+Environment+and+Resources&amp;rft.pages=277&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=37">
+        <span style="display:none;">
+        </span>
+       </span>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="External_links">
+       External links
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=Municipal_solid_waste&amp;action=edit&amp;section=14" title="Edit section: External links">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       <cite class="citation web">
+        <a class="external text" href="http://www.unep.org/documents.multilingual/default.asp?DocumentID=52&amp;ArticleID=69&amp;l=en" rel="nofollow">
+         "Environmentally Sound Management of Solid Wastes and Sewage-Related Issues"
+        </a>
+        .
+        <a href="/wiki/United_Nations_Environment_Programme" title="United Nations Environment Programme">
+         United Nations Environment Programme
+        </a>
+        <span class="reference-accessdate">
+         . Retrieved
+         <span class="nowrap">
+          2011-02-23
+         </span>
+        </span>
+        .
+       </cite>
+       <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMunicipal+solid+waste&amp;rft.btitle=Environmentally+Sound+Management+of+Solid+Wastes+and+Sewage-Related+Issues&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.unep.org%2Fdocuments.multilingual%2Fdefault.asp%3FDocumentID%3D52%26ArticleID%3D69%26l%3Den&amp;rft.pub=United+Nations+Environment+Programme&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+        <span style="display:none;">
+        </span>
+       </span>
+      </li>
+      <li>
+       <cite class="citation web">
+        <a class="external text" href="http://envfor.nic.in/legis/hsm/mswmhr.html" rel="nofollow">
+         "Municipal Solid Waste Management and Handling Rules 2000, Ministry of Environment and Forests, Government of India"
+        </a>
+        . envfor.nic.in
+        <span class="reference-accessdate">
+         . Retrieved
+         <span class="nowrap">
+          2011-02-25
+         </span>
+        </span>
+        .
+       </cite>
+       <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMunicipal+solid+waste&amp;rft.btitle=Municipal+Solid+Waste+Management+and+Handling+Rules+2000%2C+Ministry+of+Environment+and+Forests%2C+Government+of+India&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fenvfor.nic.in%2Flegis%2Fhsm%2Fmswmhr.html&amp;rft.pub=envfor.nic.in&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+        <span style="display:none;">
+        </span>
+       </span>
+      </li>
+      <li>
+       <a class="external text" href="http://css.snre.umich.edu/css_doc/CSS04-15.pdf" rel="nofollow">
+        Municipal Solid Waste in the U.S. Factsheet
+       </a>
+       by the
+       <a href="/wiki/University_of_Michigan" title="University of Michigan">
+        University of Michigan
+       </a>
+       's
+       <a class="external text" href="http://www.css.snre.umich.edu/" rel="nofollow">
+        Center for Sustainable Systems
+       </a>
+      </li>
+     </ul>
+     <div aria-labelledby="Biosolids.2C_waste_and_waste_management" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="3" scope="col">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:Waste" title="Template:Waste">
+             <abbr style=";;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:Waste" title="Template talk:Waste">
+             <abbr style=";;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Waste&amp;action=edit">
+             <abbr style=";;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="Biosolids.2C_waste_and_waste_management" style="font-size:114%">
+          <a href="/wiki/Biosolids" title="Biosolids">
+           Biosolids
+          </a>
+          ,
+          <a href="/wiki/Waste" title="Waste">
+           waste
+          </a>
+          and
+          <a href="/wiki/Waste_management" title="Waste management">
+           waste management
+          </a>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/List_of_waste_types" title="List of waste types">
+          Major types
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Agricultural_wastewater_treatment" title="Agricultural wastewater treatment">
+             Agricultural wastewater
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Biodegradable_waste" title="Biodegradable waste">
+             Biodegradable waste
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Brown_waste" title="Brown waste">
+             Brown waste
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Chemical_waste" title="Chemical waste">
+             Chemical waste
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Construction_waste" title="Construction waste">
+             Construction waste
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Demolition_waste" title="Demolition waste">
+             Demolition waste
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Electronic_waste" title="Electronic waste">
+             Electronic waste
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Electronic_waste_by_country" title="Electronic waste by country">
+               by country
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/Food_waste" title="Food waste">
+             Food waste
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Green_waste" title="Green waste">
+             Green waste
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Hazardous_waste" title="Hazardous waste">
+             Hazardous waste
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Waste_heat" title="Waste heat">
+             Heat waste
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Industrial_waste" title="Industrial waste">
+             Industrial waste
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Litter" title="Litter">
+             Litter
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Marine_debris" title="Marine debris">
+             Marine debris
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Biomedical_waste" title="Biomedical waste">
+             Biomedical waste
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Tailings" title="Tailings">
+             Mining waste
+            </a>
+           </li>
+           <li>
+            <strong class="selflink">
+             Municipal solid waste
+            </strong>
+           </li>
+           <li>
+            <a href="/wiki/Open_defecation" title="Open defecation">
+             Open defecation
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Photodegradation" title="Photodegradation">
+             Photodegradation
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Post-consumer_waste" title="Post-consumer waste">
+             Post-consumer waste
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Radioactive_waste" title="Radioactive waste">
+             Radioactive waste
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sewage" title="Sewage">
+             Sewage
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Toxic_waste" title="Toxic waste">
+             Toxic waste
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Wastewater" title="Wastewater">
+             Wastewater
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+        <td class="navbox-image" rowspan="9" style="width:0%;padding:0px 0px 0px 2px">
+         <div>
+          <a class="image" href="/wiki/File:Bedrijfsafval.jpg">
+           <img alt="Bedrijfsafval.jpg" data-file-height="1728" data-file-width="2304" height="90" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bedrijfsafval.jpg/120px-Bedrijfsafval.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bedrijfsafval.jpg/180px-Bedrijfsafval.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bedrijfsafval.jpg/240px-Bedrijfsafval.jpg 2x" width="120"/>
+          </a>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Processes
+        </th>
+        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Anaerobic_digestion" title="Anaerobic digestion">
+             Anaerobic digestion
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Biodegradation" title="Biodegradation">
+             Biodegradation
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Compost" title="Compost">
+             Composting
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Garden_waste_dumping" title="Garden waste dumping">
+             Garden waste dumping
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Illegal_dumping" title="Illegal dumping">
+             Illegal dumping
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Incineration" title="Incineration">
+             Incineration
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Landfill" title="Landfill">
+             Landfill
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Landfill_mining" title="Landfill mining">
+             Landfill mining
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Mechanical_biological_treatment" title="Mechanical biological treatment">
+             Mechanical biological treatment
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Materials_recovery_facility" title="Materials recovery facility">
+             Mechanical sorting
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Open_dump" title="Open dump">
+             Open dump
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Recycling" title="Recycling">
+             Recycling
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Resource_recovery" title="Resource recovery">
+             Resource recovery
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sewage_treatment" title="Sewage treatment">
+             Sewage treatment
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Waste_collection" title="Waste collection">
+             Waste collection
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Waste_picker" title="Waste picker">
+             Waste picking
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Waste_sorting" title="Waste sorting">
+             Waste sorting
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Waste_trade" title="Waste trade">
+             Waste trade
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Waste_treatment" title="Waste treatment">
+             Waste treatment
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Waste-to-energy" title="Waste-to-energy">
+             Waste-to-energy
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Waste_by_country" title="Waste by country">
+          Countries
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Waste_management_in_Armenia" title="Waste management in Armenia">
+             Armenia
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Waste_management_in_Bangladesh" title="Waste management in Bangladesh">
+             Bangladesh
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Environmental_issues_in_Brazil#Waste" title="Environmental issues in Brazil">
+             Brazil
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Waste_management_in_Hong_Kong" title="Waste management in Hong Kong">
+             Hong Kong
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/Solid_waste_policy_in_India" title="Solid waste policy in India">
+             India
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Waste_in_New_Zealand" title="Waste in New Zealand">
+             New Zealand
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Waste_management_in_Russia" title="Waste management in Russia">
+             Russia
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Waste_management_in_Switzerland" title="Waste management in Switzerland">
+             Switzerland
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Waste_in_the_United_Kingdom" title="Waste in the United Kingdom">
+             UK
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Waste_in_the_United_States" title="Waste in the United States">
+             USA
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Agreements
+        </th>
+        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Bamako_Convention" title="Bamako Convention">
+             Bamako Convention
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Basel_Convention" title="Basel Convention">
+             Basel Convention
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Directive_(European_Union)" title="Directive (European Union)">
+             EU directives
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Battery_Directive" title="Battery Directive">
+               batteries
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Landfill_Directive" title="Landfill Directive">
+               landfills
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Restriction_of_Hazardous_Substances_Directive" title="Restriction of Hazardous Substances Directive">
+               RoHS
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Waste_framework_directive" title="Waste framework directive">
+               framework
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Waste_Incineration_Directive" title="Waste Incineration Directive">
+               incineration
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Urban_Waste_Water_Treatment_Directive" title="Urban Waste Water Treatment Directive">
+               waste water
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Waste_Electrical_and_Electronic_Equipment_Directive" title="Waste Electrical and Electronic Equipment Directive">
+               WEEE
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/London_Convention_on_the_Prevention_of_Marine_Pollution_by_Dumping_of_Wastes_and_Other_Matter" title="London Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter">
+             London Convention
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Oslo_Dumping_Convention" title="Oslo Dumping Convention">
+             Oslo Convention
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/OSPAR_Convention" title="OSPAR Convention">
+             OSPAR Convention
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Other topics
+        </th>
+        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Blue_Ribbon_Commission_on_America%27s_Nuclear_Future" title="Blue Ribbon Commission on America's Nuclear Future">
+             Blue Ribbon Commission on America's Nuclear Future
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Cleaner_production" title="Cleaner production">
+             Cleaner production
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Downcycling" title="Downcycling">
+             Downcycling
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Eco-industrial_park" title="Eco-industrial park">
+             Eco-industrial park
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Extended_producer_responsibility" title="Extended producer responsibility">
+             Extended producer responsibility
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/High-level_radioactive_waste_management" title="High-level radioactive waste management">
+             High-level radioactive waste management
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/History_of_waste_management" title="History of waste management">
+             History of waste management
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Landfill_fire" title="Landfill fire">
+             Landfill fire
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Sewage_regulation_and_administration" title="Sewage regulation and administration">
+             Sewage regulation and administration
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Upcycling" title="Upcycling">
+             Upcycling
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Waste_hierarchy" title="Waste hierarchy">
+             Waste hierarchy
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Waste_management_law" title="Waste management law">
+             Waste legislation
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Waste_minimisation" title="Waste minimisation">
+             Waste minimisation
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Zero_waste" title="Zero waste">
+             Zero waste
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td class="navbox-abovebelow hlist" colspan="3">
+         <div>
+          <ul>
+           <li>
+            <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/>
+            <a href="/wiki/Portal:Environment" title="Portal:Environment">
+             Environment portal
+            </a>
+           </li>
+           <li>
+            <img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/>
+            <a href="/wiki/Category:Waste" title="Category:Waste">
+             Category
+            </a>
+           </li>
+           <li>
+            <img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/>
+            <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Waste" title="commons:Category:Waste">
+             Commons
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/List_of_waste_management_concepts" title="List of waste management concepts">
+             Concepts
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Index_of_waste_management_articles" title="Index of waste management articles">
+             Index
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Category:Waste_management_journals" title="Category:Waste management journals">
+             Journals
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Category:Waste-related_lists" title="Category:Waste-related lists">
+             Lists
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Category:Waste_organisations" title="Category:Waste organisations">
+             Organizations
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Help:Authority_control" title="Help:Authority control">
+          Authority control
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">
+              GND
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="http://d-nb.info/gnd/4113855-7" rel="nofollow">
+               4113855-7
+              </a>
+             </span>
+            </span>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:2149148-0!*!0!!en!4!* and timestamp 20161107112633 and revision id 747815718
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Municipal_solid_waste&amp;oldid=747815718">
+      https://en.wikipedia.org/w/index.php?title=Municipal_solid_waste&amp;oldid=747815718
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Waste" title="Category:Waste">
+         Waste
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_with_limited_geographic_scope_from_March_2012" title="Category:Articles with limited geographic scope from March 2012">
+         Articles with limited geographic scope from March 2012
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:USA-centric" title="Category:USA-centric">
+         USA-centric
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_needing_additional_references_from_April_2011" title="Category:Articles needing additional references from April 2011">
+         Articles needing additional references from April 2011
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">
+         All articles needing additional references
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">
+         Wikipedia articles with GND identifiers
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Municipal+solid+waste" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Municipal+solid+waste" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/Municipal_solid_waste" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:Municipal_solid_waste" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/Municipal_solid_waste">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=Municipal_solid_waste&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=Municipal_solid_waste&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Municipal_solid_waste" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Municipal_solid_waste" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Municipal_solid_waste&amp;oldid=747815718" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Municipal_solid_waste&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q18538" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Municipal_solid_waste&amp;id=747815718" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Municipal+solid+waste">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Municipal+solid+waste&amp;returnto=Municipal+solid+waste&amp;oldid=747815718&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Municipal_solid_waste&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Waste" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AA%D8%B3%D9%8A%D9%8A%D8%B1_%D8%A7%D9%84%D9%86%D9%81%D8%A7%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D9%86%D8%B2%D9%84%D9%8A%D8%A9" hreflang="ar" lang="ar" title="تسيير النفايات المنزلية – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-min-nan">
+        <a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/P%C3%B9n-s%C3%B2" hreflang="zh-min-nan" lang="zh-min-nan" title="Pùn-sò – Chinese (Min Nan)">
+         Bân-lâm-gú
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be-x-old">
+        <a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%A6%D1%8C%D0%B2%D1%91%D1%80%D0%B4%D1%8B%D1%8F_%D0%B1%D1%8B%D1%82%D0%B0%D0%B2%D1%8B%D1%8F_%D0%B0%D0%B4%D0%BA%D1%96%D0%B4%D1%8B" hreflang="be-x-old" lang="be-x-old" title="Цьвёрдыя бытавыя адкіды – беларуская (тарашкевіца)‎">
+         Беларуская (тарашкевіца)‎
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Residu_s%C3%B2lid_urb%C3%A0" hreflang="ca" lang="ca" title="Residu sòlid urbà – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Komun%C3%A1ln%C3%AD_odpad" hreflang="cs" lang="cs" title="Komunální odpad – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Hausm%C3%BCll" hreflang="de" lang="de" title="Hausmüll – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Residuo_s%C3%B3lido_urbano" hreflang="es" lang="es" title="Residuo sólido urbano – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/%C4%88edoma_rubo" hreflang="eo" lang="eo" title="Ĉedoma rubo – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Ordures_m%C3%A9nag%C3%A8res" hreflang="fr" lang="fr" title="Ordures ménagères – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%93%B0%EB%A0%88%EA%B8%B0" hreflang="ko" lang="ko" title="쓰레기 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi">
+        <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A4%97%E0%A4%B0%E0%A4%AA%E0%A4%BE%E0%A4%B2%E0%A4%BF%E0%A4%95%E0%A4%BE_%E0%A4%A0%E0%A5%8B%E0%A4%B8_%E0%A4%85%E0%A4%AA%E0%A4%B6%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%9F" hreflang="hi" lang="hi" title="नगरपालिका ठोस अपशिष्ट – Hindi">
+         हिन्दी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-is">
+        <a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Heimilissorp" hreflang="is" lang="is" title="Heimilissorp – Icelandic">
+         Íslenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Huishoudelijk_afval" hreflang="nl" lang="nl" title="Huishoudelijk afval – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%81%94%E3%81%BF" hreflang="ja" lang="ja" title="ごみ – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Odpady_komunalne" hreflang="pl" lang="pl" title="Odpady komunalne – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Res%C3%ADduos_s%C3%B3lidos_urbanos" hreflang="pt" lang="pt" title="Resíduos sólidos urbanos – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Gunoi_menajer" hreflang="ro" lang="ro" title="Gunoi menajer – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A2%D0%B2%D1%91%D1%80%D0%B4%D1%8B%D0%B5_%D0%B1%D1%8B%D1%82%D0%BE%D0%B2%D1%8B%D0%B5_%D0%BE%D1%82%D1%85%D0%BE%D0%B4%D1%8B" hreflang="ru" lang="ru" title="Твёрдые бытовые отходы – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Yhdyskuntaj%C3%A4te" hreflang="fi" lang="fi" title="Yhdyskuntajäte – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Hush%C3%A5llssopor" hreflang="sv" lang="sv" title="Hushållssopor – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-te">
+        <a class="interlanguage-link-target" href="https://te.wikipedia.org/wiki/%E0%B0%AE%E0%B1%81%E0%B0%A8%E0%B1%8D%E0%B0%B8%E0%B0%BF%E0%B0%AA%E0%B0%B2%E0%B1%8D_%E0%B0%98%E0%B0%A8_%E0%B0%B5%E0%B1%8D%E0%B0%AF%E0%B0%B0%E0%B1%8D%E0%B0%A7%E0%B0%BE%E0%B0%B2%E0%B1%81" hreflang="te" lang="te" title="మున్సిపల్ ఘన వ్యర్ధాలు – Telugu">
+         తెలుగు
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%82%E0%B8%A2%E0%B8%B0%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%8A%E0%B8%99" hreflang="th" lang="th" title="ขยะชุมชน – Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/%C3%87%C3%B6p" hreflang="tr" lang="tr" title="Çöp – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B1%D1%83%D1%82%D0%BE%D0%B2%D1%96_%D0%B2%D1%96%D0%B4%D1%85%D0%BE%D0%B4%D0%B8" hreflang="uk" lang="uk" title="Побутові відходи – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-yue">
+        <a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E9%83%BD%E5%B8%82%E5%9B%BA%E9%AB%94%E5%BB%A2%E7%89%A9" hreflang="zh-yue" lang="zh-yue" title="都市固體廢物 – Cantonese">
+         粵語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E9%83%BD%E5%B8%82%E5%9B%BA%E9%AB%94%E5%BB%A2%E7%89%A9" hreflang="zh" lang="zh" title="都市固體廢物 – Chinese">
+         中文
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q18538#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 4 November 2016, at 15:04.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Municipal_solid_waste&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.204",
+            "walltime": "0.278",
+            "ppvisitednodes": {
+                "value": 864,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 57166,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 75,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 10,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 4,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 1,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  189.979      1 -total",
+                " 23.80%   45.212      1 Template:Reflist",
+                " 19.60%   37.232      3 Template:Cite_web",
+                " 19.38%   36.813      1 Template:Redirect-multi",
+                " 17.52%   33.277      1 Template:Globalize/US",
+                " 15.56%   29.561      1 Template:Globalize",
+                " 15.33%   29.119      2 Template:Ambox",
+                " 10.34%   19.641      1 Template:Authority_control",
+                "  9.08%   17.247      1 Template:Waste",
+                "  7.95%   15.098      1 Template:Navbox"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.076",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 3302032,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1175",
+            "timestamp": "20161107112633",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":363,"wgHostname":"mw1175"});});
+  </script>
+ </body>
+</html>

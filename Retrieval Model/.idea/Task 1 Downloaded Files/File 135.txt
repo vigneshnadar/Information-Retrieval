@@ -1,0 +1,3774 @@
+https://en.wikipedia.org/wiki/United_Nations_Environment_Programme
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   United Nations Environment Programme - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"United_Nations_Environment_Programme","wgTitle":"United Nations Environment Programme","wgCurRevisionId":744638096,"wgRevisionId":744638096,"wgArticleId":32178,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with Wayback Machine links","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with SELIBR identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with BIBSYS identifiers","Wikipedia articles with ULAN identifiers","Wikipedia articles with NLA identifiers","United Nations Environment Programme","International environmental organizations","United Nations Development Group","Environmental organizations established in 1972","1972 in the environment"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"United_Nations_Environment_Programme","wgRelevantArticleId":32178,"wgRequestId":"WCDNwwpAEKYAACS-RP4AAABT","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q182016","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});
+  </script>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.29.0-wmf.1" name="generator"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/United_Nations_Environment_Programme" rel="alternate"/>
+  <link href="/w/index.php?title=United_Nations_Environment_Programme&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=United_Nations_Environment_Programme&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+  <link href="https://en.wikipedia.org/wiki/United_Nations_Environment_Programme" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-United_Nations_Environment_Programme rootpage-United_Nations_Environment_Programme skin-vector action-view">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="en">
+    United Nations Environment Programme
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div class="mw-jump" id="jump-to-nav">
+     Jump to:
+     <a href="#mw-head">
+      navigation
+     </a>
+     ,
+     <a href="#p-search">
+      search
+     </a>
+    </div>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <table class="infobox vcard" style="width:22em">
+      <caption class="fn org">
+       United Nations Environment Programme
+      </caption>
+      <tr>
+       <td colspan="2" style="text-align:center">
+        <span class="nickname">
+         <b>
+          United Nations Environment Programme (UNEP)
+         </b>
+        </span>
+       </td>
+      </tr>
+      <tr>
+       <td colspan="2" style="text-align:center">
+        <a class="image" href="/wiki/File:Emblem_of_the_United_Nations.svg">
+         <img alt="Emblem of the United Nations.svg" data-file-height="400" data-file-width="470" height="102" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Emblem_of_the_United_Nations.svg/120px-Emblem_of_the_United_Nations.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Emblem_of_the_United_Nations.svg/180px-Emblem_of_the_United_Nations.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/52/Emblem_of_the_United_Nations.svg/240px-Emblem_of_the_United_Nations.svg.png 2x" width="120"/>
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td colspan="2" style="text-align:center">
+        <a class="image" href="/wiki/File:UNEP_logo.svg">
+         <img alt="UNEP logo.svg" data-file-height="215" data-file-width="183" height="235" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9b/UNEP_logo.svg/200px-UNEP_logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9b/UNEP_logo.svg/300px-UNEP_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9b/UNEP_logo.svg/400px-UNEP_logo.svg.png 2x" width="200"/>
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        Abbreviation
+       </th>
+       <td class="nickname">
+        UNEP
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        Formation
+       </th>
+       <td class="note">
+        <span class="sortkey" style="display:none;speak:none">
+         000000001972-06-05-0000
+        </span>
+        <span style="white-space:nowrap">
+         5 June 1972
+        </span>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        Type
+       </th>
+       <td>
+        Programme
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        Legal status
+       </th>
+       <td>
+        Active
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        Headquarters
+       </th>
+       <td>
+        <a href="/wiki/Nairobi" title="Nairobi">
+         Nairobi
+        </a>
+        ,
+        <a href="/wiki/Kenya" title="Kenya">
+         Kenya
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        <div style="padding:0.1em 0;line-height:1.2em;">
+         Head
+        </div>
+       </th>
+       <td>
+        <span class="flagicon">
+         <a href="/wiki/Norway" title="Norway">
+          <img alt="Norway" class="thumbborder" data-file-height="800" data-file-width="1100" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/32px-Flag_of_Norway.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/41px-Flag_of_Norway.svg.png 2x" width="21"/>
+         </a>
+        </span>
+        <a href="/wiki/Erik_Solheim" title="Erik Solheim">
+         Erik Solheim
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        <div style="padding:0.1em 0;line-height:1.2em;">
+         Parent organization
+        </div>
+       </th>
+       <td>
+        <a href="/wiki/United_Nations" title="United Nations">
+         United Nations
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <th scope="row" style="padding-right:0.6em;">
+        Website
+       </th>
+       <td>
+        <a class="external text" href="http://www.unep.org/" rel="nofollow">
+         www.UNEP.org
+        </a>
+       </td>
+      </tr>
+     </table>
+     <p>
+      The
+      <b>
+       United Nations Environment Programme
+      </b>
+      (
+      <b>
+       UNEP
+      </b>
+      ) is an agency of United Nations and coordinates its environmental activities, assisting developing countries in implementing
+      <a href="/wiki/Environmental_peacebuilding" title="Environmental peacebuilding">
+       environmentally sound policies and practices
+      </a>
+      . It was founded by
+      <a href="/wiki/Maurice_Strong" title="Maurice Strong">
+       Maurice Strong
+      </a>
+      , its first director, as a result of the
+      <a href="/wiki/United_Nations_Conference_on_the_Human_Environment" title="United Nations Conference on the Human Environment">
+       United Nations Conference on the Human Environment
+      </a>
+      (Stockholm Conference) in June 1972 and has its
+      <a href="/wiki/Headquarters" title="Headquarters">
+       headquarters
+      </a>
+      in the Gigiri neighborhood of
+      <a href="/wiki/Nairobi" title="Nairobi">
+       Nairobi
+      </a>
+      ,
+      <a href="/wiki/Kenya" title="Kenya">
+       Kenya
+      </a>
+      . UNEP also has six regional offices and various country offices.
+     </p>
+     <p>
+      UNEP has overall responsibility for environmental problems among United Nations agencies but talks on addressing global warming are overseen by the Bonn-based Secretariat of the
+      <a href="/wiki/United_Nations_Framework_Convention_on_Climate_Change" title="United Nations Framework Convention on Climate Change">
+       United Nations Framework Convention on Climate Change
+      </a>
+      .
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+      Its activities cover a wide range of issues regarding the
+      <a class="mw-redirect" href="/wiki/Earth%27s_atmosphere" title="Earth's atmosphere">
+       atmosphere
+      </a>
+      , marine and terrestrial
+      <a href="/wiki/Ecosystem" title="Ecosystem">
+       ecosystems
+      </a>
+      , environmental governance and green economy. It has played a significant role in developing international environmental conventions, promoting
+      <a href="/wiki/Environmental_science" title="Environmental science">
+       environmental science
+      </a>
+      and information and illustrating the way those can be implemented in conjunction with policy, working on the development and implementation of policy with national governments, regional institutions in conjunction with environmental non-governmental organizations (NGOs). UNEP has also been active in funding and implementing environment related development projects.
+     </p>
+     <p>
+      UNEP has aided in the formulation of guidelines and treaties on issues such as the international trade in potentially harmful chemicals, transboundary
+      <a href="/wiki/Air_pollution" title="Air pollution">
+       air pollution
+      </a>
+      , and contamination of international waterways.
+     </p>
+     <p>
+      The
+      <a href="/wiki/World_Meteorological_Organization" title="World Meteorological Organization">
+       World Meteorological Organization
+      </a>
+      and UNEP established the
+      <a href="/wiki/Intergovernmental_Panel_on_Climate_Change" title="Intergovernmental Panel on Climate Change">
+       Intergovernmental Panel on Climate Change
+      </a>
+      (IPCC) in 1988. UNEP is also one of several Implementing Agencies for the
+      <a href="/wiki/Global_Environment_Facility" title="Global Environment Facility">
+       Global Environment Facility
+      </a>
+      (GEF) and the Multilateral Fund for the Implementation of the
+      <a href="/wiki/Montreal_Protocol" title="Montreal Protocol">
+       Montreal Protocol
+      </a>
+      , and it is also a member of the
+      <a href="/wiki/United_Nations_Development_Group" title="United Nations Development Group">
+       United Nations Development Group
+      </a>
+      .
+      <sup class="reference" id="cite_ref-2">
+       <a href="#cite_note-2">
+        [2]
+       </a>
+      </sup>
+      The
+      <a href="/wiki/International_Cyanide_Management_Code" title="International Cyanide Management Code">
+       International Cyanide Management Code
+      </a>
+      , a program of best practice for the chemical’s use at gold mining operations, was developed under UNEP’s
+      <a href="/wiki/Aegis" title="Aegis">
+       aegis
+      </a>
+      .
+     </p>
+     <p>
+     </p>
+     <div class="toc" id="toc">
+      <div id="toctitle">
+       <h2>
+        Contents
+       </h2>
+      </div>
+      <ul>
+       <li class="toclevel-1 tocsection-1">
+        <a href="#History">
+         <span class="tocnumber">
+          1
+         </span>
+         <span class="toctext">
+          History
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-2">
+        <a href="#Governance">
+         <span class="tocnumber">
+          2
+         </span>
+         <span class="toctext">
+          Governance
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-3">
+          <a href="#Executive_Director">
+           <span class="tocnumber">
+            2.1
+           </span>
+           <span class="toctext">
+            Executive Director
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-4">
+          <a href="#List_of_Executive_Directors">
+           <span class="tocnumber">
+            2.2
+           </span>
+           <span class="toctext">
+            List of Executive Directors
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-5">
+          <a href="#Structure">
+           <span class="tocnumber">
+            2.3
+           </span>
+           <span class="toctext">
+            Structure
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-6">
+        <a href="#Activities">
+         <span class="tocnumber">
+          3
+         </span>
+         <span class="toctext">
+          Activities
+         </span>
+        </a>
+        <ul>
+         <li class="toclevel-2 tocsection-7">
+          <a href="#Notable_achievements">
+           <span class="tocnumber">
+            3.1
+           </span>
+           <span class="toctext">
+            Notable achievements
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-8">
+          <a href="#Reports">
+           <span class="tocnumber">
+            3.2
+           </span>
+           <span class="toctext">
+            Reports
+           </span>
+          </a>
+         </li>
+         <li class="toclevel-2 tocsection-9">
+          <a href="#International_years">
+           <span class="tocnumber">
+            3.3
+           </span>
+           <span class="toctext">
+            International years
+           </span>
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toclevel-1 tocsection-10">
+        <a href="#Reform">
+         <span class="tocnumber">
+          4
+         </span>
+         <span class="toctext">
+          Reform
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-11">
+        <a href="#See_also">
+         <span class="tocnumber">
+          5
+         </span>
+         <span class="toctext">
+          See also
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-12">
+        <a href="#References">
+         <span class="tocnumber">
+          6
+         </span>
+         <span class="toctext">
+          References
+         </span>
+        </a>
+       </li>
+       <li class="toclevel-1 tocsection-13">
+        <a href="#Further_reading">
+         <span class="tocnumber">
+          7
+         </span>
+         <span class="toctext">
+          Further reading
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <p>
+     </p>
+     <h2>
+      <span class="mw-headline" id="History">
+       History
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=United_Nations_Environment_Programme&amp;action=edit&amp;section=1" title="Edit section: History">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      UNEP headquarters were established in Nairobi, Kenya, in the late 1970s with a staff of 300, 100 of them professionals in a variety of fields and with a five‐year fund of more than $100 million. At the time, $40 million were pledged by the United States and the rest by 50 other nations.
+      <sup class="reference" id="cite_ref-3">
+       <a href="#cite_note-3">
+        [3]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Governance">
+       Governance
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=United_Nations_Environment_Programme&amp;action=edit&amp;section=2" title="Edit section: Governance">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <h3>
+      <span class="mw-headline" id="Executive_Director">
+       Executive Director
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=United_Nations_Environment_Programme&amp;action=edit&amp;section=3" title="Edit section: Executive Director">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      UNEP's current Executive Director
+      <a href="/wiki/Erik_Solheim" title="Erik Solheim">
+       Erik Solheim
+      </a>
+      succeeded the previous director
+      <a href="/wiki/Achim_Steiner" title="Achim Steiner">
+       Achim Steiner
+      </a>
+      in 2016.
+     </p>
+     <p>
+      The position was held for 17 years (1975–1992) by Dr.
+      <a href="/wiki/Mostafa_Kamal_Tolba" title="Mostafa Kamal Tolba">
+       Mostafa Kamal Tolba
+      </a>
+      , who was instrumental in bringing environmental considerations to the forefront of global thinking and action. Under his leadership, UNEP's most widely acclaimed success—the historic 1987 agreement to protect the ozone layer—the
+      <a href="/wiki/Montreal_Protocol" title="Montreal Protocol">
+       Montreal Protocol
+      </a>
+      was negotiated.
+     </p>
+     <p>
+      During December 1972, the UN General Assembly unanimously elected
+      <a href="/wiki/Maurice_Strong" title="Maurice Strong">
+       Maurice Strong
+      </a>
+      to head UNEP. Also Secretary General of both the 1972 United Nations Conference on the Human Environment, which launched the world environment movement, and the 1992 Earth Summit, Strong has played a critical role is globalizing the environmental movement.
+     </p>
+     <h3>
+      <span class="mw-headline" id="List_of_Executive_Directors">
+       List of Executive Directors
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=United_Nations_Environment_Programme&amp;action=edit&amp;section=4" title="Edit section: List of Executive Directors">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <table class="wikitable">
+      <tr>
+       <th>
+        #
+       </th>
+       <th>
+        Picture
+       </th>
+       <th width="35%">
+        Name
+        <br/>
+        <small>
+         (Birth–Death)'
+        </small>
+       </th>
+       <th width="20%">
+        Nationality
+       </th>
+       <th>
+        Took office
+       </th>
+       <th>
+        Left office
+       </th>
+      </tr>
+      <tr>
+       <td>
+        6
+       </td>
+       <td>
+        <a class="image" href="/wiki/File:Erik_Solheim.jpg">
+         <img alt="Erik Solheim.jpg" data-file-height="3367" data-file-width="2245" height="119" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Erik_Solheim.jpg/79px-Erik_Solheim.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Erik_Solheim.jpg/119px-Erik_Solheim.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Erik_Solheim.jpg/159px-Erik_Solheim.jpg 2x" width="79"/>
+        </a>
+       </td>
+       <td>
+        <b>
+         <a href="/wiki/Erik_Solheim" title="Erik Solheim">
+          Erik Solheim
+         </a>
+        </b>
+        <br/>
+        <small>
+         <b>
+          (born 1955)
+         </b>
+         '
+        </small>
+       </td>
+       <td>
+        <span class="flagicon">
+         <img alt="" class="thumbborder" data-file-height="800" data-file-width="1100" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/32px-Flag_of_Norway.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/41px-Flag_of_Norway.svg.png 2x" width="21"/>
+        </span>
+        <a href="/wiki/Norway" title="Norway">
+         Norway
+        </a>
+       </td>
+       <td>
+        2016
+       </td>
+       <td>
+        <b>
+         Present
+        </b>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        5
+       </td>
+       <td>
+        <a class="image" href="/wiki/File:Achim_Steiner.JPG" title="Achim Steiner">
+         <img alt="Achim Steiner" data-file-height="1696" data-file-width="1504" height="90" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Achim_Steiner.JPG/80px-Achim_Steiner.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Achim_Steiner.JPG/120px-Achim_Steiner.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Achim_Steiner.JPG/160px-Achim_Steiner.JPG 2x" width="80"/>
+        </a>
+       </td>
+       <td align="center">
+        <b>
+         <a href="/wiki/Achim_Steiner" title="Achim Steiner">
+          Achim Steiner
+         </a>
+        </b>
+        <br/>
+        <small>
+         <b>
+          (born 1961)
+         </b>
+         '
+        </small>
+       </td>
+       <td>
+        <span class="flagicon">
+         <img alt="" class="thumbborder" data-file-height="600" data-file-width="1000" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" width="23"/>
+        </span>
+        <a href="/wiki/Germany" title="Germany">
+         Germany
+        </a>
+       </td>
+       <td>
+        2006
+       </td>
+       <td>
+        2016
+       </td>
+      </tr>
+      <tr>
+       <td>
+        4
+       </td>
+       <td>
+        <a class="image" href="/wiki/File:Klaus_Toepfer_5.jpg" title="Klaus Töpfer">
+         <img alt="Klaus Töpfer" data-file-height="500" data-file-width="342" height="117" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Klaus_Toepfer_5.jpg/80px-Klaus_Toepfer_5.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Klaus_Toepfer_5.jpg/120px-Klaus_Toepfer_5.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Klaus_Toepfer_5.jpg/160px-Klaus_Toepfer_5.jpg 2x" width="80"/>
+        </a>
+       </td>
+       <td align="center">
+        <b>
+         <a href="/wiki/Klaus_T%C3%B6pfer" title="Klaus Töpfer">
+          Klaus Töpfer
+         </a>
+        </b>
+        <br/>
+        <small>
+         <b>
+          (born 1938)'
+         </b>
+        </small>
+       </td>
+       <td>
+        <span class="flagicon">
+         <img alt="" class="thumbborder" data-file-height="600" data-file-width="1000" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" width="23"/>
+        </span>
+        <a href="/wiki/Germany" title="Germany">
+         Germany
+        </a>
+       </td>
+       <td>
+        1998
+       </td>
+       <td>
+        2006
+       </td>
+      </tr>
+      <tr>
+       <td>
+        3
+       </td>
+       <td>
+        <a class="image" href="/wiki/File:Dowdeswell_Throne.jpg" title="Elizabeth Dowdeswell">
+         <img alt="Elizabeth Dowdeswell" data-file-height="2128" data-file-width="1416" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Dowdeswell_Throne.jpg/80px-Dowdeswell_Throne.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Dowdeswell_Throne.jpg/120px-Dowdeswell_Throne.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Dowdeswell_Throne.jpg/160px-Dowdeswell_Throne.jpg 2x" width="80"/>
+        </a>
+       </td>
+       <td align="center">
+        <b>
+         <a href="/wiki/Elizabeth_Dowdeswell" title="Elizabeth Dowdeswell">
+          Elizabeth Dowdeswell
+         </a>
+        </b>
+        <br/>
+        <small>
+         <b>
+          (born 1944)'
+         </b>
+        </small>
+       </td>
+       <td>
+        <span class="flagicon">
+         <img alt="" class="thumbborder" data-file-height="500" data-file-width="1000" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/35px-Flag_of_Canada.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/46px-Flag_of_Canada.svg.png 2x" width="23"/>
+        </span>
+        <a href="/wiki/Canada" title="Canada">
+         Canada
+        </a>
+       </td>
+       <td>
+        1992
+       </td>
+       <td>
+        1998
+       </td>
+      </tr>
+      <tr>
+       <td>
+        2
+       </td>
+       <td>
+       </td>
+       <td align="center">
+        <b>
+         <a href="/wiki/Mostafa_Kamal_Tolba" title="Mostafa Kamal Tolba">
+          Mostafa Kamal Tolba
+         </a>
+        </b>
+        <br/>
+        <small>
+         <b>
+          (1922-2016)'
+         </b>
+        </small>
+       </td>
+       <td>
+        <span class="flagicon">
+         <img alt="" class="thumbborder" data-file-height="600" data-file-width="900" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/23px-Flag_of_Egypt.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/35px-Flag_of_Egypt.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/45px-Flag_of_Egypt.svg.png 2x" width="23"/>
+        </span>
+        <a href="/wiki/Egypt" title="Egypt">
+         Egypt
+        </a>
+       </td>
+       <td>
+        1975
+       </td>
+       <td>
+        1992
+       </td>
+      </tr>
+      <tr>
+       <td>
+        1
+       </td>
+       <td>
+        <a class="image" href="/wiki/File:Maurice_Strong_Four_Freedoms_Award_2010.jpg" title="Maurice Strong">
+         <img alt="Maurice Strong" data-file-height="2288" data-file-width="1712" height="107" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Maurice_Strong_Four_Freedoms_Award_2010.jpg/80px-Maurice_Strong_Four_Freedoms_Award_2010.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Maurice_Strong_Four_Freedoms_Award_2010.jpg/120px-Maurice_Strong_Four_Freedoms_Award_2010.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/23/Maurice_Strong_Four_Freedoms_Award_2010.jpg/160px-Maurice_Strong_Four_Freedoms_Award_2010.jpg 2x" width="80"/>
+        </a>
+       </td>
+       <td align="center">
+        <b>
+         <a href="/wiki/Maurice_Strong" title="Maurice Strong">
+          Maurice Strong
+         </a>
+        </b>
+        <sup class="reference" id="cite_ref-4">
+         <a href="#cite_note-4">
+          [4]
+         </a>
+        </sup>
+        <br/>
+        <small>
+         <b>
+          (1929-2015)
+         </b>
+        </small>
+       </td>
+       <td>
+        <span class="flagicon">
+         <img alt="" class="thumbborder" data-file-height="500" data-file-width="1000" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/35px-Flag_of_Canada.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/46px-Flag_of_Canada.svg.png 2x" width="23"/>
+        </span>
+        <a href="/wiki/Canada" title="Canada">
+         Canada
+        </a>
+       </td>
+       <td>
+        1972
+       </td>
+       <td>
+        1975
+       </td>
+      </tr>
+     </table>
+     <h3>
+      <span class="mw-headline" id="Structure">
+       Structure
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=United_Nations_Environment_Programme&amp;action=edit&amp;section=5" title="Edit section: Structure">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      UNEP's structure includes seven substantive Divisions:
+     </p>
+     <ul>
+      <li>
+       Early Warning and Assessment (DEWA)
+      </li>
+      <li>
+       Environmental Policy Implementation (DEPI)
+      </li>
+      <li>
+       Technology, Industry and Economics (DTIE)
+      </li>
+      <li>
+       Regional Cooperation (DRC)
+      </li>
+      <li>
+       Environmental Law and Conventions (DELC)
+      </li>
+      <li>
+       Communications and Public Information (DCPI)
+      </li>
+      <li>
+       Global Environment Facility Coordination (DGEF)
+      </li>
+     </ul>
+     <p>
+      <sup class="reference" id="cite_ref-5">
+       <a href="#cite_note-5">
+        [5]
+       </a>
+      </sup>
+     </p>
+     <h2>
+      <span class="mw-headline" id="Activities">
+       Activities
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=United_Nations_Environment_Programme&amp;action=edit&amp;section=6" title="Edit section: Activities">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <p>
+      UNEP's main activities are related to:
+      <sup class="reference" id="cite_ref-6">
+       <a href="#cite_note-6">
+        [6]
+       </a>
+      </sup>
+     </p>
+     <ul>
+      <li>
+       <a href="/wiki/Climate_change" title="Climate change">
+        climate change
+       </a>
+       ;
+       <ul>
+        <li>
+         including the
+         <a href="/wiki/Territorial_Approach_to_Climate_Change" title="Territorial Approach to Climate Change">
+          Territorial Approach to Climate Change
+         </a>
+         (TACC);
+        </li>
+       </ul>
+      </li>
+      <li>
+       disasters and conflicts;
+      </li>
+      <li>
+       <a href="/wiki/Ecosystem_management" title="Ecosystem management">
+        ecosystem management
+       </a>
+       ;
+      </li>
+      <li>
+       <a href="/wiki/Environmental_governance" title="Environmental governance">
+        environmental governance
+       </a>
+       ;
+      </li>
+      <li>
+       environment under review;
+      </li>
+      <li>
+       <a class="new" href="/w/index.php?title=Harmful_substance&amp;action=edit&amp;redlink=1" title="Harmful substance (page does not exist)">
+        harmful substances
+       </a>
+       ; and
+      </li>
+      <li>
+       <a href="/wiki/Resource_efficiency" title="Resource efficiency">
+        resource efficiency
+       </a>
+       .
+      </li>
+     </ul>
+     <h3>
+      <span class="mw-headline" id="Notable_achievements">
+       Notable achievements
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=United_Nations_Environment_Programme&amp;action=edit&amp;section=7" title="Edit section: Notable achievements">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      UNEP has registered several successes, such as the 1987
+      <a href="/wiki/Montreal_Protocol" title="Montreal Protocol">
+       Montreal Protocol
+      </a>
+      for limiting emissions of gases blamed for thinning the planet's protective ozone layer, or the 2012
+      <a href="/wiki/Minamata_Convention_on_Mercury" title="Minamata Convention on Mercury">
+       Minamata Convention
+      </a>
+      , a treaty to limit toxic mercury.
+      <sup class="reference" id="cite_ref-7">
+       <a href="#cite_note-7">
+        [7]
+       </a>
+      </sup>
+     </p>
+     <p>
+      UNEP has sponsored the development of solar loan programs, with attractive return rates, to buffer the initial deployment costs and entice consumers to consider and purchase solar PV systems. The most famous example is the
+      <a href="/wiki/Indian_Solar_Loan_Programme" title="Indian Solar Loan Programme">
+       solar loan program
+      </a>
+      sponsored by UNEP helped 100,000 people finance solar power systems in
+      <a href="/wiki/Solar_power_in_India" title="Solar power in India">
+       India
+      </a>
+      .
+      <sup class="reference" id="cite_ref-8">
+       <a href="#cite_note-8">
+        [8]
+       </a>
+      </sup>
+      Success in India's solar program has led to similar projects in other parts of the developing world like
+      <a href="/wiki/Tunisia" title="Tunisia">
+       Tunisia
+      </a>
+      ,
+      <a href="/wiki/Morocco" title="Morocco">
+       Morocco
+      </a>
+      ,
+      <a href="/wiki/Indonesia" title="Indonesia">
+       Indonesia
+      </a>
+      and
+      <a href="/wiki/Mexico" title="Mexico">
+       Mexico
+      </a>
+      .
+     </p>
+     <p>
+      UNEP sponsors the Marshlands project in the
+      <a href="/wiki/Middle_East" title="Middle East">
+       Middle East
+      </a>
+      . In 2001, UNEP alerted the international community to the destruction of the Marshlands when it released satellite images showing that 90 percent of the Marshlands had already been lost. The UNEP "support for Environmental Management of the Iraqi Marshland" commenced in August 2004, in order to manage the Marshland area in an environmentally sound manner.
+      <sup class="reference" id="cite_ref-9">
+       <a href="#cite_note-9">
+        [9]
+       </a>
+      </sup>
+     </p>
+     <p>
+      In order to ensure full participation of global communities, UNEP works in an inclusive fashion that brings on board different societal cohorts. UNEP has a programme for young people known as Tunza. Within this program are other projects like the
+      <a class="mw-redirect" href="/wiki/AEO_for_Youth" title="AEO for Youth">
+       AEO for Youth
+      </a>
+      .
+      <sup class="reference" id="cite_ref-10">
+       <a href="#cite_note-10">
+        [10]
+       </a>
+      </sup>
+     </p>
+     <p>
+      <b>
+       Glaciers shrinking
+      </b>
+     </p>
+     <div class="hatnote" role="note">
+      Further information:
+      <a href="/wiki/Retreat_of_glaciers_since_1850" title="Retreat of glaciers since 1850">
+       Retreat of glaciers since 1850
+      </a>
+     </div>
+     <p>
+      <a href="/wiki/Glacier" title="Glacier">
+       Glaciers
+      </a>
+      are shrinking at record rates and many could disappear within decades, the U.N. Environment Programme said on March 16, 2008. The scientists measuring the health of almost 30 glaciers around the world found that ice loss reached record levels in 2006. On average, the glaciers shrank by 4.9 feet in 2006, the most recent year for which data are available. The most severe loss was recorded at
+      <a href="/wiki/Norway" title="Norway">
+       Norway
+      </a>
+      's Breidalblikkbrea glacier, which shrank 10.2 feet in 2006. Glaciers lost an average of about a foot of ice a year between 1980 and 1999. But since the turn of the millennium the average loss has increased to about 20 inches.
+      <sup class="reference" id="cite_ref-11">
+       <a href="#cite_note-11">
+        [11]
+       </a>
+      </sup>
+     </p>
+     <p>
+      <b>
+       Electric vehicles
+      </b>
+     </p>
+     <p>
+      At the fifth Magdeburg Environmental Forum held from 3–4 July 2008, in Magdeburg, Germany, UNEP and car manufacturer
+      <a href="/wiki/Daimler_AG" title="Daimler AG">
+       Daimler
+      </a>
+      called for the establishment of infrastructure for
+      <a href="/wiki/Electric_vehicle" title="Electric vehicle">
+       electric vehicles
+      </a>
+      . At this international conference, 250 high-ranking representatives from ce, politics and non-government organizations discussed solutions for future road transportation under the motto of "Sustainable Mobility–
+      <a class="mw-redirect" href="/wiki/United_Nations_Climate_Change_Conference_2009" title="United Nations Climate Change Conference 2009">
+       the Post-2012 CO2 Agenda
+      </a>
+      ".
+      <sup class="reference" id="cite_ref-12">
+       <a href="#cite_note-12">
+        [12]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="Reports">
+       Reports
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=United_Nations_Environment_Programme&amp;action=edit&amp;section=8" title="Edit section: Reports">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <p>
+      UNEP publishes many reports, atlases and newsletters. For instance, the fifth Global Environment Outlook (GEO-5) assessment is a comprehensive report on environment, development and human well-being, providing analysis and information for policy makers and the concerned public. One of many points in the GEO-5 warns that we are living far beyond our means. It notes that the human population is now so large that the amount of resources needed to sustain it exceeds what is available.
+     </p>
+     <p>
+      In June 2010, a report from UNEP declared that a global shift towards a
+      <a href="/wiki/Veganism" title="Veganism">
+       vegan diet
+      </a>
+      was needed to save the world from hunger, fuel shortages and climate change.
+      <sup class="reference" id="cite_ref-13">
+       <a href="#cite_note-13">
+        [13]
+       </a>
+      </sup>
+     </p>
+     <h3>
+      <span class="mw-headline" id="International_years">
+       International years
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=United_Nations_Environment_Programme&amp;action=edit&amp;section=9" title="Edit section: International years">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h3>
+     <ul>
+      <li>
+       2007 –
+       <a href="/wiki/Year_of_the_Dolphin" title="Year of the Dolphin">
+        (International) Year of the Dolphin
+       </a>
+      </li>
+     </ul>
+     <p>
+      (International) Patron of the Year of the Dolphin was H.S.H.
+      <a href="/wiki/Albert_II,_Prince_of_Monaco" title="Albert II, Prince of Monaco">
+       Prince Albert II
+      </a>
+      of
+      <a href="/wiki/Monaco" title="Monaco">
+       Monaco
+      </a>
+      , with Special Ambassador to the cause being
+      <a href="/wiki/Nick_Carter_(musician)" title="Nick Carter (musician)">
+       Nick Carter
+      </a>
+      , of the
+      <a href="/wiki/Backstreet_Boys" title="Backstreet Boys">
+       Backstreet Boys
+      </a>
+      .
+      <sup class="reference" id="cite_ref-14">
+       <a href="#cite_note-14">
+        [14]
+       </a>
+      </sup>
+     </p>
+     <ul>
+      <li>
+       2010 – International Year of Biodiversity
+      </li>
+      <li>
+       2011 – International Year of Forests
+      </li>
+      <li>
+       2012 – International Year for Sustainable Energy for All
+      </li>
+      <li>
+       2013 – International Year of Water Cooperation
+      </li>
+     </ul>
+     <p>
+      (See
+      <a class="mw-redirect" href="/wiki/International_observance" title="International observance">
+       international observance
+      </a>
+      and
+      <a href="/wiki/List_of_environmental_dates" title="List of environmental dates">
+       list of environmental dates
+      </a>
+      .)
+     </p>
+     <h2>
+      <span class="mw-headline" id="Reform">
+       Reform
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=United_Nations_Environment_Programme&amp;action=edit&amp;section=10" title="Edit section: Reform">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="hatnote" role="note">
+      Main articles:
+      <a class="new" href="/w/index.php?title=International_Sustainable_Energy_Agency&amp;action=edit&amp;redlink=1" title="International Sustainable Energy Agency (page does not exist)">
+       International Sustainable Energy Agency
+      </a>
+      ,
+      <a class="mw-redirect" href="/wiki/UNEO" title="UNEO">
+       UNEO
+      </a>
+      , and
+      <a class="mw-redirect" href="/wiki/IRENA" title="IRENA">
+       IRENA
+      </a>
+     </div>
+     <p>
+      Following the publication of
+      <a href="/wiki/IPCC_Fourth_Assessment_Report" title="IPCC Fourth Assessment Report">
+       Fourth Assessment Report
+      </a>
+      of the
+      <a href="/wiki/Intergovernmental_Panel_on_Climate_Change" title="Intergovernmental Panel on Climate Change">
+       Intergovernmental Panel on Climate Change
+      </a>
+      (IPCC) in February 2007, a "Paris Call for Action" read out by French President
+      <a href="/wiki/Jacques_Chirac" title="Jacques Chirac">
+       Jacques Chirac
+      </a>
+      and supported by 46 countries, called for the United Nations Environment Programme to be replaced by a new and more powerful "United Nations Environment Organization (UNEO)", also called Global Environment Organisation now supported by French President
+      <a href="/wiki/Nicolas_Sarkozy" title="Nicolas Sarkozy">
+       Nicolas Sarkozy
+      </a>
+      and German Chancellor
+      <a href="/wiki/Angela_Merkel" title="Angela Merkel">
+       Angela Merkel
+      </a>
+      , to be modelled on the
+      <a href="/wiki/World_Health_Organization" title="World Health Organization">
+       World Health Organization
+      </a>
+      . The 46 countries included the
+      <a href="/wiki/European_Union" title="European Union">
+       European Union
+      </a>
+      nations, but notably did not include the
+      <a href="/wiki/United_States" title="United States">
+       United States
+      </a>
+      ,
+      <a href="/wiki/Saudi_Arabia" title="Saudi Arabia">
+       Saudi Arabia
+      </a>
+      ,
+      <a href="/wiki/Russia" title="Russia">
+       Russia
+      </a>
+      , and
+      <a href="/wiki/China" title="China">
+       China
+      </a>
+      , the top four emitters of greenhouse gases.
+      <sup class="reference" id="cite_ref-15">
+       <a href="#cite_note-15">
+        [15]
+       </a>
+      </sup>
+     </p>
+     <p>
+      In December 2012, following the Rio+20 Summit, a decision by the General Assembly of the United Nations to '
+      <a class="external text" href="http://www.unep.org/NEWSCENTRE/default.aspx?DocumentId=2700&amp;ArticleId=9363" rel="nofollow">
+       strengthen and upgrade
+      </a>
+      ' the UN Environment Programme (UNEP) and establish universal membership of its governing body was confirmed.
+     </p>
+     <h2>
+      <span class="mw-headline" id="See_also">
+       See also
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=United_Nations_Environment_Programme&amp;action=edit&amp;section=11" title="Edit section: See also">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+      <ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+       <li style="display:table-row">
+        <span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center">
+         <a class="image" href="/wiki/File:Sustainable_development.svg">
+          <img alt="icon" class="noviewer" data-file-height="510" data-file-width="800" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/32px-Sustainable_development.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/64px-Sustainable_development.svg.png 2x" width="32"/>
+         </a>
+        </span>
+        <span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">
+         <a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">
+          Sustainable development portal
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <ul>
+      <li>
+       <a class="mw-redirect" href="/wiki/2010_Biodiversity_Indicators_Partnership" title="2010 Biodiversity Indicators Partnership">
+        2010 Biodiversity Indicators Partnership
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/United_Nations_Environment_Program_Finance_Initiative" title="United Nations Environment Program Finance Initiative">
+        United Nations Environment Program Finance Initiative
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Global_warming" title="Global warming">
+        Global warming
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/International_Renewable_Energy_Agency" title="International Renewable Energy Agency">
+        International Renewable Energy Agency
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/Melbourne_Principles" title="Melbourne Principles">
+        Melbourne Principles
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Miss_Earth_Foundation" title="Miss Earth Foundation">
+        Miss Earth Foundation
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/Timeline_of_environmental_events" title="Timeline of environmental events">
+        Timeline of environmental events
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/UNEP_GEO_Data_Portal" title="UNEP GEO Data Portal">
+        UNEP GEO Data Portal
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/UNEP/GRID-Arendal" title="UNEP/GRID-Arendal">
+        UNEP/GRID-Arendal
+       </a>
+      </li>
+      <li>
+       <a class="mw-redirect" href="/wiki/United_Nations_Billion_Tree_Campaign" title="United Nations Billion Tree Campaign">
+        United Nations Billion Tree Campaign
+       </a>
+      </li>
+      <li>
+       <a href="/wiki/World_Conservation_Monitoring_Centre" title="World Conservation Monitoring Centre">
+        World Conservation Monitoring Centre
+       </a>
+      </li>
+     </ul>
+     <h2>
+      <span class="mw-headline" id="References">
+       References
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=United_Nations_Environment_Programme&amp;action=edit&amp;section=12" title="Edit section: References">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+      <ol class="references">
+       <li id="cite_note-1">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-1">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Alister Doyle (February 17, 2013 ),
+         <a class="external text" href="http://www.reuters.com/article/us-test-idUSBRE91G03Q20130217" rel="nofollow">
+          Reformed U.N. formula for making planet greener to get first test
+         </a>
+         <i>
+          <a href="/wiki/Reuters" title="Reuters">
+           Reuters
+          </a>
+         </i>
+         .
+        </span>
+       </li>
+       <li id="cite_note-2">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-2">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="https://web.archive.org/web/20110511144047/http://www.undg.org/index.cfm?P=13" rel="nofollow">
+           "Archived copy"
+          </a>
+          . Archived from
+          <a class="external text" href="http://www.undg.org/index.cfm?P%3D13" rel="nofollow">
+           the original
+          </a>
+          on May 11, 2011
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            May 15,
+           </span>
+           2012
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnited+Nations+Environment+Programme&amp;rft.btitle=Archived+copy&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.undg.org%2Findex.cfm%3FP%253D13&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-3">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-3">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Gladwinn Hill (October 20, 1975),
+         <a class="external text" href="http://www.nytimes.com/1975/10/20/archives/un-environment-effort-a-start-a-long-way-to-go-un.html" rel="nofollow">
+          U.N. Environment Effort: A Start, a Long Way to Go
+         </a>
+         <i>
+          <a class="mw-redirect" href="/wiki/New_York_Times" title="New York Times">
+           New York Times
+          </a>
+         </i>
+         .
+        </span>
+       </li>
+       <li id="cite_note-4">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-4">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation book">
+          Schrijver, Nico (2010).
+          <a class="external text" href="https://books.google.com/books?id=oBaJ3OXWr9UC&amp;pg=PA116" rel="nofollow">
+           <i>
+            Development Without Destruction: The UN and Global Resource Management
+           </i>
+          </a>
+          . United Nations Intellectual History Project Series. Bloomington, IN: Indiana University Press. p. 116.
+          <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+           ISBN
+          </a>
+          <a href="/wiki/Special:BookSources/978-0-253-22197-1" title="Special:BookSources/978-0-253-22197-1">
+           978-0-253-22197-1
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnited+Nations+Environment+Programme&amp;rft.aufirst=Nico&amp;rft.aulast=Schrijver&amp;rft.btitle=Development+Without+Destruction%3A+The+UN+and+Global+Resource+Management&amp;rft.date=2010&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DoBaJ3OXWr9UC%26pg%3DPA116&amp;rft.isbn=978-0-253-22197-1&amp;rft.pages=116&amp;rft.place=Bloomington%2C+IN&amp;rft.pub=Indiana+University+Press&amp;rft.series=United+Nations+Intellectual+History+Project+Series&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-5">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-5">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://www.unep.org/Documents.Multilingual/Default.asp?DocumentID=296" rel="nofollow">
+           "UNEP Offices"
+          </a>
+          .
+          <i>
+           UNEP
+          </i>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnited+Nations+Environment+Programme&amp;rft.atitle=UNEP+Offices&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.unep.org%2FDocuments.Multilingual%2FDefault.asp%3FDocumentID%3D296&amp;rft.jtitle=UNEP&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-6">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-6">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://unep.org/" rel="nofollow">
+           "United Nations Environment Programme"
+          </a>
+          . unep.org. November 2011
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            November 17,
+           </span>
+           2011
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnited+Nations+Environment+Programme&amp;rft.btitle=United+Nations+Environment+Programme&amp;rft.date=2011-11&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Funep.org%2F&amp;rft.pub=unep.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-7">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-7">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Alister Doyle (February 17, 2013 ),
+         <a class="external text" href="http://www.reuters.com/article/us-test-idUSBRE91G03Q20130217" rel="nofollow">
+          Reformed U.N. formula for making planet greener to get first test
+         </a>
+         <i>
+          <a href="/wiki/Reuters" title="Reuters">
+           Reuters
+          </a>
+         </i>
+         .
+        </span>
+       </li>
+       <li id="cite_note-8">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-8">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.unep.org/Documents.Multilingual/Default.asp?DocumentID=504&amp;ArticleID=5562&amp;l=en" rel="nofollow">
+          Solar loan program in India
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-9">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-9">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://marshlands.unep.or.jp/" rel="nofollow">
+          UNEP Marshland project in Middle East
+         </a>
+         <a class="external text" href="https://web.archive.org/web/20071006021403/http://marshlands.unep.or.jp/" rel="nofollow">
+          Archived
+         </a>
+         October 6, 2007, at the
+         <a href="/wiki/Wayback_Machine" title="Wayback Machine">
+          Wayback Machine
+         </a>
+         .
+        </span>
+       </li>
+       <li id="cite_note-10">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-10">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.unep.org/DEWA/africa/youth/about.htm" rel="nofollow">
+          AEO-for-Youth
+         </a>
+         <a class="external text" href="https://web.archive.org/web/20111223100118/http://www.unep.org/DEWA/africa/youth/about.htm" rel="nofollow">
+          Archived
+         </a>
+         December 23, 2011, at the
+         <a href="/wiki/Wayback_Machine" title="Wayback Machine">
+          Wayback Machine
+         </a>
+         .
+        </span>
+       </li>
+       <li id="cite_note-11">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-11">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://edition.cnn.com/2008/WORLD/weather/03/16/un.climate.ap/index.html" rel="nofollow">
+          U.N.: Glaciers shrinking at record rate
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-12">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-12">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation web">
+          <a class="external text" href="http://climate-l.org/2008/07/11/unep-and-daimler-call-for-infrastructure-for-electric-and-fuel-cell-vehicles/" rel="nofollow">
+           "UNEP and Daimler Call for Infrastructure for Electric and Fuel-cell Vehicles"
+          </a>
+          . Climate-L.org. 4 July 2008
+          <span class="reference-accessdate">
+           . Retrieved
+           <span class="nowrap">
+            June 16,
+           </span>
+           2010
+          </span>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnited+Nations+Environment+Programme&amp;rft.btitle=UNEP+and+Daimler+Call+for+Infrastructure+for+Electric+and+Fuel-cell+Vehicles&amp;rft.date=2008-07-04&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fclimate-l.org%2F2008%2F07%2F11%2Funep-and-daimler-call-for-infrastructure-for-electric-and-fuel-cell-vehicles%2F&amp;rft.pub=Climate-L.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+       <li id="cite_note-13">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-13">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         Felicity Carus
+         <a class="external text" href="http://www.guardian.co.uk/environment/2010/jun/02/un-report-meat-free-diet" rel="nofollow">
+          UN urges global move to meat and dairy-free diet
+         </a>
+         ,
+         <i>
+          <a href="/wiki/The_Guardian" title="The Guardian">
+           The Guardian
+          </a>
+         </i>
+         , 2 June 2010
+        </span>
+        <ul>
+         <li>
+          <span class="reference-text">
+           Also see
+           <a class="external text" href="http://www.unep.org/Documents.Multilingual/Default.asp?DocumentID=628&amp;ArticleID=6595&amp;l=en" rel="nofollow">
+            "Energy and Agriculture Top Resource Panel's Priority List for Sustainable 21st Century"
+           </a>
+           , United Nations Environment Programme (UNEP), Brussels, 2 June 2010.
+          </span>
+         </li>
+        </ul>
+       </li>
+       <li id="cite_note-14">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-14">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <a class="external text" href="http://www.newswise.com/articles/view/530059" rel="nofollow">
+          Newswise Science News | Pop Superstar Nick Carter to Help Wild Dolphins and Oceans
+         </a>
+        </span>
+       </li>
+       <li id="cite_note-15">
+        <span class="mw-cite-backlink">
+         <b>
+          <a href="#cite_ref-15">
+           ^
+          </a>
+         </b>
+        </span>
+        <span class="reference-text">
+         <cite class="citation news">
+          Doyle, Alister (2007-02-03).
+          <a class="external text" href="http://today.reuters.com/news/articlenews.aspx?type=environment&amp;storyID=2007-02-03T144510Z_01_L03357553_RTRIDST_0_DCBRIGHTS-GLOBALWARMING-APPEAL-DC.XML" rel="nofollow">
+           "46 nations call for tougher U.N. environment role"
+          </a>
+          .
+          <a href="/wiki/Reuters" title="Reuters">
+           Reuters
+          </a>
+          .
+         </cite>
+         <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnited+Nations+Environment+Programme&amp;rft.atitle=46+nations+call+for+tougher+U.N.+environment+role&amp;rft.aufirst=Alister&amp;rft.aulast=Doyle&amp;rft.date=2007-02-03&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Ftoday.reuters.com%2Fnews%2Farticlenews.aspx%3Ftype%3Denvironment%26storyID%3D2007-02-03T144510Z_01_L03357553_RTRIDST_0_DCBRIGHTS-GLOBALWARMING-APPEAL-DC.XML&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal">
+          <span style="display:none;">
+          </span>
+         </span>
+        </span>
+       </li>
+      </ol>
+     </div>
+     <h2>
+      <span class="mw-headline" id="Further_reading">
+       Further reading
+      </span>
+      <span class="mw-editsection">
+       <span class="mw-editsection-bracket">
+        [
+       </span>
+       <a href="/w/index.php?title=United_Nations_Environment_Programme&amp;action=edit&amp;section=13" title="Edit section: Further reading">
+        edit
+       </a>
+       <span class="mw-editsection-bracket">
+        ]
+       </span>
+      </span>
+     </h2>
+     <ul>
+      <li>
+       United Nations Environment Programme. "Natural Allies: UNEP and Civil Society." Nairobi:
+       <a href="/wiki/United_Nations_Foundation" title="United Nations Foundation">
+        United Nations Foundation
+       </a>
+       , 2004.
+      </li>
+      <li>
+       Paul Berthoud,
+       <a class="external text" href="http://www.edinter.net/paulberthoud/narrative/#nai" rel="nofollow">
+        A Professional Life Narrative
+       </a>
+       , 2008, worked with UNEP and offers testimony from the inside of the
+       <a class="external text" href="http://www.edinter.net/paulberthoud/narrative/#nai" rel="nofollow">
+        early years
+       </a>
+       of the organization.
+      </li>
+     </ul>
+     <p>
+      Helpful links
+     </p>
+     <table class="mbox-small plainlinks sistersitebox" role="presentation" style="border:1px solid #aaa;background-color:#f9f9f9">
+      <tr>
+       <td class="mbox-image">
+        <a class="image" href="/wiki/File:Commons-logo.svg">
+         <img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/>
+        </a>
+       </td>
+       <td class="mbox-text plainlist">
+        Wikimedia Commons has media related to
+        <i>
+         <b>
+          <a class="extiw" href="https://commons.wikimedia.org/wiki/Special:Search/United_Nations_Environment_Programme" title="commons:Special:Search/United Nations Environment Programme">
+           United Nations Environment Programme
+          </a>
+         </b>
+        </i>
+        .
+       </td>
+      </tr>
+     </table>
+     <ul>
+      <li>
+       <a class="external text" href="http://www.unep.org" rel="nofollow">
+        United Nations Environment Programme
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.unepfi.org" rel="nofollow">
+        UNEP Finance Initiative
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.fs-unep-centre.org" rel="nofollow">
+        Frankfurt School – UNEP Collaborating Centre for Climate &amp; Sustainable Energy Finance
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.unep-wcmc.org" rel="nofollow">
+        United Nations Environment Programme - World Conservation Monitoring Centre (UNEP-WCMC)
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="https://web.archive.org/web/20090504020717/http://unep-iesd.tongji.edu.cn/IESD/index.jsp" rel="nofollow">
+        UNEP-Tongji Institute of Environment for Sustainable Development
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.grid.unep.ch" rel="nofollow">
+        UNEP/GRID-Europe
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://geodata.grid.unep.ch" rel="nofollow">
+        UNEP GEO Data Portal
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="https://web.archive.org/web/20110831192128/http://ufoartist.webs.com/artikel001.htm" rel="nofollow">
+        Sindrom Kodok Pada Manusia (
+        <i>
+         Indonesia Language
+        </i>
+        )
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.eia.nl" rel="nofollow">
+        Netherlands Commission for Environmental Assessment
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.unep.org/regionalseas" rel="nofollow">
+        UNEP Regional Seas Programme
+       </a>
+      </li>
+      <li>
+       <a class="external text" href="http://www.indiaenvironmentportal.org.in/category/3902/thesaurus/unep/" rel="nofollow">
+        Resources on United Nations Environment Programme (UNEP
+       </a>
+      </li>
+     </ul>
+     <div aria-labelledby="23px.7Cborder_.7Calt.3D.7Clink.3D.C2.A0United_Nations" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-title" colspan="2" scope="col">
+         <div class="plainlinks hlist navbar mini">
+          <ul>
+           <li class="nv-view">
+            <a href="/wiki/Template:United_Nations" title="Template:United Nations">
+             <abbr style=";;background:none transparent;border:none;" title="View this template">
+              v
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-talk">
+            <a href="/wiki/Template_talk:United_Nations" title="Template talk:United Nations">
+             <abbr style=";;background:none transparent;border:none;" title="Discuss this template">
+              t
+             </abbr>
+            </a>
+           </li>
+           <li class="nv-edit">
+            <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:United_Nations&amp;action=edit">
+             <abbr style=";;background:none transparent;border:none;" title="Edit this template">
+              e
+             </abbr>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="23px.7Cborder_.7Calt.3D.7Clink.3D.C2.A0United_Nations" style="font-size:114%">
+          <span class="flagicon">
+           <img alt="" class="thumbborder" data-file-height="800" data-file-width="1200" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/23px-Flag_of_the_United_Nations.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/35px-Flag_of_the_United_Nations.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/46px-Flag_of_the_United_Nations.svg.png 2x" width="23"/>
+          </span>
+          <a href="/wiki/United_Nations" title="United Nations">
+           United Nations
+          </a>
+         </div>
+        </th>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <td class="navbox-abovebelow" colspan="2">
+         <div>
+          <ul>
+           <li>
+            <a href="/wiki/Ban_Ki-moon" title="Ban Ki-moon">
+             Ban Ki-moon
+            </a>
+            ,
+            <a href="/wiki/Secretary-General_of_the_United_Nations" title="Secretary-General of the United Nations">
+             Secretary-General
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Jan_Eliasson" title="Jan Eliasson">
+             Jan Eliasson
+            </a>
+            ,
+            <a href="/wiki/Deputy_Secretary-General_of_the_United_Nations" title="Deputy Secretary-General of the United Nations">
+             Deputy Secretary-General
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Peter_Thomson_(diplomat)" title="Peter Thomson (diplomat)">
+             Peter Thomson
+            </a>
+            ,
+            <a href="/wiki/President_of_the_United_Nations_General_Assembly" title="President of the United Nations General Assembly">
+             General Assembly President
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/United_Nations_System" title="United Nations System">
+          United Nations System
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+         </div>
+         <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+          <tr>
+           <th class="navbox-group" scope="row" style="padding-left:0;padding-right:0;">
+            <div style="padding:0em 0.75em;">
+             <a href="/wiki/United_Nations_Charter" title="United Nations Charter">
+              United Nations Charter
+             </a>
+            </div>
+           </th>
+           <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a href="/wiki/Preamble_to_the_United_Nations_Charter" title="Preamble to the United Nations Charter">
+                Preamble
+               </a>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+          <tr style="height:2px">
+           <td colspan="2">
+           </td>
+          </tr>
+          <tr>
+           <th class="navbox-group" scope="row" style="padding-left:0;padding-right:0;">
+            <div style="padding:0em 0.75em;">
+             Principal organs
+            </div>
+           </th>
+           <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a href="/wiki/United_Nations_General_Assembly" title="United Nations General Assembly">
+                General Assembly
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/President_of_the_United_Nations_General_Assembly" title="President of the United Nations General Assembly">
+                  President
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/United_Nations_Security_Council" title="United Nations Security Council">
+                Security Council
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/List_of_members_of_the_United_Nations_Security_Council" title="List of members of the United Nations Security Council">
+                  Members
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/United_Nations_Economic_and_Social_Council" title="United Nations Economic and Social Council">
+                Economic and Social Council
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/United_Nations_Secretariat" title="United Nations Secretariat">
+                Secretariat
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Secretary-General_of_the_United_Nations" title="Secretary-General of the United Nations">
+                  Secretary-General
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Deputy_Secretary-General_of_the_United_Nations" title="Deputy Secretary-General of the United Nations">
+                  Deputy-Secretary General
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Under-Secretary-General_of_the_United_Nations" title="Under-Secretary-General of the United Nations">
+                  Under-Secretary-General
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/International_Court_of_Justice" title="International Court of Justice">
+                International Court of Justice
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Statute_of_the_International_Court_of_Justice" title="Statute of the International Court of Justice">
+                  statute
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/United_Nations_Trusteeship_Council" title="United Nations Trusteeship Council">
+                Trusteeship Council
+               </a>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+          <tr style="height:2px">
+           <td colspan="2">
+           </td>
+          </tr>
+          <tr>
+           <th class="navbox-group" scope="row" style="padding-left:0;padding-right:0;">
+            <div style="padding:0em 0.75em;">
+             <div style="padding:0.1em 0;line-height:1.2em;">
+              Programmes and
+              <br/>
+              <a href="/wiki/List_of_specialized_agencies_of_the_United_Nations" title="List of specialized agencies of the United Nations">
+               specialized agencies
+              </a>
+             </div>
+            </div>
+           </th>
+           <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a class="mw-redirect" href="/wiki/Food_and_Agriculture_Organization_of_the_United_Nations" title="Food and Agriculture Organization of the United Nations">
+                FAO
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/International_Civil_Aviation_Organization" title="International Civil Aviation Organization">
+                ICAO
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/International_Fund_for_Agricultural_Development" title="International Fund for Agricultural Development">
+                IFAD
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/International_Labour_Organization" title="International Labour Organization">
+                ILO
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/International_Maritime_Organization" title="International Maritime Organization">
+                IMO
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/International_Trade_Centre" title="International Trade Centre">
+                ITC
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Intergovernmental_Panel_on_Climate_Change" title="Intergovernmental Panel on Climate Change">
+                IPCC
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/International_Atomic_Energy_Agency" title="International Atomic Energy Agency">
+                IAEA
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/United_Nations_Industrial_Development_Organization" title="United Nations Industrial Development Organization">
+                UNIDO
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/International_Telecommunication_Union" title="International Telecommunication Union">
+                ITU
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Joint_United_Nations_Programme_on_HIV/AIDS" title="Joint United Nations Programme on HIV/AIDS">
+                UNAIDS
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Special_Court_for_Sierra_Leone" title="Special Court for Sierra Leone">
+                SCSL
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/United_Nations_Conference_on_Trade_and_Development" title="United Nations Conference on Trade and Development">
+                UNCTAD
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/United_Nations_Commission_on_International_Trade_Law" title="United Nations Commission on International Trade Law">
+                UNCITRAL
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/United_Nations_Capital_Development_Fund" title="United Nations Capital Development Fund">
+                UNCDF
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/United_Nations_Development_Assistance_Framework" title="United Nations Development Assistance Framework">
+                UNDAF
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/United_Nations_Development_Group" title="United Nations Development Group">
+                UNDG
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/United_Nations_Development_Programme" title="United Nations Development Programme">
+                UNDP
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/United_Nations_Department_of_Public_Information" title="United Nations Department of Public Information">
+                UNDPI
+               </a>
+              </li>
+              <li>
+               <strong class="selflink">
+                UNEP
+               </strong>
+               <ul>
+                <li>
+                 <a href="/wiki/UNEP_OzonAction" title="UNEP OzonAction">
+                  OzonAction
+                 </a>
+                </li>
+                <li>
+                 <a class="mw-redirect" href="/wiki/UNEP/GRID-Arendal" title="UNEP/GRID-Arendal">
+                  UNEP/GRID-Arendal
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/UNESCO" title="UNESCO">
+                UNESCO
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/United_Nations_Fund_for_International_Partnerships_(UNFIP)" title="United Nations Fund for International Partnerships (UNFIP)">
+                UNFIP
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/United_Nations_Population_Fund" title="United Nations Population Fund">
+                UNFPA
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/United_Nations_Human_Settlements_Programme" title="United Nations Human Settlements Programme">
+                UN-HABITAT
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Office_of_the_United_Nations_High_Commissioner_for_Human_Rights" title="Office of the United Nations High Commissioner for Human Rights">
+                OHCHR
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/United_Nations_High_Commissioner_for_Refugees" title="United Nations High Commissioner for Refugees">
+                UNHCR
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/United_Nations_Human_Rights_Council" title="United Nations Human Rights Council">
+                UNHRC
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/UNICEF" title="UNICEF">
+                UNICEF
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/United_Nations_Interregional_Crime_and_Justice_Research_Institute" title="United Nations Interregional Crime and Justice Research Institute">
+                UNICRI
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/United_Nations_Institute_for_Disarmament_Research" title="United Nations Institute for Disarmament Research">
+                UNIDIR
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/United_Nations_Institute_for_Training_and_Research" title="United Nations Institute for Training and Research">
+                UNITAR
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/United_Nations-Oceans" title="United Nations-Oceans">
+                UN-Oceans
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/United_Nations_Office_on_Drugs_and_Crime" title="United Nations Office on Drugs and Crime">
+                UNODC
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/United_Nations_Office_for_Project_Services" title="United Nations Office for Project Services">
+                UNOPS
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/UNOSAT" title="UNOSAT">
+                UNOSAT
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/United_Nations_Research_Institute_For_Social_Development" title="United Nations Research Institute For Social Development">
+                UNRISD
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/UNRWA" title="UNRWA">
+                UNRWA
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/United_Nations_University" title="United Nations University">
+                UNU
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/UNU-OP" title="UNU-OP">
+                  UNU-OP
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/UNU-CRIS" title="UNU-CRIS">
+                  UNU-CRIS
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/United_Nations_Volunteers" title="United Nations Volunteers">
+                UNV
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/UN_Women" title="UN Women">
+                UN Women
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/World_Tourism_Organization" title="World Tourism Organization">
+                UNWTO
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Universal_Postal_Union" title="Universal Postal Union">
+                UPU
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/World_Food_Programme" title="World Food Programme">
+                WFP
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/World_Health_Organization" title="World Health Organization">
+                WHO
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/World_Intellectual_Property_Organization" title="World Intellectual Property Organization">
+                WIPO
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/World_Meteorological_Organization" title="World Meteorological Organization">
+                WMO
+               </a>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+          <tr style="height:2px">
+           <td colspan="2">
+           </td>
+          </tr>
+          <tr>
+           <th class="navbox-group" scope="row" style="padding-left:0;padding-right:0;">
+            <div style="padding:0em 0.75em;">
+             Principal offices
+            </div>
+           </th>
+           <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+            <div style="padding:0em 0.25em">
+             <ul>
+              <li>
+               <a href="/wiki/Headquarters_of_the_United_Nations" title="Headquarters of the United Nations">
+                New York (headquarters)
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/United_Nations_Office_at_Geneva" title="United Nations Office at Geneva">
+                Geneva
+               </a>
+               <ul>
+                <li>
+                 <a href="/wiki/Palace_of_Nations" title="Palace of Nations">
+                  Palace of Nations
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="/wiki/United_Nations_Office_at_Nairobi" title="United Nations Office at Nairobi">
+                Nairobi
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/United_Nations_Office_at_Vienna" title="United Nations Office at Vienna">
+                Vienna
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/List_of_United_Nations_organizations_by_location" title="List of United Nations organizations by location">
+                UN organizations by location
+               </a>
+              </li>
+             </ul>
+            </div>
+           </td>
+          </tr>
+         </table>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Member_states_of_the_United_Nations" title="Member states of the United Nations">
+          Members / Observers
+         </a>
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Member_states_of_the_United_Nations#Current_members" title="Member states of the United Nations">
+             Full members
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Enlargement_of_the_United_Nations#1940s" title="Enlargement of the United Nations">
+             Founding members
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/Permanent_members_of_the_United_Nations_Security_Council" title="Permanent members of the United Nations Security Council">
+               UNSC Permanent members
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/United_Nations_General_Assembly_observers" title="United Nations General Assembly observers">
+             Observers
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/European_Union_and_the_United_Nations" title="European Union and the United Nations">
+               European Union
+              </a>
+             </li>
+            </ul>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/History_of_the_United_Nations" title="History of the United Nations">
+          History
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/League_of_Nations" title="League of Nations">
+             League of Nations
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Four_Policemen" title="Four Policemen">
+             Four Policemen
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Declaration_by_United_Nations" title="Declaration by United Nations">
+             Declaration by United Nations
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/List_of_United_Nations_peacekeeping_missions" title="List of United Nations peacekeeping missions">
+             Peacekeeping missions
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/History_of_United_Nations_peacekeeping" title="History of United Nations peacekeeping">
+               history
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Timeline_of_United_Nations_peacekeeping_missions" title="Timeline of United Nations peacekeeping missions">
+               timeline
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/Enlargement_of_the_United_Nations" title="Enlargement of the United Nations">
+             Enlargement
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/United_Nations_resolution" title="United Nations resolution">
+          Resolutions
+         </a>
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/List_of_vetos_exercised_by_the_US_government_in_the_UN_Security_Council" title="List of vetos exercised by the US government in the UN Security Council">
+             List of vetos exercised by the US government in the UN Security Council
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/United_Nations_General_Assembly_resolution" title="United Nations General Assembly resolution">
+             General Assembly
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/List_of_resolutions_at_the_sixty-sixth_session_of_the_United_Nations_General_Assembly" title="List of resolutions at the sixty-sixth session of the United Nations General Assembly">
+               66th
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_resolutions_at_the_sixty-seventh_session_of_the_United_Nations_General_Assembly" title="List of resolutions at the sixty-seventh session of the United Nations General Assembly">
+               67th
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/United_Nations_Security_Council_resolution" title="United Nations Security Council resolution">
+             Security Council
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/List_of_United_Nations_Security_Council_resolutions_concerning_Cyprus" title="List of United Nations Security Council resolutions concerning Cyprus">
+               Cyprus
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_United_Nations_resolutions_concerning_Iran" title="List of United Nations resolutions concerning Iran">
+               Iran
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_United_Nations_Security_Council_resolutions_concerning_Iraq" title="List of United Nations Security Council resolutions concerning Iraq">
+               Iraq
+              </a>
+             </li>
+             <li>
+              <a class="mw-redirect" href="/wiki/List_of_United_Nations_resolutions_concerning_Israel" title="List of United Nations resolutions concerning Israel">
+               Israel
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_United_Nations_resolutions_relating_to_Lebanon" title="List of United Nations resolutions relating to Lebanon">
+               Lebanon
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_United_Nations_Security_Council_resolutions_on_the_Nagorno-Karabakh_conflict" title="List of United Nations Security Council resolutions on the Nagorno-Karabakh conflict">
+               Nagorno-Karabakh
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_United_Nations_Security_Council_resolutions_concerning_North_Korea" title="List of United Nations Security Council resolutions concerning North Korea">
+               North Korea
+              </a>
+             </li>
+             <li>
+              <a class="mw-redirect" href="/wiki/List_of_the_UN_resolutions_concerning_Palestine" title="List of the UN resolutions concerning Palestine">
+               Palestine
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_United_Nations_resolutions_concerning_Syria" title="List of United Nations resolutions concerning Syria">
+               Syria
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_United_Nations_resolutions_concerning_Western_Sahara" title="List of United Nations resolutions concerning Western Sahara">
+               Western Sahara
+              </a>
+             </li>
+            </ul>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Elections
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/United_Nations_Secretary-General_selection,_2006" title="United Nations Secretary-General selection, 2006">
+             Secretary-General (2006
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/United_Nations_Secretary-General_selection,_2016" title="United Nations Secretary-General selection, 2016">
+             2016)
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/International_Court_of_Justice_judges_election,_2011" title="International Court of Justice judges election, 2011">
+             International Court of Justice 2011
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/United_Nations_General_Assembly_presidential_election,_2012" title="United Nations General Assembly presidential election, 2012">
+             General Assembly President (2012
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/United_Nations_General_Assembly_presidential_election,_2016" title="United Nations General Assembly presidential election, 2016">
+             2016)
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/United_Nations_Security_Council_election,_2015" title="United Nations Security Council election, 2015">
+             Security Council (2015
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/United_Nations_Security_Council_election,_2016" title="United Nations Security Council election, 2016">
+             2016)
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Outline_of_the_United_Nations" title="Outline of the United Nations">
+          Related
+         </a>
+        </th>
+        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Bretton_Woods_system" title="Bretton Woods system">
+             Bretton Woods system
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Comprehensive_Nuclear-Test-Ban_Treaty_Organization" title="Comprehensive Nuclear-Test-Ban Treaty Organization">
+             Comprehensive Nuclear-Test-Ban Treaty Organization
+            </a>
+           </li>
+           <li>
+            <i>
+             <a href="/wiki/Delivering_as_One" title="Delivering as One">
+              Delivering as One
+             </a>
+            </i>
+           </li>
+           <li>
+            <a href="/wiki/Flag_of_the_United_Nations" title="Flag of the United Nations">
+             Flag
+            </a>
+            <ul>
+             <li>
+              <a href="/wiki/United_Nations_Honour_Flag" title="United Nations Honour Flag">
+               Honour Flag
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li>
+            <a href="/wiki/Four_Nations_Initiative" title="Four Nations Initiative">
+             Four Nations Initiative
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/United_Nations_Global_Compact" title="United Nations Global Compact">
+             UN Global Compact
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/International_Criminal_Court" title="International Criminal Court">
+             ICC
+            </a>
+           </li>
+           <li>
+            <a class="mw-redirect" href="/wiki/International_observance" title="International observance">
+             International Years
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/United_Nations_laissez-passer" title="United Nations laissez-passer">
+             UN laissez-passer
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Military_Staff_Committee" title="Military Staff Committee">
+             Military Staff Committee
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Official_languages_of_the_United_Nations" title="Official languages of the United Nations">
+             Official languages
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Organisation_for_the_Prohibition_of_Chemical_Weapons" title="Organisation for the Prohibition of Chemical Weapons">
+             Organisation for the Prohibition of Chemical Weapons
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Peacekeeping" title="Peacekeeping">
+             Peacekeeping
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Treaty_series#United_Nations" title="Treaty series">
+             Treaty Series
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/United_Nations_Day" title="United Nations Day">
+             UN Day
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Universal_Declaration_of_Human_Rights" title="Universal Declaration of Human Rights">
+             Universal Declaration of Human Rights
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Millennium_Development_Goals" title="Millennium Development Goals">
+             Millennium Development Goals
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/United_Nations_Security_Council_veto_power" title="United Nations Security Council veto power">
+             Security Council veto power
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/Reform_of_the_United_Nations" title="Reform of the United Nations">
+             UN reform
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/United_Nations_Art_Collection" title="United Nations Art Collection">
+             UN Art Collection
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/United_Nations_Memorial_Cemetery" title="United Nations Memorial Cemetery">
+             UN Memorial Cemetery Korea
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+       <tr style="height:2px">
+        <td colspan="2">
+        </td>
+       </tr>
+       <tr>
+        <th class="navbox-group" scope="row">
+         Other
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <a href="/wiki/Outline_of_the_United_Nations" title="Outline of the United Nations">
+             Outline
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/United_Nations_television_film_series" title="United Nations television film series">
+             UN television film series (1964–1966)
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/United_Nations_in_popular_culture" title="United Nations in popular culture">
+             In popular culture
+            </a>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+      <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+       <tr>
+        <th class="navbox-group" scope="row">
+         <a href="/wiki/Help:Authority_control" title="Help:Authority control">
+          Authority control
+         </a>
+        </th>
+        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+         <div style="padding:0em 0.25em">
+          <ul>
+           <li>
+            <span style="white-space:nowrap;">
+             <a class="external text" href="//www.worldcat.org/identities/containsVIAFID/154177537" rel="nofollow">
+              WorldCat Identities
+             </a>
+            </span>
+           </li>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">
+              VIAF
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="https://viaf.org/viaf/154177537" rel="nofollow">
+               154177537
+              </a>
+             </span>
+            </span>
+           </li>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">
+              LCCN
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="http://id.loc.gov/authorities/names/n80002388" rel="nofollow">
+               n80002388
+              </a>
+             </span>
+            </span>
+           </li>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">
+              ISNI
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="http://isni.org/isni/0000000121891824" rel="nofollow">
+               0000 0001 2189 1824
+              </a>
+             </span>
+            </span>
+           </li>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">
+              GND
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="http://d-nb.info/gnd/13260-3" rel="nofollow">
+               13260-3
+              </a>
+             </span>
+            </span>
+           </li>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/LIBRIS" title="LIBRIS">
+              SELIBR
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="//libris.kb.se/auth/133603" rel="nofollow">
+               133603
+              </a>
+             </span>
+            </span>
+           </li>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">
+              SUDOC
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="http://www.idref.fr/086020609" rel="nofollow">
+               086020609
+              </a>
+             </span>
+            </span>
+           </li>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">
+              BNF
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb11866053z" rel="nofollow">
+               cb11866053z
+              </a>
+              <a class="external text" href="http://data.bnf.fr/ark:/12148/cb11866053z" rel="nofollow">
+               (data)
+              </a>
+             </span>
+            </span>
+           </li>
+           <li>
+            <span style="white-space:nowrap;">
+             <a class="mw-redirect" href="/wiki/BIBSYS" title="BIBSYS">
+              BIBSYS
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="http://ask.bibsys.no/ask/action/result?cmd=&amp;kilde=biblio&amp;cql=bs.autid+%3D+90133126&amp;feltselect=bs.autid" rel="nofollow">
+               90133126
+              </a>
+             </span>
+            </span>
+           </li>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/Union_List_of_Artist_Names" title="Union List of Artist Names">
+              ULAN
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="//www.getty.edu/vow/ULANFullDisplay?find=&amp;role=&amp;nation=&amp;subjectid=500287462" rel="nofollow">
+               500287462
+              </a>
+             </span>
+            </span>
+           </li>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/National_Library_of_Australia" title="National Library of Australia">
+              NLA
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="//nla.gov.au/anbd.aut-an35174595" rel="nofollow">
+               35174595
+              </a>
+             </span>
+            </span>
+           </li>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/National_Diet_Library" title="National Diet Library">
+              NDL
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="http://id.ndl.go.jp/auth/ndlna/00288559" rel="nofollow">
+               00288559
+              </a>
+             </span>
+            </span>
+           </li>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/National_Library_of_the_Czech_Republic" title="National Library of the Czech Republic">
+              NKC
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="http://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=kn20010710011&amp;CON_LNG=ENG" rel="nofollow">
+               kn20010710011
+              </a>
+             </span>
+            </span>
+           </li>
+           <li>
+            <span style="white-space:nowrap;">
+             <a href="/wiki/Biblioteca_Nacional_de_Espa%C3%B1a" title="Biblioteca Nacional de España">
+              BNE
+             </a>
+             :
+             <span class="uid">
+              <a class="external text" href="http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&amp;authority_id=XX138962" rel="nofollow">
+               XX138962
+              </a>
+             </span>
+            </span>
+           </li>
+          </ul>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:32178-0!*!0!!en!4!* and timestamp 20161106182005 and revision id 744638096
+ -->
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+    </div>
+    <div class="printfooter">
+     Retrieved from "
+     <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=United_Nations_Environment_Programme&amp;oldid=744638096">
+      https://en.wikipedia.org/w/index.php?title=United_Nations_Environment_Programme&amp;oldid=744638096
+     </a>
+     "
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:United_Nations_Environment_Programme" title="Category:United Nations Environment Programme">
+         United Nations Environment Programme
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:International_environmental_organizations" title="Category:International environmental organizations">
+         International environmental organizations
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:United_Nations_Development_Group" title="Category:United Nations Development Group">
+         United Nations Development Group
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Environmental_organizations_established_in_1972" title="Category:Environmental organizations established in 1972">
+         Environmental organizations established in 1972
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:1972_in_the_environment" title="Category:1972 in the environment">
+         1972 in the environment
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Articles_with_Wayback_Machine_links" title="Category:Articles with Wayback Machine links">
+         Articles with Wayback Machine links
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">
+         Wikipedia articles with VIAF identifiers
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">
+         Wikipedia articles with LCCN identifiers
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">
+         Wikipedia articles with ISNI identifiers
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">
+         Wikipedia articles with GND identifiers
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_SELIBR_identifiers" title="Category:Wikipedia articles with SELIBR identifiers">
+         Wikipedia articles with SELIBR identifiers
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">
+         Wikipedia articles with BNF identifiers
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_BIBSYS_identifiers" title="Category:Wikipedia articles with BIBSYS identifiers">
+         Wikipedia articles with BIBSYS identifiers
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_ULAN_identifiers" title="Category:Wikipedia articles with ULAN identifiers">
+         Wikipedia articles with ULAN identifiers
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Wikipedia_articles_with_NLA_identifiers" title="Category:Wikipedia articles with NLA identifiers">
+         Wikipedia articles with NLA identifiers
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="visualClear">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      Personal tools
+     </h3>
+     <ul>
+      <li id="pt-anonuserpage">
+       Not logged in
+      </li>
+      <li id="pt-anontalk">
+       <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+        Talk
+       </a>
+      </li>
+      <li id="pt-anoncontribs">
+       <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+        Contributions
+       </a>
+      </li>
+      <li id="pt-createaccount">
+       <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=United+Nations+Environment+Programme" title="You are encouraged to create an account and log in; however, it is not mandatory">
+        Create account
+       </a>
+      </li>
+      <li id="pt-login">
+       <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=United+Nations+Environment+Programme" title="You're encouraged to log in; however, it's not mandatory. [o]">
+        Log in
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="left-navigation">
+     <div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       Namespaces
+      </h3>
+      <ul>
+       <li class="selected" id="ca-nstab-main">
+        <span>
+         <a accesskey="c" href="/wiki/United_Nations_Environment_Programme" title="View the content page [c]">
+          Article
+         </a>
+        </span>
+       </li>
+       <li id="ca-talk">
+        <span>
+         <a accesskey="t" href="/wiki/Talk:United_Nations_Environment_Programme" rel="discussion" title="Discussion about the content page [t]">
+          Talk
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+      <h3 id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div id="right-navigation">
+     <div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       Views
+      </h3>
+      <ul>
+       <li class="selected" id="ca-view">
+        <span>
+         <a href="/wiki/United_Nations_Environment_Programme">
+          Read
+         </a>
+        </span>
+       </li>
+       <li id="ca-edit">
+        <span>
+         <a accesskey="e" href="/w/index.php?title=United_Nations_Environment_Programme&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </span>
+       </li>
+       <li class="collapsible" id="ca-history">
+        <span>
+         <a accesskey="h" href="/w/index.php?title=United_Nations_Environment_Programme&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+      <h3 id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <a href="#">
+       </a>
+      </h3>
+      <div class="menu">
+       <ul>
+       </ul>
+      </div>
+     </div>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Search
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+        <input name="title" type="hidden" value="Special:Search"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+        <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      Navigation
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li id="n-contents">
+        <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li id="n-featuredcontent">
+        <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+         Featured content
+        </a>
+       </li>
+       <li id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+         Current events
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">
+         Random article
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+         Donate to Wikipedia
+        </a>
+       </li>
+       <li id="n-shoplink">
+        <a href="//shop.wikimedia.org" title="Visit the Wikipedia store">
+         Wikipedia store
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+     <h3 id="p-interaction-label">
+      Interaction
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+         About Wikipedia
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+         Community portal
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      Tools
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/United_Nations_Environment_Programme" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/United_Nations_Environment_Programme" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=United_Nations_Environment_Programme&amp;oldid=744638096" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=United_Nations_Environment_Programme&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Q182016" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=United_Nations_Environment_Programme&amp;id=744638096" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      Print/export
+     </h3>
+     <div class="body">
+      <ul>
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=United+Nations+Environment+Programme">
+         Create a book
+        </a>
+       </li>
+       <li id="coll-download-as-rdf2latex">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=United+Nations+Environment+Programme&amp;returnto=United+Nations+Environment+Programme&amp;oldid=744638096&amp;writer=rdf2latex">
+         Download as PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=United_Nations_Environment_Programme&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      In other projects
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:United_Nations_Environment_Programme" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      Languages
+     </h3>
+     <div class="body">
+      <ul>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC_%D8%A7%D9%84%D8%A3%D9%85%D9%85_%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9_%D9%84%D9%84%D8%A8%D9%8A%D8%A6%D8%A9" hreflang="ar" lang="ar" title="برنامج الأمم المتحدة للبيئة – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-az">
+        <a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/BMT-in_%C6%8Ftraf_M%C3%BChit_Proqram%C4%B1" hreflang="az" lang="az" title="BMT-in Ətraf Mühit Proqramı – Azerbaijani">
+         Azərbaycanca
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Programa_de_les_Nacions_Unides_per_al_Medi_Ambient" hreflang="ca" lang="ca" title="Programa de les Nacions Unides per al Medi Ambient – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Program_OSN_pro_%C5%BEivotn%C3%AD_prost%C5%99ed%C3%AD" hreflang="cs" lang="cs" title="Program OSN pro životní prostředí – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/United_Nations_Environment_Programme" hreflang="da" lang="da" title="United Nations Environment Programme – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Umweltprogramm_der_Vereinten_Nationen" hreflang="de" lang="de" title="Umweltprogramm der Vereinten Nationen – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/%C3%9CRO_Keskkonnaprogramm" hreflang="et" lang="et" title="ÜRO Keskkonnaprogramm – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A0%CE%B5%CF%81%CE%B9%CE%B2%CE%B1%CE%BB%CE%BB%CE%BF%CE%BD%CF%84%CE%B9%CE%BA%CF%8C_%CE%A0%CF%81%CF%8C%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1_%CF%84%CF%89%CE%BD_%CE%97%CE%BD%CF%89%CE%BC%CE%AD%CE%BD%CF%89%CE%BD_%CE%95%CE%B8%CE%BD%CF%8E%CE%BD" hreflang="el" lang="el" title="Περιβαλλοντικό Πρόγραμμα των Ηνωμένων Εθνών – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Programa_de_las_Naciones_Unidas_para_el_Medio_Ambiente" hreflang="es" lang="es" title="Programa de las Naciones Unidas para el Medio Ambiente – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Mediprogramo_de_Unui%C4%9Dintaj_Nacioj" hreflang="eo" lang="eo" title="Mediprogramo de Unuiĝintaj Nacioj – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Nazio_Batuen_Ingurumen_Programa" hreflang="eu" lang="eu" title="Nazio Batuen Ingurumen Programa – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87_%D9%85%D8%AD%DB%8C%D8%B7_%D8%B2%DB%8C%D8%B3%D8%AA_%D9%85%D9%84%D9%84_%D9%85%D8%AA%D8%AD%D8%AF" hreflang="fa" lang="fa" title="برنامه محیط زیست ملل متحد – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Programme_des_Nations_unies_pour_l%27environnement" hreflang="fr" lang="fr" title="Programme des Nations unies pour l'environnement – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%9C%A0%EC%97%94_%ED%99%98%EA%B2%BD_%EA%B3%84%ED%9A%8D" hreflang="ko" lang="ko" title="유엔 환경 계획 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%84%D4%B1%D4%BF-%D5%AB_%D5%B7%D6%80%D5%BB%D5%A1%D5%AF%D5%A1_%D5%B4%D5%AB%D5%BB%D5%A1%D5%BE%D5%A1%D5%B5%D6%80%D5%AB_%D5%AE%D6%80%D5%A1%D5%A3%D5%AB%D6%80" hreflang="hy" lang="hy" title="ՄԱԿ-ի շրջակա միջավայրի ծրագիր – Armenian">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi">
+        <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%AF%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%A4_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0_%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A4%A3_%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%AE" hreflang="hi" lang="hi" title="संयुक्त राष्ट्र पर्यावरण कार्यक्रम – Hindi">
+         हिन्दी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Program_Lingkungan_Perserikatan_Bangsa-Bangsa" hreflang="id" lang="id" title="Program Lingkungan Perserikatan Bangsa-Bangsa – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-is">
+        <a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Umhverfisstofnun_Sameinu%C3%B0u_%C3%9Ej%C3%B3%C3%B0anna" hreflang="is" lang="is" title="Umhverfisstofnun Sameinuðu Þjóðanna – Icelandic">
+         Íslenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Programma_delle_Nazioni_Unite_per_l%27ambiente" hreflang="it" lang="it" title="Programma delle Nazioni Unite per l'ambiente – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%94%D7%AA%D7%95%D7%9B%D7%A0%D7%99%D7%AA_%D7%94%D7%A1%D7%91%D7%99%D7%91%D7%AA%D7%99%D7%AA_%D7%A9%D7%9C_%D7%94%D7%90%D7%95%22%D7%9D" hreflang="he" lang="he" title='התוכנית הסביבתית של האו"ם – Hebrew'>
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-jv">
+        <a class="interlanguage-link-target" href="https://jv.wikipedia.org/wiki/UNEP" hreflang="jv" lang="jv" title="UNEP – Javanese">
+         Basa Jawa
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ka">
+        <a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%92%E1%83%90%E1%83%94%E1%83%A0%E1%83%9D%E1%83%A1_%E1%83%92%E1%83%90%E1%83%A0%E1%83%94%E1%83%9B%E1%83%9D%E1%83%A1%E1%83%93%E1%83%90%E1%83%AA%E1%83%95%E1%83%98%E1%83%97%E1%83%98_%E1%83%9E%E1%83%A0%E1%83%9D%E1%83%92%E1%83%A0%E1%83%90%E1%83%9B%E1%83%90" hreflang="ka" lang="ka" title="გაეროს გარემოსდაცვითი პროგრამა – Georgian">
+         ქართული
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kk">
+        <a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%91%D1%96%D1%80%D1%96%D0%BA%D0%BA%D0%B5%D0%BD_%D2%B0%D0%BB%D1%82%D1%82%D0%B0%D1%80_%D2%B0%D0%B9%D1%8B%D0%BC%D1%8B%D0%BD%D1%8B%D2%A3_%D2%9A%D0%BE%D1%80%D1%88%D0%B0%D2%93%D0%B0%D0%BD_%D0%BE%D1%80%D1%82%D0%B0_%D0%B6%D3%A9%D0%BD%D1%96%D0%BD%D0%B4%D0%B5%D0%B3%D1%96_%D0%B1%D0%B0%D2%93%D0%B4%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%B0%D1%81%D1%8B" hreflang="kk" lang="kk" title="Біріккен Ұлттар Ұйымының Қоршаған орта жөніндегі бағдарламасы – Kazakh">
+         Қазақша
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sw">
+        <a class="interlanguage-link-target" href="https://sw.wikipedia.org/wiki/Mradi_wa_Umoja_wa_Mataifa_Kuhusu_Mazingira" hreflang="sw" lang="sw" title="Mradi wa Umoja wa Mataifa Kuhusu Mazingira – Swahili">
+         Kiswahili
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Jungtini%C5%B3_Taut%C5%B3_Aplinkos_apsaugos_programa" hreflang="lt" lang="lt" title="Jungtinių Tautų Aplinkos apsaugos programa – Lithuanian">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Az_ENSZ_K%C3%B6rnyezetv%C3%A9delmi_Programja" hreflang="hu" lang="hu" title="Az ENSZ Környezetvédelmi Programja – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ms">
+        <a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Program_Alam_Sekitar_Pertubuhan_Bangsa-Bangsa_Bersatu" hreflang="ms" lang="ms" title="Program Alam Sekitar Pertubuhan Bangsa-Bangsa Bersatu – Malay">
+         Bahasa Melayu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-my">
+        <a class="interlanguage-link-target" href="https://my.wikipedia.org/wiki/%E1%80%80%E1%80%AF%E1%80%9C%E1%80%9E%E1%80%99%E1%80%82%E1%80%B9%E1%80%82_%E1%80%95%E1%80%90%E1%80%BA%E1%80%9D%E1%80%94%E1%80%BA%E1%80%B8%E1%80%80%E1%80%BB%E1%80%84%E1%80%BA%E1%80%A1%E1%80%85%E1%80%AE%E1%80%A1%E1%80%85%E1%80%89%E1%80%BA" hreflang="my" lang="my" title="ကုလသမဂ္ဂ ပတ်ဝန်းကျင်အစီအစဉ် – Burmese">
+         မြန်မာဘာသာ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/VN-Milieuprogramma" hreflang="nl" lang="nl" title="VN-Milieuprogramma – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E9%80%A3%E5%90%88%E7%92%B0%E5%A2%83%E8%A8%88%E7%94%BB" hreflang="ja" lang="ja" title="国際連合環境計画 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/FNs_milj%C3%B8program" hreflang="no" lang="no" title="FNs miljøprogram – Norwegian">
+         Norsk bokmål
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Milj%C3%B8programmet_til_SN" hreflang="nn" lang="nn" title="Miljøprogrammet til SN – Norwegian Nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Program_%C5%9Arodowiskowy_Organizacji_Narod%C3%B3w_Zjednoczonych" hreflang="pl" lang="pl" title="Program Środowiskowy Organizacji Narodów Zjednoczonych – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Programa_das_Na%C3%A7%C3%B5es_Unidas_para_o_Meio_Ambiente" hreflang="pt" lang="pt" title="Programa das Nações Unidas para o Meio Ambiente – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0_%D0%9E%D0%9E%D0%9D_%D0%BF%D0%BE_%D0%BE%D0%BA%D1%80%D1%83%D0%B6%D0%B0%D1%8E%D1%89%D0%B5%D0%B9_%D1%81%D1%80%D0%B5%D0%B4%D0%B5" hreflang="ru" lang="ru" title="Программа ООН по окружающей среде – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/United_Nations_Environment_Programme" hreflang="simple" lang="simple" title="United Nations Environment Programme – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Program_Spojen%C3%BDch_n%C3%A1rodov_pre_%C5%BEivotn%C3%A9_prostredie" hreflang="sk" lang="sk" title="Program Spojených národov pre životné prostredie – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-so">
+        <a class="interlanguage-link-target" href="https://so.wikipedia.org/wiki/Barnamijka_Deegaanka_Qaramada_Midoobay" hreflang="so" lang="so" title="Barnamijka Deegaanka Qaramada Midoobay – Somali">
+         Soomaaliga
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Yhdistyneiden_kansakuntien_ymp%C3%A4rist%C3%B6ohjelma" hreflang="fi" lang="fi" title="Yhdistyneiden kansakuntien ympäristöohjelma – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/FN:s_milj%C3%B6program" hreflang="sv" lang="sv" title="FN:s miljöprogram – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%90%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%AF_%E0%AE%A8%E0%AE%BE%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D_%E0%AE%9A%E0%AF%82%E0%AE%B4%E0%AE%B2%E0%AF%8D_%E0%AE%A4%E0%AE%BF%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%AE%E0%AF%8D" hreflang="ta" lang="ta" title="ஐக்கிய நாடுகள் சூழல் திட்டம் – Tamil">
+         தமிழ்
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%A7%E0%B8%94%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%AB%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4" hreflang="th" lang="th" title="โครงการสิ่งแวดล้อมแห่งสหประชาชาติ – Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Birle%C5%9Fmi%C5%9F_Milletler_%C3%87evre_Program%C4%B1" hreflang="tr" lang="tr" title="Birleşmiş Milletler Çevre Programı – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%B0_%D0%9E%D0%9E%D0%9D_%D0%B7_%D0%BD%D0%B0%D0%B2%D0%BA%D0%BE%D0%BB%D0%B8%D1%88%D0%BD%D1%8C%D0%BE%D0%B3%D0%BE_%D1%81%D0%B5%D1%80%D0%B5%D0%B4%D0%BE%D0%B2%D0%B8%D1%89%D0%B0" hreflang="uk" lang="uk" title="Програма ООН з навколишнього середовища – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Ch%C6%B0%C6%A1ng_tr%C3%ACnh_M%C3%B4i_tr%C6%B0%E1%BB%9Dng_Li%C3%AAn_Hi%E1%BB%87p_Qu%E1%BB%91c" hreflang="vi" lang="vi" title="Chương trình Môi trường Liên Hiệp Quốc – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%81%94%E5%90%88%E5%9B%BD%E7%8E%AF%E5%A2%83%E7%BD%B2" hreflang="zh" lang="zh" title="联合国环境署 – Chinese">
+         中文
+        </a>
+       </li>
+       <li class="uls-p-lang-dummy">
+        <a href="#">
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Q182016#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last modified on 16 October 2016, at 14:35.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://wikimediafoundation.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=United_Nations_Environment_Programme&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="//www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear:both">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.260",
+            "walltime": "0.354",
+            "ppvisitednodes": {
+                "value": 2532,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 83005,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 5774,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 12,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 0,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 1,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  270.080      1 -total",
+                " 32.41%   87.542      1 Template:Infobox_United_Nations",
+                " 31.85%   86.016      1 Template:Infobox_organization",
+                " 28.89%   78.016      1 Template:Reflist",
+                " 25.48%   68.811      1 Template:Infobox",
+                " 13.91%   37.567      4 Template:Cite_web",
+                " 13.72%   37.062      2 Template:Navbox",
+                " 12.16%   32.830      1 Template:United_Nations",
+                " 10.43%   28.181      1 Template:Authority_control",
+                "  7.39%   19.946      1 Template:Cite_book"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.091",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 4399746,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1261",
+            "timestamp": "20161106182005",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":74,"wgHostname":"mw1211"});});
+  </script>
+ </body>
+</html>
