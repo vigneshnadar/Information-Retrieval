@@ -1,0 +1,16 @@
+1) Since the links found at shallower depths are more important than deeper ones within each induvidual page
+So we take Seed url of both file and add them to mergefile.txt
+Now we take one url from Depth 2 of Task 1 and one Url from Depth 2 of Task 3
+and add them to mergefile .
+WE always check whether a UNIQUE url is being added to the mergefile.
+No duplicate urls should be present in mergefile
+We keep on repeating this process till we reach the end of Depth 2 for either of those files
+Suppose we reach end of Depth 2 in Task 2 file first but still there are lot of urls at Depth 2 in Task 1 file
+then we keep on adding the Urls of Task 1 file to mergefile
+till we reach end of Depth 2 in Task 1 file.
+The we repeat the process of taking one link from each file at Depth 3 and adding to mergefile
+and so on
+
+The reason being the urls at Depth 2 contain more important information than Depth 3.
+The above approach causes minimal loss of important information
+and makes sure that important information is retrieved from both files
